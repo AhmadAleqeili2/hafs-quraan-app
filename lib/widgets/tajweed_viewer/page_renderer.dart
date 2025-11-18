@@ -75,6 +75,27 @@ class TajweedPageView extends StatelessWidget {
       processedTexts.add(joined);
     }
 
+    final double cacheWidth = constraints.maxWidth.isFinite
+        ? constraints.maxWidth
+        : MediaQuery.of(context).size.width;
+    final double cacheHeight = constraints.maxHeight.isFinite
+        ? constraints.maxHeight
+        : MediaQuery.of(context).size.height;
+    final String cacheSizeKey = LayoutMeasurementCache.instance.sizeKey(
+      cacheWidth,
+      cacheHeight,
+    );
+    final PageLayoutMetrics? cachedPageMetrics = LayoutMeasurementCache.instance
+        .pageLayoutFor(pageIndex, cacheSizeKey);
+    final bool hasCachedMetrics =
+        cachedPageMetrics != null &&
+        cachedPageMetrics.lines.length == filteredLines.length;
+    final List<_LineLayout> cachedLayouts = hasCachedMetrics
+        ? cachedPageMetrics!.lines
+              .map((metrics) => _LineLayout.fromMetrics(metrics))
+              .toList()
+        : <_LineLayout>[];
+
     // --- semanticHighlights مع دعم التطابق التقريبي (أخضر) ---
     final semanticHighlights = <int, List<_HighlightRange>>{};
     for (int i = 0; i < filteredLines.length; i++) {
@@ -110,8 +131,13 @@ class TajweedPageView extends StatelessWidget {
         MediaQuery.of(context).size.width * (pageIndex > 2 ? 0.003 : 0.0036);
     final double minFontSize = 10.0 * widthFactor;
     final double maxFontSize = 19.0 * widthFactor;
-    double scriptFontSize = baseScriptFont * introScale * displayScale;
-    scriptFontSize = scriptFontSize.clamp(18.0, 34.0) * widthFactor;
+    double scriptFontSize;
+    if (hasCachedMetrics) {
+      scriptFontSize = cachedPageMetrics!.scriptFontSize;
+    } else {
+      scriptFontSize = baseScriptFont * introScale * displayScale;
+      scriptFontSize = scriptFontSize.clamp(18.0, 34.0) * widthFactor;
+    }
     final String? currentSurahName = filteredLines.isNotEmpty
         ? _lookupSurahName(filteredLines.last.surahIndexFirst, surahNames)
         : null;
@@ -143,27 +169,29 @@ class TajweedPageView extends StatelessWidget {
       color: defaultColor,
     );
 
-    final double measurementFontSize = scriptFontSize;
-    double longestLineWidthAtBase = 0.0;
-    for (int i = 0; i < filteredLines.length; i++) {
-      final style = styleFor(filteredLines[i], measurementFontSize);
-      final width = _measureWithWordSpacing(processedTexts[i], style, 0.0);
-      if (width > longestLineWidthAtBase) {
-        longestLineWidthAtBase = width;
+    if (!hasCachedMetrics) {
+      final double measurementFontSize = scriptFontSize;
+      double longestLineWidthAtBase = 0.0;
+      for (int i = 0; i < filteredLines.length; i++) {
+        final style = styleFor(filteredLines[i], measurementFontSize);
+        final width = _measureWithWordSpacing(processedTexts[i], style, 0.0);
+        if (width > longestLineWidthAtBase) {
+          longestLineWidthAtBase = width;
+        }
       }
-    }
 
-    final double targetLineWidth = availableJustificationWidth > 0
-        ? availableJustificationWidth
-        : constraints.maxWidth;
+      final double targetLineWidth = availableJustificationWidth > 0
+          ? availableJustificationWidth
+          : constraints.maxWidth;
 
-    if (longestLineWidthAtBase > 0 &&
-        targetLineWidth > 0 &&
-        longestLineWidthAtBase != targetLineWidth) {
-      final double rawScale = targetLineWidth / longestLineWidthAtBase;
-      if (rawScale.isFinite && rawScale > 0) {
-        final double candidateSize = measurementFontSize * rawScale;
-        scriptFontSize = candidateSize.clamp(minFontSize, maxFontSize);
+      if (longestLineWidthAtBase > 0 &&
+          targetLineWidth > 0 &&
+          longestLineWidthAtBase != targetLineWidth) {
+        final double rawScale = targetLineWidth / longestLineWidthAtBase;
+        if (rawScale.isFinite && rawScale > 0) {
+          final double candidateSize = measurementFontSize * rawScale;
+          scriptFontSize = candidateSize.clamp(minFontSize, maxFontSize);
+        }
       }
     }
 
@@ -182,11 +210,13 @@ class TajweedPageView extends StatelessWidget {
 
     const double firstPageSecondLineSpacingScale = 0.75;
 
-    final intrinsicWidths = <double>[];
-    for (int i = 0; i < filteredLines.length; i++) {
-      final style = baseStyleFor(filteredLines[i]);
-      final width = _measureWithWordSpacing(processedTexts[i], style, 0.0);
-      intrinsicWidths.add(width);
+    final intrinsicWidths = hasCachedMetrics ? <double>[] : <double>[];
+    if (!hasCachedMetrics) {
+      for (int i = 0; i < filteredLines.length; i++) {
+        final style = baseStyleFor(filteredLines[i]);
+        final width = _measureWithWordSpacing(processedTexts[i], style, 0.0);
+        intrinsicWidths.add(width);
+      }
     }
 
     double maxIntrinsicNonException = 0.0;
@@ -194,10 +224,10 @@ class TajweedPageView extends StatelessWidget {
       if (isException(i, filteredLines[i], processedTexts[i])) {
         continue;
       }
-      maxIntrinsicNonException = math.max(
-        maxIntrinsicNonException,
-        intrinsicWidths[i],
-      );
+      final double width = hasCachedMetrics
+          ? cachedLayouts[i].intrinsicWidth
+          : intrinsicWidths[i];
+      maxIntrinsicNonException = math.max(maxIntrinsicNonException, width);
     }
     final bool noJustifiableLines = maxIntrinsicNonException == 0.0;
     final bool allowSymbolSpacing = pageIndex > 2;
@@ -219,22 +249,106 @@ class TajweedPageView extends StatelessWidget {
         ? 0.0
         : math.min(maxIntrinsicNonException, availableJustificationWidth);
 
+    final List<_LineLayout> measuredLayouts = <_LineLayout>[];
     for (int i = 0; i < filteredLines.length; i++) {
       final line = filteredLines[i];
       final text = processedTexts[i];
-      final double baseWidthAtBaseFont = intrinsicWidths[i];
-      final double lineFontSize = _lineFontSizeForScrollMode(
-        baseFontSize: scriptFontSize,
-        measuredWidthAtBaseFont: baseWidthAtBaseFont,
-        targetWidth: availableJustificationWidth,
-        minFontSize: minFontSize,
-        maxFontSize: maxFontSize,
-        enable: !showFrame,
-      );
-      final TextStyle style0 = styleFor(line, lineFontSize);
-      final double width0 = _measureWithWordSpacing(text, style0, 0.0);
+      final _LineLayout? cachedLayout = hasCachedMetrics
+          ? cachedLayouts[i]
+          : null;
       final bool isLastAyah = _isLastAyahOfSurah(line);
       final bool except = isException(i, line, text) || isLastAyah;
+
+      double lineFontSize;
+      double width0;
+      double targetWidthForThisLine;
+      double perGap = 0.0;
+      List<_ExtraSpaceInsertion> targetedExtraSpaces = const [];
+
+      if (cachedLayout != null) {
+        lineFontSize = cachedLayout.lineFontSize;
+        width0 = cachedLayout.intrinsicWidth;
+        targetWidthForThisLine = cachedLayout.targetWidth;
+        perGap = cachedLayout.perGap;
+        targetedExtraSpaces = cachedLayout.extraSpaces;
+      } else {
+        final double baseWidthAtBaseFont = intrinsicWidths[i];
+        lineFontSize = _lineFontSizeForScrollMode(
+          baseFontSize: scriptFontSize,
+          measuredWidthAtBaseFont: baseWidthAtBaseFont,
+          targetWidth: availableJustificationWidth,
+          minFontSize: minFontSize,
+          maxFontSize: maxFontSize,
+          enable: !showFrame,
+        );
+        final TextStyle measurementStyle = styleFor(line, lineFontSize);
+        width0 = _measureWithWordSpacing(text, measurementStyle, 0.0);
+        targetWidthForThisLine = width0;
+
+        if (!except && !noJustifiableLines && desiredWidthForJustified > 0.0) {
+          targetWidthForThisLine = desiredWidthForThisLine(
+            desiredWidthForJustified,
+            width0,
+          );
+
+          if (shouldReduceSpacing(i)) {
+            targetWidthForThisLine =
+                width0 +
+                (targetWidthForThisLine - width0) *
+                    firstPageSecondLineSpacingScale;
+          }
+
+          final double widthShortage = targetWidthForThisLine - width0;
+          if (widthShortage > 0.05) {
+            if (allowSymbolSpacing) {
+              final preferredSlots = _preferredSpacePositions(text);
+              if (preferredSlots.isNotEmpty) {
+                targetedExtraSpaces = _buildExtraSpaceInsertions(
+                  positions: preferredSlots,
+                  extraWidth: widthShortage,
+                  textLength: text.length,
+                );
+              }
+            }
+
+            if (targetedExtraSpaces.isEmpty) {
+              final gaps = _countGapsInText(text);
+              if (gaps > 0) {
+                perGap = _solvePerGap(
+                  text: text,
+                  baseStyle: measurementStyle,
+                  targetWidth: targetWidthForThisLine,
+                  gaps: gaps,
+                );
+
+                for (int iter = 0; iter < 4; iter++) {
+                  final currentWidth = _measureWithWordSpacing(
+                    text,
+                    measurementStyle,
+                    perGap,
+                  );
+                  final error = targetWidthForThisLine - currentWidth;
+                  if (error.abs() <= 0.2) break;
+                  perGap = math.max(0.0, perGap + (error / gaps));
+                }
+              }
+            }
+          }
+        }
+      }
+
+      final _LineLayout layout =
+          cachedLayout ??
+          _LineLayout(
+            lineFontSize: lineFontSize,
+            perGap: perGap,
+            targetWidth: targetWidthForThisLine,
+            intrinsicWidth: width0,
+            extraSpaces: targetedExtraSpaces,
+          );
+      if (!hasCachedMetrics) {
+        measuredLayouts.add(layout);
+      }
 
       final int surahIndex = line.surahIndexFirst;
       final bool newSurahStart =
@@ -258,64 +372,17 @@ class TajweedPageView extends StatelessWidget {
         }
       }
 
-      double perGap = 0.0;
-      double targetWidthForThisLine = width0;
-      List<_ExtraSpaceInsertion> targetedExtraSpaces = const [];
-
-      if (!except && !noJustifiableLines && desiredWidthForJustified > 0.0) {
-        targetWidthForThisLine = desiredWidthForThisLine(
-          desiredWidthForJustified,
-          width0,
-        );
-
-        final double widthShortage = targetWidthForThisLine - width0;
-        if (widthShortage > 0.05) {
-          if (allowSymbolSpacing) {
-            final preferredSlots = _preferredSpacePositions(text);
-            if (preferredSlots.isNotEmpty) {
-              targetedExtraSpaces = _buildExtraSpaceInsertions(
-                positions: preferredSlots,
-                extraWidth: widthShortage,
-                textLength: text.length,
-              );
-            }
-          }
-
-          if (targetedExtraSpaces.isEmpty) {
-            final gaps = _countGapsInText(text);
-            if (gaps > 0) {
-              perGap = _solvePerGap(
-                text: text,
-                baseStyle: style0,
-                targetWidth: targetWidthForThisLine,
-                gaps: gaps,
-              );
-
-              for (int iter = 0; iter < 4; iter++) {
-                final currentWidth = _measureWithWordSpacing(
-                  text,
-                  style0,
-                  perGap,
-                );
-                final error = targetWidthForThisLine - currentWidth;
-                if (error.abs() <= 0.2) break;
-                perGap = math.max(0.0, perGap + (error / gaps));
-              }
-            }
-          }
-        }
-      }
-
-      final TextStyle styleWithSpacing = perGap == 0.0
+      final TextStyle style0 = styleFor(line, layout.lineFontSize);
+      final TextStyle styleWithSpacing = layout.perGap == 0.0
           ? style0
-          : style0.merge(TextStyle(wordSpacing: perGap));
+          : style0.merge(TextStyle(wordSpacing: layout.perGap));
       final spans = _buildInteractiveSpans(
         context,
         processedCharsPerLine[i],
         isDark: isDark,
         baseStyle: styleWithSpacing,
         highlights: semanticHighlights[i] ?? const [],
-        extraSpaces: targetedExtraSpaces,
+        extraSpaces: layout.extraSpaces,
       );
 
       displayChildren.add(
@@ -327,7 +394,7 @@ class TajweedPageView extends StatelessWidget {
           child: SizedBox(
             width: double.infinity,
             child: SizedBox(
-              width: showFrame ? targetWidthForThisLine : double.infinity,
+              width: showFrame ? layout.targetWidth : double.infinity,
               child: Align(
                 alignment: Alignment.center,
                 child: Text.rich(
@@ -339,7 +406,7 @@ class TajweedPageView extends StatelessWidget {
                   overflow: TextOverflow.visible,
                   strutStyle: StrutStyle(
                     fontFamily: 'UthmanicHafs',
-                    fontSize: lineFontSize,
+                    fontSize: layout.lineFontSize,
                     height: 1.9,
                     forceStrutHeight: false,
                   ),
@@ -351,6 +418,21 @@ class TajweedPageView extends StatelessWidget {
       );
 
       lastSurahIndex = surahIndex;
+    }
+
+    if (!hasCachedMetrics && measuredLayouts.isNotEmpty) {
+      LayoutMeasurementCache.instance.storePageLayout(
+        pageIndex: pageIndex,
+        sizeKey: cacheSizeKey,
+        width: cacheWidth,
+        height: cacheHeight,
+        metrics: PageLayoutMetrics(
+          lineHeight: baseTextHeight + (vPad * 2),
+          scriptFontSize: scriptFontSize,
+          vPad: vPad,
+          lines: measuredLayouts.map((layout) => layout.toMetrics()).toList(),
+        ),
+      );
     }
 
     if (displayChildren.isNotEmpty) {
@@ -1151,6 +1233,48 @@ double _lineFontSizeForScrollMode({
     return constrainedBase;
   }
   return (constrainedBase * scale).clamp(minFontSize, maxFontSize);
+}
+
+class _LineLayout {
+  _LineLayout({
+    required this.lineFontSize,
+    required this.perGap,
+    required this.targetWidth,
+    required this.intrinsicWidth,
+    required this.extraSpaces,
+  });
+
+  final double lineFontSize;
+  final double perGap;
+  final double targetWidth;
+  final double intrinsicWidth;
+  final List<_ExtraSpaceInsertion> extraSpaces;
+
+  factory _LineLayout.fromMetrics(LineLayoutMetrics metrics) => _LineLayout(
+    lineFontSize: metrics.lineFontSize,
+    perGap: metrics.perGap,
+    targetWidth: metrics.targetWidth,
+    intrinsicWidth: metrics.intrinsicWidth,
+    extraSpaces: metrics.extraSpaces
+        .map(
+          (item) =>
+              _ExtraSpaceInsertion(position: item.position, width: item.width),
+        )
+        .toList(),
+  );
+
+  LineLayoutMetrics toMetrics() => LineLayoutMetrics(
+    lineFontSize: lineFontSize,
+    perGap: perGap,
+    targetWidth: targetWidth,
+    intrinsicWidth: intrinsicWidth,
+    extraSpaces: extraSpaces
+        .map(
+          (space) =>
+              ExtraSpaceRecord(position: space.position, width: space.width),
+        )
+        .toList(),
+  );
 }
 
 bool _isLastAyahOfSurah(RenderedLine line) {

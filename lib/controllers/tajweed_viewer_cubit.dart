@@ -9,10 +9,10 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
       scrollListController = ItemScrollController(),
       scrollPositionsListener = ItemPositionsListener.create(),
       super(const TajweedViewerState()) {
-        scrollPositionsListener.itemPositions.addListener(
-          _handleScrollPositionsChanged,
-        );
-      }
+    scrollPositionsListener.itemPositions.addListener(
+      _handleScrollPositionsChanged,
+    );
+  }
 
   static const int _prefetchBatchSize = 10;
 
@@ -37,6 +37,7 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
       ),
     );
     try {
+      await LayoutMeasurementCache.instance.ensureInitialized();
       final pageCount = await _dataService.loadPageCount();
       final clampedCurrent = math.max(
         1,
@@ -143,12 +144,7 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
         partStart == state.currentPartStartPage) {
       return;
     }
-    emit(
-      state.copyWith(
-        currentPage: target,
-        currentPartStartPage: partStart,
-      ),
-    );
+    emit(state.copyWith(currentPage: target, currentPartStartPage: partStart));
   }
 
   void _jumpToScrollIndex(int index) {
@@ -336,9 +332,7 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
       }
       if (didChange) {
         emit(
-          state.copyWith(
-            cache: Map<int, TajweedPageData>.unmodifiable(_cache),
-          ),
+          state.copyWith(cache: Map<int, TajweedPageData>.unmodifiable(_cache)),
         );
       }
     } finally {

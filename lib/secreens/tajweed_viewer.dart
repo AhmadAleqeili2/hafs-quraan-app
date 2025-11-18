@@ -2,12 +2,15 @@ library tajweed_viewer;
 
 import 'dart:async';
 import 'dart:convert';
+import 'dart:io';
 import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:path/path.dart' as path;
+import 'package:path_provider/path_provider.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
 
 part '../models/page_models.dart';
@@ -18,6 +21,7 @@ part '../widgets/tajweed_viewer/page_renderer.dart';
 part '../models/viewer_state.dart';
 part '../models/fullscreen_state.dart';
 part '../services/tajweed_data_service.dart';
+part '../services/layout_measurement_cache.dart';
 part '../controllers/tajweed_viewer_cubit.dart';
 part '../controllers/tajweed_fullscreen_cubit.dart';
 part '../widgets/tajweed_viewer/viewer_view.dart';
