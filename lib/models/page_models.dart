@@ -24,6 +24,8 @@ class RenderedLine {
   final List<ColoredChar> chars;
   final List<SemanticSpan> semanticSpans;
   final String? surahName;
+  final int? ayahMarkerGlyph;
+  final int? ayahMarkerAyaNo;
 
   RenderedLine({
     required this.sortKey,
@@ -35,6 +37,8 @@ class RenderedLine {
     required this.chars,
     required this.semanticSpans,
     this.surahName,
+    this.ayahMarkerGlyph,
+    this.ayahMarkerAyaNo,
   });
 
   factory RenderedLine.fromMap(Map<String, dynamic> map) => RenderedLine(
@@ -57,6 +61,12 @@ class RenderedLine {
     surahName: (map['surah_name_ar'] ??
             map['surah_name'] ??
             map['surahName'])?.toString(),
+    ayahMarkerGlyph:
+        (map['ayahMarkerGlyph'] as num?)?.toInt() ??
+            (map['ayah_marker_glyph'] as num?)?.toInt(),
+    ayahMarkerAyaNo:
+        (map['ayahMarkerAyaNo'] as num?)?.toInt() ??
+            (map['ayah_marker_aya_no'] as num?)?.toInt(),
   );
 }
 

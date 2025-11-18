@@ -76,6 +76,8 @@ flutter:
     - assets/metadata/Quran/semantics.json
     - assets/db/hafsuthmani.db
     - assets/db/shamel.db
+    - assets/metadata/Quran/ayat_data.json
+    - assets/metadata/Quran/aya_symbol_map.json
 
 
   # An image asset can refer to one or more resolution-specific "variants", see

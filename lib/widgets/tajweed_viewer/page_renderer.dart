@@ -1,9 +1,170 @@
 part of '../../secreens/tajweed_viewer.dart';
 
+
 /// ملاحظة: تأكد أن ملف الـ library (الذي يحتوي `library ...;`) فيه:
 /// import 'dart:async'; // لا يمكن عمل import داخل ملفات part.
 
 double? _pageFiveLineHeightReference;
+
+const String _kAyatDataPath = 'assets/metadata/Quran/ayat_data.json';
+Future<Map<String, _AyahData>>? _ayahDataFuture;
+
+class _AyahData {
+  final int surahNo;
+  final int ayahNo;
+  final String ayahText;
+  final List<_AyahTafsir> tafseer;
+  final List<_AyahTranslation> translations;
+  final List<String> reasons;
+
+  const _AyahData({
+    required this.surahNo,
+    required this.ayahNo,
+    required this.ayahText,
+    required this.tafseer,
+    required this.translations,
+    required this.reasons,
+  });
+
+  factory _AyahData.fromMap(Map<String, dynamic> map) {
+    final text = (map['ayah_text'] ?? '').toString().trim();
+    return _AyahData(
+      surahNo: _parseInt(map['surah_no']),
+      ayahNo: _parseInt(map['ayah_no']),
+      ayahText: text,
+      tafseer: _AyahTafsir.parseList(map['tafseer']),
+      translations: _AyahTranslation.parseList(map['translations']),
+      reasons: _parseReasons(map['reasons']),
+    );
+  }
+
+  static List<String> _parseReasons(Object? raw) {
+    final result = <String>[];
+    if (raw is Iterable) {
+      for (final entry in raw) {
+        final candidate = entry is Map<String, dynamic>
+            ? (entry['reason'] ??
+                    entry['text'] ??
+                    entry['description'] ??
+                    '')
+                .toString()
+            : entry?.toString() ?? '';
+        final trimmed = candidate.trim();
+        if (trimmed.isNotEmpty) {
+          result.add(trimmed);
+        }
+      }
+    }
+    return result;
+  }
+}
+
+class _AyahTafsir {
+  final String code;
+  final String name;
+  final String text;
+
+  const _AyahTafsir({
+    required this.code,
+    required this.name,
+    required this.text,
+  });
+
+  static List<_AyahTafsir> parseList(Object? raw) {
+    final result = <_AyahTafsir>[];
+    if (raw is Iterable) {
+      for (final entry in raw) {
+        if (entry is Map<String, dynamic>) {
+          final text = (entry['text'] ?? '').toString().trim();
+          if (text.isEmpty) continue;
+          final name = (entry['name'] ?? '').toString().trim();
+          final code = (entry['code'] ?? '').toString().trim();
+          result.add(
+            _AyahTafsir(
+              code: code,
+              name: name.isEmpty ? code : name,
+              text: text,
+            ),
+          );
+        }
+      }
+    }
+    return result;
+  }
+}
+
+class _AyahTranslation {
+  final String langCode;
+  final String langName;
+  final String translatedText;
+
+  const _AyahTranslation({
+    required this.langCode,
+    required this.langName,
+    required this.translatedText,
+  });
+
+  static List<_AyahTranslation> parseList(Object? raw) {
+    final result = <_AyahTranslation>[];
+    if (raw is Iterable) {
+      for (final entry in raw) {
+        if (entry is Map<String, dynamic>) {
+          final text =
+              (entry['translated_text'] ?? entry['text'] ?? '').toString().trim();
+          if (text.isEmpty) continue;
+          final name =
+              (entry['lang_name'] ?? entry['name'] ?? '').toString().trim();
+          final code =
+              (entry['lang_code'] ?? entry['code'] ?? '').toString().trim();
+          result.add(
+            _AyahTranslation(
+              langCode: code.isEmpty ? name : code,
+              langName: name.isEmpty ? code : name,
+              translatedText: text,
+            ),
+          );
+        }
+      }
+    }
+    return result;
+  }
+}
+
+Future<Map<String, _AyahData>> _loadAyahData() {
+  if (_ayahDataFuture != null) {
+    return _ayahDataFuture!;
+  }
+  _ayahDataFuture = _fetchAyahData();
+  return _ayahDataFuture!;
+}
+
+Future<Map<String, _AyahData>> _fetchAyahData() async {
+  try {
+    final raw = await rootBundle.loadString(_kAyatDataPath);
+    final decoded = json.decode(raw);
+    if (decoded is! Iterable) {
+      return {};
+    }
+    final result = <String, _AyahData>{};
+    for (final entry in decoded) {
+      if (entry is Map<String, dynamic>) {
+        final data = _AyahData.fromMap(entry);
+        if (data.surahNo > 0 && data.ayahNo > 0 && data.ayahText.isNotEmpty) {
+          result['${data.surahNo}:${data.ayahNo}'] = data;
+        }
+      }
+    }
+    return result;
+  } catch (_) {
+    return {};
+  }
+}
+
+Color _withOpacity(Color base, double opacity) {
+  final normalized = opacity.clamp(0.0, 1.0);
+  final alpha = math.max(0, math.min(255, (normalized * 255).round()));
+  return base.withAlpha(alpha);
+}
 
 class TajweedPageView extends StatelessWidget {
   const TajweedPageView({
@@ -33,20 +194,12 @@ class TajweedPageView extends StatelessWidget {
   Widget build(BuildContext context) {
     final defaultColor = Theme.of(context).colorScheme.onSurface;
 
-    final frameOuterMarginBase = 0.5 * unit;
-    final frameInnerMarginBase = 2.0 * unit;
-    final framePaddingHBase = 4.2 * unit;
+    final double frameOuterMargin = showFrame ? 0.5 * unit : 0.0;
+    final double frameInnerMargin = showFrame ? 2.0 * unit : 0.0;
+    final double framePaddingH = showFrame ? 4.2 * unit : 0.0;
     final hPad = 2.0 * unit;
-    final frameOuterMarginH = showFrame ? frameOuterMarginBase : 0.0;
-    final frameInnerMarginAll = showFrame ? frameInnerMarginBase : 0.0;
-    final framePaddingH = showFrame ? framePaddingHBase : 0.0;
-
     final double frameWidthDeduction =
-        2 *
-        (frameOuterMarginBase +
-            frameInnerMarginBase +
-            framePaddingHBase +
-            hPad);
+        2 * (frameOuterMargin + frameInnerMargin + framePaddingH + hPad);
     final double limitWidth = math.max(
       0.0,
       constraints.maxWidth - frameWidthDeduction,
@@ -85,16 +238,17 @@ class TajweedPageView extends StatelessWidget {
       cacheWidth,
       cacheHeight,
     );
-    final PageLayoutMetrics? cachedPageMetrics = LayoutMeasurementCache.instance
-        .pageLayoutFor(pageIndex, cacheSizeKey);
+    final PageLayoutMetrics? cachedPageMetrics =
+        LayoutMeasurementCache.instance.pageLayoutFor(pageIndex, cacheSizeKey);
     final bool hasCachedMetrics =
         cachedPageMetrics != null &&
         cachedPageMetrics.lines.length == filteredLines.length;
-    final List<_LineLayout> cachedLayouts = hasCachedMetrics
-        ? cachedPageMetrics!.lines
-              .map((metrics) => _LineLayout.fromMetrics(metrics))
-              .toList()
-        : <_LineLayout>[];
+    final List<_LineLayout> cachedLayouts =
+        hasCachedMetrics && cachedPageMetrics != null
+            ? cachedPageMetrics.lines
+                .map((metrics) => _LineLayout.fromMetrics(metrics))
+                .toList()
+            : <_LineLayout>[];
 
     // --- semanticHighlights مع دعم التطابق التقريبي (أخضر) ---
     final semanticHighlights = <int, List<_HighlightRange>>{};
@@ -121,19 +275,19 @@ class TajweedPageView extends StatelessWidget {
     final isDark = Theme.of(context).brightness == Brightness.dark;
     final double baseScriptFont = ResponsiveTypography.mushafScript(unit);
     final double introScale = pageIndex <= 2 ? 1.05 : 0.92;
-    const double _swipeDisplayScale = 1.0;
-    const double _scrollDisplayScale =
+    const double swipeDisplayScale = 1.0;
+    const double scrollDisplayScale =
         0.88; // Scroll mode stays slightly smaller—keep this exact value.
     final double displayScale = showFrame
-        ? _swipeDisplayScale
-        : _scrollDisplayScale;
+        ? swipeDisplayScale
+        : scrollDisplayScale;
     final double widthFactor =
         MediaQuery.of(context).size.width * (pageIndex > 2 ? 0.003 : 0.0036);
     final double minFontSize = 10.0 * widthFactor;
     final double maxFontSize = 19.0 * widthFactor;
     double scriptFontSize;
-    if (hasCachedMetrics) {
-      scriptFontSize = cachedPageMetrics!.scriptFontSize;
+    if (hasCachedMetrics && cachedPageMetrics != null) {
+      scriptFontSize = cachedPageMetrics.scriptFontSize;
     } else {
       scriptFontSize = baseScriptFont * introScale * displayScale;
       scriptFontSize = scriptFontSize.clamp(18.0, 34.0) * widthFactor;
@@ -383,6 +537,10 @@ class TajweedPageView extends StatelessWidget {
         baseStyle: styleWithSpacing,
         highlights: semanticHighlights[i] ?? const [],
         extraSpaces: layout.extraSpaces,
+        ayahMarkerGlyph: line.ayahMarkerGlyph,
+        ayahMarkerNumber: line.ayahMarkerAyaNo,
+        surahNumber: line.surahIndexFirst,
+        lineText: line.text,
       );
 
       displayChildren.add(
@@ -455,7 +613,7 @@ class TajweedPageView extends StatelessWidget {
     final normalizedPartName = partName?.trim().replaceAll(RegExp(r'\s+'), ' ');
 
     if (!showFrame) {
-      const double _scrollPageNumberScale =
+      const double scrollPageNumberScale =
           1.3; // Preserve scroll mode footer sizing; do not shrink.
       final Color pageNumberColor = isDark
           ? Colors.white70
@@ -470,8 +628,8 @@ class TajweedPageView extends StatelessWidget {
               fontFamily: 'UthmanicHafs',
               letterSpacing: 1.2,
               fontSize:
-                  ResponsiveTypography.pageBadge(unit) * _scrollPageNumberScale,
-              color: pageNumberColor.withOpacity(isDark ? 0.85 : 0.75),
+                  ResponsiveTypography.pageBadge(unit) * scrollPageNumberScale,
+              color: _withOpacity(pageNumberColor, isDark ? 0.85 : 0.75),
             ),
           ),
         ),
@@ -731,10 +889,22 @@ List<InlineSpan> _buildInteractiveSpans(
   required TextStyle baseStyle,
   List<_HighlightRange> highlights = const [],
   List<_ExtraSpaceInsertion> extraSpaces = const [],
+  int? ayahMarkerGlyph,
+  int? ayahMarkerNumber,
+  int? surahNumber,
+  required String lineText,
 }) {
   var segments = _createSegments(processedChars, isDark);
-  final colorScheme = Theme.of(context).colorScheme;
-
+  if (ayahMarkerGlyph != null && ayahMarkerNumber != null) {
+    final markers = _buildAyahMarkerRanges(
+      processedChars,
+      glyph: ayahMarkerGlyph,
+      ayahNumber: ayahMarkerNumber,
+    );
+    for (final marker in markers) {
+      segments = _applyAyahMarkerToSegments(segments, marker);
+    }
+  }
   if (highlights.isNotEmpty) {
     final sorted = [...highlights]..sort((a, b) => a.start.compareTo(b.start));
     for (final highlight in sorted) {
@@ -744,6 +914,23 @@ List<InlineSpan> _buildInteractiveSpans(
 
   InlineSpan? buildTextSpan(_TextSegment segment, String value) {
     if (value.isEmpty) return null;
+    if (segment.isAyahMarker) {
+      final int number = segment.ayahNumber ?? ayahMarkerNumber ?? 0;
+      final int surah = surahNumber ?? 0;
+      return TextSpan(
+        text: value,
+        style: baseStyle.copyWith(
+          color: segment.color ?? baseStyle.color,
+        ),
+        recognizer: TapGestureRecognizer()
+          ..onTapDown = (details) {
+            if (number > 0) {
+              _removeAyahPopup();
+              _showAyahPopup(context, details.globalPosition, number, surah, lineText);
+            }
+          },
+      );
+    }
     if (segment.semantic != null) {
       final Color color = segment.isApprox ? Colors.green : Colors.green;
       segment.isApprox ? Colors.green : Colors.green;
@@ -888,9 +1075,7 @@ List<_TextSegment> _createSegments(
     final candidate = _parseHexOrNullInherit(isDark ? char.cD : char.cL);
     final sameColor =
         (activeColor == null && candidate == null) ||
-        (activeColor != null &&
-            candidate != null &&
-            activeColor.value == candidate.value);
+        (activeColor != null && candidate != null && activeColor == candidate);
     if (!sameColor) {
       flush();
       activeColor = candidate;
@@ -946,6 +1131,71 @@ List<_TextSegment> _applyHighlightToSegments(
   return result;
 }
 
+List<_AyahMarker> _buildAyahMarkerRanges(
+  List<ColoredChar> processedChars, {
+  required int glyph,
+  required int ayahNumber,
+}) {
+  final markers = <_AyahMarker>[];
+  int cursor = 0;
+  for (final char in processedChars) {
+    final runes = char.t.runes;
+    if (runes.isEmpty) {
+      continue;
+    }
+    final rune = runes.first;
+    final int length = char.t.length;
+    if (rune == glyph) {
+      markers.add(
+        _AyahMarker(
+          start: cursor,
+          end: cursor + length,
+          ayaNumber: ayahNumber,
+        ),
+      );
+    }
+    cursor += length;
+  }
+  return markers;
+}
+
+List<_TextSegment> _applyAyahMarkerToSegments(
+  List<_TextSegment> segments,
+  _AyahMarker marker,
+) {
+  if (marker.start >= marker.end) {
+    return segments;
+  }
+
+  final result = <_TextSegment>[];
+  for (final segment in segments) {
+    if (segment.end <= marker.start || segment.start >= marker.end) {
+      result.add(segment);
+      continue;
+    }
+
+    if (marker.start > segment.start) {
+      final before = segment.slice(segment.start, marker.start);
+      if (!before.isEmpty) result.add(before);
+    }
+
+    final middle = segment.slice(
+      marker.start,
+      marker.end,
+      isAyahMarker: true,
+      ayahNumber: marker.ayaNumber,
+    );
+    if (!middle.isEmpty) result.add(middle);
+
+    if (marker.end < segment.end) {
+      final after = segment.slice(marker.end, segment.end);
+      if (!after.isEmpty) result.add(after);
+    }
+  }
+
+  return result;
+}
+
 // ====== Popup Bubble (Overlay) بدلاً من Dialog ======
 
 OverlayEntry? _semanticBubble; // فقاعة واحدة نشطة فقط
@@ -990,8 +1240,8 @@ Future<void> _showSemanticBubble(
   );
 
   final Color bubbleBg = isDark
-      ? const Color(0xFF121620).withOpacity(0.95)
-      : const Color(0xFFFFFEFD).withOpacity(0.98);
+      ? _withOpacity(const Color(0xFF121620), 0.95)
+      : _withOpacity(const Color(0xFFFFFEFD), 0.98);
   final Color textColor = isDark
       ? const Color(0xFFF5F6FA)
       : const Color(0xFF2C2A27);
@@ -1033,7 +1283,7 @@ Future<void> _showSemanticBubble(
                     borderRadius: BorderRadius.circular(14.0),
                     boxShadow: [
                       BoxShadow(
-                        color: Colors.black.withOpacity(isDark ? 0.35 : 0.15),
+                      color: _withOpacity(Colors.black, isDark ? 0.35 : 0.15),
                         blurRadius: 14.0,
                         offset: const Offset(0, 6),
                       ),
@@ -1070,7 +1320,661 @@ Future<void> _showSemanticBubble(
   Timer(const Duration(seconds: 3), _removeSemanticBubble);
 }
 
+OverlayEntry? _ayahPopupEntry;
+void _removeAyahPopup() {
+  _ayahPopupEntry?.remove();
+  _ayahPopupEntry = null;
+}
+
+Future<void> _showAyahPopup(
+  BuildContext context,
+  Offset globalPosition,
+  int ayahNumber,
+  int surahNumber,
+  String ayahText,
+) async {
+  _removeAyahPopup();
+  _removeSemanticBubble();
+
+  final overlay = Overlay.of(context);
+  if (overlay == null) return;
+
+  final bool isDark = Theme.of(context).brightness == Brightness.dark;
+  final Size screen = MediaQuery.of(context).size;
+  final EdgeInsets viewPadding = MediaQuery.of(context).padding;
+  final double bubbleMaxWidth = screen.width * 0.72;
+  const double horizontalMargin = 12.0;
+  const double verticalOffsetAbove = 56.0;
+  const double verticalOffsetBelow = 12.0;
+
+  final ayahDataMap = await _loadAyahData();
+  final key = '$surahNumber:$ayahNumber';
+  final ayahEntry = ayahDataMap[key];
+  final displayAyahText = ayahEntry?.ayahText.trim().isNotEmpty == true
+      ? ayahEntry!.ayahText
+      : ayahText;
+
+  final overlayBox = overlay.context.findRenderObject() as RenderBox?;
+  if (overlayBox == null) return;
+  final Offset pos = overlayBox.globalToLocal(globalPosition);
+
+  double left = pos.dx - (bubbleMaxWidth / 2);
+  double top = pos.dy - verticalOffsetAbove;
+  final double minTop = viewPadding.top + 8.0;
+  if (top < minTop) {
+    top = pos.dy + verticalOffsetBelow;
+  }
+
+  left = left.clamp(
+    horizontalMargin,
+    screen.width - bubbleMaxWidth - horizontalMargin,
+  );
+
+  final Color bubbleBg = isDark
+      ? _withOpacity(const Color(0xFF121620), 0.95)
+      : const Color(0xFFFBF8F0);
+  final Color textColor = isDark ? const Color(0xFFF5F6FA) : const Color(0xFF2C2A27);
+
+  _ayahPopupEntry = OverlayEntry(
+    builder: (_) {
+      return Stack(
+        children: [
+          Positioned.fill(
+            child: GestureDetector(
+              behavior: HitTestBehavior.translucent,
+              onTap: _removeAyahPopup,
+            ),
+          ),
+          Positioned(
+            left: left,
+            top: top,
+            child: Material(
+              color: Colors.transparent,
+              child: Container(
+                constraints: BoxConstraints(maxWidth: bubbleMaxWidth),
+                padding: const EdgeInsets.symmetric(horizontal: 14.0, vertical: 12.0),
+                decoration: BoxDecoration(
+                  color: bubbleBg,
+                  borderRadius: BorderRadius.circular(14.0),
+                  boxShadow: [
+                    BoxShadow(
+                      color: _withOpacity(Colors.black, isDark ? 0.35 : 0.15),
+                      blurRadius: 14.0,
+                      offset: const Offset(0, 6),
+                    ),
+                  ],
+                  border: Border.all(
+                    color: isDark ? const Color(0xFF2A3240) : const Color(0xFFE6DFCF),
+                    width: 1.0,
+                  ),
+                ),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    if (ayahNumber > 0)
+                      Padding(
+                        padding: const EdgeInsets.only(bottom: 10.0),
+                        child: Text(
+                          'الآية ${_formatArabicNumber(ayahNumber)}',
+                          textAlign: TextAlign.right,
+                          style: TextStyle(
+                            fontSize: 20.0,
+                            fontWeight: FontWeight.w700,
+                            color: textColor,
+                          ),
+                        ),
+                      ),
+                    Text(
+                      displayAyahText,
+                      textAlign: TextAlign.right,
+                      style: TextStyle(
+                        fontSize: 18.0,
+                        fontWeight: FontWeight.w600,
+                        color: textColor,
+                      ),
+                      textDirection: TextDirection.rtl,
+                    ),
+                    const SizedBox(height: 12.0),
+                    Row(
+                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                      children: _ayahPopupOptions
+                          .map(
+                            (option) => _buildAyahPopupButton(
+                              option,
+                              textColor: textColor,
+                              iconColor: isDark ? Colors.white : Colors.black87,
+                              backgroundColor: isDark ? Colors.white12 : Colors.black12,
+                              onTap: () {
+                                _removeAyahPopup();
+                                _navigateToAyahDetail(
+                                  context,
+                                  ayahNumber,
+                                  surahNumber,
+                                  displayAyahText,
+                                  option.mode,
+                                  ayahEntry,
+                                );
+                              },
+                            ),
+                          )
+                          .toList(),
+                    ),
+                  ],
+                ),
+              ),
+            ),
+          ),
+        ],
+      );
+    },
+  );
+
+  overlay.insert(_ayahPopupEntry!);
+}
 // ====== /Popup Bubble ======
+
+String _formatArabicNumber(int value) {
+  const digits = ['٠', '١', '٢', '٣', '٤', '٥', '٦', '٧', '٨', '٩'];
+  if (value == 0) {
+    return digits[0];
+  }
+  final buffer = StringBuffer();
+  int number = value.abs();
+  while (number > 0) {
+    buffer.write(digits[number % 10]);
+    number ~/= 10;
+  }
+  final reversed = buffer.toString().split('').reversed.join();
+  return value < 0 ? '-$reversed' : reversed;
+}
+
+enum _AyahPopupMode { copy, tafsir, translations, detail }
+
+class _AyahPopupOption {
+  final String label;
+  final IconData icon;
+  final _AyahPopupMode mode;
+
+  const _AyahPopupOption({
+    required this.label,
+    required this.icon,
+    required this.mode,
+  });
+}
+
+const List<_AyahPopupOption> _ayahPopupOptions = [
+  _AyahPopupOption(
+    label: 'نسخ',
+    icon: Icons.copy,
+    mode: _AyahPopupMode.copy,
+  ),
+  _AyahPopupOption(
+    label: 'التفسير',
+    icon: Icons.menu_book,
+    mode: _AyahPopupMode.tafsir,
+  ),
+  _AyahPopupOption(
+    label: 'الترجمات',
+    icon: Icons.translate,
+    mode: _AyahPopupMode.translations,
+  ),
+  _AyahPopupOption(
+    label: 'سبب النزول',
+    icon: Icons.info,
+    mode: _AyahPopupMode.detail,
+  ),
+];
+
+Widget _buildAyahPopupButton(
+  _AyahPopupOption option, {
+  required Color textColor,
+  required Color iconColor,
+  required Color backgroundColor,
+  required VoidCallback onTap,
+}) {
+  return Expanded(
+    child: InkWell(
+      borderRadius: BorderRadius.circular(8.0),
+      onTap: onTap,
+      child: Container(
+        padding: const EdgeInsets.symmetric(vertical: 6.0),
+        decoration: BoxDecoration(
+          color: backgroundColor,
+          borderRadius: BorderRadius.circular(8.0),
+        ),
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(option.icon, color: iconColor, size: 18.0),
+            const SizedBox(height: 4.0),
+            Text(
+              option.label,
+              style: TextStyle(
+                color: textColor,
+                fontSize: 12.0,
+                fontWeight: FontWeight.w600,
+              ),
+            ),
+          ],
+        ),
+      ),
+    ),
+  );
+}
+
+void _navigateToAyahDetail(
+  BuildContext context,
+  int ayahNumber,
+  int surahNumber,
+  String ayahText,
+  _AyahPopupMode mode,
+  _AyahData? ayahEntry,
+) {
+  switch (mode) {
+    case _AyahPopupMode.copy:
+      Clipboard.setData(ClipboardData(text: ayahText));
+      ScaffoldMessenger.of(context)
+        ..clearSnackBars()
+        ..showSnackBar(
+          SnackBar(
+            content: Text(
+              'تم نسخ الآية ${_formatArabicNumber(ayahNumber)}',
+              textDirection: TextDirection.rtl,
+            ),
+          ),
+        );
+      break;
+    case _AyahPopupMode.tafsir:
+      _showAyahTafsirSheet(
+        context,
+        ayahEntry?.tafseer ?? const <_AyahTafsir>[],
+        ayahText,
+        surahNumber,
+        ayahNumber,
+      );
+      break;
+    case _AyahPopupMode.translations:
+      _showAyahTranslationSheet(
+        context,
+        ayahEntry?.translations ?? const <_AyahTranslation>[],
+        ayahText,
+        surahNumber,
+        ayahNumber,
+      );
+      break;
+    case _AyahPopupMode.detail:
+      _showAyahDetailDialog(
+        context,
+        surahNumber,
+        ayahNumber,
+        ayahText,
+        ayahEntry,
+      );
+      break;
+  }
+}
+
+void _showAyahTafsirSheet(
+  BuildContext context,
+  List<_AyahTafsir> tafseer,
+  String ayahText,
+  int surahNumber,
+  int ayahNumber,
+) {
+  showModalBottomSheet<void>(
+    context: context,
+    isScrollControlled: true,
+    shape: const RoundedRectangleBorder(
+      borderRadius: BorderRadius.vertical(top: Radius.circular(18.0)),
+    ),
+    builder: (sheetContext) {
+      final maxHeight = MediaQuery.of(sheetContext).size.height * 0.75;
+      final hasTafsir = tafseer.isNotEmpty;
+      int selectedIndex = 0;
+      return StatefulBuilder(
+        builder: (stateContext, setState) {
+          final int safeIndex = hasTafsir
+              ? math.min(selectedIndex, tafseer.length - 1)
+              : 0;
+          final _AyahTafsir? selectedTafsir =
+              hasTafsir ? tafseer[safeIndex] : null;
+          return Container(
+            constraints: BoxConstraints(maxHeight: maxHeight),
+            padding: EdgeInsets.only(
+              bottom: MediaQuery.of(sheetContext).viewInsets.bottom + 12.0,
+              left: 16.0,
+              right: 16.0,
+              top: 12.0,
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Center(
+                  child: Container(
+                    height: 4.0,
+                    width: 40.0,
+                    decoration: BoxDecoration(
+                      color: Colors.grey.shade400,
+                      borderRadius: BorderRadius.circular(2.0),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 12.0),
+                Text(
+                  'سورة $surahNumber - الآية ${_formatArabicNumber(ayahNumber)}',
+                  style: const TextStyle(
+                    fontWeight: FontWeight.w700,
+                  ),
+                  textAlign: TextAlign.center,
+                  textDirection: TextDirection.rtl,
+                ),
+                const SizedBox(height: 10.0),
+                Text(
+                  ayahText,
+                  style: const TextStyle(
+                    fontFamily: 'UthmanicHafs',
+                    fontSize: 21.0,
+                  ),
+                  textAlign: TextAlign.center,
+                  textDirection: TextDirection.rtl,
+                ),
+                const SizedBox(height: 12.0),
+                if (hasTafsir) ...[
+                  Align(
+                    alignment: Alignment.centerRight,
+                    child: Text(
+                      'اختر التفسير:',
+                      style: TextStyle(
+                        fontWeight: FontWeight.w600,
+                        color: Theme.of(sheetContext).textTheme.bodyLarge?.color,
+                      ),
+                      textDirection: TextDirection.rtl,
+                    ),
+                  ),
+                  DropdownButton<int>(
+                    value: safeIndex,
+                    isExpanded: true,
+                    onChanged: (value) {
+                      if (value == null) return;
+                      setState(() => selectedIndex = value);
+                    },
+                    items: tafseer
+                        .asMap()
+                        .entries
+                        .map(
+                          (entry) => DropdownMenuItem<int>(
+                            value: entry.key,
+                            child: Text(
+                              entry.value.name.isNotEmpty
+                                  ? entry.value.name
+                                  : entry.value.code,
+                              textDirection: TextDirection.rtl,
+                            ),
+                          ),
+                        )
+                        .toList(),
+                  ),
+                ] else ...[
+                  const Text(
+                    'لا توجد تفاسير إضافية متوفرة.',
+                    textAlign: TextAlign.center,
+                    textDirection: TextDirection.rtl,
+                  ),
+                ],
+                const SizedBox(height: 6.0),
+                Expanded(
+                  child: SingleChildScrollView(
+                    child: selectedTafsir != null
+                        ? Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              Text(
+                                selectedTafsir.name,
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.w700,
+                                ),
+                                textDirection: TextDirection.rtl,
+                                textAlign: TextAlign.right,
+                              ),
+                              const SizedBox(height: 6.0),
+                              Text(
+                                selectedTafsir.text,
+                                textDirection: TextDirection.rtl,
+                              ),
+                            ],
+                          )
+                        : const Text(
+                            'لا يوجد تفسير متاح لهذه الآية حالياً.',
+                            textAlign: TextAlign.center,
+                            textDirection: TextDirection.rtl,
+                          ),
+                  ),
+                ),
+              ],
+            ),
+          );
+        },
+      );
+    },
+  );
+}
+
+void _showAyahDetailDialog(
+  BuildContext context,
+  int surahNumber,
+  int ayahNumber,
+  String ayahText,
+  _AyahData? ayahEntry,
+) {
+  final reasons = ayahEntry?.reasons ?? const <String>[];
+  final String? reasonText =
+      reasons.isNotEmpty ? reasons.first.trim() : null;
+  showDialog(
+    context: context,
+    builder: (dialogContext) {
+      return AlertDialog(
+        title: Text(
+          'السورة $surahNumber - الآية ${_formatArabicNumber(ayahNumber)}',
+          textDirection: TextDirection.rtl,
+        ),
+        content: SingleChildScrollView(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.stretch,
+            children: [
+              Text(
+                ayahText,
+                style: const TextStyle(
+                  fontFamily: 'UthmanicHafs',
+                  fontSize: 22.0,
+                ),
+                textAlign: TextAlign.center,
+                textDirection: TextDirection.rtl,
+              ),
+              const SizedBox(height: 12.0),
+              const Text(
+                'أسباب النزول',
+                style: TextStyle(fontWeight: FontWeight.w700),
+                textDirection: TextDirection.rtl,
+              ),
+              const SizedBox(height: 6.0),
+                Text(
+                  reasonText ?? 'لا يوجد سبب نزول موثَّق لهذه الآية.',
+                  textDirection: TextDirection.rtl,
+                  textAlign: TextAlign.justify,
+                ),
+            ],
+          ),
+        ),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.of(dialogContext).pop(),
+            child: const Text('إغلاق'),
+          ),
+        ],
+      );
+    },
+  );
+}
+
+class _AyahMarker {
+  final int start;
+  final int end;
+  final int ayaNumber;
+
+  const _AyahMarker({
+    required this.start,
+    required this.end,
+    required this.ayaNumber,
+  });
+}
+
+void _showAyahTranslationSheet(
+  BuildContext context,
+  List<_AyahTranslation> translations,
+  String ayahText,
+  int surahNumber,
+  int ayahNumber,
+) {
+  showModalBottomSheet<void>(
+    context: context,
+    isScrollControlled: true,
+    shape: const RoundedRectangleBorder(
+      borderRadius: BorderRadius.vertical(top: Radius.circular(18.0)),
+    ),
+    builder: (sheetContext) {
+      final maxHeight = MediaQuery.of(sheetContext).size.height * 0.75;
+      final bool hasTranslations = translations.isNotEmpty;
+      final int englishIndex = translations.indexWhere(
+        (entry) => entry.langCode.toLowerCase() == 'en',
+      );
+      int selectedIndex = hasTranslations
+          ? (englishIndex >= 0 ? englishIndex : 0)
+          : 0;
+      return StatefulBuilder(
+        builder: (stateContext, setState) {
+          final _AyahTranslation? selectedTranslation = hasTranslations
+              ? translations[selectedIndex]
+              : null;
+          return Container(
+            constraints: BoxConstraints(maxHeight: maxHeight),
+            padding: EdgeInsets.only(
+              bottom: MediaQuery.of(sheetContext).viewInsets.bottom + 12.0,
+              left: 16.0,
+              right: 16.0,
+              top: 12.0,
+            ),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Center(
+                  child: Container(
+                    height: 4.0,
+                    width: 40.0,
+                    decoration: BoxDecoration(
+                      color: Colors.grey.shade400,
+                      borderRadius: BorderRadius.circular(2.0),
+                    ),
+                  ),
+                ),
+                const SizedBox(height: 12.0),
+                Text(
+                  'سورة $surahNumber - الآية ${_formatArabicNumber(ayahNumber)}',
+                  style: const TextStyle(
+                    fontWeight: FontWeight.w700,
+                  ),
+                  textAlign: TextAlign.center,
+                  textDirection: TextDirection.rtl,
+                ),
+                const SizedBox(height: 10.0),
+                Text(
+                  ayahText,
+                  style: const TextStyle(
+                    fontFamily: 'UthmanicHafs',
+                    fontSize: 21.0,
+                  ),
+                  textAlign: TextAlign.center,
+                  textDirection: TextDirection.rtl,
+                ),
+                const SizedBox(height: 12.0),
+                if (hasTranslations) ...[
+                  Align(
+                    alignment: Alignment.centerRight,
+                    child: Text(
+                      'اختر الترجمة:',
+                      style: TextStyle(
+                        fontWeight: FontWeight.w600,
+                        color: Theme.of(sheetContext).textTheme.bodyLarge?.color,
+                      ),
+                      textDirection: TextDirection.rtl,
+                    ),
+                  ),
+                  DropdownButton<int>(
+                    value: selectedIndex,
+                    isExpanded: true,
+                    onChanged: (value) {
+                      if (value == null) return;
+                      setState(() => selectedIndex = value);
+                    },
+                    items: translations
+                        .asMap()
+                        .entries
+                        .map(
+                          (entry) => DropdownMenuItem<int>(
+                            value: entry.key,
+                            child: Text(
+                              entry.value.langName.isNotEmpty
+                                  ? entry.value.langName
+                                  : entry.value.langCode,
+                              textDirection: TextDirection.rtl,
+                            ),
+                          ),
+                        )
+                        .toList(),
+                  ),
+                ] else ...[
+                  const Text(
+                    'لا توجد ترجمات متاحة حالياً.',
+                    textAlign: TextAlign.center,
+                    textDirection: TextDirection.rtl,
+                  ),
+                ],
+                const SizedBox(height: 6.0),
+                Expanded(
+                  child: SingleChildScrollView(
+                    child: selectedTranslation != null
+                        ? Column(
+                            crossAxisAlignment: CrossAxisAlignment.stretch,
+                            children: [
+                              Text(
+                                selectedTranslation.langName,
+                                style: const TextStyle(
+                                  fontWeight: FontWeight.w700,
+                                ),
+                                textDirection: TextDirection.rtl,
+                                textAlign: TextAlign.right,
+                              ),
+                              const SizedBox(height: 6.0),
+                              Text(
+                                selectedTranslation.translatedText,
+                                textDirection: TextDirection.ltr,
+                              ),
+                            ],
+                          )
+                        : const Text(
+                            'لا يوجد ترجمة متاحة لهذه الآية حالياً.',
+                            textAlign: TextAlign.center,
+                          ),
+                  ),
+                ),
+              ],
+            ),
+          );
+        },
+      );
+    },
+  );
+}
 
 class _HighlightRange {
   final int start;
@@ -1102,6 +2006,8 @@ class _TextSegment {
   final Color? color;
   final SemanticSpan? semantic;
   final bool isApprox;
+  final bool isAyahMarker;
+  final int? ayahNumber;
 
   const _TextSegment({
     required this.text,
@@ -1110,6 +2016,8 @@ class _TextSegment {
     required this.color,
     this.semantic,
     this.isApprox = false,
+    this.isAyahMarker = false,
+    this.ayahNumber,
   });
 
   bool get isEmpty => text.isEmpty;
@@ -1119,6 +2027,8 @@ class _TextSegment {
     int sliceEnd, {
     SemanticSpan? semantic,
     bool? isApprox,
+    bool? isAyahMarker,
+    int? ayahNumber,
   }) {
     final localStart = math.max(0, sliceStart - start);
     final localEnd = math.min(text.length, sliceEnd - start);
@@ -1130,6 +2040,8 @@ class _TextSegment {
         color: color,
         semantic: semantic ?? this.semantic,
         isApprox: isApprox ?? this.isApprox,
+        isAyahMarker: isAyahMarker ?? this.isAyahMarker,
+        ayahNumber: ayahNumber ?? this.ayahNumber,
       );
     }
 
@@ -1140,6 +2052,8 @@ class _TextSegment {
       color: color,
       semantic: semantic ?? this.semantic,
       isApprox: isApprox ?? this.isApprox,
+      isAyahMarker: isAyahMarker ?? this.isAyahMarker,
+      ayahNumber: ayahNumber ?? this.ayahNumber,
     );
   }
 }
