@@ -33,6 +33,7 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
       state.copyWith(
         status: TajweedViewerStatus.loading,
         isBatchLoading: false,
+        lineSpacingReady: false,
       ),
     );
     try {
@@ -272,6 +273,11 @@ class TajweedViewerCubit extends Cubit<TajweedViewerState> {
     pageController.dispose();
     pageInputController.dispose();
     return super.close();
+  }
+
+  void markLineSpacingReady() {
+    if (state.lineSpacingReady) return;
+    emit(state.copyWith(lineSpacingReady: true));
   }
 
   int _batchStartForPage(int page) {

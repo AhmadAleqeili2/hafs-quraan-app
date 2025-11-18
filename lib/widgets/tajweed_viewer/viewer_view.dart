@@ -57,6 +57,15 @@ class TajweedViewerView extends StatelessWidget {
             builder: (context, constraints) {
               final shortestSide = constraints.biggest.shortestSide;
               final unit = (shortestSide > 0 ? shortestSide : 400) / 100.0;
+              if (!state.lineSpacingReady) {
+                return _buildLineSpacingLoader(
+                  context: context,
+                  cubit: cubit,
+                  constraints: constraints,
+                  unit: unit,
+                  state: state,
+                );
+              }
               final maxWidth = constraints.maxWidth.isFinite
                   ? constraints.maxWidth
                   : MediaQuery.of(context).size.width;
@@ -624,6 +633,94 @@ class TajweedViewerView extends StatelessWidget {
         }
 
         return Scaffold(backgroundColor: scaffoldBackground, body: buildBody());
+      },
+    );
+  }
+}
+
+Widget _buildLineSpacingLoader({
+  required BuildContext context,
+  required TajweedViewerCubit cubit,
+  required TajweedViewerState state,
+  required BoxConstraints constraints,
+  required double unit,
+}) {
+  return Stack(
+    fit: StackFit.expand,
+    children: [
+      Center(
+        child: CircularProgressIndicator(
+          valueColor: AlwaysStoppedAnimation<Color>(
+            Theme.of(context).colorScheme.primary,
+          ),
+        ),
+      ),
+      _LineSpacingPreloader(
+        cubit: cubit,
+        constraints: constraints,
+        unit: unit,
+        surahNames: state.surahNames,
+      ),
+    ],
+  );
+}
+
+class _LineSpacingPreloader extends StatefulWidget {
+  const _LineSpacingPreloader({
+    required this.cubit,
+    required this.constraints,
+    required this.unit,
+    required this.surahNames,
+  });
+
+  final TajweedViewerCubit cubit;
+  final BoxConstraints constraints;
+  final double unit;
+  final Map<int, String> surahNames;
+
+  @override
+  State<_LineSpacingPreloader> createState() => _LineSpacingPreloaderState();
+}
+
+class _LineSpacingPreloaderState extends State<_LineSpacingPreloader> {
+  late Future<TajweedPageData> _pageFuture;
+
+  @override
+  void initState() {
+    super.initState();
+    _pageFuture = widget.cubit.loadPage(5);
+  }
+
+  @override
+  void didUpdateWidget(covariant _LineSpacingPreloader oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    if (oldWidget.cubit != widget.cubit) {
+      _pageFuture = widget.cubit.loadPage(5);
+    }
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return FutureBuilder<TajweedPageData>(
+      future: _pageFuture,
+      builder: (context, snapshot) {
+        if (!snapshot.hasData) {
+          return const SizedBox.shrink();
+        }
+        final page = snapshot.data!;
+        return Offstage(
+          offstage: true,
+          child: TajweedPageView(
+            lines: page.lines,
+            pageIndex: 5,
+            unit: widget.unit,
+            constraints: widget.constraints,
+            surahNames: widget.surahNames,
+            showFrame: false,
+            allowInnerScroll: false,
+            onPageFiveLineHeightReady: (_) => widget.cubit.markLineSpacingReady(),
+          ),
+        );
       },
     );
   }

@@ -3,6 +3,8 @@ part of '../../secreens/tajweed_viewer.dart';
 /// ملاحظة: تأكد أن ملف الـ library (الذي يحتوي `library ...;`) فيه:
 /// import 'dart:async'; // لا يمكن عمل import داخل ملفات part.
 
+double? _pageFiveLineHeightReference;
+
 class TajweedPageView extends StatelessWidget {
   const TajweedPageView({
     super.key,
@@ -14,6 +16,7 @@ class TajweedPageView extends StatelessWidget {
     this.partName,
     this.showFrame = true,
     this.allowInnerScroll = true,
+    this.onPageFiveLineHeightReady,
   });
 
   final List<RenderedLine> lines;
@@ -24,24 +27,36 @@ class TajweedPageView extends StatelessWidget {
   final String? partName;
   final bool showFrame;
   final bool allowInnerScroll;
+  final ValueChanged<double>? onPageFiveLineHeightReady;
 
   @override
   Widget build(BuildContext context) {
     final defaultColor = Theme.of(context).colorScheme.onSurface;
 
-    final frameOuterMarginH = showFrame ? 0.5 * unit : 0.0;
-    final frameInnerMarginAll = showFrame ? 2.0 * unit : 0.0;
-    final framePaddingH = showFrame ? 4.2 * unit : 0.0;
-    final double hPad = showFrame ? 2.0 * unit : 2.0 * unit;
+    final frameOuterMarginBase = 0.5 * unit;
+    final frameInnerMarginBase = 2.0 * unit;
+    final framePaddingHBase = 4.2 * unit;
+    final hPad = 2.0 * unit;
+    final frameOuterMarginH = showFrame ? frameOuterMarginBase : 0.0;
+    final frameInnerMarginAll = showFrame ? frameInnerMarginBase : 0.0;
+    final framePaddingH = showFrame ? framePaddingHBase : 0.0;
 
-    final contentMaxWidth =
-        constraints.maxWidth -
-        (showFrame
-            ? 2 * frameOuterMarginH +
-                  2 * frameInnerMarginAll +
-                  2 * framePaddingH +
-                  2 * hPad
-            : 2 * hPad);
+    final double frameWidthDeduction = 2 *
+        (frameOuterMarginBase +
+            frameInnerMarginBase +
+            framePaddingHBase +
+            hPad);
+    final double limitWidth = math.max(
+      0.0,
+      constraints.maxWidth - frameWidthDeduction,
+    );
+    final double scrollWidth = math.max(
+      0.0,
+      constraints.maxWidth - (2 * hPad),
+    );
+    final double contentMaxWidth = showFrame
+        ? limitWidth
+        : math.max(0.0, math.min(scrollWidth, limitWidth));
     final availableJustificationWidth = contentMaxWidth > 0
         ? contentMaxWidth
         : constraints.maxWidth - (showFrame ? 0.0 : 2 * hPad);
@@ -99,7 +114,7 @@ class TajweedPageView extends StatelessWidget {
             ? pageIndex > 2
                   ? 0.003
                   : 0.0036
-            : 0.0022);
+            : pageIndex>2? 0.002: 0.0030);
     double scriptFontSize = baseScriptFont * introScale * displayScale;
     scriptFontSize = scriptFontSize.clamp(18.0, 34.0) * widthFactor;
     final String? currentSurahName = filteredLines.isNotEmpty
@@ -199,7 +214,13 @@ class TajweedPageView extends StatelessWidget {
     int headerCount = 0;
     int? lastSurahIndex;
 
-    final double vPad = 0.4 * unit;
+    final double standardVPad = 0.4 * unit;
+    final double vPad = _normalizeLineSpacing(
+      rawVPad: standardVPad,
+      scriptFontSize: scriptFontSize,
+      pageIndex: pageIndex,
+      onLineHeightRegistered: onPageFiveLineHeightReady,
+    );
     final double baseTextHeight = scriptFontSize * 2.0;
 
     final double desiredWidthForJustified = noJustifiableLines
@@ -425,23 +446,25 @@ class TajweedPageView extends StatelessWidget {
           height: isIntroFramedPage
               ? MediaQuery.of(context).size.height * 0.6
               : MediaQuery.of(context).size.height * 0.75,
-          child: Stack(
-            alignment: Alignment.center,
-            children: [
-              frameContent,
-              Positioned(
-                bottom: 0,
-                child: Text(
-                  '$pageIndex',
-                  style: TextStyle(
-                    fontFamily: 'UthmanicHafs',
-                    fontSize: ResponsiveTypography.pageBadge(unit),
-                    color: isDark ? Colors.white70 : const Color(0xFF5A4B2E),
-                    fontWeight: FontWeight.w600,
+          child: SingleChildScrollView(
+            child: Stack(
+              alignment: Alignment.center,
+              children: [
+                frameContent,
+                Positioned(
+                  bottom: 0,
+                  child: Text(
+                    '$pageIndex',
+                    style: TextStyle(
+                      fontFamily: 'UthmanicHafs',
+                      fontSize: ResponsiveTypography.pageBadge(unit),
+                      color: isDark ? Colors.white70 : const Color(0xFF5A4B2E),
+                      fontWeight: FontWeight.w600,
+                    ),
                   ),
                 ),
-              ),
-            ],
+              ],
+            ),
           ),
         ),
       ),
@@ -1085,6 +1108,29 @@ double _solvePerGap({
 
 double desiredWidthForThisLine(double desired, double intrinsic) =>
     math.max(desired, intrinsic);
+
+double _normalizeLineSpacing({
+  required double rawVPad,
+  required double scriptFontSize,
+  required int pageIndex,
+  ValueChanged<double>? onLineHeightRegistered,
+}) {
+  final double lineHeight = scriptFontSize * 2.0 + (rawVPad * 2);
+  if (pageIndex == 5) {
+    final bool shouldNotify = _pageFiveLineHeightReference == null;
+    _pageFiveLineHeightReference = lineHeight;
+    if (shouldNotify) {
+      onLineHeightRegistered?.call(lineHeight);
+    }
+    return rawVPad;
+  }
+  final reference = _pageFiveLineHeightReference;
+  if (reference == null || lineHeight >= reference) {
+    return rawVPad;
+  }
+  final double extraVPad = (reference - lineHeight) / 2.0;
+  return rawVPad + extraVPad;
+}
 
 bool _isLastAyahOfSurah(RenderedLine line) {
   final total = kSurahAyahCounts[line.surahIndexFirst];

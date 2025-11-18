@@ -16,6 +16,7 @@ class TajweedViewerState {
     this.errorMessage,
     this.isBatchLoading = false,
     this.viewMode = TajweedViewMode.swipe,
+    this.lineSpacingReady = false,
   });
 
   final int pageCount;
@@ -28,6 +29,7 @@ class TajweedViewerState {
   final String? errorMessage;
   final bool isBatchLoading;
   final TajweedViewMode viewMode;
+  final bool lineSpacingReady;
 
   bool get isLoading =>
       status == TajweedViewerStatus.initial ||
@@ -48,6 +50,7 @@ class TajweedViewerState {
     String? errorMessage,
     bool? isBatchLoading,
     TajweedViewMode? viewMode,
+    bool? lineSpacingReady,
   }) {
     return TajweedViewerState(
       pageCount: pageCount ?? this.pageCount,
@@ -62,6 +65,7 @@ class TajweedViewerState {
       errorMessage: errorMessage ?? this.errorMessage,
       isBatchLoading: isBatchLoading ?? this.isBatchLoading,
       viewMode: viewMode ?? this.viewMode,
+      lineSpacingReady: lineSpacingReady ?? this.lineSpacingReady,
     );
   }
 }
