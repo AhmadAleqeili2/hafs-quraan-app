@@ -73,6 +73,7 @@ flutter:
     - assets/metadata/Quran/pages/
     - assets/metadata/Quran/pages_colored/
     - assets/metadata/Quran/parts.json
+    - assets/metadata/Quran/semantics.json
     - assets/db/hafsuthmani.db
     - assets/db/shamel.db
 
