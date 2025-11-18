@@ -41,7 +41,8 @@ class TajweedPageView extends StatelessWidget {
     final frameInnerMarginAll = showFrame ? frameInnerMarginBase : 0.0;
     final framePaddingH = showFrame ? framePaddingHBase : 0.0;
 
-    final double frameWidthDeduction = 2 *
+    final double frameWidthDeduction =
+        2 *
         (frameOuterMarginBase +
             frameInnerMarginBase +
             framePaddingHBase +
@@ -50,10 +51,7 @@ class TajweedPageView extends StatelessWidget {
       0.0,
       constraints.maxWidth - frameWidthDeduction,
     );
-    final double scrollWidth = math.max(
-      0.0,
-      constraints.maxWidth - (2 * hPad),
-    );
+    final double scrollWidth = math.max(0.0, constraints.maxWidth - (2 * hPad));
     final double contentMaxWidth = showFrame
         ? limitWidth
         : math.max(0.0, math.min(scrollWidth, limitWidth));
@@ -109,12 +107,9 @@ class TajweedPageView extends StatelessWidget {
         ? _swipeDisplayScale
         : _scrollDisplayScale;
     final double widthFactor =
-        MediaQuery.of(context).size.width *
-        (showFrame
-            ? pageIndex > 2
-                  ? 0.003
-                  : 0.0036
-            : pageIndex>2? 0.002: 0.0030);
+        MediaQuery.of(context).size.width * (pageIndex > 2 ? 0.003 : 0.0036);
+    final double minFontSize = 10.0 * widthFactor;
+    final double maxFontSize = 19.0 * widthFactor;
     double scriptFontSize = baseScriptFont * introScale * displayScale;
     scriptFontSize = scriptFontSize.clamp(18.0, 34.0) * widthFactor;
     final String? currentSurahName = filteredLines.isNotEmpty
@@ -167,8 +162,6 @@ class TajweedPageView extends StatelessWidget {
         longestLineWidthAtBase != targetLineWidth) {
       final double rawScale = targetLineWidth / longestLineWidthAtBase;
       if (rawScale.isFinite && rawScale > 0) {
-        final double minFontSize = 10.0 * widthFactor;
-        final double maxFontSize = 19.0 * widthFactor;
         final double candidateSize = measurementFontSize * rawScale;
         scriptFontSize = candidateSize.clamp(minFontSize, maxFontSize);
       }
@@ -185,8 +178,7 @@ class TajweedPageView extends StatelessWidget {
           (wordCount <= 3);
     }
 
-    bool shouldReduceSpacing(int index) =>
-        pageIndex == 1 && index == 1;
+    bool shouldReduceSpacing(int index) => pageIndex == 1 && index == 1;
 
     const double firstPageSecondLineSpacingScale = 0.75;
 
@@ -230,8 +222,17 @@ class TajweedPageView extends StatelessWidget {
     for (int i = 0; i < filteredLines.length; i++) {
       final line = filteredLines[i];
       final text = processedTexts[i];
-      final style0 = baseStyleFor(line);
-      final width0 = intrinsicWidths[i];
+      final double baseWidthAtBaseFont = intrinsicWidths[i];
+      final double lineFontSize = _lineFontSizeForScrollMode(
+        baseFontSize: scriptFontSize,
+        measuredWidthAtBaseFont: baseWidthAtBaseFont,
+        targetWidth: availableJustificationWidth,
+        minFontSize: minFontSize,
+        maxFontSize: maxFontSize,
+        enable: !showFrame,
+      );
+      final TextStyle style0 = styleFor(line, lineFontSize);
+      final double width0 = _measureWithWordSpacing(text, style0, 0.0);
       final bool isLastAyah = _isLastAyahOfSurah(line);
       final bool except = isException(i, line, text) || isLastAyah;
 
@@ -291,8 +292,11 @@ class TajweedPageView extends StatelessWidget {
               );
 
               for (int iter = 0; iter < 4; iter++) {
-                final currentWidth =
-                    _measureWithWordSpacing(text, style0, perGap);
+                final currentWidth = _measureWithWordSpacing(
+                  text,
+                  style0,
+                  perGap,
+                );
                 final error = targetWidthForThisLine - currentWidth;
                 if (error.abs() <= 0.2) break;
                 perGap = math.max(0.0, perGap + (error / gaps));
@@ -335,7 +339,7 @@ class TajweedPageView extends StatelessWidget {
                   overflow: TextOverflow.visible,
                   strutStyle: StrutStyle(
                     fontFamily: 'UthmanicHafs',
-                    fontSize: scriptFontSize,
+                    fontSize: lineFontSize,
                     height: 1.9,
                     forceStrutHeight: false,
                   ),
@@ -561,8 +565,9 @@ int _countGapsInText(String value) {
   return gaps;
 }
 
-final RegExp _stopMarkRegex =
-    RegExp('[\u06D6\u06D7\u06D8\u06D9\u06DA\u06DB\u06DC]');
+final RegExp _stopMarkRegex = RegExp(
+  '[\u06D6\u06D7\u06D8\u06D9\u06DA\u06DB\u06DC]',
+);
 final RegExp _ayahMarkerRegex = RegExp('\u06DD[0-9\u0660-\u0669]+');
 
 List<int> _preferredSpacePositions(String text) {
@@ -630,9 +635,7 @@ List<_ExtraSpaceInsertion> _buildExtraSpaceInsertions({
   }
 
   return normalized
-      .map(
-        (pos) => _ExtraSpaceInsertion(position: pos, width: perSlot),
-      )
+      .map((pos) => _ExtraSpaceInsertion(position: pos, width: perSlot))
       .toList(growable: false);
 }
 
@@ -660,9 +663,8 @@ List<InlineSpan> _buildInteractiveSpans(
   InlineSpan? buildTextSpan(_TextSegment segment, String value) {
     if (value.isEmpty) return null;
     if (segment.semantic != null) {
-      final Color color =
-          segment.isApprox ? Colors.green : Colors.green;
-          segment.isApprox ? Colors.green : Colors.green;
+      final Color color = segment.isApprox ? Colors.green : Colors.green;
+      segment.isApprox ? Colors.green : Colors.green;
       return TextSpan(
         text: value,
         style: baseStyle.copyWith(
@@ -671,10 +673,10 @@ List<InlineSpan> _buildInteractiveSpans(
         ),
         recognizer: TapGestureRecognizer()
           ..onTapDown = (details) => _showSemanticBubble(
-                context,
-                details.globalPosition,
-                segment.semantic!,
-              ),
+            context,
+            details.globalPosition,
+            segment.semantic!,
+          ),
       );
     }
     return TextSpan(
@@ -684,14 +686,15 @@ List<InlineSpan> _buildInteractiveSpans(
   }
 
   InlineSpan buildSpaceSpan(double width) => WidgetSpan(
-        alignment: PlaceholderAlignment.middle,
-        child: SizedBox(width: width),
-      );
+    alignment: PlaceholderAlignment.middle,
+    child: SizedBox(width: width),
+  );
 
-  final filteredSpaces = extraSpaces
-      .where((entry) => entry.width > 0 && entry.position >= 0)
-      .toList()
-    ..sort((a, b) => a.position.compareTo(b.position));
+  final filteredSpaces =
+      extraSpaces
+          .where((entry) => entry.width > 0 && entry.position >= 0)
+          .toList()
+        ..sort((a, b) => a.position.compareTo(b.position));
   int spaceIndex = 0;
 
   final spans = <InlineSpan>[];
@@ -702,14 +705,17 @@ List<InlineSpan> _buildInteractiveSpans(
     int textOffset = 0;
 
     while (segmentCursor < segment.end) {
-      final insertion =
-          spaceIndex < filteredSpaces.length ? filteredSpaces[spaceIndex] : null;
+      final insertion = spaceIndex < filteredSpaces.length
+          ? filteredSpaces[spaceIndex]
+          : null;
 
       if (insertion == null || insertion.position > segment.end) {
         final int remaining = segment.end - segmentCursor;
         if (remaining > 0) {
-          final int endOffset =
-              math.min(segment.text.length, textOffset + remaining);
+          final int endOffset = math.min(
+            segment.text.length,
+            textOffset + remaining,
+          );
           if (endOffset > textOffset) {
             final span = buildTextSpan(
               segment,
@@ -732,8 +738,10 @@ List<InlineSpan> _buildInteractiveSpans(
 
       final int fragmentLength = insertion.position - segmentCursor;
       if (fragmentLength > 0) {
-        final int endOffset =
-            math.min(segment.text.length, textOffset + fragmentLength);
+        final int endOffset = math.min(
+          segment.text.length,
+          textOffset + fragmentLength,
+        );
         if (endOffset > textOffset) {
           final span = buildTextSpan(
             segment,
@@ -753,10 +761,7 @@ List<InlineSpan> _buildInteractiveSpans(
     }
 
     if (textOffset < segment.text.length) {
-      final span = buildTextSpan(
-        segment,
-        segment.text.substring(textOffset),
-      );
+      final span = buildTextSpan(segment, segment.text.substring(textOffset));
       if (span != null) {
         spans.add(span);
       }
@@ -1005,10 +1010,7 @@ class _ExtraSpaceInsertion {
   final int position;
   final double width;
 
-  const _ExtraSpaceInsertion({
-    required this.position,
-    required this.width,
-  });
+  const _ExtraSpaceInsertion({required this.position, required this.width});
 }
 
 class _TextSegment {
@@ -1132,6 +1134,25 @@ double _normalizeLineSpacing({
   return rawVPad + extraVPad;
 }
 
+double _lineFontSizeForScrollMode({
+  required double baseFontSize,
+  required double measuredWidthAtBaseFont,
+  required double targetWidth,
+  required double minFontSize,
+  required double maxFontSize,
+  required bool enable,
+}) {
+  final double constrainedBase = baseFontSize.clamp(minFontSize, maxFontSize);
+  if (!enable || measuredWidthAtBaseFont <= 0 || targetWidth <= 0) {
+    return constrainedBase;
+  }
+  final double scale = targetWidth / measuredWidthAtBaseFont;
+  if (scale <= 1.0) {
+    return constrainedBase;
+  }
+  return (constrainedBase * scale).clamp(minFontSize, maxFontSize);
+}
+
 bool _isLastAyahOfSurah(RenderedLine line) {
   final total = kSurahAyahCounts[line.surahIndexFirst];
   if (total == null) return false;
@@ -1196,11 +1217,10 @@ class _FrameCornerLabel extends StatelessWidget {
                       : TextAlign.left,
                   style: TextStyle(
                     fontFamily: 'UthmanicHafs',
-                    
+
                     fontSize: ResponsiveTypography.body(u) / 1.3,
                     color: labelTextColor,
                     fontWeight: FontWeight.w900,
-                  
                   ),
                   maxLines: 1,
                 ),
