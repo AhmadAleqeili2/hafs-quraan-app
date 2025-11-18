@@ -1,0 +1,283 @@
+{
+  "pageIndex": 281,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِینَ عَمِلُوا۟ ٱلسُّوۤءَ بِجَهَـٰلَةࣲ ثُمَّ تَابُوا۟ مِنۢ بَعۡدِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بتعدّي الطّور وركوب الرّأس",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 119
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 12,
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بتعدّي الطّور وركوب الرّأس"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ذَ ٰ⁠لِكَ وَأَصۡلَحُوۤا۟ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورࣱ رَّحِیمٌ ۝١١٩ إِنَّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بتعدّي الطّور وركوب الرّأس",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 119
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِبۡرَ ٰ⁠هِیمَ كَانَ أُمَّةࣰ قَانِتࣰا لِّلَّهِ حَنِیفࣰا وَلَمۡ یَكُ مِنَ ٱلۡمُشۡرِكِینَ ۝١٢٠",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ أُمَّةً",
+          "content": "معلِّما للخير، أو مؤمنا وحده",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 120
+        },
+        {
+          "tokens": "قَانِتًا لِّلَّهِ",
+          "content": "مُطيعا خاضعا له تعالى",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 16,
+          "ayahIndex": 120
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الباطل إلى الدّين الحقّ",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 120
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 13,
+          "tokens": "كَانَ أُمَّةً",
+          "content": "معلِّما للخير، أو مؤمنا وحده"
+        },
+        {
+          "start": 29,
+          "length": 17,
+          "tokens": "قَانِتًا لِّلَّهِ",
+          "content": "مُطيعا خاضعا له تعالى"
+        },
+        {
+          "start": 47,
+          "length": 8,
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الباطل إلى الدّين الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "شَاكِرࣰا لِّأَنۡعُمِهِۚ ٱجۡتَبَىٰهُ وَهَدَىٰهُ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝١٢١",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 121,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَبَىٰهُ",
+          "content": "اصطفاه واختاره للنُّبوّة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 121
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 11,
+          "tokens": "ٱجْتَبَىٰهُ",
+          "content": "اصطفاه واختاره للنُّبوّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَءَاتَیۡنَـٰهُ فِی ٱلدُّنۡیَا حَسَنَةࣰۖ وَإِنَّهُۥ فِی ٱلۡـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِینَ ۝١٢٢",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 122,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ثُمَّ أَوۡحَیۡنَاۤ إِلَیۡكَ أَنِ ٱتَّبِعۡ مِلَّةَ إِبۡرَ ٰ⁠هِیمَ حَنِیفࣰاۖ وَمَا كَانَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِلَّةَ إِبْرَٰهِيمَ",
+          "content": "شريعته، وهي التّوحيد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 123
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 22,
+          "tokens": "مِلَّةَ إِبْرَٰهِيمَ",
+          "content": "شريعته، وهي التّوحيد"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِنَ ٱلۡمُشۡرِكِینَ ۝١٢٣ إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِینَ ٱخۡتَلَفُوا۟",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِلَّةَ إِبْرَٰهِيمَ",
+          "content": "شريعته، وهي التّوحيد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 123
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فِیهِۚ وَإِنَّ رَبَّكَ لَیَحۡكُمُ بَیۡنَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُعِلَ ٱلسَّبْتُ",
+          "content": "فُرض تعظيمُه والتّخلّي فيه للعبادة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 124
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَانُوا۟ فِیهِ یَخۡتَلِفُونَ ۝١٢٤ ٱدۡعُ إِلَىٰ سَبِیلِ رَبِّكَ بِٱلۡحِكۡمَةِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُعِلَ ٱلسَّبْتُ",
+          "content": "فُرض تعظيمُه والتّخلّي فيه للعبادة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 124
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَـٰدِلۡهُم بِٱلَّتِی هِیَ أَحۡسَنُۚ إِنَّ رَبَّكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِیلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِینَ ۝١٢٥",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَإِنۡ عَاقَبۡتُمۡ فَعَاقِبُوا۟ بِمِثۡلِ مَا عُوقِبۡتُم بِهِۦۖ وَلَىِٕن",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "صَبَرۡتُمۡ لَهُوَ خَیۡرࣱ لِّلصَّـٰبِرِینَ ۝١٢٦ وَٱصۡبِرۡ وَمَا صَبۡرُكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِلَّا بِٱللَّهِۚ وَلَا تَحۡزَنۡ عَلَیۡهِمۡ وَلَا تَكُ فِی ضَیۡقࣲ مِّمَّا یَمۡكُرُونَ ۝١٢٧",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَيْقٍ",
+          "content": "ضيق صدر وحَرَج",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 16,
+          "ayahIndex": 127
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 6,
+          "tokens": "ضَيْقٍ",
+          "content": "ضيق صدر وحَرَج"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِینَ ٱتَّقَوا۟ وَّٱلَّذِینَ هُم مُّحۡسِنُونَ ۝١٢٨",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

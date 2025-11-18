@@ -1,0 +1,409 @@
+{
+  "pageIndex": 591,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الطارق",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلطَّارِقِ",
+          "content": "(قسمٌ) بالنَّجم الثَّاقِب يَطلُعُ ليلاً",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 86,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلطَّارِقِ",
+          "content": "(قسمٌ) بالنَّجم الثَّاقِب يَطلُعُ ليلاً",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 86,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلسَّمَاۤءِ وَٱلطَّارِقِ ۝١ وَمَاۤ أَدۡرَىٰكَ مَا ٱلطَّارِقُ ۝٢ ٱلنَّجۡمُ ٱلثَّاقِبُ ۝٣",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلطَّارِقِ",
+          "content": "(قسمٌ) بالنَّجم الثَّاقِب يَطلُعُ ليلاً",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 86,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 12,
+          "tokens": "وَٱلطَّارِقِ",
+          "content": "(قسمٌ) بالنَّجم الثَّاقِب يَطلُعُ ليلاً"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِن كُلُّ نَفۡسࣲ لَّمَّا عَلَیۡهَا حَافِظࣱ ۝٤ فَلۡیَنظُرِ ٱلۡإِنسَـٰنُ مِمَّ خُلِقَ ۝٥",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِن كُلُّ نَفْسٍ",
+          "content": "ما كلُّ نَفسٍ (جواب القسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 86,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "لَّمَّا عَلَيْهَا",
+          "content": "إلا عليها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 86,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "حَافِظٌ",
+          "content": "مُهَيْمنٌ ورَقِيبٌ وهو الله تعالى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 86,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "إِن كُلُّ نَفْسٍ",
+          "content": "ما كلُّ نَفسٍ (جواب القسم)"
+        },
+        {
+          "start": 17,
+          "length": 17,
+          "tokens": "لَّمَّا عَلَيْهَا",
+          "content": "إلا عليها"
+        },
+        {
+          "start": 35,
+          "length": 7,
+          "tokens": "حَافِظٌ",
+          "content": "مُهَيْمنٌ ورَقِيبٌ وهو الله تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "خُلِقَ مِن مَّاۤءࣲ دَافِقࣲ ۝٦ یَخۡرُجُ مِنۢ بَیۡنِ ٱلصُّلۡبِ وَٱلتَّرَاۤىِٕبِ ۝٧ إِنَّهُۥ",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّآءٍ",
+          "content": "مُمتَزجٍ من مائَي الرجلِ والمرأة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 86,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "دَافِقٍ",
+          "content": "مَصبُوبٍ بِدَفْعٍ وسُرعةٍ فى الرَّحِم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 86,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 7,
+          "tokens": "مَّآءٍ",
+          "content": "مُمتَزجٍ من مائَي الرجلِ والمرأة"
+        },
+        {
+          "start": 19,
+          "length": 7,
+          "tokens": "دَافِقٍ",
+          "content": "مَصبُوبٍ بِدَفْعٍ وسُرعةٍ فى الرَّحِم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلَىٰ رَجۡعِهِۦ لَقَادِرࣱ ۝٨ یَوۡمَ تُبۡلَى ٱلسَّرَاۤىِٕرُ ۝٩ فَمَا لَهُۥ مِن قُوَّةࣲ وَلَا",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَجْعِهِۦ",
+          "content": "إعادَةِ الإنسانِ بعدَ فنائه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 86,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 9,
+          "tokens": "رَجْعِهِۦ",
+          "content": "إعادَةِ الإنسانِ بعدَ فنائه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "نَاصِرࣲ ۝١٠ وَٱلسَّمَاۤءِ ذَاتِ ٱلرَّجۡعِ ۝١١ وَٱلۡأَرۡضِ ذَاتِ ٱلصَّدۡعِ ۝١٢",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِنَّهُۥ لَقَوۡلࣱ فَصۡلࣱ ۝١٣ وَمَا هُوَ بِٱلۡهَزۡلِ ۝١٤ إِنَّهُمۡ یَكِیدُونَ كَیۡدࣰا ۝١٥",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَقَوْلٌ فَصْلٌ",
+          "content": "فاصلٌ بين الحق والباطل",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 86,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 15,
+          "tokens": "لَقَوْلٌ فَصْلٌ",
+          "content": "فاصلٌ بين الحق والباطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَأَكِیدُ كَیۡدࣰا ۝١٦ فَمَهِّلِ ٱلۡكَـٰفِرِینَ أَمۡهِلۡهُمۡ رُوَیۡدَۢا ۝١٧",
+      "surahIndexFirst": 86,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكِيدُ كَيْدًا",
+          "content": "أُجازيهم على فِعلِهم بالاسْتدْراج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 86,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَأَكِيدُ كَيْدًا",
+          "content": "أُجازيهم على فِعلِهم بالاسْتدْراج"
+        }
+      ]
+    },
+    {
+      "sortKey": 11998,
+      "text": "سورة الأعلى",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "سَبِّحِ ٱسْمَ رَبِّكَ",
+          "content": "نَزِّهُه ومَجِّدهُ تعالى عمَّا لا يَليق به",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 87,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 11999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبِّحِ ٱسْمَ رَبِّكَ",
+          "content": "نَزِّهُه ومَجِّدهُ تعالى عمَّا لا يَليق به",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 87,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "سَبِّحِ ٱسۡمَ رَبِّكَ ٱلۡأَعۡلَى ۝١ ٱلَّذِی خَلَقَ فَسَوَّىٰ ۝٢ وَٱلَّذِی قَدَّرَ",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبِّحِ ٱسْمَ رَبِّكَ",
+          "content": "نَزِّهُه ومَجِّدهُ تعالى عمَّا لا يَليق به",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 87,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "سَبِّحِ ٱسْمَ رَبِّكَ",
+          "content": "نَزِّهُه ومَجِّدهُ تعالى عمَّا لا يَليق به"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَهَدَىٰ ۝٣ وَٱلَّذِیۤ أَخۡرَجَ ٱلۡمَرۡعَىٰ ۝٤ فَجَعَلَهُۥ غُثَاۤءً أَحۡوَىٰ ۝٥",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَدَّرَ",
+          "content": "جعلَ الأشياءَ على مَقادِيرَ مَخصوصهٍ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 87,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "فَهَدَىٰ",
+          "content": "فَوجَّه كلَّ واحدٍ منها إلى ما يَنبَغى له",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 87,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "فَهَدَىٰ",
+          "content": "فَوجَّه كلَّ واحدٍ منها إلى ما يَنبَغى له"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "سَنُقۡرِئُكَ فَلَا تَنسَىٰۤ ۝٦ إِلَّا مَا شَاۤءَ ٱللَّهُۚ إِنَّهُۥ یَعۡلَمُ ٱلۡجَهۡرَ وَمَا یَخۡفَىٰ ۝٧",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَنُقْرِئُكَ",
+          "content": "ما نُوحِى إليكَ بواسطةِ جبريل عليه السلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 87,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "فَلَا تَنسَىٰٓ",
+          "content": "أبَدًا من قوةِ الحفظِ والإتقان",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 87,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "سَنُقْرِئُكَ",
+          "content": "ما نُوحِى إليكَ بواسطةِ جبريل عليه السلام"
+        },
+        {
+          "start": 13,
+          "length": 14,
+          "tokens": "فَلَا تَنسَىٰٓ",
+          "content": "أبَدًا من قوةِ الحفظِ والإتقان"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَنُیَسِّرُكَ لِلۡیُسۡرَىٰ ۝٨ فَذَكِّرۡ إِن نَّفَعَتِ ٱلذِّكۡرَىٰ ۝٩ سَیَذَّكَّرُ مَن یَخۡشَىٰ ۝١٠",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+          "content": "نُوفِّقُكَ للطريقةِ اليُسرى فى كل أمْرٍ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 87,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 26,
+          "tokens": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+          "content": "نُوفِّقُكَ للطريقةِ اليُسرى فى كل أمْرٍ"
+        }
+      ]
+    }
+  ]
+}

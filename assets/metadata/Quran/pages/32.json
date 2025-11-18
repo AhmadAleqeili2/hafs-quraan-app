@@ -1,0 +1,367 @@
+{
+  "pageIndex": 32,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱذۡكُرُوا۟ ٱللَّهَ فِیۤ أَیَّامࣲ مَّعۡدُودَ ٰ⁠تࣲۚ فَمَن تَعَجَّلَ فِی",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 203,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "یَوۡمَیۡنِ فَلَاۤ إِثۡمَ عَلَیۡهِ وَمَن تَأَخَّرَ فَلَاۤ إِثۡمَ عَلَیۡهِۖ لِمَنِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 203,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱتَّقَىٰۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعۡلَمُوۤا۟ أَنَّكُمۡ إِلَیۡهِ تُحۡشَرُونَ ۝٢٠٣",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 203,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَمِنَ ٱلنَّاسِ مَن یُعۡجِبُكَ قَوۡلُهُۥ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 204,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَلَدُّ ٱلْخِصَامِ",
+          "content": "شديد المخاصمة في الباطل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 204
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَیُشۡهِدُ ٱللَّهَ عَلَىٰ مَا فِی قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ ۝٢٠٤",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 204,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَلَدُّ ٱلْخِصَامِ",
+          "content": "شديد المخاصمة في الباطل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 204
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 18,
+          "tokens": "أَلَدُّ ٱلْخِصَامِ",
+          "content": "شديد المخاصمة في الباطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِی ٱلۡأَرۡضِ لِیُفۡسِدَ فِیهَا وَیُهۡلِكَ ٱلۡحَرۡثَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 205,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحَرْثَ",
+          "content": "الزّرع",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 205
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 9,
+          "tokens": "ٱلْحَرْثَ",
+          "content": "الزّرع"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱلنَّسۡلَۚ وَٱللَّهُ لَا یُحِبُّ ٱلۡفَسَادَ ۝٢٠٥ وَإِذَا قِیلَ لَهُ ٱتَّقِ ٱللَّهَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 205,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحَرْثَ",
+          "content": "الزّرع",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 205
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَخَذَتۡهُ ٱلۡعِزَّةُ بِٱلۡإِثۡمِۚ فَحَسۡبُهُۥ جَهَنَّمُۖ وَلَبِئۡسَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 206,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ",
+          "content": "حملته الأنفة والحميّة عليه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        },
+        {
+          "tokens": "فَحَسْبُهُۥ جَهَنَّمُ",
+          "content": "كافيه جزاءً نار جهنّم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        },
+        {
+          "tokens": "وَلَبِئْسَ ٱلْمِهَادُ",
+          "content": "لبئس الفراش والمضجع جهنّم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 34,
+          "tokens": "أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ",
+          "content": "حملته الأنفة والحميّة عليه"
+        },
+        {
+          "start": 35,
+          "length": 22,
+          "tokens": "فَحَسْبُهُۥ جَهَنَّمُ",
+          "content": "كافيه جزاءً نار جهنّم"
+        },
+        {
+          "start": 58,
+          "length": 10,
+          "tokens": "وَلَبِئْسَ ٱلْمِهَادُ",
+          "content": "لبئس الفراش والمضجع جهنّم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡمِهَادُ ۝٢٠٦ وَمِنَ ٱلنَّاسِ مَن یَشۡرِی نَفۡسَهُ ٱبۡتِغَاۤءَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 206,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخَذَتْهُ ٱلْعِزَّةُ بِٱلْإِثْمِ",
+          "content": "حملته الأنفة والحميّة عليه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        },
+        {
+          "tokens": "فَحَسْبُهُۥ جَهَنَّمُ",
+          "content": "كافيه جزاءً نار جهنّم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        },
+        {
+          "tokens": "وَلَبِئْسَ ٱلْمِهَادُ",
+          "content": "لبئس الفراش والمضجع جهنّم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 206
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَلَبِئْسَ ٱلْمِهَادُ",
+          "content": "لبئس الفراش والمضجع جهنّم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَرۡضَاتِ ٱللَّهِۚ وَٱللَّهُ رَءُوفُۢ بِٱلۡعِبَادِ ۝٢٠٧ یَـٰۤأَیُّهَا ٱلَّذِینَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 207,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَشْرِى نَفْسَهُ",
+          "content": "يبيعها ببذلها في طاعة الله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 207
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ءَامَنُوا۟ ٱدۡخُلُوا۟ فِی ٱلسِّلۡمِ كَاۤفَّةࣰ وَلَا تَتَّبِعُوا۟ خُطُوَ ٰ⁠تِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 208,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلسِّلْمِ كَآفَّةً",
+          "content": "في الإسلام وشرائعه كلّها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 208
+        },
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طُرقه وآثاره وأعماله",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 208
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 23,
+          "tokens": "فِى ٱلسِّلْمِ كَآفَّةً",
+          "content": "في الإسلام وشرائعه كلّها"
+        },
+        {
+          "start": 65,
+          "length": 11,
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طُرقه وآثاره وأعماله"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلشَّیۡطَـٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ ۝٢٠٨ فَإِن زَلَلۡتُم مِّنۢ بَعۡدِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 208,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلسِّلْمِ كَآفَّةً",
+          "content": "في الإسلام وشرائعه كلّها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 208
+        },
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طُرقه وآثاره وأعماله",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 208
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طُرقه وآثاره وأعماله"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَا جَاۤءَتۡكُمُ ٱلۡبَیِّنَـٰتُ فَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ عَزِیزٌ حَكِیمٌ ۝٢٠٩",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 209,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَلَلْتُم",
+          "content": "ملتُم وضللتم عن الحقّ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 209
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "هَلۡ یَنظُرُونَ إِلَّاۤ أَن یَأۡتِیَهُمُ ٱللَّهُ فِی ظُلَلࣲ مِّنَ ٱلۡغَمَامِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 210,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ظُلَلٍ مِّنَ ٱلْغَمَامِ",
+          "content": "طاقات من السّحاب الأبيض الرقيق",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 210
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 23,
+          "tokens": "ظُلَلٍ مِّنَ ٱلْغَمَامِ",
+          "content": "طاقات من السّحاب الأبيض الرقيق"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَٱلۡمَلَـٰۤىِٕكَةُ وَقُضِیَ ٱلۡأَمۡرُۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ ۝٢١٠",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 210,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ظُلَلٍ مِّنَ ٱلْغَمَامِ",
+          "content": "طاقات من السّحاب الأبيض الرقيق",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 210
+        }
+      ]
+    }
+  ]
+}

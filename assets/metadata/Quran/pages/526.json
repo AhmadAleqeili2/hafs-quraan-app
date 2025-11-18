@@ -1,0 +1,281 @@
+{
+  "pageIndex": 526,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة النجم",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+          "content": "(قسَم) بالنّجم إذا غرب وسَقط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+          "content": "(قسَم) بالنّجم إذا غرب وسَقط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ ۝١ مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ ۝٢ وَمَا یَنطِقُ عَنِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+          "content": "(قسَم) بالنّجم إذا غرب وسَقط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "وَٱلنَّجْمِ إِذَا هَوَىٰ",
+          "content": "(قسَم) بالنّجم إذا غرب وسَقط"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡهَوَىٰۤ ۝٣ إِنۡ هُوَ إِلَّا وَحۡیࣱ یُوحَىٰ ۝٤ عَلَّمَهُۥ شَدِیدُ ٱلۡقُوَىٰ ۝٥ ذُو مِرَّةࣲ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَٱسۡتَوَىٰ ۝٦ وَهُوَ بِٱلۡأُفُقِ ٱلۡأَعۡلَىٰ ۝٧ ثُمَّ دَنَا فَتَدَلَّىٰ ۝٨ فَكَانَ قَابَ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذُو مِرَّةٍ",
+          "content": "قوة أو خَلْق ٍ حَسَن، أو آثار بديعة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 53,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "فَٱسْتَوَىٰ",
+          "content": "فاسْتقام على صورته الخِلقيّة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "فَٱسْتَوَىٰ",
+          "content": "فاسْتقام على صورته الخِلقيّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "قَوۡسَیۡنِ أَوۡ أَدۡنَىٰ ۝٩ فَأَوۡحَىٰۤ إِلَىٰ عَبۡدِهِۦ مَاۤ أَوۡحَىٰ ۝١٠ مَا كَذَبَ ٱلۡفُؤَادُ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَابَ قَوْسَيْنِ",
+          "content": "قَدْرَ قَوْسَيْن أو ذراعَيْن من النبي صلى الله عليه وسلم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "قَابَ قَوْسَيْنِ",
+          "content": "قَدْرَ قَوْسَيْن أو ذراعَيْن من النبي صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مَا رَأَىٰۤ ۝١١ أَفَتُمَـٰرُونَهُۥ عَلَىٰ مَا یَرَىٰ ۝١٢ وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ ۝١٣",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عِندَ سِدۡرَةِ ٱلۡمُنتَهَىٰ ۝١٤ عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰۤ ۝١٥ إِذۡ یَغۡشَى ٱلسِّدۡرَةَ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سِدْرَةِ ٱلْمُنتَهَىٰ",
+          "content": "التي تنتهي إليها علومُ الخلائق",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 21,
+          "tokens": "سِدْرَةِ ٱلْمُنتَهَىٰ",
+          "content": "التي تنتهي إليها علومُ الخلائق"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَا یَغۡشَىٰ ۝١٦ مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ ۝١٧ لَقَدۡ رَأَىٰ مِنۡ ءَایَـٰتِ رَبِّهِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغْشَى ٱلسِّدْرَةَ",
+          "content": "يُغَطّيها ويسْترها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡكُبۡرَىٰۤ ۝١٨ أَفَرَءَیۡتُمُ ٱللَّـٰتَ وَٱلۡعُزَّىٰ ۝١٩ وَمَنَوٰةَ ٱلثَّالِثَةَ ٱلۡأُخۡرَىٰۤ ۝٢٠",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَقَدْ رَأَىٰ",
+          "content": "ليلة المِعراج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 53,
+          "ayahIndex": 18
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَلَكُمُ ٱلذَّكَرُ وَلَهُ ٱلۡأُنثَىٰ ۝٢١ تِلۡكَ إِذࣰا قِسۡمَةࣱ ضِیزَىٰۤ ۝٢٢ إِنۡ هِیَ إِلَّاۤ أَسۡمَاۤءࣱ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "سَمَّیۡتُمُوهَاۤ أَنتُمۡ وَءَابَاۤؤُكُم مَّاۤ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَـٰنٍۚ إِن یَتَّبِعُونَ إِلَّا",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَاۤءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰۤ ۝٢٣ أَمۡ لِلۡإِنسَـٰنِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَا تَمَنَّىٰ ۝٢٤ فَلِلَّهِ ٱلۡـَٔاخِرَةُ وَٱلۡأُولَىٰ ۝٢٥ وَكَم مِّن مَّلَكࣲ فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمْ لِلْإِنسَٰنِ مَا تَمَنَّىٰ",
+          "content": "بل ألَهُ كل ما يشتهيه – لاَ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 53,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "أَمْ لِلْإِنسَٰنِ مَا تَمَنَّىٰ",
+          "content": "بل ألَهُ كل ما يشتهيه – لاَ"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَا تُغۡنِی شَفَـٰعَتُهُمۡ شَیۡـًٔا إِلَّا مِنۢ بَعۡدِ أَن یَأۡذَنَ ٱللَّهُ لِمَن یَشَاۤءُ وَیَرۡضَىٰۤ ۝٢٦",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تُغْنِى شَفَٰعَتُهُمْ",
+          "content": "لاَ تدفَع، أو لا تنفع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 53,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 26,
+          "tokens": "لَا تُغْنِى شَفَٰعَتُهُمْ",
+          "content": "لاَ تدفَع، أو لا تنفع"
+        }
+      ]
+    }
+  ]
+}

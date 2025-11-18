@@ -1,0 +1,213 @@
+{
+  "pageIndex": 492,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلِبُیُوتِهِمۡ أَبۡوَ ٰ⁠بࣰا وَسُرُرًا عَلَیۡهَا یَتَّكِـُٔونَ ۝٣٤ وَزُخۡرُفࣰاۚ وَإِن",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "كُلُّ ذَ ٰ⁠لِكَ لَمَّا مَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۚ وَٱلۡـَٔاخِرَةُ عِندَ رَبِّكَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَزُخْرُفًا",
+          "content": "ذهبا، أو زينة مزوقة ً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 43,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "لَمَّا مَتَٰعُ",
+          "content": "إلاّ متاع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 15,
+          "tokens": "لَمَّا مَتَٰعُ",
+          "content": "إلاّ متاع"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لِلۡمُتَّقِینَ ۝٣٥ وَمَن یَعۡشُ عَن ذِكۡرِ ٱلرَّحۡمَـٰنِ نُقَیِّضۡ لَهُۥ شَیۡطَـٰنࣰا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَزُخْرُفًا",
+          "content": "ذهبا، أو زينة مزوقة ً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 43,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "لَمَّا مَتَٰعُ",
+          "content": "إلاّ متاع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَهُوَ لَهُۥ قَرِینࣱ ۝٣٦ وَإِنَّهُمۡ لَیَصُدُّونَهُمۡ عَنِ ٱلسَّبِیلِ وَیَحۡسَبُونَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَن يَعْشُ",
+          "content": "من يتعامَ ويُعْرض ويتغافل",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 43,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "نُقَيِّضْ لَهُۥ",
+          "content": "نسبّب، أو نتِحْ له",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "لَهُۥ قَرِينٌ",
+          "content": "مُصاحبٌ له لا يُفارقه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 43,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 13,
+          "tokens": "لَهُۥ قَرِينٌ",
+          "content": "مُصاحبٌ له لا يُفارقه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَنَّهُم مُّهۡتَدُونَ ۝٣٧ حَتَّىٰۤ إِذَا جَاۤءَنَا قَالَ یَـٰلَیۡتَ بَیۡنِی وَبَیۡنَكَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "بُعۡدَ ٱلۡمَشۡرِقَیۡنِ فَبِئۡسَ ٱلۡقَرِینُ ۝٣٨ وَلَن یَنفَعَكُمُ ٱلۡیَوۡمَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِذ ظَّلَمۡتُمۡ أَنَّكُمۡ فِی ٱلۡعَذَابِ مُشۡتَرِكُونَ ۝٣٩ أَفَأَنتَ تُسۡمِعُ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلصُّمَّ أَوۡ تَهۡدِی ٱلۡعُمۡیَ وَمَن كَانَ فِی ضَلَـٰلࣲ مُّبِینࣲ ۝٤٠ فَإِمَّا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "نَذۡهَبَنَّ بِكَ فَإِنَّا مِنۡهُم مُّنتَقِمُونَ ۝٤١ أَوۡ نُرِیَنَّكَ ٱلَّذِی",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَعَدۡنَـٰهُمۡ فَإِنَّا عَلَیۡهِم مُّقۡتَدِرُونَ ۝٤٢ فَٱسۡتَمۡسِكۡ بِٱلَّذِیۤ أُوحِیَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِلَیۡكَۖ إِنَّكَ عَلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝٤٣ وَإِنَّهُۥ لَذِكۡرࣱ لَّكَ وَلِقَوۡمِكَۖ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَسَوۡفَ تُسۡـَٔلُونَ ۝٤٤ وَسۡـَٔلۡ مَنۡ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رُّسُلِنَاۤ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنَّهُۥ لَذِكْرٌ",
+          "content": "إن القرآن لشرفٌ عظيم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 43,
+          "ayahIndex": 44
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَجَعَلۡنَا مِن دُونِ ٱلرَّحۡمَـٰنِ ءَالِهَةࣰ یُعۡبَدُونَ ۝٤٥ وَلَقَدۡ أَرۡسَلۡنَا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "مُوسَىٰ بِـَٔایَـٰتِنَاۤ إِلَىٰ فِرۡعَوۡنَ وَمَلَإِی۟هِۦ فَقَالَ إِنِّی رَسُولُ رَبِّ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡعَـٰلَمِینَ ۝٤٦ فَلَمَّا جَاۤءَهُم بِـَٔایَـٰتِنَاۤ إِذَا هُم مِّنۡهَا یَضۡحَكُونَ ۝٤٧",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

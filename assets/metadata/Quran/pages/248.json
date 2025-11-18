@@ -1,0 +1,353 @@
+{
+  "pageIndex": 248,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَا تَسۡـَٔلُهُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ ۝١٠٤",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَكَأَیِّن مِّنۡ ءَایَةࣲ فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ یَمُرُّونَ عَلَیۡهَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأَيِّن مِّنْ ءَايَةٍ",
+          "content": "كم من آية – كثير من الآيات",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 105
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "وَكَأَيِّن مِّنْ ءَايَةٍ",
+          "content": "كم من آية – كثير من الآيات"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَهُمۡ عَنۡهَا مُعۡرِضُونَ ۝١٠٥ وَمَا یُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأَيِّن مِّنْ ءَايَةٍ",
+          "content": "كم من آية – كثير من الآيات",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 105
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَهُم مُّشۡرِكُونَ ۝١٠٦ أَفَأَمِنُوۤا۟ أَن تَأۡتِیَهُمۡ غَـٰشِیَةࣱ مِّنۡ عَذَابِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهِ أَوۡ تَأۡتِیَهُمُ ٱلسَّاعَةُ بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ ۝١٠٧ قُلۡ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَٰشِيَةٌ",
+          "content": "عقوبة تغشاهم وتُجلّلهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 12,
+          "ayahIndex": 107
+        },
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 8,
+          "tokens": "بَغْتَةً",
+          "content": "فجأة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "هَـٰذِهِۦ سَبِیلِیۤ أَدۡعُوۤا۟ إِلَى ٱللَّهِۚ عَلَىٰ بَصِیرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِیۖ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَسُبۡحَـٰنَ ٱللَّهِ وَمَاۤ أَنَا۠ مِنَ ٱلۡمُشۡرِكِینَ ۝١٠٨ وَمَاۤ أَرۡسَلۡنَا مِن",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "قَبۡلِكَ إِلَّا رِجَالࣰا نُّوحِیۤ إِلَیۡهِم مِّنۡ أَهۡلِ ٱلۡقُرَىٰۤۗ أَفَلَمۡ یَسِیرُوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فِی ٱلۡأَرۡضِ فَیَنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلَّذِینَ مِن",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَبۡلِهِمۡۗ وَلَدَارُ ٱلۡـَٔاخِرَةِ خَیۡرࣱ لِّلَّذِینَ ٱتَّقَوۡا۟ۚ أَفَلَا تَعۡقِلُونَ ۝١٠٩",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "حَتَّىٰۤ إِذَا ٱسۡتَیۡـَٔسَ ٱلرُّسُلُ وَظَنُّوۤا۟ أَنَّهُمۡ قَدۡ كُذِبُوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَيْـَٔسَ ٱلرُّسُلُ",
+          "content": "يئسوا من النّصر لتطاول الزّمن",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَظَنُّوٓا۟",
+          "content": "توهّم الرّسل أو حدّثتهم أنفسهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "قَدْ كُذِبُوا۟",
+          "content": "كذبهم رجاؤهم النّصر في الدّنيا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "بَأْسُنَا",
+          "content": "عذابنا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 22,
+          "tokens": "ٱسْتَيْـَٔسَ ٱلرُّسُلُ",
+          "content": "يئسوا من النّصر لتطاول الزّمن"
+        },
+        {
+          "start": 38,
+          "length": 11,
+          "tokens": "وَظَنُّوٓا۟",
+          "content": "توهّم الرّسل أو حدّثتهم أنفسهم"
+        },
+        {
+          "start": 60,
+          "length": 14,
+          "tokens": "قَدْ كُذِبُوا۟",
+          "content": "كذبهم رجاؤهم النّصر في الدّنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "جَاۤءَهُمۡ نَصۡرُنَا فَنُجِّیَ مَن نَّشَاۤءُۖ وَلَا یُرَدُّ بَأۡسُنَا عَنِ ٱلۡقَوۡمِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَيْـَٔسَ ٱلرُّسُلُ",
+          "content": "يئسوا من النّصر لتطاول الزّمن",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَظَنُّوٓا۟",
+          "content": "توهّم الرّسل أو حدّثتهم أنفسهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "قَدْ كُذِبُوا۟",
+          "content": "كذبهم رجاؤهم النّصر في الدّنيا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "بَأْسُنَا",
+          "content": "عذابنا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 9,
+          "tokens": "بَأْسُنَا",
+          "content": "عذابنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡمُجۡرِمِینَ ۝١١٠ لَقَدۡ كَانَ فِی قَصَصِهِمۡ عِبۡرَةࣱ لِّأُو۟لِی ٱلۡأَلۡبَـٰبِۗ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَيْـَٔسَ ٱلرُّسُلُ",
+          "content": "يئسوا من النّصر لتطاول الزّمن",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَظَنُّوٓا۟",
+          "content": "توهّم الرّسل أو حدّثتهم أنفسهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "قَدْ كُذِبُوا۟",
+          "content": "كذبهم رجاؤهم النّصر في الدّنيا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "بَأْسُنَا",
+          "content": "عذابنا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 12,
+          "ayahIndex": 110
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَا كَانَ حَدِیثࣰا یُفۡتَرَىٰ وَلَـٰكِن تَصۡدِیقَ ٱلَّذِی بَیۡنَ یَدَیۡهِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِبْرَةٌ",
+          "content": "عظة وتذكرة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "يُفْتَرَىٰ",
+          "content": "يُختلق",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 10,
+          "tokens": "يُفْتَرَىٰ",
+          "content": "يُختلق"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَتَفۡصِیلَ كُلِّ شَیۡءࣲ وَهُدࣰى وَرَحۡمَةࣰ لِّقَوۡمࣲ یُؤۡمِنُونَ ۝١١١",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِبْرَةٌ",
+          "content": "عظة وتذكرة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "يُفْتَرَىٰ",
+          "content": "يُختلق",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 111
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "pageIndex": 71,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَىِٕن مُّتُّمۡ أَوۡ قُتِلۡتُمۡ لَإِلَى ٱللَّهِ تُحۡشَرُونَ ۝١٥٨ فَبِمَا رَحۡمَةࣲ مِّنَ ٱللَّهِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 158,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لِنتَ لَهُمۡۖ وَلَوۡ كُنتَ فَظًّا غَلِیظَ ٱلۡقَلۡبِ لَٱنفَضُّوا۟ مِنۡ حَوۡلِكَۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 159,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبِمَا رَحْمَةٍ",
+          "content": "فبرحمة عظيمة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لِنتَ لَهُمْ",
+          "content": "سهّلْتَ لهم أخلاقكَ ولم تُعنِّفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "فَظًّا",
+          "content": "جافيا في المُعاشرة قولا وفعلا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لَٱنفَضُّوا۟",
+          "content": "لتفرّقوا ونفروا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لِنتَ لَهُمْ",
+          "content": "سهّلْتَ لهم أخلاقكَ ولم تُعنِّفهم"
+        },
+        {
+          "start": 27,
+          "length": 6,
+          "tokens": "فَظًّا",
+          "content": "جافيا في المُعاشرة قولا وفعلا"
+        },
+        {
+          "start": 52,
+          "length": 12,
+          "tokens": "لَٱنفَضُّوا۟",
+          "content": "لتفرّقوا ونفروا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَٱعۡفُ عَنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمۡ وَشَاوِرۡهُمۡ فِی ٱلۡأَمۡرِۖ فَإِذَا عَزَمۡتَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 159,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبِمَا رَحْمَةٍ",
+          "content": "فبرحمة عظيمة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لِنتَ لَهُمْ",
+          "content": "سهّلْتَ لهم أخلاقكَ ولم تُعنِّفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "فَظًّا",
+          "content": "جافيا في المُعاشرة قولا وفعلا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لَٱنفَضُّوا۟",
+          "content": "لتفرّقوا ونفروا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّ ٱللَّهَ یُحِبُّ ٱلۡمُتَوَكِّلِینَ ۝١٥٩ إِن یَنصُرۡكُمُ ٱللَّهُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 159,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبِمَا رَحْمَةٍ",
+          "content": "فبرحمة عظيمة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لِنتَ لَهُمْ",
+          "content": "سهّلْتَ لهم أخلاقكَ ولم تُعنِّفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "فَظًّا",
+          "content": "جافيا في المُعاشرة قولا وفعلا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        },
+        {
+          "tokens": "لَٱنفَضُّوا۟",
+          "content": "لتفرّقوا ونفروا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 159
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَلَا غَالِبَ لَكُمۡۖ وَإِن یَخۡذُلۡكُمۡ فَمَن ذَا ٱلَّذِی یَنصُرُكُم مِّنۢ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا غَالِبَ لَكُمْ",
+          "content": "فلا قاهر ولا خاذل لكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 160
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "فَلَا غَالِبَ لَكُمْ",
+          "content": "فلا قاهر ولا خاذل لكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَعۡدِهِۦۗ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ ۝١٦٠ وَمَا كَانَ لِنَبِیٍّ أَن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا غَالِبَ لَكُمْ",
+          "content": "فلا قاهر ولا خاذل لكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 160
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَغُلَّۚ وَمَن یَغۡلُلۡ یَأۡتِ بِمَا غَلَّ یَوۡمَ ٱلۡقِیَـٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغُلَّ",
+          "content": "يخون في الغنيمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 161
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "يَغُلَّ",
+          "content": "يخون في الغنيمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ ۝١٦١ أَفَمَنِ ٱتَّبَعَ رِضۡوَ ٰ⁠نَ ٱللَّهِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغُلَّ",
+          "content": "يخون في الغنيمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 161
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَمَنۢ بَاۤءَ بِسَخَطࣲ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِیرُ ۝١٦٢",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 162,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَآءَ بِسَخَطٍ",
+          "content": "رجع متلبِّسا بعضب شديد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 162
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 15,
+          "tokens": "بَآءَ بِسَخَطٍ",
+          "content": "رجع متلبِّسا بعضب شديد"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "هُمۡ دَرَجَـٰتٌ عِندَ ٱللَّهِۗ وَٱللَّهُ بَصِیرُۢ بِمَا یَعۡمَلُونَ ۝١٦٣ لَقَدۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 163,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَنَّ ٱللَّهُ عَلَى ٱلۡمُؤۡمِنِینَ إِذۡ بَعَثَ فِیهِمۡ رَسُولࣰا مِّنۡ أَنفُسِهِمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 164,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُزَكِّيهِمْ",
+          "content": "يُطهّرهم من أدناس الجاهلية",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 164
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَتۡلُوا۟ عَلَیۡهِمۡ ءَایَـٰتِهِۦ وَیُزَكِّیهِمۡ وَیُعَلِّمُهُمُ ٱلۡكِتَـٰبَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 164,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُزَكِّيهِمْ",
+          "content": "يُطهّرهم من أدناس الجاهلية",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 164
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 14,
+          "tokens": "وَيُزَكِّيهِمْ",
+          "content": "يُطهّرهم من أدناس الجاهلية"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱلۡحِكۡمَةَ وَإِن كَانُوا۟ مِن قَبۡلُ لَفِی ضَلَـٰلࣲ مُّبِینٍ ۝١٦٤ أَوَلَمَّاۤ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 164,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُزَكِّيهِمْ",
+          "content": "يُطهّرهم من أدناس الجاهلية",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 164
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَصَـٰبَتۡكُم مُّصِیبَةࣱ قَدۡ أَصَبۡتُم مِّثۡلَیۡهَا قُلۡتُمۡ أَنَّىٰ هَـٰذَاۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 165,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنَّىٰ هَٰذَا",
+          "content": "من أين لنا هذا الخذلان ؟",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 165
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 62,
+          "length": 16,
+          "tokens": "أَنَّىٰ هَٰذَا",
+          "content": "من أين لنا هذا الخذلان ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "قُلۡ هُوَ مِنۡ عِندِ أَنفُسِكُمۡۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝١٦٥",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 165,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنَّىٰ هَٰذَا",
+          "content": "من أين لنا هذا الخذلان ؟",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 165
+        }
+      ]
+    }
+  ]
+}

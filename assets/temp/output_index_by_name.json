@@ -1,0 +1,458 @@
+{
+  "الفاتحة": {
+    "index": 0,
+    "ayah_count": 7
+  },
+  "البقرة": {
+    "index": 1,
+    "ayah_count": 287
+  },
+  "آل عمران": {
+    "index": 2,
+    "ayah_count": 201
+  },
+  "النساء": {
+    "index": 3,
+    "ayah_count": 177
+  },
+  "المائدة": {
+    "index": 4,
+    "ayah_count": 121
+  },
+  "الأنعام": {
+    "index": 5,
+    "ayah_count": 166
+  },
+  "الأعراف": {
+    "index": 6,
+    "ayah_count": 207
+  },
+  "الأنفال": {
+    "index": 7,
+    "ayah_count": 76
+  },
+  "التوبة": {
+    "index": 8,
+    "ayah_count": 129
+  },
+  "يونس": {
+    "index": 9,
+    "ayah_count": 110
+  },
+  "هود": {
+    "index": 10,
+    "ayah_count": 124
+  },
+  "يوسف": {
+    "index": 11,
+    "ayah_count": 112
+  },
+  "الرعد": {
+    "index": 12,
+    "ayah_count": 44
+  },
+  "إبراهيم": {
+    "index": 13,
+    "ayah_count": 53
+  },
+  "الحجر": {
+    "index": 14,
+    "ayah_count": 100
+  },
+  "النحل": {
+    "index": 15,
+    "ayah_count": 129
+  },
+  "الإسراء": {
+    "index": 16,
+    "ayah_count": 112
+  },
+  "الكهف": {
+    "index": 17,
+    "ayah_count": 111
+  },
+  "مريم": {
+    "index": 18,
+    "ayah_count": 99
+  },
+  "طه": {
+    "index": 19,
+    "ayah_count": 136
+  },
+  "الأنبياء": {
+    "index": 20,
+    "ayah_count": 113
+  },
+  "الحج": {
+    "index": 21,
+    "ayah_count": 79
+  },
+  "المؤمنون": {
+    "index": 22,
+    "ayah_count": 119
+  },
+  "النور": {
+    "index": 23,
+    "ayah_count": 65
+  },
+  "الفرقان": {
+    "index": 24,
+    "ayah_count": 78
+  },
+  "الشعراء": {
+    "index": 25,
+    "ayah_count": 228
+  },
+  "النمل": {
+    "index": 26,
+    "ayah_count": 94
+  },
+  "القصص": {
+    "index": 27,
+    "ayah_count": 89
+  },
+  "العنكبوت": {
+    "index": 28,
+    "ayah_count": 70
+  },
+  "الروم": {
+    "index": 29,
+    "ayah_count": 61
+  },
+  "لقمان": {
+    "index": 30,
+    "ayah_count": 35
+  },
+  "السجدة": {
+    "index": 31,
+    "ayah_count": 31
+  },
+  "الأحزاب": {
+    "index": 32,
+    "ayah_count": 74
+  },
+  "سبأ": {
+    "index": 33,
+    "ayah_count": 55
+  },
+  "فاطر": {
+    "index": 34,
+    "ayah_count": 46
+  },
+  "يس": {
+    "index": 35,
+    "ayah_count": 84
+  },
+  "الصافات": {
+    "index": 36,
+    "ayah_count": 183
+  },
+  "ص": {
+    "index": 37,
+    "ayah_count": 89
+  },
+  "الزمر": {
+    "index": 38,
+    "ayah_count": 76
+  },
+  "غافر": {
+    "index": 39,
+    "ayah_count": 86
+  },
+  "فصلت": {
+    "index": 40,
+    "ayah_count": 55
+  },
+  "الشورى": {
+    "index": 41,
+    "ayah_count": 54
+  },
+  "الزخرف": {
+    "index": 42,
+    "ayah_count": 90
+  },
+  "الدخان": {
+    "index": 43,
+    "ayah_count": 60
+  },
+  "الجاثية": {
+    "index": 44,
+    "ayah_count": 38
+  },
+  "الأحقاف": {
+    "index": 45,
+    "ayah_count": 36
+  },
+  "محمد": {
+    "index": 46,
+    "ayah_count": 39
+  },
+  "الفتح": {
+    "index": 47,
+    "ayah_count": 30
+  },
+  "الحجرات": {
+    "index": 48,
+    "ayah_count": 19
+  },
+  "ق": {
+    "index": 49,
+    "ayah_count": 46
+  },
+  "الذاريات": {
+    "index": 50,
+    "ayah_count": 61
+  },
+  "الطور": {
+    "index": 51,
+    "ayah_count": 50
+  },
+  "النجم": {
+    "index": 52,
+    "ayah_count": 63
+  },
+  "القمر": {
+    "index": 53,
+    "ayah_count": 56
+  },
+  "الرحمن": {
+    "index": 54,
+    "ayah_count": 79
+  },
+  "الواقعة": {
+    "index": 55,
+    "ayah_count": 97
+  },
+  "الحديد": {
+    "index": 56,
+    "ayah_count": 30
+  },
+  "المجادلة": {
+    "index": 57,
+    "ayah_count": 23
+  },
+  "الحشر": {
+    "index": 58,
+    "ayah_count": 25
+  },
+  "الممتحنة": {
+    "index": 59,
+    "ayah_count": 14
+  },
+  "الصف": {
+    "index": 60,
+    "ayah_count": 15
+  },
+  "الجمعة": {
+    "index": 61,
+    "ayah_count": 12
+  },
+  "المنافقون": {
+    "index": 62,
+    "ayah_count": 12
+  },
+  "التغابن": {
+    "index": 63,
+    "ayah_count": 19
+  },
+  "الطلاق": {
+    "index": 64,
+    "ayah_count": 13
+  },
+  "التحريم": {
+    "index": 65,
+    "ayah_count": 13
+  },
+  "الملك": {
+    "index": 66,
+    "ayah_count": 31
+  },
+  "القلم": {
+    "index": 67,
+    "ayah_count": 53
+  },
+  "الحاقة": {
+    "index": 68,
+    "ayah_count": 53
+  },
+  "المعارج": {
+    "index": 69,
+    "ayah_count": 45
+  },
+  "نوح": {
+    "index": 70,
+    "ayah_count": 29
+  },
+  "الجن": {
+    "index": 71,
+    "ayah_count": 29
+  },
+  "المزمل": {
+    "index": 72,
+    "ayah_count": 21
+  },
+  "المدثر": {
+    "index": 73,
+    "ayah_count": 57
+  },
+  "القيامة": {
+    "index": 74,
+    "ayah_count": 41
+  },
+  "الإنسان": {
+    "index": 75,
+    "ayah_count": 32
+  },
+  "المرسلات": {
+    "index": 76,
+    "ayah_count": 51
+  },
+  "النبأ": {
+    "index": 77,
+    "ayah_count": 41
+  },
+  "النازعات": {
+    "index": 78,
+    "ayah_count": 47
+  },
+  "عبس": {
+    "index": 79,
+    "ayah_count": 43
+  },
+  "التكوير": {
+    "index": 80,
+    "ayah_count": 30
+  },
+  "الانفطار": {
+    "index": 81,
+    "ayah_count": 20
+  },
+  "المطففين": {
+    "index": 82,
+    "ayah_count": 37
+  },
+  "الانشقاق": {
+    "index": 83,
+    "ayah_count": 26
+  },
+  "البروج": {
+    "index": 84,
+    "ayah_count": 23
+  },
+  "الطارق": {
+    "index": 85,
+    "ayah_count": 18
+  },
+  "الأعلى": {
+    "index": 86,
+    "ayah_count": 20
+  },
+  "الغاشية": {
+    "index": 87,
+    "ayah_count": 27
+  },
+  "الفجر": {
+    "index": 88,
+    "ayah_count": 31
+  },
+  "البلد": {
+    "index": 89,
+    "ayah_count": 21
+  },
+  "الشمس": {
+    "index": 90,
+    "ayah_count": 16
+  },
+  "الليل": {
+    "index": 91,
+    "ayah_count": 22
+  },
+  "الضحى": {
+    "index": 92,
+    "ayah_count": 12
+  },
+  "الشرح": {
+    "index": 93,
+    "ayah_count": 9
+  },
+  "التين": {
+    "index": 94,
+    "ayah_count": 9
+  },
+  "العلق": {
+    "index": 95,
+    "ayah_count": 20
+  },
+  "القدر": {
+    "index": 96,
+    "ayah_count": 6
+  },
+  "البينة": {
+    "index": 97,
+    "ayah_count": 9
+  },
+  "الزلزلة": {
+    "index": 98,
+    "ayah_count": 9
+  },
+  "العاديات": {
+    "index": 99,
+    "ayah_count": 12
+  },
+  "القارعة": {
+    "index": 100,
+    "ayah_count": 12
+  },
+  "التكاثر": {
+    "index": 101,
+    "ayah_count": 9
+  },
+  "العصر": {
+    "index": 102,
+    "ayah_count": 4
+  },
+  "الهمزة": {
+    "index": 103,
+    "ayah_count": 10
+  },
+  "الفيل": {
+    "index": 104,
+    "ayah_count": 6
+  },
+  "قريش": {
+    "index": 105,
+    "ayah_count": 5
+  },
+  "الماعون": {
+    "index": 106,
+    "ayah_count": 8
+  },
+  "الكوثر": {
+    "index": 107,
+    "ayah_count": 4
+  },
+  "الكافرون": {
+    "index": 108,
+    "ayah_count": 7
+  },
+  "النصر": {
+    "index": 109,
+    "ayah_count": 4
+  },
+  "المسد": {
+    "index": 110,
+    "ayah_count": 6
+  },
+  "الإخلاص": {
+    "index": 111,
+    "ayah_count": 5
+  },
+  "الفلق": {
+    "index": 112,
+    "ayah_count": 6
+  },
+  "الناس": {
+    "index": 113,
+    "ayah_count": 7
+  }
+}

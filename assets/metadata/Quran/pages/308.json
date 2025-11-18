@@ -1,0 +1,325 @@
+{
+  "pageIndex": 308,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَنذِرۡهُمۡ یَوۡمَ ٱلۡحَسۡرَةِ إِذۡ قُضِیَ ٱلۡأَمۡرُ وَهُمۡ فِی غَفۡلَةࣲ وَهُمۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَوْمَ ٱلْحَسْرَةِ",
+          "content": "النّدامة الشّديدة على ما فات",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 19,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 18,
+          "tokens": "يَوْمَ ٱلْحَسْرَةِ",
+          "content": "النّدامة الشّديدة على ما فات"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَا یُؤۡمِنُونَ ۝٣٩ إِنَّا نَحۡنُ نَرِثُ ٱلۡأَرۡضَ وَمَنۡ عَلَیۡهَا وَإِلَیۡنَا یُرۡجَعُونَ ۝٤٠",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَوْمَ ٱلْحَسْرَةِ",
+          "content": "النّدامة الشّديدة على ما فات",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 19,
+          "ayahIndex": 39
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ إِبۡرَ ٰ⁠هِیمَۚ إِنَّهُۥ كَانَ صِدِّیقࣰا نَّبِیًّا ۝٤١ إِذۡ قَالَ لِأَبِیهِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَـٰۤأَبَتِ لِمَ تَعۡبُدُ مَا لَا یَسۡمَعُ وَلَا یُبۡصِرُ وَلَا یُغۡنِی عَنكَ شَیۡـࣰٔا ۝٤٢",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَـٰۤأَبَتِ إِنِّی قَدۡ جَاۤءَنِی مِنَ ٱلۡعِلۡمِ مَا لَمۡ یَأۡتِكَ فَٱتَّبِعۡنِیۤ أَهۡدِكَ صِرَ ٰ⁠طࣰا",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صِرَٰطًا سَوِيًّا",
+          "content": "طريقا مُستقيما مُنجيا من الضلال",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 19,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 91,
+          "length": 10,
+          "tokens": "صِرَٰطًا سَوِيًّا",
+          "content": "طريقا مُستقيما مُنجيا من الضلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "سَوِیࣰّا ۝٤٣ یَـٰۤأَبَتِ لَا تَعۡبُدِ ٱلشَّیۡطَـٰنَۖ إِنَّ ٱلشَّیۡطَـٰنَ كَانَ لِلرَّحۡمَـٰنِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صِرَٰطًا سَوِيًّا",
+          "content": "طريقا مُستقيما مُنجيا من الضلال",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 19,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "صِرَٰطًا سَوِيًّا",
+          "content": "طريقا مُستقيما مُنجيا من الضلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَصِیࣰّا ۝٤٤ یَـٰۤأَبَتِ إِنِّیۤ أَخَافُ أَن یَمَسَّكَ عَذَابࣱ مِّنَ ٱلرَّحۡمَـٰنِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَصِيًّا",
+          "content": "كثير العصيان",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "عَصِيًّا",
+          "content": "كثير العصيان"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَتَكُونَ لِلشَّیۡطَـٰنِ وَلِیࣰّا ۝٤٥ قَالَ أَرَاغِبٌ أَنتَ عَنۡ ءَالِهَتِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِيًّا",
+          "content": "قرينا تليه ويليك في النّار",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 19,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 8,
+          "tokens": "وَلِيًّا",
+          "content": "قرينا تليه ويليك في النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَـٰۤإِبۡرَ ٰ⁠هِیمُۖ لَىِٕن لَّمۡ تَنتَهِ لَأَرۡجُمَنَّكَۖ وَٱهۡجُرۡنِی مَلِیࣰّا ۝٤٦ قَالَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱهْجُرْنِى مَلِيًّا",
+          "content": "اجتنبني وفارقني دهرا طويلا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 19,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 21,
+          "tokens": "وَٱهْجُرْنِى مَلِيًّا",
+          "content": "اجتنبني وفارقني دهرا طويلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "سَلَـٰمٌ عَلَیۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّیۤۖ إِنَّهُۥ كَانَ بِی حَفِیࣰّا ۝٤٧",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَفِيًّا",
+          "content": "برّا لطيفا أو رحيما مُكرما",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 19,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 67,
+          "length": 8,
+          "tokens": "حَفِيًّا",
+          "content": "برّا لطيفا أو رحيما مُكرما"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَأَعۡتَزِلُكُمۡ وَمَا تَدۡعُونَ مِن دُونِ ٱللَّهِ وَأَدۡعُوا۟ رَبِّی عَسَىٰۤ أَلَّاۤ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَقِيًّا",
+          "content": "خائبا ضائع السّعي",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 19,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَكُونَ بِدُعَاۤءِ رَبِّی شَقِیࣰّا ۝٤٨ فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا یَعۡبُدُونَ مِن",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَقِيًّا",
+          "content": "خائبا ضائع السّعي",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 19,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 8,
+          "tokens": "شَقِيًّا",
+          "content": "خائبا ضائع السّعي"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "دُونِ ٱللَّهِ وَهَبۡنَا لَهُۥۤ إِسۡحَـٰقَ وَیَعۡقُوبَۖ وَكُلࣰّا جَعَلۡنَا نَبِیࣰّا ۝٤٩",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِیࣰّا ۝٥٠",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِسَانَ صِدْقٍ",
+          "content": "ثناءً حسنا في أهل كلّ دين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 14,
+          "tokens": "لِسَانَ صِدْقٍ",
+          "content": "ثناءً حسنا في أهل كلّ دين"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ مُوسَىٰۤۚ إِنَّهُۥ كَانَ مُخۡلَصࣰا وَكَانَ رَسُولࣰا نَّبِیࣰّا ۝٥١",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ مُخْلَصًا",
+          "content": "أخلصه الله واصطفاه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 19,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 15,
+          "tokens": "كَانَ مُخْلَصًا",
+          "content": "أخلصه الله واصطفاه"
+        }
+      ]
+    }
+  ]
+}

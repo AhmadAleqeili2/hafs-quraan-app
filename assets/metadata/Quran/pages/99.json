@@ -1,0 +1,309 @@
+{
+  "pageIndex": 99,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضࣰا فَلَا جُنَاحَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَعْلِهَا",
+          "content": "زوجِها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "نُشُوزًا",
+          "content": "تجافيًا عنها ظُلما",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "ٱلشُّحَّ",
+          "content": "البُخل مع الحِرص",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 9,
+          "tokens": "بَعْلِهَا",
+          "content": "زوجِها"
+        },
+        {
+          "start": 40,
+          "length": 8,
+          "tokens": "نُشُوزًا",
+          "content": "تجافيًا عنها ظُلما"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَلَیۡهِمَاۤ أَن یُصۡلِحَا بَیۡنَهُمَا صُلۡحࣰاۚ وَٱلصُّلۡحُ خَیۡرࣱۗ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَعْلِهَا",
+          "content": "زوجِها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "نُشُوزًا",
+          "content": "تجافيًا عنها ظُلما",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "ٱلشُّحَّ",
+          "content": "البُخل مع الحِرص",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَعْلِهَا",
+          "content": "زوجِها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "نُشُوزًا",
+          "content": "تجافيًا عنها ظُلما",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "ٱلشُّحَّ",
+          "content": "البُخل مع الحِرص",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 9,
+          "tokens": "ٱلشُّحَّ",
+          "content": "البُخل مع الحِرص"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا ۝١٢٨ وَلَن تَسۡتَطِیعُوۤا۟ أَن تَعۡدِلُوا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَعْلِهَا",
+          "content": "زوجِها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "نُشُوزًا",
+          "content": "تجافيًا عنها ظُلما",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "ٱلشُّحَّ",
+          "content": "البُخل مع الحِرص",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 128
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بَیۡنَ ٱلنِّسَاۤءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِیلُوا۟ كُلَّ ٱلۡمَیۡلِ فَتَذَرُوهَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 129,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "في المحبّة وميل القلب والمُؤانسة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 129
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 129,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "في المحبّة وميل القلب والمُؤانسة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 129
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "غَفُورࣰا رَّحِیمࣰا ۝١٢٩ وَإِن یَتَفَرَّقَا یُغۡنِ ٱللَّهُ كُلࣰّا مِّن سَعَتِهِۦۚ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 129,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "في المحبّة وميل القلب والمُؤانسة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 129
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَكَانَ ٱللَّهُ وَ ٰ⁠سِعًا حَكِیمࣰا ۝١٣٠ وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 130,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَعَتِهِۦ",
+          "content": "فضلِه وغناه ورزقه",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 4,
+          "ayahIndex": 130
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَمَا فِی ٱلۡأَرۡضِۗ وَلَقَدۡ وَصَّیۡنَا ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ مِن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَبۡلِكُمۡ وَإِیَّاكُمۡ أَنِ ٱتَّقُوا۟ ٱللَّهَۚ وَإِن تَكۡفُرُوا۟ فَإِنَّ لِلَّهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ غَنِیًّا حَمِیدࣰا ۝١٣١",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلًا ۝١٣٢",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 132,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكِيلًا",
+          "content": "شهيدا أو دافعا ومُجيرًا أو قيّما",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 132
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 75,
+          "length": 8,
+          "tokens": "وَكِيلًا",
+          "content": "شهيدا أو دافعا ومُجيرًا أو قيّما"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِن یَشَأۡ یُذۡهِبۡكُمۡ أَیُّهَا ٱلنَّاسُ وَیَأۡتِ بِـَٔاخَرِینَۚ وَكَانَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهُ عَلَىٰ ذَ ٰ⁠لِكَ قَدِیرࣰا ۝١٣٣ مَّن كَانَ یُرِیدُ ثَوَابَ ٱلدُّنۡیَا فَعِندَ ٱللَّهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ثَوَابُ ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِۚ وَكَانَ ٱللَّهُ سَمِیعَۢا بَصِیرࣰا ۝١٣٤",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 134,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

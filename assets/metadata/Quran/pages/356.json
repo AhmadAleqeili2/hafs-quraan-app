@@ -1,0 +1,213 @@
+{
+  "pageIndex": 356,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یُقَلِّبُ ٱللَّهُ ٱلَّیۡلَ وَٱلنَّهَارَۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَعِبۡرَةࣰ لِّأُو۟لِی ٱلۡأَبۡصَـٰرِ ۝٤٤",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَٱللَّهُ خَلَقَ كُلَّ دَاۤبَّةࣲ مِّن مَّاۤءࣲۖ فَمِنۡهُم مَّن یَمۡشِی عَلَىٰ بَطۡنِهِۦ وَمِنۡهُم مَّن",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَمۡشِی عَلَىٰ رِجۡلَیۡنِ وَمِنۡهُم مَّن یَمۡشِی عَلَىٰۤ أَرۡبَعࣲۚ یَخۡلُقُ ٱللَّهُ مَا یَشَاۤءُۚ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝٤٥ لَّقَدۡ أَنزَلۡنَاۤ ءَایَـٰتࣲ مُّبَیِّنَـٰتࣲۚ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱللَّهُ یَهۡدِی مَن یَشَاۤءُ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝٤٦ وَیَقُولُونَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعۡنَا ثُمَّ یَتَوَلَّىٰ فَرِیقࣱ مِّنۡهُم مِّنۢ بَعۡدِ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ذَ ٰ⁠لِكَۚ وَمَاۤ أُو۟لَـٰۤىِٕكَ بِٱلۡمُؤۡمِنِینَ ۝٤٧ وَإِذَا دُعُوۤا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "لِیَحۡكُمَ بَیۡنَهُمۡ إِذَا فَرِیقࣱ مِّنۡهُم مُّعۡرِضُونَ ۝٤٨ وَإِن یَكُن لَّهُمُ ٱلۡحَقُّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَأۡتُوۤا۟ إِلَیۡهِ مُذۡعِنِینَ ۝٤٩ أَفِی قُلُوبِهِم مَّرَضٌ أَمِ ٱرۡتَابُوۤا۟ أَمۡ یَخَافُونَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُذْعِنِينَ",
+          "content": "منقادين مُطيعين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 24,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 11,
+          "tokens": "مُذْعِنِينَ",
+          "content": "منقادين مُطيعين"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن یَحِیفَ ٱللَّهُ عَلَیۡهِمۡ وَرَسُولُهُۥۚ بَلۡ أُو۟لَـٰۤىِٕكَ هُمُ ٱلظَّـٰلِمُونَ ۝٥٠ إِنَّمَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَحِيفَ",
+          "content": "أن يجور",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 24,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "أَن يَحِيفَ",
+          "content": "أن يجور"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "كَانَ قَوۡلَ ٱلۡمُؤۡمِنِینَ إِذَا دُعُوۤا۟ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِیَحۡكُمَ بَیۡنَهُمۡ أَن",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَقُولُوا۟ سَمِعۡنَا وَأَطَعۡنَاۚ وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ ۝٥١ وَمَن",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "یُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَیَخۡشَ ٱللَّهَ وَیَتَّقۡهِ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡفَاۤىِٕزُونَ ۝٥٢",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَأَقۡسَمُوا۟ بِٱللَّهِ جَهۡدَ أَیۡمَـٰنِهِمۡ لَىِٕنۡ أَمَرۡتَهُمۡ لَیَخۡرُجُنَّۖ قُل",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْدَ أَيْمَٰنِهِمْ",
+          "content": "مجتهدين في الحلف بأغلظها وأوكدها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "طَاعَةٌ مَّعْرُوفَةٌ",
+          "content": "طاعتكم طاعة معروفة باللسان",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 24,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 21,
+          "tokens": "جَهْدَ أَيْمَٰنِهِمْ",
+          "content": "مجتهدين في الحلف بأغلظها وأوكدها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَّا تُقۡسِمُوا۟ۖ طَاعَةࣱ مَّعۡرُوفَةٌۚ إِنَّ ٱللَّهَ خَبِیرُۢ بِمَا تَعۡمَلُونَ ۝٥٣",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْدَ أَيْمَٰنِهِمْ",
+          "content": "مجتهدين في الحلف بأغلظها وأوكدها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "طَاعَةٌ مَّعْرُوفَةٌ",
+          "content": "طاعتكم طاعة معروفة باللسان",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 24,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 21,
+          "tokens": "طَاعَةٌ مَّعْرُوفَةٌ",
+          "content": "طاعتكم طاعة معروفة باللسان"
+        }
+      ]
+    }
+  ]
+}

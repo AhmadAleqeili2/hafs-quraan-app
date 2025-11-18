@@ -1,0 +1,331 @@
+{
+  "pageIndex": 131,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "بَلۡ بَدَا لَهُم مَّا كَانُوا۟ یُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّوا۟ لَعَادُوا۟ لِمَا نُهُوا۟ عَنۡهُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِنَّهُمۡ لَكَـٰذِبُونَ ۝٢٨ وَقَالُوۤا۟ إِنۡ هِیَ إِلَّا حَیَاتُنَا ٱلدُّنۡیَا وَمَا نَحۡنُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِمَبۡعُوثِینَ ۝٢٩ وَلَوۡ تَرَىٰۤ إِذۡ وُقِفُوا۟ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَیۡسَ هَـٰذَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِٱلۡحَقِّۚ قَالُوا۟ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ ۝٣٠",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وُقِفُوا۟ عَلَىٰ رَبِّهِمْ",
+          "content": "حُبسوا على حُكمه تعالى للسّؤال",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 6,
+          "ayahIndex": 30
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "قَدۡ خَسِرَ ٱلَّذِینَ كَذَّبُوا۟ بِلِقَاۤءِ ٱللَّهِۖ حَتَّىٰۤ إِذَا جَاۤءَتۡهُمُ ٱلسَّاعَةُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة من غير شعور",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "فَرَّطْنَا فِيهَا",
+          "content": "قصّرنا وضيّعنا في الحياة الدّنيا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "ذنوبهم وخطاياهم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَغۡتَةࣰ قَالُوا۟ یَـٰحَسۡرَتَنَا عَلَىٰ مَا فَرَّطۡنَا فِیهَا وَهُمۡ یَحۡمِلُونَ أَوۡزَارَهُمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة من غير شعور",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "فَرَّطْنَا فِيهَا",
+          "content": "قصّرنا وضيّعنا في الحياة الدّنيا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "ذنوبهم وخطاياهم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "بَغْتَةً",
+          "content": "فجأة من غير شعور"
+        },
+        {
+          "start": 45,
+          "length": 17,
+          "tokens": "فَرَّطْنَا فِيهَا",
+          "content": "قصّرنا وضيّعنا في الحياة الدّنيا"
+        },
+        {
+          "start": 82,
+          "length": 13,
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "ذنوبهم وخطاياهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَلَىٰ ظُهُورِهِمۡۚ أَلَا سَاۤءَ مَا یَزِرُونَ ۝٣١ وَمَا ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۤ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة من غير شعور",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "فَرَّطْنَا فِيهَا",
+          "content": "قصّرنا وضيّعنا في الحياة الدّنيا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "ذنوبهم وخطاياهم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِلَّا لَعِبࣱ وَلَهۡوࣱۖ وَلَلدَّارُ ٱلۡـَٔاخِرَةُ خَیۡرࣱ لِّلَّذِینَ یَتَّقُونَۚ أَفَلَا تَعۡقِلُونَ ۝٣٢",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "قَدۡ نَعۡلَمُ إِنَّهُۥ لَیَحۡزُنُكَ ٱلَّذِی یَقُولُونَۖ فَإِنَّهُمۡ لَا یُكَذِّبُونَكَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَـٰكِنَّ ٱلظَّـٰلِمِینَ بِـَٔایَـٰتِ ٱللَّهِ یَجۡحَدُونَ ۝٣٣ وَلَقَدۡ كُذِّبَتۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "رُسُلࣱ مِّن قَبۡلِكَ فَصَبَرُوا۟ عَلَىٰ مَا كُذِّبُوا۟ وَأُوذُوا۟ حَتَّىٰۤ أَتَىٰهُمۡ نَصۡرُنَاۚ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِكَلِمَٰتِ ٱللَّهِ",
+          "content": "آيات وعده بنصر رسله",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 34
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلَا مُبَدِّلَ لِكَلِمَـٰتِ ٱللَّهِۚ وَلَقَدۡ جَاۤءَكَ مِن نَّبَإِی۟ ٱلۡمُرۡسَلِینَ ۝٣٤",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِكَلِمَٰتِ ٱللَّهِ",
+          "content": "آيات وعده بنصر رسله",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 21,
+          "tokens": "لِكَلِمَٰتِ ٱللَّهِ",
+          "content": "آيات وعده بنصر رسله"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَإِن كَانَ كَبُرَ عَلَیۡكَ إِعۡرَاضُهُمۡ فَإِنِ ٱسۡتَطَعۡتَ أَن تَبۡتَغِیَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَبُرَ عَلَيْكَ",
+          "content": "شقّ وعظُم عليك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "نَفَقًا فِى ٱلْأَرْضِ",
+          "content": "سربا فيها ينفذ إلى ما تحتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 15,
+          "tokens": "كَبُرَ عَلَيْكَ",
+          "content": "شقّ وعظُم عليك"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "نَفَقࣰا فِی ٱلۡأَرۡضِ أَوۡ سُلَّمࣰا فِی ٱلسَّمَاۤءِ فَتَأۡتِیَهُم بِـَٔایَةࣲۚ وَلَوۡ شَاۤءَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَبُرَ عَلَيْكَ",
+          "content": "شقّ وعظُم عليك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "نَفَقًا فِى ٱلْأَرْضِ",
+          "content": "سربا فيها ينفذ إلى ما تحتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "نَفَقًا فِى ٱلْأَرْضِ",
+          "content": "سربا فيها ينفذ إلى ما تحتها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهُ لَجَمَعَهُمۡ عَلَى ٱلۡهُدَىٰۚ فَلَا تَكُونَنَّ مِنَ ٱلۡجَـٰهِلِینَ ۝٣٥",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَبُرَ عَلَيْكَ",
+          "content": "شقّ وعظُم عليك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "نَفَقًا فِى ٱلْأَرْضِ",
+          "content": "سربا فيها ينفذ إلى ما تحتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 35
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "pageIndex": 460,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قُلۡ إِنِّیۤ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصࣰا لَّهُ ٱلدِّینَ ۝١١ وَأُمِرۡتُ لِأَنۡ أَكُونَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَوَّلَ ٱلۡمُسۡلِمِینَ ۝١٢ قُلۡ إِنِّیۤ أَخَافُ إِنۡ عَصَیۡتُ رَبِّی عَذَابَ یَوۡمٍ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "عَظِیمࣲ ۝١٣ قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصࣰا لَّهُۥ دِینِی ۝١٤ فَٱعۡبُدُوا۟ مَا شِئۡتُم مِّن",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "دُونِهِۦۗ قُلۡ إِنَّ ٱلۡخَـٰسِرِینَ ٱلَّذِینَ خَسِرُوۤا۟ أَنفُسَهُمۡ وَأَهۡلِیهِمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۗ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَلَا ذَ ٰ⁠لِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِینُ ۝١٥ لَهُم مِّن فَوۡقِهِمۡ ظُلَلࣱ مِّنَ ٱلنَّارِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمِن تَحۡتِهِمۡ ظُلَلࣱۚ ذَ ٰ⁠لِكَ یُخَوِّفُ ٱللَّهُ بِهِۦ عِبَادَهُۥۚ یَـٰعِبَادِ فَٱتَّقُونِ ۝١٦",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ظُلَلٌ مِّنَ ٱلنَّارِ",
+          "content": "أطباق منها كثيرة متراكمة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱلَّذِینَ ٱجۡتَنَبُوا۟ ٱلطَّـٰغُوتَ أَن یَعۡبُدُوهَا وَأَنَابُوۤا۟ إِلَى ٱللَّهِ لَهُمُ ٱلۡبُشۡرَىٰۚ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَنَبُوا۟ ٱلطَّٰغُوتَ",
+          "content": "الأوثان والمعبودات الباطلة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "وَأَنَابُوٓا۟ إِلَى ٱللَّهِ",
+          "content": "رجعوا إلى عبادته وحده",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 39,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 25,
+          "tokens": "ٱجْتَنَبُوا۟ ٱلطَّٰغُوتَ",
+          "content": "الأوثان والمعبودات الباطلة"
+        },
+        {
+          "start": 55,
+          "length": 27,
+          "tokens": "وَأَنَابُوٓا۟ إِلَى ٱللَّهِ",
+          "content": "رجعوا إلى عبادته وحده"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَبَشِّرۡ عِبَادِ ۝١٧ ٱلَّذِینَ یَسۡتَمِعُونَ ٱلۡقَوۡلَ فَیَتَّبِعُونَ أَحۡسَنَهُۥۤۚ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَنَبُوا۟ ٱلطَّٰغُوتَ",
+          "content": "الأوثان والمعبودات الباطلة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "وَأَنَابُوٓا۟ إِلَى ٱللَّهِ",
+          "content": "رجعوا إلى عبادته وحده",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 39,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ هَدَىٰهُمُ ٱللَّهُۖ وَأُو۟لَـٰۤىِٕكَ هُمۡ أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ ۝١٨",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَفَمَنۡ حَقَّ عَلَیۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِی ٱلنَّارِ ۝١٩",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَقَّ عَلَيْهِ",
+          "content": "وَجَبَ وثبَت عليه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 14,
+          "tokens": "حَقَّ عَلَيْهِ",
+          "content": "وَجَبَ وثبَت عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لَـٰكِنِ ٱلَّذِینَ ٱتَّقَوۡا۟ رَبَّهُمۡ لَهُمۡ غُرَفࣱ مِّن فَوۡقِهَا غُرَفࣱ مَّبۡنِیَّةࣱ تَجۡرِی",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُمْ غُرَفٌ",
+          "content": "منازل رفيعة عالية في الجنة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 13,
+          "tokens": "لَهُمْ غُرَفٌ",
+          "content": "منازل رفيعة عالية في الجنة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۖ وَعۡدَ ٱللَّهِ لَا یُخۡلِفُ ٱللَّهُ ٱلۡمِیعَادَ ۝٢٠ أَلَمۡ تَرَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُمْ غُرَفٌ",
+          "content": "منازل رفيعة عالية في الجنة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَسَلَكَهُۥ یَنَـٰبِیعَ فِی ٱلۡأَرۡضِ ثُمَّ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَلَكَهُۥ يَنَٰبِيعَ",
+          "content": "أدخله في عيون ومَجَار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيبَس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَجْعَلُهُۥ حُطَٰمًا",
+          "content": "يصيّره فتاتا هشيما متكسّرا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 23,
+          "tokens": "فَسَلَكَهُۥ يَنَٰبِيعَ",
+          "content": "أدخله في عيون ومَجَار"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "یُخۡرِجُ بِهِۦ زَرۡعࣰا مُّخۡتَلِفًا أَلۡوَ ٰ⁠نُهُۥ ثُمَّ یَهِیجُ فَتَرَىٰهُ مُصۡفَرࣰّا ثُمَّ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَلَكَهُۥ يَنَٰبِيعَ",
+          "content": "أدخله في عيون ومَجَار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيبَس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَجْعَلُهُۥ حُطَٰمًا",
+          "content": "يصيّره فتاتا هشيما متكسّرا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 7,
+          "tokens": "يَهِيجُ",
+          "content": "يَيبَس في أقصى غايته"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَجۡعَلُهُۥ حُطَـٰمًاۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَذِكۡرَىٰ لِأُو۟لِی ٱلۡأَلۡبَـٰبِ ۝٢١",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَلَكَهُۥ يَنَٰبِيعَ",
+          "content": "أدخله في عيون ومَجَار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيبَس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "يَجْعَلُهُۥ حُطَٰمًا",
+          "content": "يصيّره فتاتا هشيما متكسّرا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 39,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "يَجْعَلُهُۥ حُطَٰمًا",
+          "content": "يصيّره فتاتا هشيما متكسّرا"
+        }
+      ]
+    }
+  ]
+}

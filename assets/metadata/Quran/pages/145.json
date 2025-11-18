@@ -1,0 +1,427 @@
+{
+  "pageIndex": 145,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ذَ ٰ⁠لِكَ أَن لَّمۡ یَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمࣲ وَأَهۡلُهَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "غَـٰفِلُونَ ۝١٣١ وَلِكُلࣲّ دَرَجَـٰتࣱ مِّمَّا عَمِلُوا۟ۚ وَمَا رَبُّكَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِغَـٰفِلٍ عَمَّا یَعۡمَلُونَ ۝١٣٢ وَرَبُّكَ ٱلۡغَنِیُّ ذُو ٱلرَّحۡمَةِۚ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 132,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِن یَشَأۡ یُذۡهِبۡكُمۡ وَیَسۡتَخۡلِفۡ مِنۢ بَعۡدِكُم مَّا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَشَاۤءُ كَمَاۤ أَنشَأَكُم مِّن ذُرِّیَّةِ قَوۡمٍ ءَاخَرِینَ ۝١٣٣",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِنَّ مَا تُوعَدُونَ لَـَٔاتࣲۖ وَمَاۤ أَنتُم بِمُعۡجِزِینَ ۝١٣٤ قُلۡ یَـٰقَوۡمِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 134,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "بفائتين من عذاب الله بالهرب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 134
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 13,
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "بفائتين من عذاب الله بالهرب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَامِلࣱۖ فَسَوۡفَ تَعۡلَمُونَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم واستطاعتكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 6,
+          "ayahIndex": 135
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 13,
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم واستطاعتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَن تَكُونُ لَهُۥ عَـٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا یُفۡلِحُ ٱلظَّـٰلِمُونَ ۝١٣٥",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم واستطاعتكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 6,
+          "ayahIndex": 135
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَجَعَلُوا۟ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَـٰمِ نَصِیبࣰا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرَأَ",
+          "content": "خلق على وجه الإختراع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "ٱلْحَرْثِ",
+          "content": "الزّرع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعز",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 6,
+          "tokens": "ذَرَأَ",
+          "content": "خلق على وجه الإختراع"
+        },
+        {
+          "start": 39,
+          "length": 9,
+          "tokens": "ٱلْحَرْثِ",
+          "content": "الزّرع"
+        },
+        {
+          "start": 49,
+          "length": 15,
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعز"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَقَالُوا۟ هَـٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَـٰذَا لِشُرَكَاۤىِٕنَاۖ فَمَا كَانَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرَأَ",
+          "content": "خلق على وجه الإختراع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "ٱلْحَرْثِ",
+          "content": "الزّرع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعز",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لِشُرَكَاۤىِٕهِمۡ فَلَا یَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرَأَ",
+          "content": "خلق على وجه الإختراع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "ٱلْحَرْثِ",
+          "content": "الزّرع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعز",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَصِلُ إِلَىٰ شُرَكَاۤىِٕهِمۡۗ سَاۤءَ مَا یَحۡكُمُونَ ۝١٣٦ وَكَذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرَأَ",
+          "content": "خلق على وجه الإختراع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "ٱلْحَرْثِ",
+          "content": "الزّرع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعز",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 136
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "زَیَّنَ لِكَثِیرࣲ مِّنَ ٱلۡمُشۡرِكِینَ قَتۡلَ أَوۡلَـٰدِهِمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَتْلَ أَوْلَٰدِهِمْ",
+          "content": "وأد البنات الصّغار أحياءً",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "لِيُرْدُوهُمْ",
+          "content": "ليُهلكوهم بالإغواء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "وَلِيَلْبِسُوا۟ عَلَيْهِمْ",
+          "content": "ليخلطوا عليهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الكذب",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 21,
+          "tokens": "قَتْلَ أَوْلَٰدِهِمْ",
+          "content": "وأد البنات الصّغار أحياءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "شُرَكَاۤؤُهُمۡ لِیُرۡدُوهُمۡ وَلِیَلۡبِسُوا۟ عَلَیۡهِمۡ دِینَهُمۡۖ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَتْلَ أَوْلَٰدِهِمْ",
+          "content": "وأد البنات الصّغار أحياءً",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "لِيُرْدُوهُمْ",
+          "content": "ليُهلكوهم بالإغواء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "وَلِيَلْبِسُوا۟ عَلَيْهِمْ",
+          "content": "ليخلطوا عليهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الكذب",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 13,
+          "tokens": "لِيُرْدُوهُمْ",
+          "content": "ليُهلكوهم بالإغواء"
+        },
+        {
+          "start": 29,
+          "length": 26,
+          "tokens": "وَلِيَلْبِسُوا۟ عَلَيْهِمْ",
+          "content": "ليخلطوا عليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَوۡ شَاۤءَ ٱللَّهُ مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا یَفۡتَرُونَ ۝١٣٧",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَتْلَ أَوْلَٰدِهِمْ",
+          "content": "وأد البنات الصّغار أحياءً",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "لِيُرْدُوهُمْ",
+          "content": "ليُهلكوهم بالإغواء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "وَلِيَلْبِسُوا۟ عَلَيْهِمْ",
+          "content": "ليخلطوا عليهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الكذب",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 137
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 54,
+          "length": 11,
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الكذب"
+        }
+      ]
+    }
+  ]
+}

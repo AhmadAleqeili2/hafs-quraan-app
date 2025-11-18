@@ -1,0 +1,299 @@
+{
+  "pageIndex": 208,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة يونس",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡحَكِیمِ ۝١ أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَوۡحَیۡنَاۤ إِلَىٰ رَجُلࣲ مِّنۡهُمۡ أَنۡ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِینَ ءَامَنُوۤا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَدَمَ صِدْقٍ",
+          "content": "سابقَةَ فضل، ومنزلة رفيعة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ رَبِّهِمۡۗ قَالَ ٱلۡكَـٰفِرُونَ إِنَّ هَـٰذَا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَدَمَ صِدْقٍ",
+          "content": "سابقَةَ فضل، ومنزلة رفيعة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 13,
+          "tokens": "قَدَمَ صِدْقٍ",
+          "content": "سابقَةَ فضل، ومنزلة رفيعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَسَـٰحِرࣱ مُّبِینٌ ۝٢ إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَدَمَ صِدْقٍ",
+          "content": "سابقَةَ فضل، ومنزلة رفيعة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فِی سِتَّةِ أَیَّامࣲ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ یُدَبِّرُ ٱلۡأَمۡرَۖ مَا مِن شَفِیعٍ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 10,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 26,
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِلَّا مِنۢ بَعۡدِ إِذۡنِهِۦۚ ذَ ٰ⁠لِكُمُ ٱللَّهُ رَبُّكُمۡ فَٱعۡبُدُوهُۚ أَفَلَا تَذَكَّرُونَ ۝٣",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 10,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَیۡهِ مَرۡجِعُكُمۡ جَمِیعࣰاۖ وَعۡدَ ٱللَّهِ حَقًّاۚ إِنَّهُۥ یَبۡدَؤُا۟ ٱلۡخَلۡقَ ثُمَّ یُعِیدُهُۥ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "حَمِيمٍ",
+          "content": "ماءٍ بالغ غاية الحرارة",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِیَجۡزِیَ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ بِٱلۡقِسۡطِۚ وَٱلَّذِینَ كَفَرُوا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "حَمِيمٍ",
+          "content": "ماءٍ بالغ غاية الحرارة",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 12,
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لَهُمۡ شَرَابࣱ مِّنۡ حَمِیمࣲ وَعَذَابٌ أَلِیمُۢ بِمَا كَانُوا۟ یَكۡفُرُونَ ۝٤",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "حَمِيمٍ",
+          "content": "ماءٍ بالغ غاية الحرارة",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 10,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 7,
+          "tokens": "حَمِيمٍ",
+          "content": "ماءٍ بالغ غاية الحرارة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "هُوَ ٱلَّذِی جَعَلَ ٱلشَّمۡسَ ضِیَاۤءࣰ وَٱلۡقَمَرَ نُورࣰا وَقَدَّرَهُۥ مَنَازِلَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَدَّرَهُۥ مَنَازِلَ",
+          "content": "صيّر القمر ذا منازل يسير فيها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 10,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 22,
+          "tokens": "وَقَدَّرَهُۥ مَنَازِلَ",
+          "content": "صيّر القمر ذا منازل يسير فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لِتَعۡلَمُوا۟ عَدَدَ ٱلسِّنِینَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَ ٰ⁠لِكَ إِلَّا بِٱلۡحَقِّۚ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَدَّرَهُۥ مَنَازِلَ",
+          "content": "صيّر القمر ذا منازل يسير فيها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 10,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "یُفَصِّلُ ٱلۡـَٔایَـٰتِ لِقَوۡمࣲ یَعۡلَمُونَ ۝٥ إِنَّ فِی ٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَدَّرَهُۥ مَنَازِلَ",
+          "content": "صيّر القمر ذا منازل يسير فيها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 10,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَمَا خَلَقَ ٱللَّهُ فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَتَّقُونَ ۝٦",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

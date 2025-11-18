@@ -1,0 +1,333 @@
+{
+  "pageIndex": 594,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَجِا۟یۤءَ یَوۡمَىِٕذِۭ بِجَهَنَّمَۚ یَوۡمَىِٕذࣲ یَتَذَكَّرُ ٱلۡإِنسَـٰنُ وَأَنَّىٰ",
+      "surahIndexFirst": 89,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+          "content": "من أين له مَنفَعَتُها ؟ هَيْهات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 89,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 74,
+          "length": 9,
+          "tokens": "وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+          "content": "من أين له مَنفَعَتُها ؟ هَيْهات"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَهُ ٱلذِّكۡرَىٰ ۝٢٣ یَقُولُ یَـٰلَیۡتَنِی قَدَّمۡتُ لِحَیَاتِی ۝٢٤ فَیَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 89,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+          "content": "من أين له مَنفَعَتُها ؟ هَيْهات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 89,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+          "content": "من أين له مَنفَعَتُها ؟ هَيْهات"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَّا یُعَذِّبُ عَذَابَهُۥۤ أَحَدࣱ ۝٢٥ وَلَا یُوثِقُ وَثَاقَهُۥۤ أَحَدࣱ ۝٢٦ یَـٰۤأَیَّتُهَا",
+      "surahIndexFirst": 89,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلنَّفۡسُ ٱلۡمُطۡمَىِٕنَّةُ ۝٢٧ ٱرۡجِعِیۤ إِلَىٰ رَبِّكِ رَاضِیَةࣰ مَّرۡضِیَّةࣰ ۝٢٨",
+      "surahIndexFirst": 89,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَٱدۡخُلِی فِی عِبَـٰدِی ۝٢٩ وَٱدۡخُلِی جَنَّتِی ۝٣٠",
+      "surahIndexFirst": 89,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7998,
+      "text": "سورة البلد",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "لَآ أُقْسِمُ",
+          "content": "'(أقسِم) و''لا'' مزيدة'",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِهَٰذَا ٱلْبَلَدِ",
+          "content": "بمكّة المكرّمة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 7999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَآ أُقْسِمُ",
+          "content": "'(أقسِم) و''لا'' مزيدة'",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِهَٰذَا ٱلْبَلَدِ",
+          "content": "بمكّة المكرّمة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "لَاۤ أُقۡسِمُ بِهَـٰذَا ٱلۡبَلَدِ ۝١ وَأَنتَ حِلُّۢ بِهَـٰذَا ٱلۡبَلَدِ ۝٢ وَوَالِدࣲ وَمَا وَلَدَ ۝٣",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَآ أُقْسِمُ",
+          "content": "'(أقسِم) و''لا'' مزيدة'",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِهَٰذَا ٱلْبَلَدِ",
+          "content": "بمكّة المكرّمة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 90,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لَآ أُقْسِمُ",
+          "content": "'(أقسِم) و''لا'' مزيدة'"
+        },
+        {
+          "start": 14,
+          "length": 19,
+          "tokens": "بِهَٰذَا ٱلْبَلَدِ",
+          "content": "بمكّة المكرّمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ فِی كَبَدٍ ۝٤ أَیَحۡسَبُ أَن لَّن یَقۡدِرَ عَلَیۡهِ",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ",
+          "content": "(جواب القسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 90,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "كَبَدٍ",
+          "content": "نَصَب ومشقّة ومُكابَدة للشّدائد",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 90,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 29,
+          "tokens": "لَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ",
+          "content": "(جواب القسم)"
+        },
+        {
+          "start": 34,
+          "length": 6,
+          "tokens": "كَبَدٍ",
+          "content": "نَصَب ومشقّة ومُكابَدة للشّدائد"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَحَدࣱ ۝٥ یَقُولُ أَهۡلَكۡتُ مَالࣰا لُّبَدًا ۝٦ أَیَحۡسَبُ أَن لَّمۡ یَرَهُۥۤ أَحَدٌ ۝٧",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَیۡنَیۡنِ ۝٨ وَلِسَانࣰا وَشَفَتَیۡنِ ۝٩ وَهَدَیۡنَـٰهُ",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلنَّجۡدَیۡنِ ۝١٠ فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ ۝١١ وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ ۝١٢",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+          "content": "بَيَّنَّا له طريقيْ الخيْر والشرّ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 90,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+          "content": "بَيَّنَّا له طريقيْ الخيْر والشرّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَكُّ رَقَبَةٍ ۝١٣ أَوۡ إِطۡعَـٰمࣱ فِی یَوۡمࣲ ذِی مَسۡغَبَةࣲ ۝١٤ یَتِیمࣰا ذَا مَقۡرَبَةٍ ۝١٥",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَكُّ رَقَبَةٍ",
+          "content": "تخليصها من الرّق والعبوديّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 90,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "فَكُّ رَقَبَةٍ",
+          "content": "تخليصها من الرّق والعبوديّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَوۡ مِسۡكِینࣰا ذَا مَتۡرَبَةࣲ ۝١٦ ثُمَّ كَانَ مِنَ ٱلَّذِینَ ءَامَنُوا۟ وَتَوَاصَوۡا۟",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِسْكِينًا ذَا مَتْرَبَةٍ",
+          "content": "فاقة شديدة لَصِقَ منها بالتراب",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 90,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 25,
+          "tokens": "مِسْكِينًا ذَا مَتْرَبَةٍ",
+          "content": "فاقة شديدة لَصِقَ منها بالتراب"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِٱلصَّبۡرِ وَتَوَاصَوۡا۟ بِٱلۡمَرۡحَمَةِ ۝١٧ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡمَیۡمَنَةِ ۝١٨",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْمَرْحَمَةِ",
+          "content": "بالرّحمة فيما بينهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 90,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 15,
+          "tokens": "بِٱلْمَرْحَمَةِ",
+          "content": "بالرّحمة فيما بينهم"
+        }
+      ]
+    }
+  ]
+}

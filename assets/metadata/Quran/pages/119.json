@@ -1,0 +1,201 @@
+{
+  "pageIndex": 119,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَوۡ أَنَّ أَهۡلَ ٱلۡكِتَـٰبِ ءَامَنُوا۟ وَٱتَّقَوۡا۟ لَكَفَّرۡنَا عَنۡهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "سَیِّـَٔاتِهِمۡ وَلَأَدۡخَلۡنَـٰهُمۡ جَنَّـٰتِ ٱلنَّعِیمِ ۝٦٥ وَلَوۡ أَنَّهُمۡ أَقَامُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ وَمَاۤ أُنزِلَ إِلَیۡهِم مِّن رَّبِّهِمۡ لَأَكَلُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةٌ مُّقْتَصِدَةٌ",
+          "content": "معتدلة، وهم من أسلم منهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 66
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۚ مِّنۡهُمۡ أُمَّةࣱ مُّقۡتَصِدَةࣱۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةٌ مُّقْتَصِدَةٌ",
+          "content": "معتدلة، وهم من أسلم منهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 22,
+          "tokens": "أُمَّةٌ مُّقْتَصِدَةٌ",
+          "content": "معتدلة، وهم من أسلم منهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَكَثِیرࣱ مِّنۡهُمۡ سَاۤءَ مَا یَعۡمَلُونَ ۝٦٦ یَـٰۤأَیُّهَا ٱلرَّسُولُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةٌ مُّقْتَصِدَةٌ",
+          "content": "معتدلة، وهم من أسلم منهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 66
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَلِّغۡ مَاۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَۖ وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "رِسَالَتَهُۥۚ وَٱللَّهُ یَعۡصِمُكَ مِنَ ٱلنَّاسِۗ إِنَّ ٱللَّهَ لَا یَهۡدِی ٱلۡقَوۡمَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡكَـٰفِرِینَ ۝٦٧ قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لَسۡتُمۡ عَلَىٰ شَیۡءٍ حَتَّىٰ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "تُقِیمُوا۟ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَ وَمَاۤ أُنزِلَ إِلَیۡكُم مِّن رَّبِّكُمۡۗ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن ولا تتأسف",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَیَزِیدَنَّ كَثِیرࣰا مِّنۡهُم مَّاۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَ طُغۡیَـٰنࣰا وَكُفۡرࣰاۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن ولا تتأسف",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَـٰفِرِینَ ۝٦٨ إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَٱلَّذِینَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن ولا تتأسف",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن ولا تتأسف"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "هَادُوا۟ وَٱلصَّـٰبِـُٔونَ وَٱلنَّصَـٰرَىٰ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَعَمِلَ صَـٰلِحࣰا فَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝٦٩ لَقَدۡ أَخَذۡنَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِیثَـٰقَ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ وَأَرۡسَلۡنَاۤ إِلَیۡهِمۡ رُسُلࣰاۖ كُلَّمَا جَاۤءَهُمۡ رَسُولُۢ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِمَا لَا تَهۡوَىٰۤ أَنفُسُهُمۡ فَرِیقࣰا كَذَّبُوا۟ وَفَرِیقࣰا یَقۡتُلُونَ ۝٧٠",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

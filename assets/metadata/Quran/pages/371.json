@@ -1,0 +1,215 @@
+{
+  "pageIndex": 371,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱجۡعَل لِّی لِسَانَ صِدۡقࣲ فِی ٱلۡـَٔاخِرِینَ ۝٨٤ وَٱجۡعَلۡنِی مِن وَرَثَةِ جَنَّةِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِسَانَ صِدْقٍ",
+          "content": "ثناءً حسنا وذكرا جميلا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 26,
+          "ayahIndex": 84
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 14,
+          "tokens": "لِسَانَ صِدْقٍ",
+          "content": "ثناءً حسنا وذكرا جميلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلنَّعِیمِ ۝٨٥ وَٱغۡفِرۡ لِأَبِیۤ إِنَّهُۥ كَانَ مِنَ ٱلضَّاۤلِّینَ ۝٨٦ وَلَا تُخۡزِنِی یَوۡمَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یُبۡعَثُونَ ۝٨٧ یَوۡمَ لَا یَنفَعُ مَالࣱ وَلَا بَنُونَ ۝٨٨ إِلَّا مَنۡ أَتَى ٱللَّهَ بِقَلۡبࣲ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تُخْزِنِى",
+          "content": "لا تفضحني ولا تذلّني بعقابك",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 26,
+          "ayahIndex": 87
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "سَلِیمࣲ ۝٨٩ وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِینَ ۝٩٠ وَبُرِّزَتِ ٱلۡجَحِیمُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِقَلْبٍ سَلِيمٍ",
+          "content": "بريء من مرض النفاق والكفر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 26,
+          "ayahIndex": 89
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "بِقَلْبٍ سَلِيمٍ",
+          "content": "بريء من مرض النفاق والكفر"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لِلۡغَاوِینَ ۝٩١ وَقِیلَ لَهُمۡ أَیۡنَ مَا كُنتُمۡ تَعۡبُدُونَ ۝٩٢ مِن دُونِ ٱللَّهِ هَلۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبُرِّزَتِ ٱلْجَحِيمُ",
+          "content": "أُظهرت بحيث تُرى أهوالها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 26,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "لِلْغَاوِينَ",
+          "content": "الضّالين عن طريق الحقّ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "لِلْغَاوِينَ",
+          "content": "الضّالين عن طريق الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَنصُرُونَكُمۡ أَوۡ یَنتَصِرُونَ ۝٩٣ فَكُبۡكِبُوا۟ فِیهَا هُمۡ وَٱلۡغَاوُۥنَ ۝٩٤ وَجُنُودُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِبۡلِیسَ أَجۡمَعُونَ ۝٩٥ قَالُوا۟ وَهُمۡ فِیهَا یَخۡتَصِمُونَ ۝٩٦ تَٱللَّهِ إِن كُنَّا لَفِی",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ضَلَـٰلࣲ مُّبِینٍ ۝٩٧ إِذۡ نُسَوِّیكُم بِرَبِّ ٱلۡعَـٰلَمِینَ ۝٩٨ وَمَاۤ أَضَلَّنَاۤ إِلَّا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡمُجۡرِمُونَ ۝٩٩ فَمَا لَنَا مِن شَـٰفِعِینَ ۝١٠٠ وَلَا صَدِیقٍ حَمِیمࣲ ۝١٠١ فَلَوۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَنَّ لَنَا كَرَّةࣰ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِینَ ۝١٠٢ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرَّةً",
+          "content": "رجعة إلى الدنيا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 26,
+          "ayahIndex": 102
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 7,
+          "tokens": "كَرَّةً",
+          "content": "رجعة إلى الدنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَكۡثَرُهُم مُّؤۡمِنِینَ ۝١٠٣ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝١٠٤ كَذَّبَتۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "قَوۡمُ نُوحٍ ٱلۡمُرۡسَلِینَ ۝١٠٥ إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ ۝١٠٦",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ ۝١٠٧ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٠٨ وَمَاۤ أَسۡـَٔلُكُمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٠٩ فَٱتَّقُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَأَطِیعُونِ ۝١١٠ قَالُوۤا۟ أَنُؤۡمِنُ لَكَ وَٱتَّبَعَكَ ٱلۡأَرۡذَلُونَ ۝١١١",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

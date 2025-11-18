@@ -1,0 +1,217 @@
+{
+  "pageIndex": 370,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَمَّا تَرَ ٰ⁠ۤءَا ٱلۡجَمۡعَانِ قَالَ أَصۡحَـٰبُ مُوسَىٰۤ إِنَّا لَمُدۡرَكُونَ ۝٦١",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَرَٰٓءَا ٱلْجَمْعَانِ",
+          "content": "رأى كلّ منهما الآخر",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 24,
+          "tokens": "تَرَٰٓءَا ٱلْجَمْعَانِ",
+          "content": "رأى كلّ منهما الآخر"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَالَ كَلَّاۤۖ إِنَّ مَعِیَ رَبِّی سَیَهۡدِینِ ۝٦٢ فَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقࣲ كَٱلطَّوۡدِ ٱلۡعَظِیمِ ۝٦٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱنفَلَقَ",
+          "content": "انشقّ اثنيْ عشر فِرقا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 26,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "فِرْقٍ",
+          "content": "قطعة من البحر مُرتقعة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 26,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "كَٱلطَّوْدِ ٱلْعَظِيمِ",
+          "content": "كالجبل المُنطاد في السماء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 26,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 10,
+          "tokens": "فَٱنفَلَقَ",
+          "content": "انشقّ اثنيْ عشر فِرقا"
+        },
+        {
+          "start": 54,
+          "length": 6,
+          "tokens": "فِرْقٍ",
+          "content": "قطعة من البحر مُرتقعة"
+        },
+        {
+          "start": 61,
+          "length": 22,
+          "tokens": "كَٱلطَّوْدِ ٱلْعَظِيمِ",
+          "content": "كالجبل المُنطاد في السماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡـَٔاخَرِینَ ۝٦٤ وَأَنجَیۡنَا مُوسَىٰ وَمَن مَّعَهُۥۤ أَجۡمَعِینَ ۝٦٥",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ",
+          "content": "قرّبنا هنالك آل فرعون من البحر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 64
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 34,
+          "tokens": "وَأَزْلَفْنَا ثَمَّ ٱلْءَاخَرِينَ",
+          "content": "قرّبنا هنالك آل فرعون من البحر"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ثُمَّ أَغۡرَقۡنَا ٱلۡـَٔاخَرِینَ ۝٦٦ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَكۡثَرُهُم مُّؤۡمِنِینَ ۝٦٧ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝٦٨",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱتۡلُ عَلَیۡهِمۡ نَبَأَ إِبۡرَ ٰ⁠هِیمَ ۝٦٩ إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ ۝٧٠",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "قَالُوا۟ نَعۡبُدُ أَصۡنَامࣰا فَنَظَلُّ لَهَا عَـٰكِفِینَ ۝٧١ قَالَ هَلۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَسۡمَعُونَكُمۡ إِذۡ تَدۡعُونَ ۝٧٢ أَوۡ یَنفَعُونَكُمۡ أَوۡ یَضُرُّونَ ۝٧٣ قَالُوا۟",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بَلۡ وَجَدۡنَاۤ ءَابَاۤءَنَا كَذَ ٰ⁠لِكَ یَفۡعَلُونَ ۝٧٤ قَالَ أَفَرَءَیۡتُم مَّا كُنتُمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "تَعۡبُدُونَ ۝٧٥ أَنتُمۡ وَءَابَاۤؤُكُمُ ٱلۡأَقۡدَمُونَ ۝٧٦ فَإِنَّهُمۡ عَدُوࣱّ لِّیۤ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أتأمّلتُم فعلِمتم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 26,
+          "ayahIndex": 75
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِلَّا رَبَّ ٱلۡعَـٰلَمِینَ ۝٧٧ ٱلَّذِی خَلَقَنِی فَهُوَ یَهۡدِینِ ۝٧٨ وَٱلَّذِی هُوَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "یُطۡعِمُنِی وَیَسۡقِینِ ۝٧٩ وَإِذَا مَرِضۡتُ فَهُوَ یَشۡفِینِ ۝٨٠ وَٱلَّذِی",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "یُمِیتُنِی ثُمَّ یُحۡیِینِ ۝٨١ وَٱلَّذِیۤ أَطۡمَعُ أَن یَغۡفِرَ لِی خَطِیۤـَٔتِی",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَوۡمَ ٱلدِّینِ ۝٨٢ رَبِّ هَبۡ لِی حُكۡمࣰا وَأَلۡحِقۡنِی بِٱلصَّـٰلِحِینَ ۝٨٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

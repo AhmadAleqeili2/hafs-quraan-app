@@ -1,0 +1,321 @@
+{
+  "pageIndex": 444,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ أَصۡحَـٰبَ ٱلۡجَنَّةِ ٱلۡیَوۡمَ فِی شُغُلࣲ فَـٰكِهُونَ ۝٥٥ هُمۡ وَأَزۡوَ ٰ⁠جُهُمۡ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شُغُلٍ",
+          "content": "نعيم عظيم يُلهيهمْ عمّا سواه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 36,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "فَٰكِهُونَ",
+          "content": "مُتلذذون، أو فَرحون",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 36,
+          "ayahIndex": 55
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 6,
+          "tokens": "شُغُلٍ",
+          "content": "نعيم عظيم يُلهيهمْ عمّا سواه"
+        },
+        {
+          "start": 49,
+          "length": 11,
+          "tokens": "فَٰكِهُونَ",
+          "content": "مُتلذذون، أو فَرحون"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فِی ظِلَـٰلٍ عَلَى ٱلۡأَرَاۤىِٕكِ مُتَّكِـُٔونَ ۝٥٦ لَهُمۡ فِیهَا فَـٰكِهَةࣱ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرر في الحِجال (جمع حجلة محركة- بيت يزين بالثياب والأسرّة والستور)",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 36,
+          "ayahIndex": 56
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 14,
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرر في الحِجال (جمع حجلة محركة- بيت يزين بالثياب والأسرّة والستور)"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَهُم مَّا یَدَّعُونَ ۝٥٧ سَلَـٰمࣱ قَوۡلࣰا مِّن رَّبࣲّ رَّحِیمࣲ ۝٥٨ وَٱمۡتَـٰزُوا۟",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَهُم مَّا يَدَّعُونَ",
+          "content": "ما يتمنّونه أو ما يطلبونه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 36,
+          "ayahIndex": 57
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 23,
+          "tokens": "وَلَهُم مَّا يَدَّعُونَ",
+          "content": "ما يتمنّونه أو ما يطلبونه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡیَوۡمَ أَیُّهَا ٱلۡمُجۡرِمُونَ ۝٥٩ أَلَمۡ أَعۡهَدۡ إِلَیۡكُمۡ یَـٰبَنِیۤ ءَادَمَ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱمْتَٰزُوا۟",
+          "content": "تميّزوا وانفردوا عن المؤمنين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 36,
+          "ayahIndex": 59
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَن لَّا تَعۡبُدُوا۟ ٱلشَّیۡطَـٰنَۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ ۝٦٠ وَأَنِ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْهَدْ إِلَيْكُمْ",
+          "content": "أوصِكمْ، أو أكلّفكمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 36,
+          "ayahIndex": 60
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱعۡبُدُونِیۚ هَـٰذَا صِرَ ٰ⁠طࣱ مُّسۡتَقِیمࣱ ۝٦١ وَلَقَدۡ أَضَلَّ مِنكُمۡ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "جِبِلࣰّا كَثِیرًاۖ أَفَلَمۡ تَكُونُوا۟ تَعۡقِلُونَ ۝٦٢ هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِی",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جِبِلًّا",
+          "content": "خلقًا، أو جماعة عظيمة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 36,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "جِبِلًّا",
+          "content": "خلقًا، أو جماعة عظيمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "كُنتُمۡ تُوعَدُونَ ۝٦٣ ٱصۡلَوۡهَا ٱلۡیَوۡمَ بِمَا كُنتُمۡ تَكۡفُرُونَ ۝٦٤",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡیَوۡمَ نَخۡتِمُ عَلَىٰۤ أَفۡوَ ٰ⁠هِهِمۡ وَتُكَلِّمُنَاۤ أَیۡدِیهِمۡ وَتَشۡهَدُ أَرۡجُلُهُم",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِمَا كَانُوا۟ یَكۡسِبُونَ ۝٦٥ وَلَوۡ نَشَاۤءُ لَطَمَسۡنَا عَلَىٰۤ أَعۡیُنِهِمۡ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَٱسۡتَبَقُوا۟ ٱلصِّرَ ٰ⁠طَ فَأَنَّىٰ یُبۡصِرُونَ ۝٦٦ وَلَوۡ نَشَاۤءُ لَمَسَخۡنَـٰهُمۡ",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَطَمَسْنَا",
+          "content": "لصيّرناها ممسوحة لا يُرى لها شق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 36,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ",
+          "content": "ابْتَدروا الطّريق ليَجوزوه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 36,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "فَأَنَّىٰ يُبْصِرُونَ",
+          "content": "فكيف يُبصرون الطريق؟",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 36,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 27,
+          "tokens": "فَٱسْتَبَقُوا۟ ٱلصِّرَٰطَ",
+          "content": "ابْتَدروا الطّريق ليَجوزوه"
+        },
+        {
+          "start": 28,
+          "length": 21,
+          "tokens": "فَأَنَّىٰ يُبْصِرُونَ",
+          "content": "فكيف يُبصرون الطريق؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَـٰعُوا۟ مُضِیࣰّا وَلَا یَرۡجِعُونَ ۝٦٧",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ مَكَانَتِهِمْ",
+          "content": "في مكان معاصيهمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 36,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "عَلَىٰ مَكَانَتِهِمْ",
+          "content": "في مكان معاصيهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَن نُّعَمِّرۡهُ نُنَكِّسۡهُ فِی ٱلۡخَلۡقِۚ أَفَلَا یَعۡقِلُونَ ۝٦٨ وَمَا",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَن نُّعَمِّرْهُ",
+          "content": "نطِلْ عُمُرَه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 36,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "نُنَكِّسْهُ فِى ٱلْخَلْقِ",
+          "content": "نرُدّه إلى أرذل العمر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 36,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "وَمَن نُّعَمِّرْهُ",
+          "content": "نطِلْ عُمُرَه"
+        },
+        {
+          "start": 19,
+          "length": 26,
+          "tokens": "نُنَكِّسْهُ فِى ٱلْخَلْقِ",
+          "content": "نرُدّه إلى أرذل العمر"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "عَلَّمۡنَـٰهُ ٱلشِّعۡرَ وَمَا یَنۢبَغِی لَهُۥۤۚ إِنۡ هُوَ إِلَّا ذِكۡرࣱ وَقُرۡءَانࣱ مُّبِینࣱ ۝٦٩",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "لِّیُنذِرَ مَن كَانَ حَیࣰّا وَیَحِقَّ ٱلۡقَوۡلُ عَلَى ٱلۡكَـٰفِرِینَ ۝٧٠",
+      "surahIndexFirst": 36,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

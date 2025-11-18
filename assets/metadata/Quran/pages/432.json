@@ -1,0 +1,477 @@
+{
+  "pageIndex": 432,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ ٱلَّذِینَ ٱسۡتَكۡبَرُوا۟ لِلَّذِینَ ٱسۡتُضۡعِفُوۤا۟ أَنَحۡنُ صَدَدۡنَـٰكُمۡ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَنِ ٱلۡهُدَىٰ بَعۡدَ إِذۡ جَاۤءَكُمۖ بَلۡ كُنتُم مُّجۡرِمِینَ ۝٣٢ وَقَالَ ٱلَّذِینَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱسۡتُضۡعِفُوا۟ لِلَّذِینَ ٱسۡتَكۡبَرُوا۟ بَلۡ مَكۡرُ ٱلَّیۡلِ وَٱلنَّهَارِ إِذۡ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ",
+          "content": "صَدّنا مكْرُكم بنا فيهما",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من مخلوقاته نعبُدُها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الندم أو أظهروه",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْأَغْلَٰلَ",
+          "content": "القيود تجمع الأيدي إلى الأعناق",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 28,
+          "tokens": "مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ",
+          "content": "صَدّنا مكْرُكم بنا فيهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَأۡمُرُونَنَاۤ أَن نَّكۡفُرَ بِٱللَّهِ وَنَجۡعَلَ لَهُۥۤ أَندَادࣰاۚ وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ",
+          "content": "صَدّنا مكْرُكم بنا فيهما",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من مخلوقاته نعبُدُها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الندم أو أظهروه",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْأَغْلَٰلَ",
+          "content": "القيود تجمع الأيدي إلى الأعناق",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 10,
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من مخلوقاته نعبُدُها"
+        },
+        {
+          "start": 69,
+          "length": 25,
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الندم أو أظهروه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَمَّا رَأَوُا۟ ٱلۡعَذَابَۚ وَجَعَلۡنَا ٱلۡأَغۡلَـٰلَ فِیۤ أَعۡنَاقِ ٱلَّذِینَ كَفَرُوا۟ۖ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ",
+          "content": "صَدّنا مكْرُكم بنا فيهما",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من مخلوقاته نعبُدُها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الندم أو أظهروه",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْأَغْلَٰلَ",
+          "content": "القيود تجمع الأيدي إلى الأعناق",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 13,
+          "tokens": "ٱلْأَغْلَٰلَ",
+          "content": "القيود تجمع الأيدي إلى الأعناق"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "هَلۡ یُجۡزَوۡنَ إِلَّا مَا كَانُوا۟ یَعۡمَلُونَ ۝٣٣ وَمَاۤ أَرۡسَلۡنَا فِی قَرۡیَةࣲ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكْرُ ٱلَّيْلِ وَٱلنَّهَارِ",
+          "content": "صَدّنا مكْرُكم بنا فيهما",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من مخلوقاته نعبُدُها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الندم أو أظهروه",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْأَغْلَٰلَ",
+          "content": "القيود تجمع الأيدي إلى الأعناق",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 34,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِّن نَّذِیرٍ إِلَّا قَالَ مُتۡرَفُوهَاۤ إِنَّا بِمَاۤ أُرۡسِلۡتُم بِهِۦ كَـٰفِرُونَ ۝٣٤",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُتْرَفُوهَآ",
+          "content": "مُتنعّموها وقادة الشّر فيها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 13,
+          "tokens": "مُتْرَفُوهَآ",
+          "content": "مُتنعّموها وقادة الشّر فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَقَالُوا۟ نَحۡنُ أَكۡثَرُ أَمۡوَ ٰ⁠لࣰا وَأَوۡلَـٰدࣰا وَمَا نَحۡنُ بِمُعَذَّبِینَ ۝٣٥",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "قُلۡ إِنَّ رَبِّی یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُ وَلَـٰكِنَّ أَكۡثَرَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يضيّقه على من يشاء بحكمته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 34,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 10,
+          "tokens": "وَيَقْدِرُ",
+          "content": "يضيّقه على من يشاء بحكمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلنَّاسِ لَا یَعۡلَمُونَ ۝٣٦ وَمَاۤ أَمۡوَ ٰ⁠لُكُمۡ وَلَاۤ أَوۡلَـٰدُكُم بِٱلَّتِی تُقَرِّبُكُمۡ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يضيّقه على من يشاء بحكمته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 34,
+          "ayahIndex": 36
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عِندَنَا زُلۡفَىٰۤ إِلَّا مَنۡ ءَامَنَ وَعَمِلَ صَـٰلِحࣰا فَأُو۟لَـٰۤىِٕكَ لَهُمۡ جَزَاۤءُ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُلْفَىٰٓ",
+          "content": "تقريبا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        },
+        {
+          "tokens": "لَهُمْ جَزَآءُ ٱلضِّعْفِ",
+          "content": "لهم الثواب المضاعف",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        },
+        {
+          "tokens": "فِى ٱلْغُرُفَٰتِ",
+          "content": "المنازل الرّفيعة العالية في الجنّة",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 9,
+          "tokens": "زُلْفَىٰٓ",
+          "content": "تقريبا"
+        },
+        {
+          "start": 75,
+          "length": 15,
+          "tokens": "لَهُمْ جَزَآءُ ٱلضِّعْفِ",
+          "content": "لهم الثواب المضاعف"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلضِّعۡفِ بِمَا عَمِلُوا۟ وَهُمۡ فِی ٱلۡغُرُفَـٰتِ ءَامِنُونَ ۝٣٧ وَٱلَّذِینَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُلْفَىٰٓ",
+          "content": "تقريبا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        },
+        {
+          "tokens": "لَهُمْ جَزَآءُ ٱلضِّعْفِ",
+          "content": "لهم الثواب المضاعف",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        },
+        {
+          "tokens": "فِى ٱلْغُرُفَٰتِ",
+          "content": "المنازل الرّفيعة العالية في الجنّة",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 34,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "لَهُمْ جَزَآءُ ٱلضِّعْفِ",
+          "content": "لهم الثواب المضاعف"
+        },
+        {
+          "start": 33,
+          "length": 17,
+          "tokens": "فِى ٱلْغُرُفَٰتِ",
+          "content": "المنازل الرّفيعة العالية في الجنّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَسۡعَوۡنَ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤىِٕكَ فِی ٱلۡعَذَابِ مُحۡضَرُونَ ۝٣٨",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "مُسابقينا ظانين أنهم يفوتوننا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 34,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "مُحْضَرُونَ",
+          "content": "تُحضرهم الزبانية إلى جهنّم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 34,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 13,
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "مُسابقينا ظانين أنهم يفوتوننا"
+        },
+        {
+          "start": 73,
+          "length": 11,
+          "tokens": "مُحْضَرُونَ",
+          "content": "تُحضرهم الزبانية إلى جهنّم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "قُلۡ إِنَّ رَبِّی یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ مِنۡ عِبَادِهِۦ وَیَقۡدِرُ لَهُۥۚ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ لَهُۥ",
+          "content": "يُضيّقه على من يشاء بحكمته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 34,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 17,
+          "tokens": "وَيَقْدِرُ لَهُۥ",
+          "content": "يُضيّقه على من يشاء بحكمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَمَاۤ أَنفَقۡتُم مِّن شَیۡءࣲ فَهُوَ یُخۡلِفُهُۥۖ وَهُوَ خَیۡرُ ٱلرَّ ٰ⁠زِقِینَ ۝٣٩",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ لَهُۥ",
+          "content": "يُضيّقه على من يشاء بحكمته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 34,
+          "ayahIndex": 39
+        }
+      ]
+    }
+  ]
+}

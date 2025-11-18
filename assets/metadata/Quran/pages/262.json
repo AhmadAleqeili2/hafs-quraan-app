@@ -1,0 +1,277 @@
+{
+  "pageIndex": 262,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الحجر",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ وَقُرۡءَانࣲ مُّبِینࣲ ۝١ رُّبَمَا یَوَدُّ",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ لَوۡ كَانُوا۟ مُسۡلِمِینَ ۝٢ ذَرۡهُمۡ یَأۡكُلُوا۟",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُّبَمَا",
+          "content": "رُبّ للتقليل وما زائدة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 15,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَیَتَمَتَّعُوا۟ وَیُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ یَعۡلَمُونَ ۝٣ وَمَاۤ أَهۡلَكۡنَا",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرْهُمْ",
+          "content": "دعهم واتركهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 15,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِن قَرۡیَةٍ إِلَّا وَلَهَا كِتَابࣱ مَّعۡلُومࣱ ۝٤ مَّا تَسۡبِقُ مِنۡ أُمَّةٍ",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَهَا كِتَابٌ",
+          "content": "أجل مقدّر مكتوب في اللّوح",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 15,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 15,
+          "tokens": "وَلَهَا كِتَابٌ",
+          "content": "أجل مقدّر مكتوب في اللّوح"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَجَلَهَا وَمَا یَسۡتَـٔۡخِرُونَ ۝٥ وَقَالُوا۟ یَـٰۤأَیُّهَا ٱلَّذِی نُزِّلَ عَلَیۡهِ",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونࣱ ۝٦ لَّوۡ مَا تَأۡتِینَا بِٱلۡمَلَـٰۤىِٕكَةِ إِن",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "كُنتَ مِنَ ۝٧ مَا نُنَزِّلُ ٱلۡمَلَـٰۤىِٕكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوۤا۟",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّوْ مَا تَأْتِينَا",
+          "content": "هلاّ تأتينا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 15,
+          "ayahIndex": 7
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِذࣰا مُّنظَرِینَ ۝٨ إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَـٰفِظُونَ ۝٩",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِلَّا بِٱلْحَقِّ",
+          "content": "إلا بالوجه الذي تقتضيه الحكمة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 15,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "مُّنظَرِينَ",
+          "content": "مؤخّرين في العذاب",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 15,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 11,
+          "tokens": "مُّنظَرِينَ",
+          "content": "مؤخّرين في العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِی شِیَعِ ٱلۡأَوَّلِینَ ۝١٠ وَمَا یَأۡتِیهِم",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شِيَعِ ٱلْأَوَّلِينَ",
+          "content": "فرق الأمم السّابقين",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 15,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 20,
+          "tokens": "شِيَعِ ٱلْأَوَّلِينَ",
+          "content": "فرق الأمم السّابقين"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِّن رَّسُولٍ إِلَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ ۝١١ كَذَ ٰ⁠لِكَ نَسۡلُكُهُۥ",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فِی قُلُوبِ ٱلۡمُجۡرِمِینَ ۝١٢ لَا یُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِینَ ۝١٣",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَسْلُكُهُۥ",
+          "content": "ندخل الذّكر مستهزأ به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 15,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَوۡ فَتَحۡنَا عَلَیۡهِم بَابࣰا مِّنَ ٱلسَّمَاۤءِ فَظَلُّوا۟ فِیهِ یَعۡرُجُونَ ۝١٤",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَعْرُجُونَ",
+          "content": "يصعدون فيرون الملائكة والعجائب",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 15,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 11,
+          "tokens": "يَعْرُجُونَ",
+          "content": "يصعدون فيرون الملائكة والعجائب"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَقَالُوۤا۟ إِنَّمَا سُكِّرَتۡ أَبۡصَـٰرُنَا بَلۡ نَحۡنُ قَوۡمࣱ مَّسۡحُورُونَ ۝١٥",
+      "surahIndexFirst": 15,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُكِّرَتْ أَبْصَٰرُنَا",
+          "content": "سُدّت ومُنعت من الإبصار",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 15,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "قَوْمٌ مَّسْحُورُونَ",
+          "content": "أصابنا محمّد بسحره",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 15,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 23,
+          "tokens": "سُكِّرَتْ أَبْصَٰرُنَا",
+          "content": "سُدّت ومُنعت من الإبصار"
+        },
+        {
+          "start": 57,
+          "length": 20,
+          "tokens": "قَوْمٌ مَّسْحُورُونَ",
+          "content": "أصابنا محمّد بسحره"
+        }
+      ]
+    }
+  ]
+}

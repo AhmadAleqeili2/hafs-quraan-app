@@ -1,0 +1,341 @@
+{
+  "pageIndex": 120,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَحَسِبُوۤا۟ أَلَّا تَكُونَ فِتۡنَةࣱ فَعَمُوا۟ وَصَمُّوا۟ ثُمَّ تَابَ ٱللَّهُ عَلَیۡهِمۡ ثُمَّ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاء وعذاب شديد",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 5,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 8,
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاء وعذاب شديد"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَمُوا۟ وَصَمُّوا۟ كَثِیرࣱ مِّنۡهُمۡۚ وَٱللَّهُ بَصِیرُۢ بِمَا یَعۡمَلُونَ ۝٧١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاء وعذاب شديد",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 5,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَقَدۡ كَفَرَ ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِیحُ ٱبۡنُ مَرۡیَمَۖ وَقَالَ ٱلۡمَسِیحُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَـٰبَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ٱعۡبُدُوا۟ ٱللَّهَ رَبِّی وَرَبَّكُمۡۖ إِنَّهُۥ مَن یُشۡرِكۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِٱللَّهِ فَقَدۡ حَرَّمَ ٱللَّهُ عَلَیۡهِ ٱلۡجَنَّةَ وَمَأۡوَىٰهُ ٱلنَّارُۖ وَمَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لِلظَّـٰلِمِینَ مِنۡ أَنصَارࣲ ۝٧٢ لَّقَدۡ كَفَرَ ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ثَالِثُ ثَلَـٰثَةࣲۘ وَمَا مِنۡ إِلَـٰهٍ إِلَّاۤ إِلَـٰهࣱ وَ ٰ⁠حِدࣱۚ وَإِن لَّمۡ یَنتَهُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَمَّا یَقُولُونَ لَیَمَسَّنَّ ٱلَّذِینَ كَفَرُوا۟ مِنۡهُمۡ عَذَابٌ أَلِیمٌ ۝٧٣",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَفَلَا یَتُوبُونَ إِلَى ٱللَّهِ وَیَسۡتَغۡفِرُونَهُۥۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ ۝٧٤",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَّا ٱلۡمَسِیحُ ٱبۡنُ مَرۡیَمَ إِلَّا رَسُولࣱ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُ وَأُمُّهُۥ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَتْ",
+          "content": "مضت",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأُمُّهُۥ صِدِّيقَةٌ",
+          "content": "كثيرة الصدق مع الله تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "يَأْكُلَانِ ٱلطَّعَامَ",
+          "content": "كسائر البشر فكيف تزعمونه إلها",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "أَنَّىٰ يُؤْفَكُونَ",
+          "content": "كيف يُصرفون عن تدبر الدلائل البينة وقبولها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 6,
+          "tokens": "خَلَتْ",
+          "content": "مضت"
+        },
+        {
+          "start": 81,
+          "length": 10,
+          "tokens": "وَأُمُّهُۥ صِدِّيقَةٌ",
+          "content": "كثيرة الصدق مع الله تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "صِدِّیقَةࣱۖ كَانَا یَأۡكُلَانِ ٱلطَّعَامَۗ ٱنظُرۡ كَیۡفَ نُبَیِّنُ لَهُمُ ٱلۡـَٔایَـٰتِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَتْ",
+          "content": "مضت",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأُمُّهُۥ صِدِّيقَةٌ",
+          "content": "كثيرة الصدق مع الله تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "يَأْكُلَانِ ٱلطَّعَامَ",
+          "content": "كسائر البشر فكيف تزعمونه إلها",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "أَنَّىٰ يُؤْفَكُونَ",
+          "content": "كيف يُصرفون عن تدبر الدلائل البينة وقبولها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَأُمُّهُۥ صِدِّيقَةٌ",
+          "content": "كثيرة الصدق مع الله تعالى"
+        },
+        {
+          "start": 19,
+          "length": 23,
+          "tokens": "يَأْكُلَانِ ٱلطَّعَامَ",
+          "content": "كسائر البشر فكيف تزعمونه إلها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ثُمَّ ٱنظُرۡ أَنَّىٰ یُؤۡفَكُونَ ۝٧٥ قُلۡ أَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَتْ",
+          "content": "مضت",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأُمُّهُۥ صِدِّيقَةٌ",
+          "content": "كثيرة الصدق مع الله تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "يَأْكُلَانِ ٱلطَّعَامَ",
+          "content": "كسائر البشر فكيف تزعمونه إلها",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "أَنَّىٰ يُؤْفَكُونَ",
+          "content": "كيف يُصرفون عن تدبر الدلائل البينة وقبولها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 5,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 19,
+          "tokens": "أَنَّىٰ يُؤْفَكُونَ",
+          "content": "كيف يُصرفون عن تدبر الدلائل البينة وقبولها"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَمۡلِكُ لَكُمۡ ضَرࣰّا وَلَا نَفۡعࣰاۚ وَٱللَّهُ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ ۝٧٦ قُلۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لَا تَغۡلُوا۟ فِی دِینِكُمۡ غَیۡرَ ٱلۡحَقِّ وَلَا تَتَّبِعُوۤا۟ أَهۡوَاۤءَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَغْلُوا۟",
+          "content": "لا تجاوزوا الحدّ ولا تفرطوا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "غَيْرَ ٱلْحَقِّ",
+          "content": "غلوّا باطلا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 13,
+          "tokens": "لَا تَغْلُوا۟",
+          "content": "لا تجاوزوا الحدّ ولا تفرطوا"
+        },
+        {
+          "start": 52,
+          "length": 15,
+          "tokens": "غَيْرَ ٱلْحَقِّ",
+          "content": "غلوّا باطلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَوۡمࣲ قَدۡ ضَلُّوا۟ مِن قَبۡلُ وَأَضَلُّوا۟ كَثِیرࣰا وَضَلُّوا۟ عَن سَوَاۤءِ ٱلسَّبِیلِ ۝٧٧",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَغْلُوا۟",
+          "content": "لا تجاوزوا الحدّ ولا تفرطوا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "غَيْرَ ٱلْحَقِّ",
+          "content": "غلوّا باطلا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 77
+        }
+      ]
+    }
+  ]
+}

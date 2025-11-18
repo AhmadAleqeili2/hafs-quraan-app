@@ -1,0 +1,261 @@
+{
+  "pageIndex": 307,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَكُلِی وَٱشۡرَبِی وَقَرِّی عَیۡنࣰاۖ فَإِمَّا تَرَیِنَّ مِنَ ٱلۡبَشَرِ أَحَدࣰا فَقُولِیۤ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرِّى عَيْنًا",
+          "content": "طيبي نفسا ولا تحزني",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 17,
+          "tokens": "وَقَرِّى عَيْنًا",
+          "content": "طيبي نفسا ولا تحزني"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِنِّی نَذَرۡتُ لِلرَّحۡمَـٰنِ صَوۡمࣰا فَلَنۡ أُكَلِّمَ ٱلۡیَوۡمَ إِنسِیࣰّا ۝٢٦ فَأَتَتۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرِّى عَيْنًا",
+          "content": "طيبي نفسا ولا تحزني",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِهِۦ قَوۡمَهَا تَحۡمِلُهُۥۖ قَالُوا۟ یَـٰمَرۡیَمُ لَقَدۡ جِئۡتِ شَیۡـࣰٔا فَرِیࣰّا ۝٢٧",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَيْـًٔا فَرِيًّا",
+          "content": "عظيما مُنكرا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 19,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 17,
+          "tokens": "شَيْـًٔا فَرِيًّا",
+          "content": "عظيما مُنكرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَـٰۤأُخۡتَ هَـٰرُونَ مَا كَانَ أَبُوكِ ٱمۡرَأَ سَوۡءࣲ وَمَا كَانَتۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "أُمُّكِ بَغِیࣰّا ۝٢٨ فَأَشَارَتۡ إِلَیۡهِۖ قَالُوا۟ كَیۡفَ نُكَلِّمُ مَن كَانَ فِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلۡمَهۡدِ صَبِیࣰّا ۝٢٩ قَالَ إِنِّی عَبۡدُ ٱللَّهِ ءَاتَىٰنِیَ ٱلۡكِتَـٰبَ وَجَعَلَنِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ فِى ٱلْمَهْدِ صَبِيًّا",
+          "content": "وُجد في فِراش الصّبية رضيعا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 10,
+          "surahIndex": 19,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "كَانَ فِى ٱلْمَهْدِ صَبِيًّا",
+          "content": "وُجد في فِراش الصّبية رضيعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "نَبِیࣰّا ۝٣٠ وَجَعَلَنِی مُبَارَكًا أَیۡنَ مَا كُنتُ وَأَوۡصَـٰنِی بِٱلصَّلَوٰةِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَٱلزَّكَوٰةِ مَا دُمۡتُ حَیࣰّا ۝٣١ وَبَرَّۢا بِوَ ٰ⁠لِدَتِی وَلَمۡ یَجۡعَلۡنِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "جَبَّارࣰا شَقِیࣰّا ۝٣٢ وَٱلسَّلَـٰمُ عَلَیَّ یَوۡمَ وُلِدتُّ وَیَوۡمَ أَمُوتُ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَرًّۢا بِوَٰلِدَتِى",
+          "content": "بارّا بها مُحسنا مُكرما",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 19,
+          "ayahIndex": 32
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَیَوۡمَ أُبۡعَثُ حَیࣰّا ۝٣٣ ذَ ٰ⁠لِكَ عِیسَى ٱبۡنُ مَرۡیَمَۖ قَوۡلَ ٱلۡحَقِّ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلَّذِی فِیهِ یَمۡتَرُونَ ۝٣٤ مَا كَانَ لِلَّهِ أَن یَتَّخِذَ مِن وَلَدࣲۖ سُبۡحَـٰنَهُۥۤۚ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَوْلَ ٱلْحَقِّ",
+          "content": "كلمة الله لخلقه بقوله كنْ",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 34
+        },
+        {
+          "tokens": "يَمْتَرُونَ",
+          "content": "يشكّون أو يتجادلون بالباطل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 11,
+          "tokens": "يَمْتَرُونَ",
+          "content": "يشكّون أو يتجادلون بالباطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِذَا قَضَىٰۤ أَمۡرࣰا فَإِنَّمَا یَقُولُ لَهُۥ كُن فَیَكُونُ ۝٣٥ وَإِنَّ ٱللَّهَ رَبِّی وَرَبُّكُمۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَضَىٰٓ أَمْرًا",
+          "content": "أراد أن يُحدِثه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 19,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 15,
+          "tokens": "قَضَىٰٓ أَمْرًا",
+          "content": "أراد أن يُحدِثه"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَٱعۡبُدُوهُۚ هَـٰذَا صِرَ ٰ⁠طࣱ مُّسۡتَقِیمࣱ ۝٣٦ فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "بَیۡنِهِمۡۖ فَوَیۡلࣱ لِّلَّذِینَ كَفَرُوا۟ مِن مَّشۡهَدِ یَوۡمٍ عَظِیمٍ ۝٣٧ أَسۡمِعۡ بِهِمۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَأَبۡصِرۡ یَوۡمَ یَأۡتُونَنَاۖ لَـٰكِنِ ٱلظَّـٰلِمُونَ ٱلۡیَوۡمَ فِی ضَلَـٰلࣲ مُّبِینࣲ ۝٣٨",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسْمِعْ بِهِمْ وَأَبْصِرْ",
+          "content": "ما أسمعهم وما أبصرهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 19,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "أَسْمِعْ بِهِمْ وَأَبْصِرْ",
+          "content": "ما أسمعهم وما أبصرهم"
+        }
+      ]
+    }
+  ]
+}

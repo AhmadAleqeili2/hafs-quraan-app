@@ -1,0 +1,249 @@
+{
+  "pageIndex": 185,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِن یُرِیدُوۤا۟ أَن یَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِیۤ أَیَّدَكَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبَكَ ٱللَّهُ",
+          "content": "كافيك في دفع خديعتهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 17,
+          "tokens": "حَسْبَكَ ٱللَّهُ",
+          "content": "كافيك في دفع خديعتهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِینَ ۝٦٢ وَأَلَّفَ بَیۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبَكَ ٱللَّهُ",
+          "content": "كافيك في دفع خديعتهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 62
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَا فِی ٱلۡأَرۡضِ جَمِیعࣰا مَّاۤ أَلَّفۡتَ بَیۡنَ قُلُوبِهِمۡ وَلَـٰكِنَّ ٱللَّهَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَلَّفَ بَیۡنَهُمۡۚ إِنَّهُۥ عَزِیزٌ حَكِیمࣱ ۝٦٣ یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَسۡبُكَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِینَ ۝٦٤ یَـٰۤأَیُّهَا ٱلنَّبِیُّ حَرِّضِ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلۡمُؤۡمِنِینَ عَلَى ٱلۡقِتَالِۚ إِن یَكُن مِّنكُمۡ عِشۡرُونَ صَـٰبِرُونَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرِّضِ ٱلْمُؤْمِنِينَ",
+          "content": "بالغ في حثّهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 8,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "حَرِّضِ ٱلْمُؤْمِنِينَ",
+          "content": "بالغ في حثّهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ یَغۡلِبُوۤا۟ أَلۡفࣰا مِّنَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرِّضِ ٱلْمُؤْمِنِينَ",
+          "content": "بالغ في حثّهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 8,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَفۡقَهُونَ ۝٦٥ ٱلۡـَٔـٰنَ خَفَّفَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرِّضِ ٱلْمُؤْمِنِينَ",
+          "content": "بالغ في حثّهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 8,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِیكُمۡ ضَعۡفࣰاۚ فَإِن یَكُن مِّنكُم مِّا۟ئَةࣱ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "صَابِرَةࣱ یَغۡلِبُوا۟ مِا۟ئَتَیۡنِۚ وَإِن یَكُن مِّنكُمۡ أَلۡفࣱ یَغۡلِبُوۤا۟",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَلۡفَیۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِینَ ۝٦٦ مَا كَانَ لِنَبِیٍّ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَن یَكُونَ لَهُۥۤ أَسۡرَىٰ حَتَّىٰ یُثۡخِنَ فِی ٱلۡأَرۡضِۚ تُرِیدُونَ عَرَضَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُثْخِنَ",
+          "content": "يُبالغ في القتل حتى يذل الكفر",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 8,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "عَرَضَ ٱلدُّنْيَا",
+          "content": "حطامها بأخذكم الفدية",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 8,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 8,
+          "tokens": "يُثْخِنَ",
+          "content": "يُبالغ في القتل حتى يذل الكفر"
+        },
+        {
+          "start": 71,
+          "length": 6,
+          "tokens": "عَرَضَ ٱلدُّنْيَا",
+          "content": "حطامها بأخذكم الفدية"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلدُّنۡیَا وَٱللَّهُ یُرِیدُ ٱلۡـَٔاخِرَةَۗ وَٱللَّهُ عَزِیزٌ حَكِیمࣱ ۝٦٧ لَّوۡلَا كِتَـٰبࣱ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُثْخِنَ",
+          "content": "يُبالغ في القتل حتى يذل الكفر",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 8,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "عَرَضَ ٱلدُّنْيَا",
+          "content": "حطامها بأخذكم الفدية",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 8,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "عَرَضَ ٱلدُّنْيَا",
+          "content": "حطامها بأخذكم الفدية"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِیمَاۤ أَخَذۡتُمۡ عَذَابٌ عَظِیمࣱ ۝٦٨ فَكُلُوا۟",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِمَّا غَنِمۡتُمۡ حَلَـٰلࣰا طَیِّبࣰاۚ وَٱتَّقُوا۟ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ ۝٦٩",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

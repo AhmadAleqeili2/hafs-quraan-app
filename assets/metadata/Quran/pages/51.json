@@ -1,0 +1,397 @@
+{
+  "pageIndex": 51,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ لَن تُغۡنِیَ عَنۡهُمۡ أَمۡوَ ٰ⁠لُهُمۡ وَلَاۤ أَوۡلَـٰدُهُم",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِّنَ ٱللَّهِ شَیۡـࣰٔاۖ وَأُو۟لَـٰۤىِٕكَ هُمۡ وَقُودُ ٱلنَّارِ ۝١٠ كَدَأۡبِ ءَالِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَذَّبُوا۟ بِـَٔایَـٰتِنَا فَأَخَذَهُمُ ٱللَّهُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَدَأْبِ",
+          "content": "كعادة وشأن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ ۝١١ قُل لِّلَّذِینَ كَفَرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَدَأْبِ",
+          "content": "كعادة وشأن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ ۝١٢",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبِئْسَ ٱلْمِهَادُ",
+          "content": "بئس الفراش، والمضجع جهنم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 19,
+          "tokens": "وَبِئْسَ ٱلْمِهَادُ",
+          "content": "بئس الفراش، والمضجع جهنم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "قَدۡ كَانَ لَكُمۡ ءَایَةࣱ فِی فِئَتَیۡنِ ٱلۡتَقَتَاۖ فِئَةࣱ تُقَـٰتِلُ فِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة ودلالة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 3,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "سَبِیلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةࣱ یَرَوۡنَهُم مِّثۡلَیۡهِمۡ رَأۡیَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة ودلالة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 3,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡعَیۡنِۚ وَٱللَّهُ یُؤَیِّدُ بِنَصۡرِهِۦ مَن یَشَاۤءُۚ إِنَّ فِی ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة ودلالة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 3,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَعِبۡرَةࣰ لِّأُو۟لِی ٱلۡأَبۡصَـٰرِ ۝١٣ زُیِّنَ لِلنَّاسِ حُبُّ ٱلشَّهَوَ ٰ⁠تِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة ودلالة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 3,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة ودلالة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِنَ ٱلنِّسَاۤءِ وَٱلۡبَنِینَ وَٱلۡقَنَـٰطِیرِ ٱلۡمُقَنطَرَةِ مِنَ ٱلذَّهَبِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُبُّ ٱلشَّهَوَٰتِ",
+          "content": "المشتهيات بالطبع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُقَنطَرَةِ",
+          "content": "المضاعفة، أو المحكمة المحصنة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُسَوَّمَةِ",
+          "content": "المُعْلمة، أو المطهّمة الحِسان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعْز",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْحَرْثِ",
+          "content": "المزروعات",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "حُسْنُ ٱلْمَـَٔابِ",
+          "content": "المرجع : أي المرجع الحسن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 14,
+          "tokens": "ٱلْمُقَنطَرَةِ",
+          "content": "المضاعفة، أو المحكمة المحصنة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَٱلۡفِضَّةِ وَٱلۡخَیۡلِ ٱلۡمُسَوَّمَةِ وَٱلۡأَنۡعَـٰمِ وَٱلۡحَرۡثِۗ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُبُّ ٱلشَّهَوَٰتِ",
+          "content": "المشتهيات بالطبع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُقَنطَرَةِ",
+          "content": "المضاعفة، أو المحكمة المحصنة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُسَوَّمَةِ",
+          "content": "المُعْلمة، أو المطهّمة الحِسان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعْز",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْحَرْثِ",
+          "content": "المزروعات",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "حُسْنُ ٱلْمَـَٔابِ",
+          "content": "المرجع : أي المرجع الحسن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 14,
+          "tokens": "ٱلْمُسَوَّمَةِ",
+          "content": "المُعْلمة، أو المطهّمة الحِسان"
+        },
+        {
+          "start": 40,
+          "length": 15,
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعْز"
+        },
+        {
+          "start": 56,
+          "length": 12,
+          "tokens": "وَٱلْحَرْثِ",
+          "content": "المزروعات"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَٱللَّهُ عِندَهُۥ حُسۡنُ ٱلۡمَـَٔابِ ۝١٤ قُلۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُبُّ ٱلشَّهَوَٰتِ",
+          "content": "المشتهيات بالطبع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُقَنطَرَةِ",
+          "content": "المضاعفة، أو المحكمة المحصنة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "ٱلْمُسَوَّمَةِ",
+          "content": "المُعْلمة، أو المطهّمة الحِسان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضّأن والمعْز",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَٱلْحَرْثِ",
+          "content": "المزروعات",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "حُسْنُ ٱلْمَـَٔابِ",
+          "content": "المرجع : أي المرجع الحسن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 18,
+          "tokens": "حُسْنُ ٱلْمَـَٔابِ",
+          "content": "المرجع : أي المرجع الحسن"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَؤُنَبِّئُكُم بِخَیۡرࣲ مِّن ذَ ٰ⁠لِكُمۡۖ لِلَّذِینَ ٱتَّقَوۡا۟ عِندَ رَبِّهِمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "جَنَّـٰتࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَا وَأَزۡوَ ٰ⁠جࣱ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مُّطَهَّرَةࣱ وَرِضۡوَ ٰ⁠نࣱ مِّنَ ٱللَّهِۗ وَٱللَّهُ بَصِیرُۢ بِٱلۡعِبَادِ ۝١٥",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

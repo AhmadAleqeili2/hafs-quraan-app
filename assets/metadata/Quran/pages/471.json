@@ -1,0 +1,315 @@
+{
+  "pageIndex": 471,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَقَدۡ جَاۤءَكُمۡ یُوسُفُ مِن قَبۡلُ بِٱلۡبَیِّنَـٰتِ فَمَا زِلۡتُمۡ فِی",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّرْتَابٌ",
+          "content": "في دين الله شاكّ في وَحْدانيّته",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 40,
+          "ayahIndex": 34
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "شَكࣲّ مِّمَّا جَاۤءَكُم بِهِۦۖ حَتَّىٰۤ إِذَا هَلَكَ قُلۡتُمۡ لَن یَبۡعَثَ ٱللَّهُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّرْتَابٌ",
+          "content": "في دين الله شاكّ في وَحْدانيّته",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 40,
+          "ayahIndex": 34
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِنۢ بَعۡدِهِۦ رَسُولࣰاۚ كَذَ ٰ⁠لِكَ یُضِلُّ ٱللَّهُ مَنۡ هُوَ مُسۡرِفࣱ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّرْتَابٌ",
+          "content": "في دين الله شاكّ في وَحْدانيّته",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 40,
+          "ayahIndex": 34
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مُّرۡتَابٌ ۝٣٤ ٱلَّذِینَ یُجَـٰدِلُونَ فِیۤ ءَایَـٰتِ ٱللَّهِ بِغَیۡرِ سُلۡطَـٰنٍ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّرْتَابٌ",
+          "content": "في دين الله شاكّ في وَحْدانيّته",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 40,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "مُّرْتَابٌ",
+          "content": "في دين الله شاكّ في وَحْدانيّته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَتَىٰهُمۡۖ كَبُرَ مَقۡتًا عِندَ ٱللَّهِ وَعِندَ ٱلَّذِینَ ءَامَنُوا۟ۚ كَذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ سُلْطَٰنٍ",
+          "content": "بغير برهان وحجّة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 40,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "كَبُرَ مَقْتًا",
+          "content": "عَظُم جدالهمْ بغير حجّة بُغضا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 40,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 14,
+          "tokens": "كَبُرَ مَقْتًا",
+          "content": "عَظُم جدالهمْ بغير حجّة بُغضا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَطۡبَعُ ٱللَّهُ عَلَىٰ كُلِّ قَلۡبِ مُتَكَبِّرࣲ جَبَّارࣲ ۝٣٥ وَقَالَ فِرۡعَوۡنُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ سُلْطَٰنٍ",
+          "content": "بغير برهان وحجّة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 40,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "كَبُرَ مَقْتًا",
+          "content": "عَظُم جدالهمْ بغير حجّة بُغضا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 40,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَـٰهَـٰمَـٰنُ ٱبۡنِ لِی صَرۡحࣰا لَّعَلِّیۤ أَبۡلُغُ ٱلۡأَسۡبَـٰبَ ۝٣٦ أَسۡبَـٰبَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَرْحًا",
+          "content": "قصرًا، أو بناءً عاليا ظاهرا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "أَبْلُغُ ٱلْأَسْبَٰبَ",
+          "content": "الأبواب أو الطّرق",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 40,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 7,
+          "tokens": "صَرْحًا",
+          "content": "قصرًا، أو بناءً عاليا ظاهرا"
+        },
+        {
+          "start": 44,
+          "length": 22,
+          "tokens": "أَبْلُغُ ٱلْأَسْبَٰبَ",
+          "content": "الأبواب أو الطّرق"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ فَأَطَّلِعَ إِلَىٰۤ إِلَـٰهِ مُوسَىٰ وَإِنِّی لَأَظُنُّهُۥ كَـٰذِبࣰاۚ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَابٍ",
+          "content": "خسران وهلاك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 40,
+          "ayahIndex": 37
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَكَذَ ٰ⁠لِكَ زُیِّنَ لِفِرۡعَوۡنَ سُوۤءُ عَمَلِهِۦ وَصُدَّ عَنِ ٱلسَّبِیلِۚ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَابٍ",
+          "content": "خسران وهلاك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 40,
+          "ayahIndex": 37
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَمَا كَیۡدُ فِرۡعَوۡنَ إِلَّا فِی تَبَابࣲ ۝٣٧ وَقَالَ ٱلَّذِیۤ ءَامَنَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَابٍ",
+          "content": "خسران وهلاك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 40,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 7,
+          "tokens": "تَبَابٍ",
+          "content": "خسران وهلاك"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَـٰقَوۡمِ ٱتَّبِعُونِ أَهۡدِكُمۡ سَبِیلَ ٱلرَّشَادِ ۝٣٨ یَـٰقَوۡمِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنَّمَا هَـٰذِهِ ٱلۡحَیَوٰةُ ٱلدُّنۡیَا مَتَـٰعࣱ وَإِنَّ ٱلۡـَٔاخِرَةَ هِیَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "دَارُ ٱلۡقَرَارِ ۝٣٩ مَنۡ عَمِلَ سَیِّئَةࣰ فَلَا یُجۡزَىٰۤ إِلَّا مِثۡلَهَاۖ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَمَنۡ عَمِلَ صَـٰلِحࣰا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنࣱ فَأُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ حِسَابٍ",
+          "content": "بلا نهاية من الرزاق لِما يُعطي",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 40,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَدۡخُلُونَ ٱلۡجَنَّةَ یُرۡزَقُونَ فِیهَا بِغَیۡرِ حِسَابࣲ ۝٤٠",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ حِسَابٍ",
+          "content": "بلا نهاية من الرزاق لِما يُعطي",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 40,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 16,
+          "tokens": "بِغَيْرِ حِسَابٍ",
+          "content": "بلا نهاية من الرزاق لِما يُعطي"
+        }
+      ]
+    }
+  ]
+}

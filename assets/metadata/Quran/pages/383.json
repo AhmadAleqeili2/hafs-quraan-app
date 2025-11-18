@@ -1,0 +1,233 @@
+{
+  "pageIndex": 383,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَمَّن یَبۡدَؤُا۟ ٱلۡخَلۡقَ ثُمَّ یُعِیدُهُۥ وَمَن یَرۡزُقُكُم مِّنَ ٱلسَّمَاۤءِ وَٱلۡأَرۡضِۗ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَءِلَـٰهࣱ مَّعَ ٱللَّهِۚ قُلۡ هَاتُوا۟ بُرۡهَـٰنَكُمۡ إِن كُنتُمۡ صَـٰدِقِینَ ۝٦٤ قُل",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَّا یَعۡلَمُ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ ٱلۡغَیۡبَ إِلَّا ٱللَّهُۚ وَمَا یَشۡعُرُونَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَیَّانَ یُبۡعَثُونَ ۝٦٥ بَلِ ٱدَّ ٰ⁠رَكَ عِلۡمُهُمۡ فِی ٱلۡـَٔاخِرَةِۚ بَلۡ هُمۡ فِی",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "شَكࣲّ مِّنۡهَاۖ بَلۡ هُم مِّنۡهَا عَمُونَ ۝٦٦ وَقَالَ ٱلَّذِینَ كَفَرُوۤا۟ أَءِذَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدَّٰرَكَ عِلْمُهُمْ فِى ٱلْءَاخِرَةِ",
+          "content": "تكامل واستحكم علمهم بأحوالها وهو تهكّم بهم لفرْط جهلهم بها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "عَمُونَ",
+          "content": "عُمي البصائر عن دلائلها البيّنة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 27,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 7,
+          "tokens": "عَمُونَ",
+          "content": "عُمي البصائر عن دلائلها البيّنة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "كُنَّا تُرَ ٰ⁠بࣰا وَءَابَاۤؤُنَاۤ أَىِٕنَّا لَمُخۡرَجُونَ ۝٦٧ لَقَدۡ وُعِدۡنَا هَـٰذَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "نَحۡنُ وَءَابَاۤؤُنَا مِن قَبۡلُ إِنۡ هَـٰذَاۤ إِلَّاۤ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ ۝٦٨",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أكاذيبهم المُسطّر في كتبهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 27,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 25,
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أكاذيبهم المُسطّر في كتبهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "قُلۡ سِیرُوا۟ فِی ٱلۡأَرۡضِ فَٱنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُجۡرِمِینَ ۝٦٩",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَا تَحۡزَنۡ عَلَیۡهِمۡ وَلَا تَكُن فِی ضَیۡقࣲ مِّمَّا یَمۡكُرُونَ ۝٧٠",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَيْقٍ",
+          "content": "حرج وضيق صدر",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 6,
+          "tokens": "ضَيْقٍ",
+          "content": "حرج وضيق صدر"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَـٰدِقِینَ ۝٧١ قُلۡ عَسَىٰۤ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَن یَكُونَ رَدِفَ لَكُم بَعۡضُ ٱلَّذِی تَسۡتَعۡجِلُونَ ۝٧٢ وَإِنَّ رَبَّكَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَدِفَ لَكُم",
+          "content": "لحقكم ووصل إليكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 72
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 12,
+          "tokens": "رَدِفَ لَكُم",
+          "content": "لحقكم ووصل إليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَشۡكُرُونَ ۝٧٣ وَإِنَّ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "رَبَّكَ لَیَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا یُعۡلِنُونَ ۝٧٤ وَمَا مِنۡ غَاۤىِٕبَةࣲ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا تُكِنُّ صُدُورُهُمْ",
+          "content": "ما تُخفي وتستر من الأسرار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 23,
+          "tokens": "مَا تُكِنُّ صُدُورُهُمْ",
+          "content": "ما تُخفي وتستر من الأسرار"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِی ٱلسَّمَاۤءِ وَٱلۡأَرۡضِ إِلَّا فِی كِتَـٰبࣲ مُّبِینٍ ۝٧٥ إِنَّ هَـٰذَا ٱلۡقُرۡءَانَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَآئِبَةٍ",
+          "content": "شيء يغيب ويخفى عن الخلق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 75
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَقُصُّ عَلَىٰ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ أَكۡثَرَ ٱلَّذِی هُمۡ فِیهِ یَخۡتَلِفُونَ ۝٧٦",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

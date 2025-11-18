@@ -1,0 +1,243 @@
+{
+  "pageIndex": 240,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱتَّبَعۡتُ مِلَّةَ ءَابَاۤءِیۤ إِبۡرَ ٰ⁠هِیمَ وَإِسۡحَـٰقَ وَیَعۡقُوبَۚ مَا كَانَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَنَاۤ أَن نُّشۡرِكَ بِٱللَّهِ مِن شَیۡءࣲۚ ذَ ٰ⁠لِكَ مِن فَضۡلِ ٱللَّهِ عَلَیۡنَا وَعَلَى",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یَشۡكُرُونَ ۝٣٨ یَـٰصَـٰحِبَیِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلسِّجۡنِ ءَأَرۡبَابࣱ مُّتَفَرِّقُونَ خَیۡرٌ أَمِ ٱللَّهُ ٱلۡوَ ٰ⁠حِدُ ٱلۡقَهَّارُ ۝٣٩",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مَا تَعۡبُدُونَ مِن دُونِهِۦۤ إِلَّاۤ أَسۡمَاۤءࣰ سَمَّیۡتُمُوهَاۤ أَنتُمۡ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم، أو الثّابت بالبراهين",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 12,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَءَابَاۤؤُكُم مَّاۤ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَـٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم، أو الثّابت بالبراهين",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 12,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَمَرَ أَلَّا تَعۡبُدُوۤا۟ إِلَّاۤ إِیَّاهُۚ ذَ ٰ⁠لِكَ ٱلدِّینُ ٱلۡقَیِّمُ وَلَـٰكِنَّ أَكۡثَرَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم، أو الثّابت بالبراهين",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 12,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 19,
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم، أو الثّابت بالبراهين"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلنَّاسِ لَا یَعۡلَمُونَ ۝٤٠ یَـٰصَـٰحِبَیِ ٱلسِّجۡنِ أَمَّاۤ أَحَدُكُمَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم، أو الثّابت بالبراهين",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 12,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَیَسۡقِی رَبَّهُۥ خَمۡرࣰاۖ وَأَمَّا ٱلۡـَٔاخَرُ فَیُصۡلَبُ فَتَأۡكُلُ ٱلطَّیۡرُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِن رَّأۡسِهِۦۚ قُضِیَ ٱلۡأَمۡرُ ٱلَّذِی فِیهِ تَسۡتَفۡتِیَانِ ۝٤١ وَقَالَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "لِلَّذِی ظَنَّ أَنَّهُۥ نَاجࣲ مِّنۡهُمَا ٱذۡكُرۡنِی عِندَ رَبِّكَ فَأَنسَىٰهُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلشَّیۡطَـٰنُ ذِكۡرَ رَبِّهِۦ فَلَبِثَ فِی ٱلسِّجۡنِ بِضۡعَ سِنِینَ ۝٤٢",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَقَالَ ٱلۡمَلِكُ إِنِّیۤ أَرَىٰ سَبۡعَ بَقَرَ ٰ⁠تࣲ سِمَانࣲ یَأۡكُلُهُنَّ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِجَافٌ",
+          "content": "مهازيل جدّا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "تَعْبُرُونَ",
+          "content": "تعلمون تأويلها وتفسيرها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "سَبۡعٌ عِجَافࣱ وَسَبۡعَ سُنۢبُلَـٰتٍ خُضۡرࣲ وَأُخَرَ یَابِسَـٰتࣲۖ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِجَافٌ",
+          "content": "مهازيل جدّا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "تَعْبُرُونَ",
+          "content": "تعلمون تأويلها وتفسيرها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 7,
+          "tokens": "عِجَافٌ",
+          "content": "مهازيل جدّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡمَلَأُ أَفۡتُونِی فِی رُءۡیَـٰیَ إِن كُنتُمۡ لِلرُّءۡیَا تَعۡبُرُونَ ۝٤٣",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِجَافٌ",
+          "content": "مهازيل جدّا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "تَعْبُرُونَ",
+          "content": "تعلمون تأويلها وتفسيرها",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 11,
+          "tokens": "تَعْبُرُونَ",
+          "content": "تعلمون تأويلها وتفسيرها"
+        }
+      ]
+    }
+  ]
+}

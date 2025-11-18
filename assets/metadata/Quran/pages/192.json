@@ -1,0 +1,239 @@
+{
+  "pageIndex": 192,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یُرِیدُونَ أَن یُطۡفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفۡوَ ٰ⁠هِهِمۡ وَیَأۡبَى ٱللَّهُ إِلَّاۤ أَن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "یُتِمَّ نُورَهُۥ وَلَوۡ كَرِهَ ٱلۡكَـٰفِرُونَ ۝٣٢ هُوَ ٱلَّذِیۤ أَرۡسَلَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِینِ ٱلۡحَقِّ لِیُظۡهِرَهُۥ عَلَى ٱلدِّینِ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيُظْهِرَهُۥ",
+          "content": "ليُعليه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 9,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 13,
+          "tokens": "لِيُظْهِرَهُۥ",
+          "content": "ليُعليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ ۝٣٣ یَـٰۤأَیُّهَا ٱلَّذِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيُظْهِرَهُۥ",
+          "content": "ليُعليه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 9,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ءَامَنُوۤا۟ إِنَّ كَثِیرࣰا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَیَأۡكُلُونَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَمۡوَ ٰ⁠لَ ٱلنَّاسِ بِٱلۡبَـٰطِلِ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِۗ وَٱلَّذِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا یُنفِقُونَهَا فِی",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "سَبِیلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِیمࣲ ۝٣٤ یَوۡمَ یُحۡمَىٰ عَلَیۡهَا",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فِی نَارِ جَهَنَّمَ فَتُكۡوَىٰ بِهَا جِبَاهُهُمۡ وَجُنُوبُهُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَظُهُورُهُمۡۖ هَـٰذَا مَا كَنَزۡتُمۡ لِأَنفُسِكُمۡ فَذُوقُوا۟ مَا كُنتُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "تَكۡنِزُونَ ۝٣٥ إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "شَهۡرࣰا فِی كِتَـٰبِ ٱللَّهِ یَوۡمَ خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ مِنۡهَاۤ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرْبَعَةٌ حُرُمٌ",
+          "content": "رجب وذو القعدة وذو الحجة والمحرّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "الدّين المستقيم دين إبراهيم صلى الله عليه وسلم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَرۡبَعَةٌ حُرُمࣱۚ ذَ ٰ⁠لِكَ ٱلدِّینُ ٱلۡقَیِّمُۚ فَلَا تَظۡلِمُوا۟ فِیهِنَّ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرْبَعَةٌ حُرُمٌ",
+          "content": "رجب وذو القعدة وذو الحجة والمحرّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "الدّين المستقيم دين إبراهيم صلى الله عليه وسلم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "أَرْبَعَةٌ حُرُمٌ",
+          "content": "رجب وذو القعدة وذو الحجة والمحرّم"
+        },
+        {
+          "start": 29,
+          "length": 20,
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "الدّين المستقيم دين إبراهيم صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَنفُسَكُمۡۚ وَقَـٰتِلُوا۟ ٱلۡمُشۡرِكِینَ كَاۤفَّةࣰ كَمَا",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرْبَعَةٌ حُرُمٌ",
+          "content": "رجب وذو القعدة وذو الحجة والمحرّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "الدّين المستقيم دين إبراهيم صلى الله عليه وسلم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یُقَـٰتِلُونَكُمۡ كَاۤفَّةࣰۚ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِینَ ۝٣٦",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرْبَعَةٌ حُرُمٌ",
+          "content": "رجب وذو القعدة وذو الحجة والمحرّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "الدّين المستقيم دين إبراهيم صلى الله عليه وسلم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 36
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,307 @@
+{
+  "pageIndex": 363,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَا یَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَـٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِیرًا ۝٣٣",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَحْسَنَ تَفْسِيرًا",
+          "content": "أصدق بيانا وتفصيلا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 21,
+          "tokens": "وَأَحْسَنَ تَفْسِيرًا",
+          "content": "أصدق بيانا وتفصيلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلَّذِینَ یُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "شَرࣱّ مَّكَانࣰا وَأَضَلُّ سَبِیلࣰا ۝٣٤ وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَجَعَلۡنَا مَعَهُۥۤ أَخَاهُ هَـٰرُونَ وَزِیرࣰا ۝٣٥ فَقُلۡنَا ٱذۡهَبَاۤ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِلَى ٱلۡقَوۡمِ ٱلَّذِینَ كَذَّبُوا۟ بِـَٔایَـٰتِنَا فَدَمَّرۡنَـٰهُمۡ تَدۡمِیرࣰا ۝٣٦",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَدَمَّرْنَٰهُمْ",
+          "content": "فأهلكناهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 17,
+          "tokens": "فَدَمَّرْنَٰهُمْ",
+          "content": "فأهلكناهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَقَوۡمَ نُوحࣲ لَّمَّا كَذَّبُوا۟ ٱلرُّسُلَ أَغۡرَقۡنَـٰهُمۡ وَجَعَلۡنَـٰهُمۡ لِلنَّاسِ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ءَایَةࣰۖ وَأَعۡتَدۡنَا لِلظَّـٰلِمِینَ عَذَابًا أَلِیمࣰا ۝٣٧ وَعَادࣰا وَثَمُودَا۟",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَصۡحَـٰبَ ٱلرَّسِّ وَقُرُونَۢا بَیۡنَ ذَ ٰ⁠لِكَ كَثِیرࣰا ۝٣٨ وَكُلࣰّا",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَصْحَٰبَ ٱلرَّسِّ",
+          "content": "البئر – قتلوا نبيّهم ودسوه فيها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 25,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "وَقُرُونًۢا",
+          "content": "أُمما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 25,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "وَأَصْحَٰبَ ٱلرَّسِّ",
+          "content": "البئر – قتلوا نبيّهم ودسوه فيها"
+        },
+        {
+          "start": 22,
+          "length": 11,
+          "tokens": "وَقُرُونًۢا",
+          "content": "أُمما"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ضَرَبۡنَا لَهُ ٱلۡأَمۡثَـٰلَۖ وَكُلࣰّا تَبَّرۡنَا تَتۡبِیرࣰا ۝٣٩ وَلَقَدۡ أَتَوۡا۟ عَلَى",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَّرْنَا تَتْبِيرًا",
+          "content": "أهلكنا إهلاكا عجيبا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 21,
+          "tokens": "تَبَّرْنَا تَتْبِيرًا",
+          "content": "أهلكنا إهلاكا عجيبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡقَرۡیَةِ ٱلَّتِیۤ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ یَكُونُوا۟ یَرَوۡنَهَاۚ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَطَرَ ٱلسَّوْءِ",
+          "content": "حجارة من السماء مهلكة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "لَا يَرْجُونَ نُشُورًا",
+          "content": "لا يتوقّعون بعثا بل ينكرونه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 25,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 17,
+          "tokens": "مَطَرَ ٱلسَّوْءِ",
+          "content": "حجارة من السماء مهلكة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بَلۡ كَانُوا۟ لَا یَرۡجُونَ نُشُورࣰا ۝٤٠ وَإِذَا رَأَوۡكَ إِن یَتَّخِذُونَكَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَطَرَ ٱلسَّوْءِ",
+          "content": "حجارة من السماء مهلكة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "لَا يَرْجُونَ نُشُورًا",
+          "content": "لا يتوقّعون بعثا بل ينكرونه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 25,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 22,
+          "tokens": "لَا يَرْجُونَ نُشُورًا",
+          "content": "لا يتوقّعون بعثا بل ينكرونه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِلَّا هُزُوًا أَهَـٰذَا ٱلَّذِی بَعَثَ ٱللَّهُ رَسُولًا ۝٤١ إِن كَادَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هُزُوًا",
+          "content": "مهزوءً به",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 25,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 7,
+          "tokens": "هُزُوًا",
+          "content": "مهزوءً به"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَیُضِلُّنَا عَنۡ ءَالِهَتِنَا لَوۡلَاۤ أَن صَبَرۡنَا عَلَیۡهَاۚ وَسَوۡفَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "یَعۡلَمُونَ حِینَ یَرَوۡنَ ٱلۡعَذَابَ مَنۡ أَضَلُّ سَبِیلًا ۝٤٢ أَرَءَیۡتَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَنِ ٱتَّخَذَ إِلَـٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَیۡهِ وَكِیلًا ۝٤٣",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتَ",
+          "content": "أخبرني",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 25,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "وَكِيلًا",
+          "content": "حفيظا تمنعُه من عبادة ما يهواه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 25,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 62,
+          "length": 8,
+          "tokens": "وَكِيلًا",
+          "content": "حفيظا تمنعُه من عبادة ما يهواه"
+        }
+      ]
+    }
+  ]
+}

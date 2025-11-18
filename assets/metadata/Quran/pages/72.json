@@ -1,0 +1,171 @@
+{
+  "pageIndex": 72,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَاۤ أَصَـٰبَكُمۡ یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِیَعۡلَمَ ٱلۡمُؤۡمِنِینَ ۝١٦٦",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 166,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلِیَعۡلَمَ ٱلَّذِینَ نَافَقُوا۟ۚ وَقِیلَ لَهُمۡ تَعَالَوۡا۟ قَـٰتِلُوا۟ فِی سَبِیلِ ٱللَّهِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 167,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَوِ ٱدۡفَعُوا۟ۖ قَالُوا۟ لَوۡ نَعۡلَمُ قِتَالࣰا لَّٱتَّبَعۡنَـٰكُمۡۗ هُمۡ لِلۡكُفۡرِ یَوۡمَىِٕذٍ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 167,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَقۡرَبُ مِنۡهُمۡ لِلۡإِیمَـٰنِۚ یَقُولُونَ بِأَفۡوَ ٰ⁠هِهِم مَّا لَیۡسَ فِی قُلُوبِهِمۡۚ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 167,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱللَّهُ أَعۡلَمُ بِمَا یَكۡتُمُونَ ۝١٦٧ ٱلَّذِینَ قَالُوا۟ لِإِخۡوَ ٰ⁠نِهِمۡ وَقَعَدُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 167,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَوۡ أَطَاعُونَا مَا قُتِلُوا۟ۗ قُلۡ فَٱدۡرَءُوا۟ عَنۡ أَنفُسِكُمُ ٱلۡمَوۡتَ إِن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 168,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱدْرَءُوا۟",
+          "content": "فادفعوا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 168
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 12,
+          "tokens": "فَٱدْرَءُوا۟",
+          "content": "فادفعوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "كُنتُمۡ صَـٰدِقِینَ ۝١٦٨ وَلَا تَحۡسَبَنَّ ٱلَّذِینَ قُتِلُوا۟ فِی سَبِیلِ ٱللَّهِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 168,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱدْرَءُوا۟",
+          "content": "فادفعوا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 168
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَمۡوَ ٰ⁠تَۢاۚ بَلۡ أَحۡیَاۤءٌ عِندَ رَبِّهِمۡ یُرۡزَقُونَ ۝١٦٩ فَرِحِینَ بِمَاۤ ءَاتَىٰهُمُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 169,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱللَّهُ مِن فَضۡلِهِۦ وَیَسۡتَبۡشِرُونَ بِٱلَّذِینَ لَمۡ یَلۡحَقُوا۟ بِهِم",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 170,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِّنۡ خَلۡفِهِمۡ أَلَّا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝١٧٠ یَسۡتَبۡشِرُونَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 170,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "بِنِعۡمَةࣲ مِّنَ ٱللَّهِ وَفَضۡلࣲ وَأَنَّ ٱللَّهَ لَا یُضِیعُ أَجۡرَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 171,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡمُؤۡمِنِینَ ۝١٧١ ٱلَّذِینَ ٱسۡتَجَابُوا۟ لِلَّهِ وَٱلرَّسُولِ مِنۢ بَعۡدِ مَاۤ أَصَابَهُمُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 171,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡقَرۡحُۚ لِلَّذِینَ أَحۡسَنُوا۟ مِنۡهُمۡ وَٱتَّقَوۡا۟ أَجۡرٌ عَظِیمٌ ۝١٧٢",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 172,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَصَابَهُمُ ٱلْقَرْحُ",
+          "content": "نالتهم الجراح يوم أُحُدْ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 172
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "أَصَابَهُمُ ٱلْقَرْحُ",
+          "content": "نالتهم الجراح يوم أُحُدْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلَّذِینَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُوا۟ لَكُمۡ فَٱخۡشَوۡهُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 173,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَزَادَهُمۡ إِیمَـٰنࣰا وَقَالُوا۟ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِیلُ ۝١٧٣",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 173,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

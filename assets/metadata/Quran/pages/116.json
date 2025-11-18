@@ -1,0 +1,435 @@
+{
+  "pageIndex": 116,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَقَفَّیۡنَا عَلَىٰۤ ءَاثَـٰرِهِم بِعِیسَى ٱبۡنِ مَرۡیَمَ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبعنا على آثار النبيين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 33,
+          "tokens": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبعنا على آثار النبيين"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنَ ٱلتَّوۡرَىٰةِۖ وَءَاتَیۡنَـٰهُ ٱلۡإِنجِیلَ فِیهِ هُدࣰى وَنُورࣱ وَمُصَدِّقࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبعنا على آثار النبيين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 46
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لِّمَا بَیۡنَ یَدَیۡهِ مِنَ ٱلتَّوۡرَىٰةِ وَهُدࣰى وَمَوۡعِظَةࣰ لِّلۡمُتَّقِینَ ۝٤٦",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبعنا على آثار النبيين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 46
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلۡیَحۡكُمۡ أَهۡلُ ٱلۡإِنجِیلِ بِمَاۤ أَنزَلَ ٱللَّهُ فِیهِۚ وَمَن لَّمۡ یَحۡكُم",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِمَاۤ أَنزَلَ ٱللَّهُ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡفَـٰسِقُونَ ۝٤٧ وَأَنزَلۡنَاۤ إِلَیۡكَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلۡكِتَـٰبَ بِٱلۡحَقِّ مُصَدِّقࣰا لِّمَا بَیۡنَ یَدَیۡهِ مِنَ ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمُهَیۡمِنًا عَلَیۡهِۖ فَٱحۡكُم بَیۡنَهُم بِمَاۤ أَنزَلَ ٱللَّهُۖ وَلَا تَتَّبِعۡ أَهۡوَاۤءَهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 23,
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَمَّا جَاۤءَكَ مِنَ ٱلۡحَقِّۚ لِكُلࣲّ جَعَلۡنَا مِنكُمۡ شِرۡعَةࣰ وَمِنۡهَاجࣰاۚ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك"
+        },
+        {
+          "start": 57,
+          "length": 22,
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَوۡ شَاۤءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةࣰ وَ ٰ⁠حِدَةࣰ وَلَـٰكِن لِّیَبۡلُوَكُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 15,
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِی مَاۤ ءَاتَىٰكُمۡۖ فَٱسۡتَبِقُوا۟ ٱلۡخَیۡرَ ٰ⁠تِۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِیعࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَیُنَبِّئُكُم بِمَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ ۝٤٨ وَأَنِ ٱحۡكُم بَیۡنَهُم",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمُهَيْمِنًا عَلَيْهِ",
+          "content": "رقيبا أو شاهدا على ما سبقه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "عَمَّا جَآءَكَ",
+          "content": "عادِلا عما جاءك",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "شِرْعَةً وَمِنْهَاجًا",
+          "content": "شريعة وطريقا واضحا في الدين",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "لِّيَبْلُوَكُمْ",
+          "content": "ليختبركم وهو أعلم بأمركم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 5,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِمَاۤ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَاۤءَهُمۡ وَٱحۡذَرۡهُمۡ أَن یَفۡتِنُوكَ عَنۢ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَفْتِنُوكَ",
+          "content": "يصرفوك ويصدوك بكيدهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 15,
+          "tokens": "أَن يَفْتِنُوكَ",
+          "content": "يصرفوك ويصدوك بكيدهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بَعۡضِ مَاۤ أَنزَلَ ٱللَّهُ إِلَیۡكَۖ فَإِن تَوَلَّوۡا۟ فَٱعۡلَمۡ أَنَّمَا یُرِیدُ ٱللَّهُ أَن یُصِیبَهُم",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَفْتِنُوكَ",
+          "content": "يصرفوك ويصدوك بكيدهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "بِبَعۡضِ ذُنُوبِهِمۡۗ وَإِنَّ كَثِیرࣰا مِّنَ ٱلنَّاسِ لَفَـٰسِقُونَ ۝٤٩ أَفَحُكۡمَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَفْتِنُوكَ",
+          "content": "يصرفوك ويصدوك بكيدهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡجَـٰهِلِیَّةِ یَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمࣰا لِّقَوۡمࣲ یُوقِنُونَ ۝٥٠",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

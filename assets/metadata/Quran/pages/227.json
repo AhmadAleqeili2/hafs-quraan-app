@@ -1,0 +1,241 @@
+{
+  "pageIndex": 227,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ یَـٰنُوحُ إِنَّهُۥ لَیۡسَ مِنۡ أَهۡلِكَۖ إِنَّهُۥ عَمَلٌ غَیۡرُ صَـٰلِحࣲۖ فَلَا تَسۡـَٔلۡنِ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مَا لَیۡسَ لَكَ بِهِۦ عِلۡمٌۖ إِنِّیۤ أَعِظُكَ أَن تَكُونَ مِنَ ٱلۡجَـٰهِلِینَ ۝٤٦",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَالَ رَبِّ إِنِّیۤ أَعُوذُ بِكَ أَنۡ أَسۡـَٔلَكَ مَا لَیۡسَ لِی بِهِۦ عِلۡمࣱۖ وَإِلَّا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَغۡفِرۡ لِی وَتَرۡحَمۡنِیۤ أَكُن مِّنَ ٱلۡخَـٰسِرِینَ ۝٤٧ قِیلَ یَـٰنُوحُ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱهۡبِطۡ بِسَلَـٰمࣲ مِّنَّا وَبَرَكَـٰتٍ عَلَیۡكَ وَعَلَىٰۤ أُمَمࣲ مِّمَّن مَّعَكَۚ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَرَكَٰتٍ",
+          "content": "خيرات ثابتة نامية",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 12,
+          "tokens": "وَبَرَكَٰتٍ",
+          "content": "خيرات ثابتة نامية"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَأُمَمࣱ سَنُمَتِّعُهُمۡ ثُمَّ یَمَسُّهُم مِّنَّا عَذَابٌ أَلِیمࣱ ۝٤٨ تِلۡكَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَرَكَٰتٍ",
+          "content": "خيرات ثابتة نامية",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِنۡ أَنۢبَاۤءِ ٱلۡغَیۡبِ نُوحِیهَاۤ إِلَیۡكَۖ مَا كُنتَ تَعۡلَمُهَاۤ أَنتَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلَا قَوۡمُكَ مِن قَبۡلِ هَـٰذَاۖ فَٱصۡبِرۡۖ إِنَّ ٱلۡعَـٰقِبَةَ لِلۡمُتَّقِینَ ۝٤٩",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودࣰاۚ قَالَ یَـٰقَوۡمِ ٱعۡبُدُوا۟ ٱللَّهَ مَا لَكُم مِّنۡ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَـٰهٍ غَیۡرُهُۥۤۖ إِنۡ أَنتُمۡ إِلَّا مُفۡتَرُونَ ۝٥٠ یَـٰقَوۡمِ لَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَجۡرًاۖ إِنۡ أَجۡرِیَ إِلَّا عَلَى ٱلَّذِی فَطَرَنِیۤۚ أَفَلَا تَعۡقِلُونَ ۝٥١",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَطَرَنِىٓ",
+          "content": "خلقني وأبدعني",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 11,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 11,
+          "tokens": "فَطَرَنِىٓ",
+          "content": "خلقني وأبدعني"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَیَـٰقَوۡمِ ٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِ یُرۡسِلِ ٱلسَّمَاۤءَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّمَآءَ",
+          "content": "المطر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "مِّدْرَارًا",
+          "content": "غزيرا متتابعا بلا إضرار",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 72,
+          "length": 11,
+          "tokens": "ٱلسَّمَآءَ",
+          "content": "المطر"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَلَیۡكُم مِّدۡرَارࣰا وَیَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا تَتَوَلَّوۡا۟",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّمَآءَ",
+          "content": "المطر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "مِّدْرَارًا",
+          "content": "غزيرا متتابعا بلا إضرار",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 11,
+          "tokens": "مِّدْرَارًا",
+          "content": "غزيرا متتابعا بلا إضرار"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مُجۡرِمِینَ ۝٥٢ قَالُوا۟ یَـٰهُودُ مَا جِئۡتَنَا بِبَیِّنَةࣲ وَمَا نَحۡنُ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّمَآءَ",
+          "content": "المطر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "مِّدْرَارًا",
+          "content": "غزيرا متتابعا بلا إضرار",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِتَارِكِیۤ ءَالِهَتِنَا عَن قَوۡلِكَ وَمَا نَحۡنُ لَكَ بِمُؤۡمِنِینَ ۝٥٣",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

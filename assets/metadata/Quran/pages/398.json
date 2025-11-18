@@ -1,0 +1,201 @@
+{
+  "pageIndex": 398,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَأَنجَیۡنَـٰهُ وَأَصۡحَـٰبَ ٱلسَّفِینَةِ وَجَعَلۡنَـٰهَاۤ ءَایَةࣰ لِّلۡعَـٰلَمِینَ ۝١٥",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِبۡرَ ٰ⁠هِیمَ إِذۡ قَالَ لِقَوۡمِهِ ٱعۡبُدُوا۟ ٱللَّهَ وَٱتَّقُوهُۖ ذَ ٰ⁠لِكُمۡ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "خَیۡرࣱ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ ۝١٦ إِنَّمَا تَعۡبُدُونَ مِن",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "دُونِ ٱللَّهِ أَوۡثَـٰنࣰا وَتَخۡلُقُونَ إِفۡكًاۚ إِنَّ ٱلَّذِینَ تَعۡبُدُونَ مِن",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَخْلُقُونَ إِفْكًا",
+          "content": "تكذبون أو تنحتون كذبا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 22,
+          "tokens": "وَتَخْلُقُونَ إِفْكًا",
+          "content": "تكذبون أو تنحتون كذبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "دُونِ ٱللَّهِ لَا یَمۡلِكُونَ لَكُمۡ رِزۡقࣰا فَٱبۡتَغُوا۟ عِندَ ٱللَّهِ ٱلرِّزۡقَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَخْلُقُونَ إِفْكًا",
+          "content": "تكذبون أو تنحتون كذبا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱعۡبُدُوهُ وَٱشۡكُرُوا۟ لَهُۥۤۖ إِلَیۡهِ تُرۡجَعُونَ ۝١٧ وَإِن تُكَذِّبُوا۟",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَخْلُقُونَ إِفْكًا",
+          "content": "تكذبون أو تنحتون كذبا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَقَدۡ كَذَّبَ أُمَمࣱ مِّن قَبۡلِكُمۡۖ وَمَا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَـٰغُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡمُبِینُ ۝١٨ أَوَلَمۡ یَرَوۡا۟ كَیۡفَ یُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یُعِیدُهُۥۤۚ إِنَّ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ ۝١٩ قُلۡ سِیرُوا۟ فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَٱنظُرُوا۟ كَیۡفَ بَدَأَ ٱلۡخَلۡقَۚ ثُمَّ ٱللَّهُ یُنشِئُ ٱلنَّشۡأَةَ ٱلۡـَٔاخِرَةَۚ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝٢٠ یُعَذِّبُ مَن یَشَاۤءُ وَیَرۡحَمُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَن یَشَاۤءُۖ وَإِلَیۡهِ تُقۡلَبُونَ ۝٢١ وَمَاۤ أَنتُم بِمُعۡجِزِینَ فِی",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِلَيْهِ تُقْلَبُونَ",
+          "content": "تُردّون وترجعون لا إلى غيره",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 22,
+          "tokens": "وَإِلَيْهِ تُقْلَبُونَ",
+          "content": "تُردّون وترجعون لا إلى غيره"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡأَرۡضِ وَلَا فِی ٱلسَّمَاۤءِۖ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "فائتين من عذابه بالهرب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 29,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلِیࣲّ وَلَا نَصِیرࣲ ۝٢٢ وَٱلَّذِینَ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ وَلِقَاۤىِٕهِۦۤ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "فائتين من عذابه بالهرب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 29,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أُو۟لَـٰۤىِٕكَ یَىِٕسُوا۟ مِن رَّحۡمَتِی وَأُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابٌ أَلِیمࣱ ۝٢٣",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

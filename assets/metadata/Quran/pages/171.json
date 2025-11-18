@@ -1,0 +1,791 @@
+{
+  "pageIndex": 171,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَقَطَّعۡنَـٰهُمُ ٱثۡنَتَیۡ عَشۡرَةَ أَسۡبَاطًا أُمَمࣰاۚ وَأَوۡحَیۡنَاۤ إِلَىٰ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم"
+        },
+        {
+          "start": 37,
+          "length": 10,
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مُوسَىٰۤ إِذِ ٱسۡتَسۡقَىٰهُ قَوۡمُهُۥۤ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡحَجَرَۖ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَٱنۢبَجَسَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَیۡنࣰاۖ قَدۡ عَلِمَ كُلُّ أُنَاسࣲ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَّشۡرَبَهُمۡۚ وَظَلَّلۡنَا عَلَیۡهِمُ ٱلۡغَمَـٰمَ وَأَنزَلۡنَا عَلَیۡهِمُ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم"
+        },
+        {
+          "start": 39,
+          "length": 11,
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ كُلُوا۟ مِن طَیِّبَـٰتِ مَا رَزَقۡنَـٰكُمۡۚ وَمَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل"
+        },
+        {
+          "start": 9,
+          "length": 14,
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ظَلَمُونَا وَلَـٰكِن كَانُوۤا۟ أَنفُسَهُمۡ یَظۡلِمُونَ ۝١٦٠",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَطَّعْنَٰهُمُ",
+          "content": "فرّقناهم أو صيّرناهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "أَسْبَاطًا",
+          "content": "جماعات، كالقبائل في العرب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "فَٱنۢبَجَسَتْ",
+          "content": "فانفجرت",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "مَّشْرَبَهُمْ",
+          "content": "عينهم الخاصّة بهم",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْغَمَٰمَ",
+          "content": "السّحاب الأبيض الرّقيق",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادّة صَمغيّة حُلوة كالعسل",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطّائر المعروف بالسّماني",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 160
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَإِذۡ قِیلَ لَهُمُ ٱسۡكُنُوا۟ هَـٰذِهِ ٱلۡقَرۡیَةَ وَكُلُوا۟ مِنۡهَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقُولُوا۟ حِطَّةٌ",
+          "content": "مسألتنا حطّ ذنوبنا عنّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 161
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَیۡثُ شِئۡتُمۡ وَقُولُوا۟ حِطَّةࣱ وَٱدۡخُلُوا۟ ٱلۡبَابَ سُجَّدࣰا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقُولُوا۟ حِطَّةٌ",
+          "content": "مسألتنا حطّ ذنوبنا عنّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 161
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "وَقُولُوا۟ حِطَّةٌ",
+          "content": "مسألتنا حطّ ذنوبنا عنّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "نَّغۡفِرۡ لَكُمۡ خَطِیۤـَٔـٰتِكُمۡۚ سَنَزِیدُ ٱلۡمُحۡسِنِینَ ۝١٦١",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقُولُوا۟ حِطَّةٌ",
+          "content": "مسألتنا حطّ ذنوبنا عنّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 161
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَبَدَّلَ ٱلَّذِینَ ظَلَمُوا۟ مِنۡهُمۡ قَوۡلًا غَیۡرَ ٱلَّذِی قِیلَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 162,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِجْزًا",
+          "content": "عذابا (الطّاعون)",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 162
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لَهُمۡ فَأَرۡسَلۡنَا عَلَیۡهِمۡ رِجۡزࣰا مِّنَ ٱلسَّمَاۤءِ بِمَا كَانُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 162,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِجْزًا",
+          "content": "عذابا (الطّاعون)",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 162
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 7,
+          "tokens": "رِجْزًا",
+          "content": "عذابا (الطّاعون)"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَظۡلِمُونَ ۝١٦٢ وَسۡـَٔلۡهُمۡ عَنِ ٱلۡقَرۡیَةِ ٱلَّتِی كَانَتۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 162,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِجْزًا",
+          "content": "عذابا (الطّاعون)",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 162
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "حَاضِرَةَ ٱلۡبَحۡرِ إِذۡ یَعۡدُونَ فِی ٱلسَّبۡتِ إِذۡ تَأۡتِیهِمۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 163,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَاضِرَةَ ٱلْبَحْرِ",
+          "content": "قريبةً من البحر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَعْدُونَ فِى ٱلسَّبْتِ",
+          "content": "يعتدون بالصّيد المحرّم فيه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَوْمَ سَبْتِهِمْ",
+          "content": "يوم تعظيمهم أمر السّبت",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "شُرَّعًا",
+          "content": "ظاهرة على وجه الماء كثيرة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "لَا يَسْبِتُونَ",
+          "content": "لا يُراعون أمر السّبت",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "نَبْلُوهُم",
+          "content": "نمتحنهم ونختبرهم بالشّدة",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "حَاضِرَةَ ٱلْبَحْرِ",
+          "content": "قريبةً من البحر"
+        },
+        {
+          "start": 25,
+          "length": 23,
+          "tokens": "يَعْدُونَ فِى ٱلسَّبْتِ",
+          "content": "يعتدون بالصّيد المحرّم فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "حِیتَانُهُمۡ یَوۡمَ سَبۡتِهِمۡ شُرَّعࣰا وَیَوۡمَ لَا یَسۡبِتُونَ لَا تَأۡتِیهِمۡۚ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 163,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَاضِرَةَ ٱلْبَحْرِ",
+          "content": "قريبةً من البحر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَعْدُونَ فِى ٱلسَّبْتِ",
+          "content": "يعتدون بالصّيد المحرّم فيه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَوْمَ سَبْتِهِمْ",
+          "content": "يوم تعظيمهم أمر السّبت",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "شُرَّعًا",
+          "content": "ظاهرة على وجه الماء كثيرة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "لَا يَسْبِتُونَ",
+          "content": "لا يُراعون أمر السّبت",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "نَبْلُوهُم",
+          "content": "نمتحنهم ونختبرهم بالشّدة",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 17,
+          "tokens": "يَوْمَ سَبْتِهِمْ",
+          "content": "يوم تعظيمهم أمر السّبت"
+        },
+        {
+          "start": 31,
+          "length": 8,
+          "tokens": "شُرَّعًا",
+          "content": "ظاهرة على وجه الماء كثيرة"
+        },
+        {
+          "start": 49,
+          "length": 15,
+          "tokens": "لَا يَسْبِتُونَ",
+          "content": "لا يُراعون أمر السّبت"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَذَ ٰ⁠لِكَ نَبۡلُوهُم بِمَا كَانُوا۟ یَفۡسُقُونَ ۝١٦٣",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 163,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَاضِرَةَ ٱلْبَحْرِ",
+          "content": "قريبةً من البحر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَعْدُونَ فِى ٱلسَّبْتِ",
+          "content": "يعتدون بالصّيد المحرّم فيه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "يَوْمَ سَبْتِهِمْ",
+          "content": "يوم تعظيمهم أمر السّبت",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "شُرَّعًا",
+          "content": "ظاهرة على وجه الماء كثيرة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "لَا يَسْبِتُونَ",
+          "content": "لا يُراعون أمر السّبت",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        },
+        {
+          "tokens": "نَبْلُوهُم",
+          "content": "نمتحنهم ونختبرهم بالشّدة",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 163
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 10,
+          "tokens": "نَبْلُوهُم",
+          "content": "نمتحنهم ونختبرهم بالشّدة"
+        }
+      ]
+    }
+  ]
+}

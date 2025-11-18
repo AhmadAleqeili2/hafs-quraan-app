@@ -1,0 +1,379 @@
+{
+  "pageIndex": 490,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِی نَزَّلَ مِنَ ٱلسَّمَاۤءِ مَاۤءَۢ بِقَدَرࣲ فَأَنشَرۡنَا بِهِۦ بَلۡدَةࣰ مَّیۡتࣰاۚ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآءًۢ بِقَدَرٍ",
+          "content": "بتقدير مُحكمٍ أو بمقدار الحاجة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "فَأَنشَرْنَا بِهِۦ",
+          "content": "فأحيينا بالماء",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 43,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 16,
+          "tokens": "مَآءًۢ بِقَدَرٍ",
+          "content": "بتقدير مُحكمٍ أو بمقدار الحاجة"
+        },
+        {
+          "start": 52,
+          "length": 18,
+          "tokens": "فَأَنشَرْنَا بِهِۦ",
+          "content": "فأحيينا بالماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "كَذَ ٰ⁠لِكَ تُخۡرَجُونَ ۝١١ وَٱلَّذِی خَلَقَ ٱلۡأَزۡوَ ٰ⁠جَ كُلَّهَا وَجَعَلَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآءًۢ بِقَدَرٍ",
+          "content": "بتقدير مُحكمٍ أو بمقدار الحاجة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "فَأَنشَرْنَا بِهِۦ",
+          "content": "فأحيينا بالماء",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 43,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَكُم مِّنَ ٱلۡفُلۡكِ وَٱلۡأَنۡعَـٰمِ مَا تَرۡكَبُونَ ۝١٢ لِتَسۡتَوُۥا۟ عَلَىٰ ظُهُورِهِۦ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَقَ ٱلْأَزْوَٰجَ",
+          "content": "أوجد أصناف المخلوقات وأنواعها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 43,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "ومن الأنعام وهو الإبل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 43,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 15,
+          "tokens": "وَٱلْأَنْعَٰمِ",
+          "content": "ومن الأنعام وهو الإبل"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ثُمَّ تَذۡكُرُوا۟ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَیۡتُمۡ عَلَیۡهِ وَتَقُولُوا۟ سُبۡحَـٰنَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَسْتَوُۥا۟",
+          "content": "لتستقرّوا، وتستعلوا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "سَخَّرَ",
+          "content": "ذلّل",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مُقْرِنِينَ",
+          "content": "مُطيقين وغالبين أو ضابطين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلَّذِی سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِینَ ۝١٣ وَإِنَّاۤ إِلَىٰ رَبِّنَا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَسْتَوُۥا۟",
+          "content": "لتستقرّوا، وتستعلوا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "سَخَّرَ",
+          "content": "ذلّل",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مُقْرِنِينَ",
+          "content": "مُطيقين وغالبين أو ضابطين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 43,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 7,
+          "tokens": "سَخَّرَ",
+          "content": "ذلّل"
+        },
+        {
+          "start": 49,
+          "length": 11,
+          "tokens": "مُقْرِنِينَ",
+          "content": "مُطيقين وغالبين أو ضابطين"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَمُنقَلِبُونَ ۝١٤ وَجَعَلُوا۟ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَـٰنَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَكَفُورࣱ مُّبِینٌ ۝١٥ أَمِ ٱتَّخَذَ مِمَّا یَخۡلُقُ بَنَاتࣲ وَأَصۡفَىٰكُم",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "بِٱلۡبَنِینَ ۝١٦ وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحۡمَـٰنِ مَثَلࣰا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَصْفَىٰكُم بِٱلْبَنِينَ",
+          "content": "أخلصكم وآثركم بهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَأَصْفَىٰكُم بِٱلْبَنِينَ",
+          "content": "أخلصكم وآثركم بهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ظَلَّ وَجۡهُهُۥ مُسۡوَدࣰّا وَهُوَ كَظِیمٌ ۝١٧ أَوَمَن یُنَشَّؤُا۟ فِی",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثَلًا",
+          "content": "شِبْهاً ومُماثِلا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "وَهُوَ كَظِيمٌ",
+          "content": "مملوء في قلبه غيظا وغمّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 43,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 14,
+          "tokens": "وَهُوَ كَظِيمٌ",
+          "content": "مملوء في قلبه غيظا وغمّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡحِلۡیَةِ وَهُوَ فِی ٱلۡخِصَامِ غَیۡرُ مُبِینࣲ ۝١٨ وَجَعَلُوا۟ ٱلۡمَلَـٰۤىِٕكَةَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ",
+          "content": "يُربّى في الزّينة والنعمة (البنات)",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 43,
+          "ayahIndex": 18
+        },
+        {
+          "tokens": "فِى ٱلْخِصَامِ",
+          "content": "المُخاصمة والجدال",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "يُنَشَّؤُا۟ فِى ٱلْحِلْيَةِ",
+          "content": "يُربّى في الزّينة والنعمة (البنات)"
+        },
+        {
+          "start": 19,
+          "length": 14,
+          "tokens": "فِى ٱلْخِصَامِ",
+          "content": "المُخاصمة والجدال"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلَّذِینَ هُمۡ عِبَـٰدُ ٱلرَّحۡمَـٰنِ إِنَـٰثًاۚ أَشَهِدُوا۟ خَلۡقَهُمۡۚ سَتُكۡتَبُ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "شَهَـٰدَتُهُمۡ وَیُسۡـَٔلُونَ ۝١٩ وَقَالُوا۟ لَوۡ شَاۤءَ ٱلرَّحۡمَـٰنُ مَا عَبَدۡنَـٰهُمۗ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَّا لَهُم بِذَ ٰ⁠لِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا یَخۡرُصُونَ ۝٢٠ أَمۡ ءَاتَیۡنَـٰهُمۡ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيما قالوه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 43,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 11,
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيما قالوه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "كِتَـٰبࣰا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ ۝٢١ بَلۡ قَالُوۤا۟ إِنَّا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَجَدۡنَاۤ ءَابَاۤءَنَا عَلَىٰۤ أُمَّةࣲ وَإِنَّا عَلَىٰۤ ءَاثَـٰرِهِم مُّهۡتَدُونَ ۝٢٢",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰٓ أُمَّةٍ",
+          "content": "على دين وطريقة تُؤمّ وتُقْصد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 15,
+          "tokens": "عَلَىٰٓ أُمَّةٍ",
+          "content": "على دين وطريقة تُؤمّ وتُقْصد"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "pageIndex": 592,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَتَجَنَّبُهَا ٱلۡأَشۡقَى ۝١١ ٱلَّذِی یَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ ۝١٢ ثُمَّ لَا یَمُوتُ",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "فِیهَا وَلَا یَحۡیَىٰ ۝١٣ قَدۡ أَفۡلَحَ مَن تَزَكَّىٰ ۝١٤ وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ ۝١٥",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بَلۡ تُؤۡثِرُونَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا ۝١٦ وَٱلۡـَٔاخِرَةُ خَیۡرࣱ وَأَبۡقَىٰۤ ۝١٧ إِنَّ",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "هَـٰذَا لَفِی ٱلصُّحُفِ ٱلۡأُولَىٰ ۝١٨ صُحُفِ إِبۡرَ ٰ⁠هِیمَ وَمُوسَىٰ ۝١٩",
+      "surahIndexFirst": 87,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّ هَٰذَا",
+          "content": "المذكورَ (الآياتِ الأربعَ السابقة)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 87,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "إِنَّ هَٰذَا",
+          "content": "المذكورَ (الآياتِ الأربعَ السابقة)"
+        }
+      ]
+    },
+    {
+      "sortKey": 6998,
+      "text": "سورة الغاشية",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَٰشِيَةِ",
+          "content": "القيامةِ تَغشى الناسَ بأهوالِها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 88,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 6999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَٰشِيَةِ",
+          "content": "القيامةِ تَغشى الناسَ بأهوالِها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 88,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "هَلۡ أَتَىٰكَ حَدِیثُ ٱلۡغَـٰشِیَةِ ۝١ وُجُوهࣱ یَوۡمَىِٕذٍ خَـٰشِعَةٌ ۝٢ عَامِلَةࣱ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَٰشِيَةِ",
+          "content": "القيامةِ تَغشى الناسَ بأهوالِها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 88,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 13,
+          "tokens": "ٱلْغَٰشِيَةِ",
+          "content": "القيامةِ تَغشى الناسَ بأهوالِها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "نَّاصِبَةࣱ ۝٣ تَصۡلَىٰ نَارًا حَامِیَةࣰ ۝٤ تُسۡقَىٰ مِنۡ عَیۡنٍ ءَانِیَةࣲ ۝٥ لَّیۡسَ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَامِلَةٌ",
+          "content": "تَجُرُّ السلاسلَ والأغلالَ فى النار",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 88,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "نَّاصِبَةٌ",
+          "content": "تَعِبَة ٌ ممَّا تُلاقِيه فيها من العذاب",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 88,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "نَّاصِبَةٌ",
+          "content": "تَعِبَة ٌ ممَّا تُلاقِيه فيها من العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِیعࣲ ۝٦ لَّا یُسۡمِنُ وَلَا یُغۡنِی مِن جُوعࣲ ۝٧ وُجُوهࣱ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرِيعٍ",
+          "content": "شيءٍ فى النار، كالشَّوكِ مُرّّ مُنْتِنٍ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 88,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 7,
+          "tokens": "ضَرِيعٍ",
+          "content": "شيءٍ فى النار، كالشَّوكِ مُرّّ مُنْتِنٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَوۡمَىِٕذࣲ نَّاعِمَةࣱ ۝٨ لِّسَعۡیِهَا رَاضِیَةࣱ ۝٩ فِی جَنَّةٍ عَالِیَةࣲ ۝١٠ لَّا تَسۡمَعُ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّاعِمَةٌ",
+          "content": "ذاتُ بهجةٍ وحُسنٍ ونَضارةٍ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 88,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 10,
+          "tokens": "نَّاعِمَةٌ",
+          "content": "ذاتُ بهجةٍ وحُسنٍ ونَضارةٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِیهَا لَـٰغِیَةࣰ ۝١١ فِیهَا عَیۡنࣱ جَارِیَةࣱ ۝١٢ فِیهَا سُرُرࣱ مَّرۡفُوعَةࣱ ۝١٣ وَأَكۡوَابࣱ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَٰغِيَةً",
+          "content": "لَغوًا وباطِلاً",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 88,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 10,
+          "tokens": "لَٰغِيَةً",
+          "content": "لَغوًا وباطِلاً"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَّوۡضُوعَةࣱ ۝١٤ وَنَمَارِقُ مَصۡفُوفَةࣱ ۝١٥ وَزَرَابِیُّ مَبۡثُوثَةٌ ۝١٦ أَفَلَا یَنظُرُونَ",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+          "content": "أقداحٌ بين أيديهم للشرب منها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 88,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+          "content": "أقداحٌ بين أيديهم للشرب منها"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِلَى ٱلۡإِبِلِ كَیۡفَ خُلِقَتۡ ۝١٧ وَإِلَى ٱلسَّمَاۤءِ كَیۡفَ رُفِعَتۡ ۝١٨ وَإِلَى",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَنظُرُونَ",
+          "content": "يَتأمَّلُون فيُدْركُون",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 88,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡجِبَالِ كَیۡفَ نُصِبَتۡ ۝١٩ وَإِلَى ٱلۡأَرۡضِ كَیۡفَ سُطِحَتۡ ۝٢٠",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَذَكِّرۡ إِنَّمَاۤ أَنتَ مُذَكِّرࣱ ۝٢١ لَّسۡتَ عَلَیۡهِم بِمُصَیۡطِرٍ ۝٢٢",
+      "surahIndexFirst": 88,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "pageIndex": 374,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِینَ ۝١٦٠ إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ لُوطٌ أَلَا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 160,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "تَتَّقُونَ ۝١٦١ إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ ۝١٦٢ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٦٣ وَمَاۤ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 161,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٦٤",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 164,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَتَأۡتُونَ ٱلذُّكۡرَانَ مِنَ ٱلۡعَـٰلَمِینَ ۝١٦٥ وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 165,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِّنۡ أَزۡوَ ٰ⁠جِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ ۝١٦٦ قَالُوا۟ لَىِٕن لَّمۡ تَنتَهِ یَـٰلُوطُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 166,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَوْمٌ عَادُونَ",
+          "content": "متجاوزون الحدّ في المعاصي",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 26,
+          "ayahIndex": 166
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 15,
+          "tokens": "قَوْمٌ عَادُونَ",
+          "content": "متجاوزون الحدّ في المعاصي"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَتَكُونَنَّ مِنَ ٱلۡمُخۡرَجِینَ ۝١٦٧ قَالَ إِنِّی لِعَمَلِكُم مِّنَ ٱلۡقَالِینَ ۝١٦٨",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 167,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "رَبِّ نَجِّنِی وَأَهۡلِی مِمَّا یَعۡمَلُونَ ۝١٦٩ فَنَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ ۝١٧٠",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 169,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِلَّا عَجُوزࣰا فِی ٱلۡغَـٰبِرِینَ ۝١٧١ ثُمَّ دَمَّرۡنَا ٱلۡـَٔاخَرِینَ ۝١٧٢ وَأَمۡطَرۡنَا عَلَیۡهِم",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 171,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْغَٰبِرِينَ",
+          "content": "في الباقين في العذاب كأمثالها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 26,
+          "ayahIndex": 171
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "فِى ٱلْغَٰبِرِينَ",
+          "content": "في الباقين في العذاب كأمثالها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَّطَرࣰاۖ فَسَاۤءَ مَطَرُ ٱلۡمُنذَرِینَ ۝١٧٣ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 173,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّطَرًا",
+          "content": "حجارة من سجيل مُهلكة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 173
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "مَّطَرًا",
+          "content": "حجارة من سجيل مُهلكة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مُّؤۡمِنِینَ ۝١٧٤ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝١٧٥ كَذَّبَ أَصۡحَـٰبُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 174,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "لۡـَٔیۡكَةِ ٱلۡمُرۡسَلِینَ ۝١٧٦ إِذۡ قَالَ لَهُمۡ شُعَیۡبٌ أَلَا تَتَّقُونَ ۝١٧٧ إِنِّی لَكُمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 176,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَصْحَٰبُ لْـَٔيْكَةِ",
+          "content": "أصحاب الغيْضَة الكثيفة الملتفة الشجر (قرب مدين)",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 176
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "أَصْحَٰبُ لْـَٔيْكَةِ",
+          "content": "أصحاب الغيْضَة الكثيفة الملتفة الشجر (قرب مدين)"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "رَسُولٌ أَمِینࣱ ۝١٧٨ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٧٩ وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 178,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٨٠ أَوۡفُوا۟ ٱلۡكَیۡلَ وَلَا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 180,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "تَكُونُوا۟ مِنَ ٱلۡمُخۡسِرِینَ ۝١٨١ وَزِنُوا۟ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِیمِ ۝١٨٢",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 181,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْمُخْسِرِينَ",
+          "content": "من النّاقصين للحقوق بالتطفيف",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 26,
+          "ayahIndex": 181
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 19,
+          "tokens": "مِنَ ٱلْمُخْسِرِينَ",
+          "content": "من النّاقصين للحقوق بالتطفيف"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَا تَبۡخَسُوا۟ ٱلنَّاسَ أَشۡیَاۤءَهُمۡ وَلَا تَعۡثَوۡا۟ فِی ٱلۡأَرۡضِ مُفۡسِدِینَ ۝١٨٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 183,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَبْخَسُوا۟",
+          "content": "لا تنقُصوا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 26,
+          "ayahIndex": 183
+        },
+        {
+          "tokens": "وَلَا تَعْثَوْا۟",
+          "content": "لا تُفسِدوا أشدّ الإفساد",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 26,
+          "ayahIndex": 183
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَلَا تَبْخَسُوا۟",
+          "content": "لا تنقُصوا"
+        },
+        {
+          "start": 42,
+          "length": 16,
+          "tokens": "وَلَا تَعْثَوْا۟",
+          "content": "لا تُفسِدوا أشدّ الإفساد"
+        }
+      ]
+    }
+  ]
+}

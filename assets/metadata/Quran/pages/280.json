@@ -1,0 +1,359 @@
+{
+  "pageIndex": 280,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَوۡمَ تَأۡتِی كُلُّ نَفۡسࣲ تُجَـٰدِلُ عَن نَّفۡسِهَا وَتُوَفَّىٰ كُلُّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "نَفۡسࣲ مَّا عَمِلَتۡ وَهُمۡ لَا یُظۡلَمُونَ ۝١١١ وَضَرَبَ ٱللَّهُ مَثَلࣰا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَرۡیَةࣰ كَانَتۡ ءَامِنَةࣰ مُّطۡمَىِٕنَّةࣰ یَأۡتِیهَا رِزۡقُهَا رَغَدࣰا مِّن",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَدًا",
+          "content": "طيّبا واسعا أو هنيئا لا عناء فيه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 112
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 64,
+          "length": 7,
+          "tokens": "رَغَدًا",
+          "content": "طيّبا واسعا أو هنيئا لا عناء فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كُلِّ مَكَانࣲ فَكَفَرَتۡ بِأَنۡعُمِ ٱللَّهِ فَأَذَ ٰ⁠قَهَا ٱللَّهُ لِبَاسَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَدًا",
+          "content": "طيّبا واسعا أو هنيئا لا عناء فيه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡجُوعِ وَٱلۡخَوۡفِ بِمَا كَانُوا۟ یَصۡنَعُونَ ۝١١٢ وَلَقَدۡ جَاۤءَهُمۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَدًا",
+          "content": "طيّبا واسعا أو هنيئا لا عناء فيه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "رَسُولࣱ مِّنۡهُمۡ فَكَذَّبُوهُ فَأَخَذَهُمُ ٱلۡعَذَابُ وَهُمۡ ظَـٰلِمُونَ ۝١١٣",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَكُلُوا۟ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَـٰلࣰا طَیِّبࣰا وَٱشۡكُرُوا۟",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "نِعۡمَتَ ٱللَّهِ إِن كُنتُمۡ إِیَّاهُ تَعۡبُدُونَ ۝١١٤ إِنَّمَا حَرَّمَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "عَلَیۡكُمُ ٱلۡمَیۡتَةَ وَٱلدَّمَ وَلَحۡمَ ٱلۡخِنزِیرِ وَمَاۤ أُهِلَّ لِغَیۡرِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلدَّمَ",
+          "content": "المسفوح وهو السائل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَحْمَ ٱلْخِنزِيرِ",
+          "content": "أي الخنزير بجميع أجزائه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ",
+          "content": "ذكِر عند ذبحه اسم غيره تعالى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 12,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "ٱضْطُرَّ",
+          "content": "دعته الضّرورة إلى التّناول منه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "غَيْرَ بَاغٍ",
+          "content": "غير طالب للمُحرّم للَذة إو استئثار",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَا عَادٍ",
+          "content": "ولا مُتجاوز ما يسدّ الرّمق",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 9,
+          "tokens": "وَٱلدَّمَ",
+          "content": "المسفوح وهو السائل"
+        },
+        {
+          "start": 33,
+          "length": 20,
+          "tokens": "وَلَحْمَ ٱلْخِنزِيرِ",
+          "content": "أي الخنزير بجميع أجزائه"
+        },
+        {
+          "start": 61,
+          "length": 16,
+          "tokens": "أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ",
+          "content": "ذكِر عند ذبحه اسم غيره تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱللَّهِ بِهِۦۖ فَمَنِ ٱضۡطُرَّ غَیۡرَ بَاغࣲ وَلَا عَادࣲ فَإِنَّ ٱللَّهَ غَفُورࣱ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلدَّمَ",
+          "content": "المسفوح وهو السائل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَحْمَ ٱلْخِنزِيرِ",
+          "content": "أي الخنزير بجميع أجزائه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ",
+          "content": "ذكِر عند ذبحه اسم غيره تعالى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 12,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "ٱضْطُرَّ",
+          "content": "دعته الضّرورة إلى التّناول منه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "غَيْرَ بَاغٍ",
+          "content": "غير طالب للمُحرّم للَذة إو استئثار",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَا عَادٍ",
+          "content": "ولا مُتجاوز ما يسدّ الرّمق",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ",
+          "content": "ذكِر عند ذبحه اسم غيره تعالى"
+        },
+        {
+          "start": 22,
+          "length": 8,
+          "tokens": "ٱضْطُرَّ",
+          "content": "دعته الضّرورة إلى التّناول منه"
+        },
+        {
+          "start": 31,
+          "length": 12,
+          "tokens": "غَيْرَ بَاغٍ",
+          "content": "غير طالب للمُحرّم للَذة إو استئثار"
+        },
+        {
+          "start": 44,
+          "length": 11,
+          "tokens": "وَلَا عَادٍ",
+          "content": "ولا مُتجاوز ما يسدّ الرّمق"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "رَّحِیمࣱ ۝١١٥ وَلَا تَقُولُوا۟ لِمَا تَصِفُ أَلۡسِنَتُكُمُ ٱلۡكَذِبَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلدَّمَ",
+          "content": "المسفوح وهو السائل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَحْمَ ٱلْخِنزِيرِ",
+          "content": "أي الخنزير بجميع أجزائه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "أُهِلَّ لِغَيْرِ ٱللَّهِ بِهِۦ",
+          "content": "ذكِر عند ذبحه اسم غيره تعالى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 12,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "ٱضْطُرَّ",
+          "content": "دعته الضّرورة إلى التّناول منه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "غَيْرَ بَاغٍ",
+          "content": "غير طالب للمُحرّم للَذة إو استئثار",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَلَا عَادٍ",
+          "content": "ولا مُتجاوز ما يسدّ الرّمق",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 115
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "هَـٰذَا حَلَـٰلࣱ وَهَـٰذَا حَرَامࣱ لِّتَفۡتَرُوا۟ عَلَى ٱللَّهِ ٱلۡكَذِبَۚ إِنَّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِینَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ لَا یُفۡلِحُونَ ۝١١٦ مَتَـٰعࣱ قَلِیلࣱ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَهُمۡ عَذَابٌ أَلِیمࣱ ۝١١٧ وَعَلَى ٱلَّذِینَ هَادُوا۟ حَرَّمۡنَا مَا قَصَصۡنَا عَلَیۡكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِن قَبۡلُۖ وَمَا ظَلَمۡنَـٰهُمۡ وَلَـٰكِن كَانُوۤا۟ أَنفُسَهُمۡ یَظۡلِمُونَ ۝١١٨",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

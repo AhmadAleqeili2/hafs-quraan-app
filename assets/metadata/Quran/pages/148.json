@@ -1,0 +1,481 @@
+{
+  "pageIndex": 148,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَإِن كَذَّبُوكَ فَقُل رَّبُّكُمۡ ذُو رَحۡمَةࣲ وَ ٰ⁠سِعَةࣲ وَلَا یُرَدُّ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يُرَدُّ بَأْسُهُۥ",
+          "content": "لا يُدفع غذابه ونقمته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 147
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 13,
+          "tokens": "وَلَا يُرَدُّ بَأْسُهُۥ",
+          "content": "لا يُدفع غذابه ونقمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "بَأۡسُهُۥ عَنِ ٱلۡقَوۡمِ ٱلۡمُجۡرِمِینَ ۝١٤٧ سَیَقُولُ ٱلَّذِینَ أَشۡرَكُوا۟",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يُرَدُّ بَأْسُهُۥ",
+          "content": "لا يُدفع غذابه ونقمته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 147
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "وَلَا يُرَدُّ بَأْسُهُۥ",
+          "content": "لا يُدفع غذابه ونقمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَوۡ شَاۤءَ ٱللَّهُ مَاۤ أَشۡرَكۡنَا وَلَاۤ ءَابَاۤؤُنَا وَلَا حَرَّمۡنَا مِن شَیۡءࣲۚ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَخْرُصُونَ",
+          "content": "تكذبون على الله تعالى",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 6,
+          "ayahIndex": 148
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كَذَ ٰ⁠لِكَ كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ حَتَّىٰ ذَاقُوا۟ بَأۡسَنَاۗ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَخْرُصُونَ",
+          "content": "تكذبون على الله تعالى",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 6,
+          "ayahIndex": 148
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمࣲ فَتُخۡرِجُوهُ لَنَاۤۖ إِن تَتَّبِعُونَ إِلَّا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَخْرُصُونَ",
+          "content": "تكذبون على الله تعالى",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 6,
+          "ayahIndex": 148
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ ۝١٤٨ قُلۡ فَلِلَّهِ ٱلۡحُجَّةُ ٱلۡبَـٰلِغَةُۖ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَخْرُصُونَ",
+          "content": "تكذبون على الله تعالى",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 37,
+          "surahIndex": 6,
+          "ayahIndex": 148
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 11,
+          "tokens": "تَخْرُصُونَ",
+          "content": "تكذبون على الله تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَلَوۡ شَاۤءَ لَهَدَىٰكُمۡ أَجۡمَعِینَ ۝١٤٩ قُلۡ هَلُمَّ شُهَدَاۤءَكُمُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحُجَّةُ ٱلْبَٰلِغَةُ",
+          "content": "بارسال الرّسل وانزال الكتب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 149
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلَّذِینَ یَشۡهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَـٰذَاۖ فَإِن شَهِدُوا۟ فَلَا تَشۡهَدۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلُمَّ شُهَدَآءَكُمُ",
+          "content": "أحضروا أو هاتوا شهودكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        },
+        {
+          "tokens": "بِرَبِّهِمْ يَعْدِلُونَ",
+          "content": "يسوّون به غيره في العبادة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَعَهُمۡۚ وَلَا تَتَّبِعۡ أَهۡوَاۤءَ ٱلَّذِینَ كَذَّبُوا۟ بِـَٔایَـٰتِنَا وَٱلَّذِینَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلُمَّ شُهَدَآءَكُمُ",
+          "content": "أحضروا أو هاتوا شهودكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        },
+        {
+          "tokens": "بِرَبِّهِمْ يَعْدِلُونَ",
+          "content": "يسوّون به غيره في العبادة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ وَهُم بِرَبِّهِمۡ یَعۡدِلُونَ ۝١٥٠ قُلۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلُمَّ شُهَدَآءَكُمُ",
+          "content": "أحضروا أو هاتوا شهودكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        },
+        {
+          "tokens": "بِرَبِّهِمْ يَعْدِلُونَ",
+          "content": "يسوّون به غيره في العبادة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 150
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 23,
+          "tokens": "بِرَبِّهِمْ يَعْدِلُونَ",
+          "content": "يسوّون به غيره في العبادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "تَعَالَوۡا۟ أَتۡلُ مَا حَرَّمَ رَبُّكُمۡ عَلَیۡكُمۡۖ أَلَّا تُشۡرِكُوا۟",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتْلُ",
+          "content": "أقرأ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 6,
+          "tokens": "أَتْلُ",
+          "content": "أقرأ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِهِۦ شَیۡـࣰٔاۖ وَبِٱلۡوَ ٰ⁠لِدَیۡنِ إِحۡسَـٰنࣰاۖ وَلَا تَقۡتُلُوۤا۟ أَوۡلَـٰدَكُم",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتْلُ",
+          "content": "أقرأ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِّنۡ إِمۡلَـٰقࣲ نَّحۡنُ نَرۡزُقُكُمۡ وَإِیَّاهُمۡۖ وَلَا تَقۡرَبُوا۟ ٱلۡفَوَ ٰ⁠حِشَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتْلُ",
+          "content": "أقرأ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 10,
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر"
+        },
+        {
+          "start": 70,
+          "length": 14,
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَۖ وَلَا تَقۡتُلُوا۟ ٱلنَّفۡسَ ٱلَّتِی حَرَّمَ ٱللَّهُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتْلُ",
+          "content": "أقرأ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَّا بِٱلۡحَقِّۚ ذَ ٰ⁠لِكُمۡ وَصَّىٰكُم بِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ ۝١٥١",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتْلُ",
+          "content": "أقرأ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "إِمْلَٰقٍ",
+          "content": "فقر",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي كالزّنى ونحوه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 6,
+          "ayahIndex": 151
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 16,
+          "tokens": "وَصَّىٰكُم بِهِۦ",
+          "content": "أمركم وألزمكم به"
+        }
+      ]
+    }
+  ]
+}

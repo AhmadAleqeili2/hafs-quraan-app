@@ -1,0 +1,241 @@
+{
+  "pageIndex": 113,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "مِنۡ أَجۡلِ ذَ ٰ⁠لِكَ كَتَبۡنَا عَلَىٰ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ أَنَّهُۥ مَن قَتَلَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "نَفۡسَۢا بِغَیۡرِ نَفۡسٍ أَوۡ فَسَادࣲ فِی ٱلۡأَرۡضِ فَكَأَنَّمَا قَتَلَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلنَّاسَ جَمِیعࣰا وَمَنۡ أَحۡیَاهَا فَكَأَنَّمَاۤ أَحۡیَا ٱلنَّاسَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "جَمِیعࣰاۚ وَلَقَدۡ جَاۤءَتۡهُمۡ رُسُلُنَا بِٱلۡبَیِّنَـٰتِ ثُمَّ إِنَّ كَثِیرࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِّنۡهُم بَعۡدَ ذَ ٰ⁠لِكَ فِی ٱلۡأَرۡضِ لَمُسۡرِفُونَ ۝٣٢ إِنَّمَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "جَزَ ٰ⁠ۤؤُا۟ ٱلَّذِینَ یُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَیَسۡعَوۡنَ فِی",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنفَوْا۟ مِنَ ٱلْأَرْضِ",
+          "content": "يُبعدوا أو يُسجنوا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "ذلّ وفضيحةٌ وعقوبة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡأَرۡضِ فَسَادًا أَن یُقَتَّلُوۤا۟ أَوۡ یُصَلَّبُوۤا۟ أَوۡ تُقَطَّعَ أَیۡدِیهِمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنفَوْا۟ مِنَ ٱلْأَرْضِ",
+          "content": "يُبعدوا أو يُسجنوا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "ذلّ وفضيحةٌ وعقوبة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَرۡجُلُهُم مِّنۡ خِلَـٰفٍ أَوۡ یُنفَوۡا۟ مِنَ ٱلۡأَرۡضِۚ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنفَوْا۟ مِنَ ٱلْأَرْضِ",
+          "content": "يُبعدوا أو يُسجنوا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "ذلّ وفضيحةٌ وعقوبة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 25,
+          "tokens": "يُنفَوْا۟ مِنَ ٱلْأَرْضِ",
+          "content": "يُبعدوا أو يُسجنوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَهُمۡ خِزۡیࣱ فِی ٱلدُّنۡیَاۖ وَلَهُمۡ فِی ٱلۡـَٔاخِرَةِ عَذَابٌ عَظِیمٌ ۝٣٣",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنفَوْا۟ مِنَ ٱلْأَرْضِ",
+          "content": "يُبعدوا أو يُسجنوا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "ذلّ وفضيحةٌ وعقوبة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 6,
+          "tokens": "خِزْىٌ",
+          "content": "ذلّ وفضيحةٌ وعقوبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَّا ٱلَّذِینَ تَابُوا۟ مِن قَبۡلِ أَن تَقۡدِرُوا۟ عَلَیۡهِمۡۖ فَٱعۡلَمُوۤا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ ۝٣٤ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱللَّهَ وَٱبۡتَغُوۤا۟ إِلَیۡهِ ٱلۡوَسِیلَةَ وَجَـٰهِدُوا۟ فِی سَبِیلِهِۦ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْوَسِيلَةَ",
+          "content": "الزُلفى بفعل الطاعات وترك المعاصي",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 12,
+          "tokens": "ٱلْوَسِيلَةَ",
+          "content": "الزُلفى بفعل الطاعات وترك المعاصي"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَعَلَّكُمۡ تُفۡلِحُونَ ۝٣٥ إِنَّ ٱلَّذِینَ كَفَرُوا۟ لَوۡ أَنَّ لَهُم",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْوَسِيلَةَ",
+          "content": "الزُلفى بفعل الطاعات وترك المعاصي",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَّا فِی ٱلۡأَرۡضِ جَمِیعࣰا وَمِثۡلَهُۥ مَعَهُۥ لِیَفۡتَدُوا۟ بِهِۦ مِنۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "عَذَابِ یَوۡمِ ٱلۡقِیَـٰمَةِ مَا تُقُبِّلَ مِنۡهُمۡۖ وَلَهُمۡ عَذَابٌ أَلِیمࣱ ۝٣٦",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

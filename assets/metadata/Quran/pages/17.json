@@ -1,0 +1,269 @@
+{
+  "pageIndex": 17,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "مَا نَنسَخۡ مِنۡ ءَایَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَیۡرࣲ مِّنۡهَاۤ أَوۡ مِثۡلِهَاۤۗ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا نَنسَخْ مِنْ ءَايَةٍ",
+          "content": "ما نُزِلَ ونرفعْ من حُكمِ آيةٍ أو التّعبّد بها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "نُنسِهَا",
+          "content": "نمحها من القلوب والحوافظ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 106
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "مَا نَنسَخْ مِنْ ءَايَةٍ",
+          "content": "ما نُزِلَ ونرفعْ من حُكمِ آيةٍ أو التّعبّد بها"
+        },
+        {
+          "start": 30,
+          "length": 8,
+          "tokens": "نُنسِهَا",
+          "content": "نمحها من القلوب والحوافظ"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ ۝١٠٦ أَلَمۡ تَعۡلَمۡ أَنَّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا نَنسَخْ مِنْ ءَايَةٍ",
+          "content": "ما نُزِلَ ونرفعْ من حُكمِ آيةٍ أو التّعبّد بها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "نُنسِهَا",
+          "content": "نمحها من القلوب والحوافظ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 106
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۗ وَمَا لَكُم مِّن دُونِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِىٍّ",
+          "content": "مالك أو متولّ لأموركم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱللَّهِ مِن وَلِیࣲّ وَلَا نَصِیرٍ ۝١٠٧ أَمۡ تُرِیدُونَ أَن تَسۡـَٔلُوا۟ رَسُولَكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِىٍّ",
+          "content": "مالك أو متولّ لأموركم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 7,
+          "tokens": "وَلِىٍّ",
+          "content": "مالك أو متولّ لأموركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "كَمَا سُىِٕلَ مُوسَىٰ مِن قَبۡلُۗ وَمَن یَتَبَدَّلِ ٱلۡكُفۡرَ بِٱلۡإِیمَـٰنِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "قصد الطريق ووسطه",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 108
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَقَدۡ ضَلَّ سَوَاۤءَ ٱلسَّبِیلِ ۝١٠٨ وَدَّ كَثِیرࣱ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "قصد الطريق ووسطه",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 108
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 19,
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "قصد الطريق ووسطه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَوۡ یَرُدُّونَكُم مِّنۢ بَعۡدِ إِیمَـٰنِكُمۡ كُفَّارًا حَسَدࣰا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مِّنۡ عِندِ أَنفُسِهِم مِّنۢ بَعۡدِ مَا تَبَیَّنَ لَهُمُ ٱلۡحَقُّۖ فَٱعۡفُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱصۡفَحُوا۟ حَتَّىٰ یَأۡتِیَ ٱللَّهُ بِأَمۡرِهِۦۤۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَدِیرࣱ ۝١٠٩ وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَۚ وَمَا تُقَدِّمُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "لِأَنفُسِكُم مِّنۡ خَیۡرࣲ تَجِدُوهُ عِندَ ٱللَّهِۗ إِنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "بَصِیرࣱ ۝١١٠ وَقَالُوا۟ لَن یَدۡخُلَ ٱلۡجَنَّةَ إِلَّا مَن كَانَ هُودًا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَوۡ نَصَـٰرَىٰۗ تِلۡكَ أَمَانِیُّهُمۡۗ قُلۡ هَاتُوا۟ بُرۡهَـٰنَكُمۡ إِن كُنتُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَانِيُّهُمْ",
+          "content": "شهواتهم ومُتمنّياتهم الباطلة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 15,
+          "tokens": "أَمَانِيُّهُمْ",
+          "content": "شهواتهم ومُتمنّياتهم الباطلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "صَـٰدِقِینَ ۝١١١ بَلَىٰۚ مَنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنࣱ فَلَهُۥۤ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَانِيُّهُمْ",
+          "content": "شهواتهم ومُتمنّياتهم الباطلة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 111
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَجۡرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝١١٢",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسْلَمَ وَجْهَهُۥ لِلَّهِ",
+          "content": "أخلص نفسه أو قصده أو عبادته لله",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 112
+        }
+      ]
+    }
+  ]
+}

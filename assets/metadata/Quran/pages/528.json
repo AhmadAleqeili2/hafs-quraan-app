@@ -1,0 +1,339 @@
+{
+  "pageIndex": 528,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَیۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ ۝٤٥ مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ ۝٤٦",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَأَنَّ عَلَیۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ ۝٤٧ وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ ۝٤٨ وَأَنَّهُۥ هُوَ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+          "content": "الإحياء بعد الإماتة كما وَعَدَ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 53,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 23,
+          "tokens": "ٱلنَّشْأَةَ ٱلْأُخْرَىٰ",
+          "content": "الإحياء بعد الإماتة كما وَعَدَ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "رَبُّ ٱلشِّعۡرَىٰ ۝٤٩ وَأَنَّهُۥۤ أَهۡلَكَ عَادًا ٱلۡأُولَىٰ ۝٥٠ وَثَمُودَا۟ فَمَاۤ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلشِّعْرَىٰ",
+          "content": "كوكبٌ معروف كانوا يعبدونه في الجاهليّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 53,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 11,
+          "tokens": "ٱلشِّعْرَىٰ",
+          "content": "كوكبٌ معروف كانوا يعبدونه في الجاهليّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَبۡقَىٰ ۝٥١ وَقَوۡمَ نُوحࣲ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُوا۟ هُمۡ أَظۡلَمَ وَأَطۡغَىٰ ۝٥٢",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَثَمُودَا۟",
+          "content": "قوم صالح عليه السلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 53,
+          "ayahIndex": 51
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ ۝٥٣ فَغَشَّىٰهَا مَا غَشَّىٰ ۝٥٤ فَبِأَیِّ ءَالَاۤءِ رَبِّكَ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُؤْتَفِكَةَ",
+          "content": "قُرى قوم لوطٍ عليه السلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 53,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "أَهْوَىٰ",
+          "content": "أسْقَطها إلى الأرض بعد رفعها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 53,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَٱلْمُؤْتَفِكَةَ",
+          "content": "قُرى قوم لوطٍ عليه السلام"
+        },
+        {
+          "start": 18,
+          "length": 8,
+          "tokens": "أَهْوَىٰ",
+          "content": "أسْقَطها إلى الأرض بعد رفعها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "تَتَمَارَىٰ ۝٥٥ هَـٰذَا نَذِیرࣱ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰۤ ۝٥٦ أَزِفَتِ ٱلۡـَٔازِفَةُ ۝٥٧",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَالَآءِ رَبِّكَ",
+          "content": "نِعَمِهِ تعالى ومنها دلائل قدرته",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 53,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "تَتَمَارَىٰ",
+          "content": "تتشكّك",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 53,
+          "ayahIndex": 55
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "تَتَمَارَىٰ",
+          "content": "تتشكّك"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَیۡسَ لَهَا مِن دُونِ ٱللَّهِ كَاشِفَةٌ ۝٥٨ أَفَمِنۡ هَـٰذَا ٱلۡحَدِیثِ",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَاشِفَةٌ",
+          "content": "نَفْسٌ تكشف أهوالها وشدائدها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 53,
+          "ayahIndex": 58
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 9,
+          "tokens": "كَاشِفَةٌ",
+          "content": "نَفْسٌ تكشف أهوالها وشدائدها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَعۡجَبُونَ ۝٥٩ وَتَضۡحَكُونَ وَلَا تَبۡكُونَ ۝٦٠ وَأَنتُمۡ سَـٰمِدُونَ ۝٦١",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَٱسۡجُدُوا۟ لِلَّهِ وَٱعۡبُدُوا۟ ۝٦٢",
+      "surahIndexFirst": 53,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11998,
+      "text": "سورة القمر",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱنشَقَّ ٱلْقَمَرُ",
+          "content": "قدِ انفلق فَلْقتيْن مُعْجزة له صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 54,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 11999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱنشَقَّ ٱلْقَمَرُ",
+          "content": "قدِ انفلق فَلْقتيْن مُعْجزة له صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 54,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ ۝١ وَإِن یَرَوۡا۟ ءَایَةࣰ یُعۡرِضُوا۟ وَیَقُولُوا۟",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱنشَقَّ ٱلْقَمَرُ",
+          "content": "قدِ انفلق فَلْقتيْن مُعْجزة له صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 54,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 19,
+          "tokens": "وَٱنشَقَّ ٱلْقَمَرُ",
+          "content": "قدِ انفلق فَلْقتيْن مُعْجزة له صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "سِحۡرࣱ مُّسۡتَمِرࣱّ ۝٢ وَكَذَّبُوا۟ وَٱتَّبَعُوۤا۟ أَهۡوَاۤءَهُمۡۚ وَكُلُّ أَمۡرࣲ مُّسۡتَقِرࣱّ ۝٣",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سِحْرٌ",
+          "content": "دائمٌ، أوْ مُحْكمٌ أو ذاهبٌ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 54,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "سِحْرٌ",
+          "content": "دائمٌ، أوْ مُحْكمٌ أو ذاهبٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَقَدۡ جَاۤءَهُم مِّنَ ٱلۡأَنۢبَاۤءِ مَا فِیهِ مُزۡدَجَرٌ ۝٤ حِكۡمَةُۢ بَـٰلِغَةࣱۖ فَمَا تُغۡنِ",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُزْدَجَرٌ",
+          "content": "ازدجار وانتِهارٌ وردْعٌ عمّا هم فيه من الكفر والضلال",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 54,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 10,
+          "tokens": "مُزْدَجَرٌ",
+          "content": "ازدجار وانتِهارٌ وردْعٌ عمّا هم فيه من الكفر والضلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلنُّذُرُ ۝٥ فَتَوَلَّ عَنۡهُمۡۘ یَوۡمَ یَدۡعُ ٱلدَّاعِ إِلَىٰ شَیۡءࣲ نُّكُرٍ ۝٦",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلنُّذُرُ",
+          "content": "الرّسل أو الأمور المُخَوِّفَة لهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 54,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "ٱلنُّذُرُ",
+          "content": "الرّسل أو الأمور المُخَوِّفَة لهم"
+        }
+      ]
+    }
+  ]
+}

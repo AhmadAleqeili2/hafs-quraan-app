@@ -1,0 +1,381 @@
+{
+  "pageIndex": 142,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَوۡ أَنَّنَا نَزَّلۡنَاۤ إِلَیۡهِمُ ٱلۡمَلَـٰۤىِٕكَةَ وَكَلَّمَهُمُ ٱلۡمَوۡتَىٰ وَحَشَرۡنَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَشَرْنَا",
+          "content": "جمعنا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "قُبُلًا",
+          "content": "مُقابلة ومواجهة أو جماعة جماعة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 83,
+          "length": 11,
+          "tokens": "وَحَشَرْنَا",
+          "content": "جمعنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَلَیۡهِمۡ كُلَّ شَیۡءࣲ قُبُلࣰا مَّا كَانُوا۟ لِیُؤۡمِنُوۤا۟ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَشَرْنَا",
+          "content": "جمعنا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "قُبُلًا",
+          "content": "مُقابلة ومواجهة أو جماعة جماعة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 7,
+          "tokens": "قُبُلًا",
+          "content": "مُقابلة ومواجهة أو جماعة جماعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَـٰكِنَّ أَكۡثَرَهُمۡ یَجۡهَلُونَ ۝١١١ وَكَذَ ٰ⁠لِكَ جَعَلۡنَا لِكُلِّ نَبِیٍّ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَشَرْنَا",
+          "content": "جمعنا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "قُبُلًا",
+          "content": "مُقابلة ومواجهة أو جماعة جماعة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 111
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَدُوࣰّا شَیَـٰطِینَ ٱلۡإِنسِ وَٱلۡجِنِّ یُوحِی بَعۡضُهُمۡ إِلَىٰ بَعۡضࣲ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُخْرُفَ ٱلْقَوْلِ",
+          "content": "باطله المُموّه المزوّق",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "غُرُورًا",
+          "content": "خداعا وأخذا على الغرّة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "زُخۡرُفَ ٱلۡقَوۡلِ غُرُورࣰاۚ وَلَوۡ شَاۤءَ رَبُّكَ مَا فَعَلُوهُۖ فَذَرۡهُمۡ وَمَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُخْرُفَ ٱلْقَوْلِ",
+          "content": "باطله المُموّه المزوّق",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "غُرُورًا",
+          "content": "خداعا وأخذا على الغرّة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "زُخْرُفَ ٱلْقَوْلِ",
+          "content": "باطله المُموّه المزوّق"
+        },
+        {
+          "start": 19,
+          "length": 9,
+          "tokens": "غُرُورًا",
+          "content": "خداعا وأخذا على الغرّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَفۡتَرُونَ ۝١١٢ وَلِتَصۡغَىٰۤ إِلَیۡهِ أَفۡـِٔدَةُ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُخْرُفَ ٱلْقَوْلِ",
+          "content": "باطله المُموّه المزوّق",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "غُرُورًا",
+          "content": "خداعا وأخذا على الغرّة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 6,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلِیَرۡضَوۡهُ وَلِیَقۡتَرِفُوا۟ مَا هُم مُّقۡتَرِفُونَ ۝١١٣ أَفَغَیۡرَ ٱللَّهِ أَبۡتَغِی",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِتَصْغَىٰٓ إِلَيْهِ",
+          "content": "لتميل إلى زُخرف القول",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 6,
+          "ayahIndex": 113
+        },
+        {
+          "tokens": "وَلِيَقْتَرِفُوا۟",
+          "content": "ليكتسبوا من الآثام",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 113
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 17,
+          "tokens": "وَلِيَقْتَرِفُوا۟",
+          "content": "ليكتسبوا من الآثام"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَكَمࣰا وَهُوَ ٱلَّذِیۤ أَنزَلَ إِلَیۡكُمُ ٱلۡكِتَـٰبَ مُفَصَّلࣰاۚ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشاكّين في أنّهم يعلمون ذلك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلَّذِینَ ءَاتَیۡنَـٰهُمُ ٱلۡكِتَـٰبَ یَعۡلَمُونَ أَنَّهُۥ مُنَزَّلࣱ مِّن رَّبِّكَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشاكّين في أنّهم يعلمون ذلك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِینَ ۝١١٤ وَتَمَّتۡ كَلِمَتُ رَبِّكَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشاكّين في أنّهم يعلمون ذلك",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 114
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 14,
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشاكّين في أنّهم يعلمون ذلك"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "صِدۡقࣰا وَعَدۡلࣰاۚ لَّا مُبَدِّلَ لِكَلِمَـٰتِهِۦۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ ۝١١٥",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَتُ رَبِّكَ",
+          "content": "كلامه وهو القرآن العظيم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "صِدْقًا وَعَدْلًا",
+          "content": "في مواعيده – وفي أحكامه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 6,
+          "ayahIndex": 115
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "صِدْقًا وَعَدْلًا",
+          "content": "في مواعيده – وفي أحكامه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَإِن تُطِعۡ أَكۡثَرَ مَن فِی ٱلۡأَرۡضِ یُضِلُّوكَ عَن سَبِیلِ ٱللَّهِۚ إِن",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيما ينسُبونه إلى الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 116
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ هُمۡ إِلَّا یَخۡرُصُونَ ۝١١٦ إِنَّ رَبَّكَ هُوَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيما ينسُبونه إلى الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 116
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 11,
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيما ينسُبونه إلى الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَعۡلَمُ مَن یَضِلُّ عَن سَبِیلِهِۦۖ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِینَ ۝١١٧ فَكُلُوا۟",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَیۡهِ إِن كُنتُم بِـَٔایَـٰتِهِۦ مُؤۡمِنِینَ ۝١١٨",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

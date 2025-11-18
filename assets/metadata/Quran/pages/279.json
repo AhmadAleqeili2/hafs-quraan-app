@@ -1,0 +1,269 @@
+{
+  "pageIndex": 279,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ یَقُولُونَ إِنَّمَا یُعَلِّمُهُۥ بَشَرࣱۗ لِّسَانُ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُلْحِدُونَ إِلَيْهِ",
+          "content": "يُميلون وينسُبُون إليه أنّه يُعلّمه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 16,
+          "ayahIndex": 103
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلَّذِی یُلۡحِدُونَ إِلَیۡهِ أَعۡجَمِیࣱّ وَهَـٰذَا لِسَانٌ عَرَبِیࣱّ مُّبِینٌ ۝١٠٣",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُلْحِدُونَ إِلَيْهِ",
+          "content": "يُميلون وينسُبُون إليه أنّه يُعلّمه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 16,
+          "ayahIndex": 103
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 20,
+          "tokens": "يُلْحِدُونَ إِلَيْهِ",
+          "content": "يُميلون وينسُبُون إليه أنّه يُعلّمه"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِـَٔایَـٰتِ ٱللَّهِ لَا یَهۡدِیهِمُ ٱللَّهُ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَهُمۡ عَذَابٌ أَلِیمٌ ۝١٠٤ إِنَّمَا یَفۡتَرِی ٱلۡكَذِبَ ٱلَّذِینَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَا یُؤۡمِنُونَ بِـَٔایَـٰتِ ٱللَّهِۖ وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡكَـٰذِبُونَ ۝١٠٥",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِیمَـٰنِهِۦۤ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "مُطۡمَىِٕنُّۢ بِٱلۡإِیمَـٰنِ وَلَـٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "صَدۡرࣰا فَعَلَیۡهِمۡ غَضَبࣱ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِیمࣱ ۝١٠٦",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ذَ ٰ⁠لِكَ بِأَنَّهُمُ ٱسۡتَحَبُّوا۟ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا عَلَى",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَحَبُّوا۟",
+          "content": "اختاروا وآثَروا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 13,
+          "tokens": "ٱسْتَحَبُّوا۟",
+          "content": "اختاروا وآثَروا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡـَٔاخِرَةِ وَأَنَّ ٱللَّهَ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلۡكَـٰفِرِینَ ۝١٠٧",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَحَبُّوا۟",
+          "content": "اختاروا وآثَروا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ طَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَسَمۡعِهِمۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَبَعَ",
+          "content": "ختم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 108
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 6,
+          "tokens": "طَبَعَ",
+          "content": "ختم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَأَبۡصَـٰرِهِمۡۖ وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡغَـٰفِلُونَ ۝١٠٨ لَا جَرَمَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَبَعَ",
+          "content": "ختم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 16,
+          "ayahIndex": 108
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَنَّهُمۡ فِی ٱلۡـَٔاخِرَةِ هُمُ ٱلۡخَـٰسِرُونَ ۝١٠٩ ثُمَّ إِنَّ رَبَّكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا جَرَمَ",
+          "content": "حقّ وثبت أو لا مَحالة أو حقّا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 16,
+          "ayahIndex": 109
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لِلَّذِینَ هَاجَرُوا۟ مِنۢ بَعۡدِ مَا فُتِنُوا۟ ثُمَّ جَـٰهَدُوا۟",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِلَّذِينَ هَاجَرُوا۟",
+          "content": "لهم بالولاية والنّصر لا عليهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فُتِنُوا۟",
+          "content": "ابتُلوا وعُذّبوا لإسلامهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "لِلَّذِينَ هَاجَرُوا۟",
+          "content": "لهم بالولاية والنّصر لا عليهم"
+        },
+        {
+          "start": 38,
+          "length": 9,
+          "tokens": "فُتِنُوا۟",
+          "content": "ابتُلوا وعُذّبوا لإسلامهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَصَبَرُوۤا۟ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورࣱ رَّحِیمࣱ ۝١١٠",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِلَّذِينَ هَاجَرُوا۟",
+          "content": "لهم بالولاية والنّصر لا عليهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فُتِنُوا۟",
+          "content": "ابتُلوا وعُذّبوا لإسلامهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 110
+        }
+      ]
+    }
+  ]
+}

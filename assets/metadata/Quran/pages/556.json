@@ -1,0 +1,329 @@
+{
+  "pageIndex": 556,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة التغابن",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "يُسَبِّحُ لِلَّهِ",
+          "content": "يُنزّهه ويُمَجّده تعالى ويدلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لَهُ ٱلْمُلْكُ",
+          "content": "التّصرف المطلق في كلّ شيء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُسَبِّحُ لِلَّهِ",
+          "content": "يُنزّهه ويُمَجّده تعالى ويدلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لَهُ ٱلْمُلْكُ",
+          "content": "التّصرف المطلق في كلّ شيء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یُسَبِّحُ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُسَبِّحُ لِلَّهِ",
+          "content": "يُنزّهه ويُمَجّده تعالى ويدلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لَهُ ٱلْمُلْكُ",
+          "content": "التّصرف المطلق في كلّ شيء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "يُسَبِّحُ لِلَّهِ",
+          "content": "يُنزّهه ويُمَجّده تعالى ويدلّ عليه"
+        },
+        {
+          "start": 64,
+          "length": 14,
+          "tokens": "لَهُ ٱلْمُلْكُ",
+          "content": "التّصرف المطلق في كلّ شيء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ ۝١ هُوَ ٱلَّذِی خَلَقَكُمۡ فَمِنكُمۡ كَافِرࣱ وَمِنكُم مُّؤۡمِنࣱۚ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُسَبِّحُ لِلَّهِ",
+          "content": "يُنزّهه ويُمَجّده تعالى ويدلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لَهُ ٱلْمُلْكُ",
+          "content": "التّصرف المطلق في كلّ شيء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرٌ ۝٢ خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ وَصَوَّرَكُمۡ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَأَحۡسَنَ صُوَرَكُمۡۖ وَإِلَیۡهِ ٱلۡمَصِیرُ ۝٣ یَعۡلَمُ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْحَقِّ",
+          "content": "بالحِكمة البالغة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "فَأَحْسَنَ صُوَرَكُمْ",
+          "content": "أتقَنَها وأحكمها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 64,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "فَأَحْسَنَ صُوَرَكُمْ",
+          "content": "أتقَنَها وأحكمها"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَیَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَۚ وَٱللَّهُ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ ۝٤",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَلَمۡ یَأۡتِكُمۡ نَبَؤُا۟ ٱلَّذِینَ كَفَرُوا۟ مِن قَبۡلُ فَذَاقُوا۟ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم في الدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 18,
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم في الدنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَلِیمࣱ ۝٥ ذَ ٰ⁠لِكَ بِأَنَّهُۥ كَانَت تَّأۡتِیهِمۡ رُسُلُهُم بِٱلۡبَیِّنَـٰتِ فَقَالُوۤا۟ أَبَشَرࣱ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم في الدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 64,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَهۡدُونَنَا فَكَفَرُوا۟ وَتَوَلَّوا۟ۖ وَّٱسۡتَغۡنَى ٱللَّهُۚ وَٱللَّهُ غَنِیٌّ حَمِیدࣱ ۝٦ زَعَمَ ٱلَّذِینَ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَوَلَّوا۟",
+          "content": "أعرضوا عن الإيمان بالرسل",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 64,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 13,
+          "tokens": "وَتَوَلَّوا۟",
+          "content": "أعرضوا عن الإيمان بالرسل"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "كَفَرُوۤا۟ أَن لَّن یُبۡعَثُوا۟ۚ قُلۡ بَلَىٰ وَرَبِّی لَتُبۡعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلۡتُمۡۚ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ ۝٧ فَـَٔامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِیۤ أَنزَلۡنَاۚ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِیرࣱ ۝٨ یَوۡمَ یَجۡمَعُكُمۡ لِیَوۡمِ ٱلۡجَمۡعِۖ ذَ ٰ⁠لِكَ یَوۡمُ ٱلتَّغَابُنِۗ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلنُّورِ",
+          "content": "القرآن",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَمَن یُؤۡمِنۢ بِٱللَّهِ وَیَعۡمَلۡ صَـٰلِحࣰا یُكَفِّرۡ عَنۡهُ سَیِّـَٔاتِهِۦ وَیُدۡخِلۡهُ جَنَّـٰتࣲ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَوْمِ ٱلْجَمْعِ",
+          "content": "في يوم القيامة حيث تجتمع الخلائق للحساب والجَزاء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "يَوْمُ ٱلتَّغَابُنِ",
+          "content": "يَظهر فيه غَبْن الكافر بتَركِه الإيمان وغبن المؤمن بتقصيره في الإحسان",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 64,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۚ ذَ ٰ⁠لِكَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ ۝٩",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَوْمِ ٱلْجَمْعِ",
+          "content": "في يوم القيامة حيث تجتمع الخلائق للحساب والجَزاء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "يَوْمُ ٱلتَّغَابُنِ",
+          "content": "يَظهر فيه غَبْن الكافر بتَركِه الإيمان وغبن المؤمن بتقصيره في الإحسان",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 64,
+          "ayahIndex": 9
+        }
+      ]
+    }
+  ]
+}

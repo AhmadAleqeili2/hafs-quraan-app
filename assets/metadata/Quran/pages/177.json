@@ -1,0 +1,397 @@
+{
+  "pageIndex": 177,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الأنفال",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 12,
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر"
+        },
+        {
+          "start": 50,
+          "length": 21,
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَأَصۡلِحُوا۟ ذَاتَ بَیۡنِكُمۡۖ وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥۤ إِن كُنتُم",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 17,
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مُّؤۡمِنِینَ ۝١ إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِینَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنفَالِ",
+          "content": "غنائم بدر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِلَّهِ وَٱلرَّسُولِ",
+          "content": "مفوّضٌ إليهما أمرُها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ذَاتَ بَيْنِكُمْ",
+          "content": "أحوالكم التي يحصل بها اتّصالكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "قُلُوبُهُمۡ وَإِذَا تُلِیَتۡ عَلَیۡهِمۡ ءَایَـٰتُهُۥ زَادَتۡهُمۡ إِیمَـٰنࣰا وَعَلَىٰ رَبِّهِمۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَجِلَتْ قُلُوبُهُمْ",
+          "content": "فزعت ورقّت استعظاما وهيبة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 8,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "يَتَوَكَّلُونَ",
+          "content": "يعتمدون وإلى الله يُفوّضون",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 8,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَجِلَتْ قُلُوبُهُمْ",
+          "content": "فزعت ورقّت استعظاما وهيبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَتَوَكَّلُونَ ۝٢ ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَجِلَتْ قُلُوبُهُمْ",
+          "content": "فزعت ورقّت استعظاما وهيبة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 8,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "يَتَوَكَّلُونَ",
+          "content": "يعتمدون وإلى الله يُفوّضون",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 8,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "يَتَوَكَّلُونَ",
+          "content": "يعتمدون وإلى الله يُفوّضون"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یُنفِقُونَ ۝٣ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقࣰّاۚ لَّهُمۡ دَرَجَـٰتٌ عِندَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "رَبِّهِمۡ وَمَغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ ۝٤ كَمَاۤ أَخۡرَجَكَ رَبُّكَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِنۢ بَیۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِیقࣰا مِّنَ ٱلۡمُؤۡمِنِینَ لَكَـٰرِهُونَ ۝٥",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "یُجَـٰدِلُونَكَ فِی ٱلۡحَقِّ بَعۡدَ مَا تَبَیَّنَ كَأَنَّمَا یُسَاقُونَ إِلَى ٱلۡمَوۡتِ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَهُمۡ یَنظُرُونَ ۝٦ وَإِذۡ یَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّاۤىِٕفَتَیۡنِ أَنَّهَا",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَكُمۡ وَتَوَدُّونَ أَنَّ غَیۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَیُرِیدُ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّآئِفَتَيْنِ",
+          "content": "هما العير والنّفير",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "ذَاتِ ٱلشَّوْكَةِ",
+          "content": "ذات السّلاح والقوّة، وهي النّفير",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "دَابِرَ ٱلْكَٰفِرِينَ",
+          "content": "آخرهم والمراد جميعهم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 17,
+          "tokens": "ذَاتِ ٱلشَّوْكَةِ",
+          "content": "ذات السّلاح والقوّة، وهي النّفير"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهُ أَن یُحِقَّ ٱلۡحَقَّ بِكَلِمَـٰتِهِۦ وَیَقۡطَعَ دَابِرَ ٱلۡكَـٰفِرِینَ ۝٧",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّآئِفَتَيْنِ",
+          "content": "هما العير والنّفير",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "ذَاتِ ٱلشَّوْكَةِ",
+          "content": "ذات السّلاح والقوّة، وهي النّفير",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "دَابِرَ ٱلْكَٰفِرِينَ",
+          "content": "آخرهم والمراد جميعهم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 8,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 22,
+          "tokens": "دَابِرَ ٱلْكَٰفِرِينَ",
+          "content": "آخرهم والمراد جميعهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لِیُحِقَّ ٱلۡحَقَّ وَیُبۡطِلَ ٱلۡبَـٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ ۝٨",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

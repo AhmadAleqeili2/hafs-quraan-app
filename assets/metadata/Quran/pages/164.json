@@ -1,0 +1,313 @@
+{
+  "pageIndex": 164,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "حَقِیقٌ عَلَىٰۤ أَن لَّاۤ أَقُولَ عَلَى ٱللَّهِ إِلَّا ٱلۡحَقَّۚ قَدۡ جِئۡتُكُم بِبَیِّنَةࣲ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَقِيقٌ عَلَىٰٓ أَن",
+          "content": "حريص على أن، ، أو خليق بأن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 7,
+          "ayahIndex": 105
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "حَقِيقٌ عَلَىٰٓ أَن",
+          "content": "حريص على أن، ، أو خليق بأن"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِّن رَّبِّكُمۡ فَأَرۡسِلۡ مَعِیَ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ۝١٠٥ قَالَ إِن كُنتَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَقِيقٌ عَلَىٰٓ أَن",
+          "content": "حريص على أن، ، أو خليق بأن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 7,
+          "ayahIndex": 105
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "جِئۡتَ بِـَٔایَةࣲ فَأۡتِ بِهَاۤ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ ۝١٠٦ فَأَلۡقَىٰ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَصَاهُ فَإِذَا هِیَ ثُعۡبَانࣱ مُّبِینࣱ ۝١٠٧ وَنَزَعَ یَدَهُۥ فَإِذَا هِیَ بَیۡضَاۤءُ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّبِينٌ",
+          "content": "ظاهر أمره لا يشكّ فيه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 7,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 8,
+          "tokens": "مُّبِينٌ",
+          "content": "ظاهر أمره لا يشكّ فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لِلنَّـٰظِرِینَ ۝١٠٨ قَالَ ٱلۡمَلَأُ مِن قَوۡمِ فِرۡعَوۡنَ إِنَّ هَـٰذَا لَسَـٰحِرٌ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَزَعَ يَدَهُۥ",
+          "content": "أخرجها من طوق قميصه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 108
+        },
+        {
+          "tokens": "بَيْضَآءُ",
+          "content": "غلب شعاعها شعاع الشّمس",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 108
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلِیمࣱ ۝١٠٩ یُرِیدُ أَن یُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ ۝١١٠",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَلَأُ",
+          "content": "أهل المشورة والرّؤساء",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 109
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قَالُوۤا۟ أَرۡجِهۡ وَأَخَاهُ وَأَرۡسِلۡ فِی ٱلۡمَدَاۤىِٕنِ حَـٰشِرِینَ ۝١١١ یَأۡتُوكَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرْجِهْ وَأَخَاهُ",
+          "content": "أخّر أمر عقوبتهما ولا تعجل",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 7,
+          "ayahIndex": 111
+        },
+        {
+          "tokens": "حَٰشِرِينَ",
+          "content": "جامعين السّحرة وهم الشُّرَط",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 18,
+          "tokens": "أَرْجِهْ وَأَخَاهُ",
+          "content": "أخّر أمر عقوبتهما ولا تعجل"
+        },
+        {
+          "start": 59,
+          "length": 11,
+          "tokens": "حَٰشِرِينَ",
+          "content": "جامعين السّحرة وهم الشُّرَط"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "بِكُلِّ سَـٰحِرٍ عَلِیمࣲ ۝١١٢ وَجَاۤءَ ٱلسَّحَرَةُ فِرۡعَوۡنَ قَالُوۤا۟ إِنَّ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَـٰلِبِینَ ۝١١٣ قَالَ نَعَمۡ وَإِنَّكُمۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَمِنَ ٱلۡمُقَرَّبِینَ ۝١١٤ قَالُوا۟ یَـٰمُوسَىٰۤ إِمَّاۤ أَن تُلۡقِیَ وَإِمَّاۤ أَن",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "نَّكُونَ نَحۡنُ ٱلۡمُلۡقِینَ ۝١١٥ قَالَ أَلۡقُوا۟ۖ فَلَمَّاۤ أَلۡقَوۡا۟ سَحَرُوۤا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَعۡیُنَ ٱلنَّاسِ وَٱسۡتَرۡهَبُوهُمۡ وَجَاۤءُو بِسِحۡرٍ عَظِیمࣲ ۝١١٦",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ",
+          "content": "خيّلوا لها ما يخالف الحقيقة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 116
+        },
+        {
+          "tokens": "وَٱسْتَرْهَبُوهُمْ",
+          "content": "خوّفوهم تخويفا شديدا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 116
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "سَحَرُوٓا۟ أَعْيُنَ ٱلنَّاسِ",
+          "content": "خيّلوا لها ما يخالف الحقيقة"
+        },
+        {
+          "start": 18,
+          "length": 18,
+          "tokens": "وَٱسْتَرْهَبُوهُمْ",
+          "content": "خوّفوهم تخويفا شديدا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَلۡقِ عَصَاكَۖ فَإِذَا هِیَ تَلۡقَفُ مَا یَأۡفِكُونَ ۝١١٧",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَلْقَفُ",
+          "content": "تبتلع أو تتناول بسرعة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 7,
+          "ayahIndex": 117
+        },
+        {
+          "tokens": "مَا يَأْفِكُونَ",
+          "content": "ما يكذبونه ويُموّهونه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 117
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 8,
+          "tokens": "تَلْقَفُ",
+          "content": "تبتلع أو تتناول بسرعة"
+        },
+        {
+          "start": 74,
+          "length": 15,
+          "tokens": "مَا يَأْفِكُونَ",
+          "content": "ما يكذبونه ويُموّهونه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُوا۟ یَعۡمَلُونَ ۝١١٨ فَغُلِبُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوَقَعَ ٱلْحَقُّ",
+          "content": "ظهر وتبيّن أمر موسى عليه السّلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 118
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "فَوَقَعَ ٱلْحَقُّ",
+          "content": "ظهر وتبيّن أمر موسى عليه السّلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "هُنَالِكَ وَٱنقَلَبُوا۟ صَـٰغِرِینَ ۝١١٩ وَأُلۡقِیَ ٱلسَّحَرَةُ سَـٰجِدِینَ ۝١٢٠",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

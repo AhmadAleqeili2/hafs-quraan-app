@@ -1,0 +1,279 @@
+{
+  "pageIndex": 207,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِینَ یَلُونَكُم مِّنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلْظَةً",
+          "content": "شدّة وشجاعة، وحمية، وصبرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 9,
+          "ayahIndex": 123
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡكُفَّارِ وَلۡیَجِدُوا۟ فِیكُمۡ غِلۡظَةࣰۚ وَٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلْظَةً",
+          "content": "شدّة وشجاعة، وحمية، وصبرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 9,
+          "ayahIndex": 123
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 9,
+          "tokens": "غِلْظَةً",
+          "content": "شدّة وشجاعة، وحمية، وصبرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَعَ ٱلۡمُتَّقِینَ ۝١٢٣ وَإِذَا مَاۤ أُنزِلَتۡ سُورَةࣱ فَمِنۡهُم مَّن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلْظَةً",
+          "content": "شدّة وشجاعة، وحمية، وصبرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 9,
+          "ayahIndex": 123
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَقُولُ أَیُّكُمۡ زَادَتۡهُ هَـٰذِهِۦۤ إِیمَـٰنࣰاۚ فَأَمَّا ٱلَّذِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ءَامَنُوا۟ فَزَادَتۡهُمۡ إِیمَـٰنࣰا وَهُمۡ یَسۡتَبۡشِرُونَ ۝١٢٤",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَأَمَّا ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِجْسًا",
+          "content": "نفاقا وكفرا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 125
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 7,
+          "tokens": "رِجْسًا",
+          "content": "نفاقا وكفرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "رِجۡسِهِمۡ وَمَاتُوا۟ وَهُمۡ كَـٰفِرُونَ ۝١٢٥ أَوَلَا یَرَوۡنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِجْسًا",
+          "content": "نفاقا وكفرا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 125
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَنَّهُمۡ یُفۡتَنُونَ فِی كُلِّ عَامࣲ مَّرَّةً أَوۡ مَرَّتَیۡنِ ثُمَّ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُفْتَنُونَ",
+          "content": "يُمتحنون بالشّدائد والبلايا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 126
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 11,
+          "tokens": "يُفْتَنُونَ",
+          "content": "يُمتحنون بالشّدائد والبلايا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَا یَتُوبُونَ وَلَا هُمۡ یَذَّكَّرُونَ ۝١٢٦ وَإِذَا مَاۤ أُنزِلَتۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُفْتَنُونَ",
+          "content": "يُمتحنون بالشّدائد والبلايا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 126
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "سُورَةࣱ نَّظَرَ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ هَلۡ یَرَىٰكُم مِّنۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَحَدࣲ ثُمَّ ٱنصَرَفُوا۟ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمۡ قَوۡمࣱ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَّا یَفۡقَهُونَ ۝١٢٧ لَقَدۡ جَاۤءَكُمۡ رَسُولࣱ مِّنۡ أَنفُسِكُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَزِیزٌ عَلَیۡهِ مَا عَنِتُّمۡ حَرِیصٌ عَلَیۡكُم بِٱلۡمُؤۡمِنِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَزِيزٌ عَلَيْهِ",
+          "content": "صعب وشاقّ عليه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "مَا عَنِتُّمْ",
+          "content": "عنتُكُم ومشقّتكم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 128
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "عَزِيزٌ عَلَيْهِ",
+          "content": "صعب وشاقّ عليه"
+        },
+        {
+          "start": 17,
+          "length": 13,
+          "tokens": "مَا عَنِتُّمْ",
+          "content": "عنتُكُم ومشقّتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "رَءُوفࣱ رَّحِیمࣱ ۝١٢٨ فَإِن تَوَلَّوۡا۟ فَقُلۡ حَسۡبِیَ ٱللَّهُ لَاۤ إِلَـٰهَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَزِيزٌ عَلَيْهِ",
+          "content": "صعب وشاقّ عليه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "مَا عَنِتُّمْ",
+          "content": "عنتُكُم ومشقّتكم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 128
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَّا هُوَۖ عَلَیۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ ۝١٢٩",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 129,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ الله ومعيني",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 129
+        }
+      ]
+    }
+  ]
+}

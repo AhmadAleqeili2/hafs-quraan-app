@@ -1,0 +1,281 @@
+{
+  "pageIndex": 399,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَمَا كَانَ جَوَابَ قَوۡمِهِۦۤ إِلَّاۤ أَن قَالُوا۟ ٱقۡتُلُوهُ أَوۡ حَرِّقُوهُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَأَنجَىٰهُ ٱللَّهُ مِنَ ٱلنَّارِۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یُؤۡمِنُونَ ۝٢٤",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَقَالَ إِنَّمَا ٱتَّخَذۡتُم مِّن دُونِ ٱللَّهِ أَوۡثَـٰنࣰا مَّوَدَّةَ بَیۡنِكُمۡ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوَدَّةَ بَيْنِكُمْ",
+          "content": "للتوادّ والتّواصل بينكم لاجماعكم على عبادتها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَمَأْوَىٰكُمُ ٱلنَّارُ",
+          "content": "منزلكم الذي تأوون إليه النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 21,
+          "tokens": "مَّوَدَّةَ بَيْنِكُمْ",
+          "content": "للتوادّ والتّواصل بينكم لاجماعكم على عبادتها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ ثُمَّ یَوۡمَ ٱلۡقِیَـٰمَةِ یَكۡفُرُ بَعۡضُكُم",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوَدَّةَ بَيْنِكُمْ",
+          "content": "للتوادّ والتّواصل بينكم لاجماعكم على عبادتها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَمَأْوَىٰكُمُ ٱلنَّارُ",
+          "content": "منزلكم الذي تأوون إليه النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِبَعۡضࣲ وَیَلۡعَنُ بَعۡضُكُم بَعۡضࣰا وَمَأۡوَىٰكُمُ ٱلنَّارُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوَدَّةَ بَيْنِكُمْ",
+          "content": "للتوادّ والتّواصل بينكم لاجماعكم على عبادتها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَمَأْوَىٰكُمُ ٱلنَّارُ",
+          "content": "منزلكم الذي تأوون إليه النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 23,
+          "tokens": "وَمَأْوَىٰكُمُ ٱلنَّارُ",
+          "content": "منزلكم الذي تأوون إليه النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَا لَكُم مِّن نَّـٰصِرِینَ ۝٢٥ فَـَٔامَنَ لَهُۥ لُوطࣱۘ وَقَالَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوَدَّةَ بَيْنِكُمْ",
+          "content": "للتوادّ والتّواصل بينكم لاجماعكم على عبادتها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَمَأْوَىٰكُمُ ٱلنَّارُ",
+          "content": "منزلكم الذي تأوون إليه النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 29,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِنِّی مُهَاجِرٌ إِلَىٰ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝٢٦",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَوَهَبۡنَا لَهُۥۤ إِسۡحَـٰقَ وَیَعۡقُوبَ وَجَعَلۡنَا فِی ذُرِّیَّتِهِ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلنُّبُوَّةَ وَٱلۡكِتَـٰبَ وَءَاتَیۡنَـٰهُ أَجۡرَهُۥ فِی ٱلدُّنۡیَاۖ وَإِنَّهُۥ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِی ٱلۡـَٔاخِرَةِ لَمِنَ ٱلصَّـٰلِحِینَ ۝٢٧ وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦۤ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِنَّكُمۡ لَتَأۡتُونَ ٱلۡفَـٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدࣲ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِّنَ ٱلۡعَـٰلَمِینَ ۝٢٨ أَىِٕنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ وَتَقۡطَعُونَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلسَّبِیلَ وَتَأۡتُونَ فِی نَادِیكُمُ ٱلۡمُنكَرَۖ فَمَا كَانَ جَوَابَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَقْطَعُونَ ٱلسَّبِيلَ",
+          "content": "بمقارفة المعاصي والقبائح",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "نَادِيكُمُ",
+          "content": "مجلسكم الذي تجتمعون فيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَتَقْطَعُونَ ٱلسَّبِيلَ",
+          "content": "بمقارفة المعاصي والقبائح"
+        },
+        {
+          "start": 27,
+          "length": 10,
+          "tokens": "نَادِيكُمُ",
+          "content": "مجلسكم الذي تجتمعون فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "قَوۡمِهِۦۤ إِلَّاۤ أَن قَالُوا۟ ٱئۡتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَقْطَعُونَ ٱلسَّبِيلَ",
+          "content": "بمقارفة المعاصي والقبائح",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "نَادِيكُمُ",
+          "content": "مجلسكم الذي تجتمعون فيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلصَّـٰدِقِینَ ۝٢٩ قَالَ رَبِّ ٱنصُرۡنِی عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِینَ ۝٣٠",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَقْطَعُونَ ٱلسَّبِيلَ",
+          "content": "بمقارفة المعاصي والقبائح",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "نَادِيكُمُ",
+          "content": "مجلسكم الذي تجتمعون فيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 29
+        }
+      ]
+    }
+  ]
+}

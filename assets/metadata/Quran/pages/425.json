@@ -1,0 +1,571 @@
+{
+  "pageIndex": 425,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "تُرۡجِی مَن تَشَاۤءُ مِنۡهُنَّ وَتُـٔۡوِیۤ إِلَیۡكَ مَن تَشَاۤءُۖ وَمَنِ ٱبۡتَغَیۡتَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُرْجِى",
+          "content": "تُأخّر ولا تضاجع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَتُـْٔوِىٓ إِلَيْكَ",
+          "content": "تَضمّ إليك وتضاجع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "ٱبْتَغَيْتَ",
+          "content": "طلبت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "عَزَلْتَ",
+          "content": "اجتنبت بالإرجاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ",
+          "content": "التفويض إلى مشيئتك أقرب إلى سرورهنّ لعلمهنّ أنّه بحُكم الله",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 20,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "تُرْجِى",
+          "content": "تُأخّر ولا تضاجع"
+        },
+        {
+          "start": 31,
+          "length": 20,
+          "tokens": "وَتُـْٔوِىٓ إِلَيْكَ",
+          "content": "تَضمّ إليك وتضاجع"
+        },
+        {
+          "start": 73,
+          "length": 11,
+          "tokens": "ٱبْتَغَيْتَ",
+          "content": "طلبت"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِمَّنۡ عَزَلۡتَ فَلَا جُنَاحَ عَلَیۡكَۚ ذَ ٰ⁠لِكَ أَدۡنَىٰۤ أَن تَقَرَّ أَعۡیُنُهُنَّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُرْجِى",
+          "content": "تُأخّر ولا تضاجع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَتُـْٔوِىٓ إِلَيْكَ",
+          "content": "تَضمّ إليك وتضاجع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "ٱبْتَغَيْتَ",
+          "content": "طلبت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "عَزَلْتَ",
+          "content": "اجتنبت بالإرجاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ",
+          "content": "التفويض إلى مشيئتك أقرب إلى سرورهنّ لعلمهنّ أنّه بحُكم الله",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 20,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 8,
+          "tokens": "عَزَلْتَ",
+          "content": "اجتنبت بالإرجاء"
+        },
+        {
+          "start": 51,
+          "length": 35,
+          "tokens": "أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ",
+          "content": "التفويض إلى مشيئتك أقرب إلى سرورهنّ لعلمهنّ أنّه بحُكم الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَا یَحۡزَنَّ وَیَرۡضَیۡنَ بِمَاۤ ءَاتَیۡتَهُنَّ كُلُّهُنَّۚ وَٱللَّهُ یَعۡلَمُ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُرْجِى",
+          "content": "تُأخّر ولا تضاجع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَتُـْٔوِىٓ إِلَيْكَ",
+          "content": "تَضمّ إليك وتضاجع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "ٱبْتَغَيْتَ",
+          "content": "طلبت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "عَزَلْتَ",
+          "content": "اجتنبت بالإرجاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ",
+          "content": "التفويض إلى مشيئتك أقرب إلى سرورهنّ لعلمهنّ أنّه بحُكم الله",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 20,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَا فِی قُلُوبِكُمۡۚ وَكَانَ ٱللَّهُ عَلِیمًا حَلِیمࣰا ۝٥١ لَّا یَحِلُّ لَكَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُرْجِى",
+          "content": "تُأخّر ولا تضاجع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَتُـْٔوِىٓ إِلَيْكَ",
+          "content": "تَضمّ إليك وتضاجع",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "ٱبْتَغَيْتَ",
+          "content": "طلبت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "عَزَلْتَ",
+          "content": "اجتنبت بالإرجاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "أَدْنَىٰٓ أَن تَقَرَّ أَعْيُنُهُنَّ",
+          "content": "التفويض إلى مشيئتك أقرب إلى سرورهنّ لعلمهنّ أنّه بحُكم الله",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 20,
+          "surahIndex": 33,
+          "ayahIndex": 51
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلنِّسَاۤءُ مِنۢ بَعۡدُ وَلَاۤ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَ ٰ⁠جࣲ وَلَوۡ أَعۡجَبَكَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَّقِيبًا",
+          "content": "حفيظا ومطلعا",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 33,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ یَمِینُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَّقِيبًا",
+          "content": "حفيظا ومطلعا",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 33,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "شَیۡءࣲ رَّقِیبࣰا ۝٥٢ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَدۡخُلُوا۟ بُیُوتَ ٱلنَّبِیِّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَّقِيبًا",
+          "content": "حفيظا ومطلعا",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 33,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 9,
+          "tokens": "رَّقِيبًا",
+          "content": "حفيظا ومطلعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِلَّاۤ أَن یُؤۡذَنَ لَكُمۡ إِلَىٰ طَعَامٍ غَیۡرَ نَـٰظِرِینَ إِنَىٰهُ وَلَـٰكِنۡ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 27,
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِذَا دُعِیتُمۡ فَٱدۡخُلُوا۟ فَإِذَا طَعِمۡتُمۡ فَٱنتَشِرُوا۟ وَلَا مُسۡتَـٔۡنِسِینَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 13,
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِحَدِیثٍۚ إِنَّ ذَ ٰ⁠لِكُمۡ كَانَ یُؤۡذِی ٱلنَّبِیَّ فَیَسۡتَحۡیِۦ مِنكُمۡۖ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَٱللَّهُ لَا یَسۡتَحۡیِۦ مِنَ ٱلۡحَقِّۚ وَإِذَا سَأَلۡتُمُوهُنَّ مَتَـٰعࣰا فَسۡـَٔلُوهُنَّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 26,
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِن وَرَاۤءِ حِجَابࣲۚ ذَ ٰ⁠لِكُمۡ أَطۡهَرُ لِقُلُوبِكُمۡ وَقُلُوبِهِنَّۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَا كَانَ لَكُمۡ أَن تُؤۡذُوا۟ رَسُولَ ٱللَّهِ وَلَاۤ أَن تَنكِحُوۤا۟ أَزۡوَ ٰ⁠جَهُۥ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِنۢ بَعۡدِهِۦۤ أَبَدًاۚ إِنَّ ذَ ٰ⁠لِكُمۡ كَانَ عِندَ ٱللَّهِ عَظِیمًا ۝٥٣",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَيْرَ نَٰظِرِينَ إِنَىٰهُ",
+          "content": "غير منتظرين نضجه واستواءه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "فَٱنتَشِرُوا۟",
+          "content": "فتفرّقوا ولا تمكُثوا عنده",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "سَأَلْتُمُوهُنَّ مَتَٰعًا",
+          "content": "حاجة يُنتفع بها",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 41,
+          "surahIndex": 33,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِن تُبۡدُوا۟ شَیۡـًٔا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَیۡءٍ عَلِیمࣰا ۝٥٤",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

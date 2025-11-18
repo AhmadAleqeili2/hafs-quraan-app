@@ -1,0 +1,309 @@
+{
+  "pageIndex": 259,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "تُؤۡتِیۤ أُكُلَهَا كُلَّ حِینِۭ بِإِذۡنِ رَبِّهَاۗ وَیَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُؤْتِىٓ أُكُلَهَا",
+          "content": "تعطي ثمرها الذي يُؤكل",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 14,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "تُؤْتِىٓ أُكُلَهَا",
+          "content": "تعطي ثمرها الذي يُؤكل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "لِلنَّاسِ لَعَلَّهُمۡ یَتَذَكَّرُونَ ۝٢٥ وَمَثَلُ كَلِمَةٍ خَبِیثَةࣲ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُؤْتِىٓ أُكُلَهَا",
+          "content": "تعطي ثمرها الذي يُؤكل",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 14,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "كَشَجَرَةٍ خَبِیثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ خَبِيثَةٍ",
+          "content": "كلمة الكفر والضّلال",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 14,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "ٱجْتُثَّتْ",
+          "content": "اقتُلِعت جثّتها من أصلها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 14,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 10,
+          "tokens": "ٱجْتُثَّتْ",
+          "content": "اقتُلِعت جثّتها من أصلها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "قَرَارࣲ ۝٢٦ یُثَبِّتُ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِی ٱلۡحَیَوٰةِ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ خَبِيثَةٍ",
+          "content": "كلمة الكفر والضّلال",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 14,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "ٱجْتُثَّتْ",
+          "content": "اقتُلِعت جثّتها من أصلها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 14,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلدُّنۡیَا وَفِی ٱلۡـَٔاخِرَةِۖ وَیُضِلُّ ٱللَّهُ ٱلظَّـٰلِمِینَۚ وَیَفۡعَلُ ٱللَّهُ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "في القبر عند السّؤال",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 14,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "في القبر عند السّؤال"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَا یَشَاۤءُ ۝٢٧ أَلَمۡ تَرَ إِلَى ٱلَّذِینَ بَدَّلُوا۟ نِعۡمَتَ ٱللَّهِ كُفۡرࣰا",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "في القبر عند السّؤال",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 14,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَأَحَلُّوا۟ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ ۝٢٨ جَهَنَّمَ یَصۡلَوۡنَهَاۖ وَبِئۡسَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَارَ ٱلْبَوَارِ",
+          "content": "دار الهلاك ( جهنّم)",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 14,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 16,
+          "tokens": "دَارَ ٱلْبَوَارِ",
+          "content": "دار الهلاك ( جهنّم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡقَرَارُ ۝٢٩ وَجَعَلُوا۟ لِلَّهِ أَندَادࣰا لِّیُضِلُّوا۟ عَن سَبِیلِهِۦۗ قُلۡ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَصْلَوْنَهَا",
+          "content": "يدخلونها أو يُقاسون حرّها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 14,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "تَمَتَّعُوا۟ فَإِنَّ مَصِیرَكُمۡ إِلَى ٱلنَّارِ ۝٣٠ قُل لِّعِبَادِیَ ٱلَّذِینَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَندَادًا",
+          "content": "أمثالا من الأوثان يعبدونها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 14,
+          "ayahIndex": 30
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ءَامَنُوا۟ یُقِیمُوا۟ ٱلصَّلَوٰةَ وَیُنفِقُوا۟ مِمَّا رَزَقۡنَـٰهُمۡ سِرࣰّا وَعَلَانِیَةࣰ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا خِلَٰلٌ",
+          "content": "لا مُخالّة ولا مُوادّة",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 14,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِّن قَبۡلِ أَن یَأۡتِیَ یَوۡمࣱ لَّا بَیۡعࣱ فِیهِ وَلَا خِلَـٰلٌ ۝٣١ ٱللَّهُ ٱلَّذِی",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا خِلَٰلٌ",
+          "content": "لا مُخالّة ولا مُوادّة",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 14,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 14,
+          "tokens": "وَلَا خِلَٰلٌ",
+          "content": "لا مُخالّة ولا مُوادّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَأَخۡرَجَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِهِۦ مِنَ ٱلثَّمَرَ ٰ⁠تِ رِزۡقࣰا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِیَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِی ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَـٰرَ ۝٣٢ وَسَخَّرَ لَكُمُ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلشَّمۡسَ وَٱلۡقَمَرَ دَاۤىِٕبَیۡنِۖ وَسَخَّرَ لَكُمُ ٱلَّیۡلَ وَٱلنَّهَارَ ۝٣٣",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَآئِبَيْنِ",
+          "content": "دائمين في منافعهما لكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 14,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 14,
+          "tokens": "دَآئِبَيْنِ",
+          "content": "دائمين في منافعهما لكم"
+        }
+      ]
+    }
+  ]
+}

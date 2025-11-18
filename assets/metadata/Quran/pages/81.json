@@ -1,0 +1,471 @@
+{
+  "pageIndex": 81,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِنۡ أَرَدتُّمُ ٱسۡتِبۡدَالَ زَوۡجࣲ مَّكَانَ زَوۡجࣲ وَءَاتَیۡتُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُهْتَٰنًا",
+          "content": "باطلاً وظلمًا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِحۡدَىٰهُنَّ قِنطَارࣰا فَلَا تَأۡخُذُوا۟ مِنۡهُ شَیۡـًٔاۚ أَتَأۡخُذُونَهُۥ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُهْتَٰنًا",
+          "content": "باطلاً وظلمًا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بُهۡتَـٰنࣰا وَإِثۡمࣰا مُّبِینࣰا ۝٢٠ وَكَیۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُهْتَٰنًا",
+          "content": "باطلاً وظلمًا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "بُهْتَٰنًا",
+          "content": "باطلاً وظلمًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بَعۡضُكُمۡ إِلَىٰ بَعۡضࣲ وَأَخَذۡنَ مِنكُم مِّیثَـٰقًا غَلِیظࣰا ۝٢١",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفْضَىٰ بَعْضُكُمْ",
+          "content": "وصل، بالوقاع أو الخلْوة الصحيحة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "مِّيثَٰقًا غَلِيظًا",
+          "content": "عهدًا وثيقا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 4,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "أَفْضَىٰ بَعْضُكُمْ",
+          "content": "وصل، بالوقاع أو الخلْوة الصحيحة"
+        },
+        {
+          "start": 43,
+          "length": 20,
+          "tokens": "مِّيثَٰقًا غَلِيظًا",
+          "content": "عهدًا وثيقا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَلَا تَنكِحُوا۟ مَا نَكَحَ ءَابَاۤؤُكُم مِّنَ ٱلنِّسَاۤءِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَقْتًا",
+          "content": "مبغوضًا مستحقرًا جدًّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِلَّا مَا قَدۡ سَلَفَۚ إِنَّهُۥ كَانَ فَـٰحِشَةࣰ وَمَقۡتࣰا وَسَاۤءَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَقْتًا",
+          "content": "مبغوضًا مستحقرًا جدًّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 9,
+          "tokens": "وَمَقْتًا",
+          "content": "مبغوضًا مستحقرًا جدًّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "سَبِیلًا ۝٢٢ حُرِّمَتۡ عَلَیۡكُمۡ أُمَّهَـٰتُكُمۡ وَبَنَاتُكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَقْتًا",
+          "content": "مبغوضًا مستحقرًا جدًّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَخَوَ ٰ⁠تُكُمۡ وَعَمَّـٰتُكُمۡ وَخَـٰلَـٰتُكُمۡ وَبَنَاتُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡأَخِ وَبَنَاتُ ٱلۡأُخۡتِ وَأُمَّهَـٰتُكُمُ ٱلَّـٰتِیۤ أَرۡضَعۡنَكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَأَخَوَ ٰ⁠تُكُم مِّنَ ٱلرَّضَـٰعَةِ وَأُمَّهَـٰتُ نِسَاۤىِٕكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَرَبَـٰۤىِٕبُكُمُ ٱلَّـٰتِی فِی حُجُورِكُم مِّن نِّسَاۤىِٕكُمُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلَّـٰتِی دَخَلۡتُم بِهِنَّ فَإِن لَّمۡ تَكُونُوا۟ دَخَلۡتُم بِهِنَّ فَلَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 5,
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "جُنَاحَ عَلَیۡكُمۡ وَحَلَـٰۤىِٕلُ أَبۡنَاۤىِٕكُمُ ٱلَّذِینَ مِنۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم"
+        },
+        {
+          "start": 19,
+          "length": 30,
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَصۡلَـٰبِكُمۡ وَأَن تَجۡمَعُوا۟ بَیۡنَ ٱلۡأُخۡتَیۡنِ إِلَّا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَا قَدۡ سَلَفَۗ إِنَّ ٱللَّهَ كَانَ غَفُورࣰا رَّحِیمࣰا ۝٢٣",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَبَٰٓئِبُكُمُ",
+          "content": "بنات زوجاتكم من غيركم",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "فَلَا جُنَاحَ عَلَيْكُمْ",
+          "content": "فلا إثم عليكم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 36,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَحَلَٰٓئِلُ أَبْنَآئِكُمُ",
+          "content": "زوجاتُهُم",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 4,
+          "ayahIndex": 23
+        }
+      ]
+    }
+  ]
+}

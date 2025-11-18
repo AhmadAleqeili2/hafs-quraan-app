@@ -1,0 +1,613 @@
+{
+  "pageIndex": 139,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدۡرِهِۦۤ إِذۡ قَالُوا۟ مَاۤ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرࣲ مِّن شَیۡءࣲۗ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 39,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 23,
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قُلۡ مَنۡ أَنزَلَ ٱلۡكِتَـٰبَ ٱلَّذِی جَاۤءَ بِهِۦ مُوسَىٰ نُورࣰا وَهُدࣰى",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 39,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لِّلنَّاسِۖ تَجۡعَلُونَهُۥ قَرَاطِیسَ تُبۡدُونَهَا وَتُخۡفُونَ كَثِیرࣰاۖ وَعُلِّمۡتُم",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 39,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 10,
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَّا لَمۡ تَعۡلَمُوۤا۟ أَنتُمۡ وَلَاۤ ءَابَاۤؤُكُمۡۖ قُلِ ٱللَّهُۖ ثُمَّ ذَرۡهُمۡ فِی خَوۡضِهِمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 39,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 13,
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)"
+        },
+        {
+          "start": 86,
+          "length": 10,
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَلۡعَبُونَ ۝٩١ وَهَـٰذَا كِتَـٰبٌ أَنزَلۡنَـٰهُ مُبَارَكࣱ مُّصَدِّقُ ٱلَّذِی بَیۡنَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عرفوا الله، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قَرَاطِيسَ",
+          "content": "أوراقا مكتوبة مفرّقة",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "قُلِ ٱللَّهُ",
+          "content": "قل الله أنزله (التوراة)",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 39,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "خَوْضِهِمْ",
+          "content": "باطلهم",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 6,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَدَیۡهِ وَلِتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَاۚ وَٱلَّذِینَ یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُبَارَكٌ",
+          "content": "كثير المنافع والفوائد (القرآن)",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أُمَّ ٱلْقُرَىٰ",
+          "content": "مكّة : أي أهلها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "وَمَنْ حَوْلَهَا",
+          "content": "أهل المشارق والمغارب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 15,
+          "tokens": "أُمَّ ٱلْقُرَىٰ",
+          "content": "مكّة : أي أهلها"
+        },
+        {
+          "start": 37,
+          "length": 17,
+          "tokens": "وَمَنْ حَوْلَهَا",
+          "content": "أهل المشارق والمغارب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یُؤۡمِنُونَ بِهِۦۖ وَهُمۡ عَلَىٰ صَلَاتِهِمۡ یُحَافِظُونَ ۝٩٢ وَمَنۡ أَظۡلَمُ مِمَّنِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُبَارَكٌ",
+          "content": "كثير المنافع والفوائد (القرآن)",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أُمَّ ٱلْقُرَىٰ",
+          "content": "مكّة : أي أهلها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "وَمَنْ حَوْلَهَا",
+          "content": "أهل المشارق والمغارب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 6,
+          "ayahIndex": 92
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ قَالَ أُوحِیَ إِلَیَّ وَلَمۡ یُوحَ إِلَیۡهِ شَیۡءࣱ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَمَن قَالَ سَأُنزِلُ مِثۡلَ مَاۤ أَنزَلَ ٱللَّهُۗ وَلَوۡ تَرَىٰۤ إِذِ ٱلظَّـٰلِمُونَ فِی",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "غَمَرَ ٰ⁠تِ ٱلۡمَوۡتِ وَٱلۡمَلَـٰۤىِٕكَةُ بَاسِطُوۤا۟ أَیۡدِیهِمۡ أَخۡرِجُوۤا۟ أَنفُسَكُمُۖ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده"
+        },
+        {
+          "start": 66,
+          "length": 25,
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡیَوۡمَ تُجۡزَوۡنَ عَذَابَ ٱلۡهُونِ بِمَا كُنتُمۡ تَقُولُونَ عَلَى ٱللَّهِ غَیۡرَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 16,
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡحَقِّ وَكُنتُمۡ عَنۡ ءَایَـٰتِهِۦ تَسۡتَكۡبِرُونَ ۝٩٣ وَلَقَدۡ جِئۡتُمُونَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غَمَرَٰتِ ٱلْمَوْتِ",
+          "content": "سكراته وشدائده",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "أَخْرِجُوٓا۟ أَنفُسَكُمُ",
+          "content": "خلّصوها ممّا هي فيه من العذاب",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "عَذَابَ ٱلْهُونِ",
+          "content": "الهوان الشّديد والذّل والخزي",
+          "tokenFromIndex": 37,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 93
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فُرَ ٰ⁠دَىٰ كَمَا خَلَقۡنَـٰكُمۡ أَوَّلَ مَرَّةࣲ وَتَرَكۡتُم مَّا خَوَّلۡنَـٰكُمۡ وَرَاۤءَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّا خَوَّلْنَٰكُمْ",
+          "content": "ما أعطيناكم من متاع الدّنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "تَّقَطَّعَ بَيْنَكُمْ",
+          "content": "تفرّق الاتّصال بينكم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 20,
+          "tokens": "مَّا خَوَّلْنَٰكُمْ",
+          "content": "ما أعطيناكم من متاع الدّنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ظُهُورِكُمۡۖ وَمَا نَرَىٰ مَعَكُمۡ شُفَعَاۤءَكُمُ ٱلَّذِینَ زَعَمۡتُمۡ أَنَّهُمۡ فِیكُمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّا خَوَّلْنَٰكُمْ",
+          "content": "ما أعطيناكم من متاع الدّنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "تَّقَطَّعَ بَيْنَكُمْ",
+          "content": "تفرّق الاتّصال بينكم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "شُرَكَـٰۤؤُا۟ۚ لَقَد تَّقَطَّعَ بَیۡنَكُمۡ وَضَلَّ عَنكُم مَّا كُنتُمۡ تَزۡعُمُونَ ۝٩٤",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّا خَوَّلْنَٰكُمْ",
+          "content": "ما أعطيناكم من متاع الدّنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "تَّقَطَّعَ بَيْنَكُمْ",
+          "content": "تفرّق الاتّصال بينكم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 21,
+          "tokens": "تَّقَطَّعَ بَيْنَكُمْ",
+          "content": "تفرّق الاتّصال بينكم"
+        }
+      ]
+    }
+  ]
+}

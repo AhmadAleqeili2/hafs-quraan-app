@@ -1,0 +1,285 @@
+{
+  "pageIndex": 197,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِیُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥۤ أَحَقُّ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَن یُرۡضُوهُ إِن كَانُوا۟ مُؤۡمِنِینَ ۝٦٢ أَلَمۡ یَعۡلَمُوۤا۟ أَنَّهُۥ مَن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدࣰا فِیهَاۚ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَن يُحَادِدِ",
+          "content": "من يُخالفه ويعادِه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "مَن يُحَادِدِ",
+          "content": "من يُخالفه ويعادِه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ذَ ٰ⁠لِكَ ٱلۡخِزۡیُ ٱلۡعَظِیمُ ۝٦٣ یَحۡذَرُ ٱلۡمُنَـٰفِقُونَ أَن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَن يُحَادِدِ",
+          "content": "من يُخالفه ويعادِه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "تُنَزَّلَ عَلَیۡهِمۡ سُورَةࣱ تُنَبِّئُهُم بِمَا فِی قُلُوبِهِمۡۚ قُلِ ٱسۡتَهۡزِءُوۤا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِنَّ ٱللَّهَ مُخۡرِجࣱ مَّا تَحۡذَرُونَ ۝٦٤ وَلَىِٕن سَأَلۡتَهُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَیَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ قُلۡ أَبِٱللَّهِ وَءَایَـٰتِهِۦ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَخُوضُ وَنَلْعَبُ",
+          "content": "نتلهّى بالحديث قطعا للطّريق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 19,
+          "tokens": "نَخُوضُ وَنَلْعَبُ",
+          "content": "نتلهّى بالحديث قطعا للطّريق"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ ۝٦٥ لَا تَعۡتَذِرُوا۟ قَدۡ كَفَرۡتُم",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَخُوضُ وَنَلْعَبُ",
+          "content": "نتلهّى بالحديث قطعا للطّريق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بَعۡدَ إِیمَـٰنِكُمۡۚ إِن نَّعۡفُ عَن طَاۤىِٕفَةࣲ مِّنكُمۡ نُعَذِّبۡ طَاۤىِٕفَةَۢ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِأَنَّهُمۡ كَانُوا۟ مُجۡرِمِینَ ۝٦٦ ٱلۡمُنَـٰفِقُونَ وَٱلۡمُنَـٰفِقَـٰتُ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "بَعۡضُهُم مِّنۢ بَعۡضࣲۚ یَأۡمُرُونَ بِٱلۡمُنكَرِ وَیَنۡهَوۡنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْبِضُونَ أَيْدِيَهُمْ",
+          "content": "لا يبسطونها في خير وطاعة شُحّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "فَنَسِيَهُمْ",
+          "content": "فتركهم من توفيقه وهدايته",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَنِ ٱلۡمَعۡرُوفِ وَیَقۡبِضُونَ أَیۡدِیَهُمۡۚ نَسُوا۟ ٱللَّهَ فَنَسِیَهُمۡۚ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْبِضُونَ أَيْدِيَهُمْ",
+          "content": "لا يبسطونها في خير وطاعة شُحّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "فَنَسِيَهُمْ",
+          "content": "فتركهم من توفيقه وهدايته",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 27,
+          "tokens": "وَيَقْبِضُونَ أَيْدِيَهُمْ",
+          "content": "لا يبسطونها في خير وطاعة شُحّا"
+        },
+        {
+          "start": 62,
+          "length": 13,
+          "tokens": "فَنَسِيَهُمْ",
+          "content": "فتركهم من توفيقه وهدايته"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنَّ ٱلۡمُنَـٰفِقِینَ هُمُ ٱلۡفَـٰسِقُونَ ۝٦٧ وَعَدَ ٱللَّهُ ٱلۡمُنَـٰفِقِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْبِضُونَ أَيْدِيَهُمْ",
+          "content": "لا يبسطونها في خير وطاعة شُحّا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "فَنَسِيَهُمْ",
+          "content": "فتركهم من توفيقه وهدايته",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡمُنَـٰفِقَـٰتِ وَٱلۡكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۚ هِیَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هِىَ حَسْبُهُمْ",
+          "content": "كافيتهم عقابا على كفرهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 9,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 4,
+          "tokens": "هِىَ حَسْبُهُمْ",
+          "content": "كافيتهم عقابا على كفرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "حَسۡبُهُمۡۚ وَلَعَنَهُمُ ٱللَّهُۖ وَلَهُمۡ عَذَابࣱ مُّقِیمࣱ ۝٦٨",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هِىَ حَسْبُهُمْ",
+          "content": "كافيتهم عقابا على كفرهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 9,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "هِىَ حَسْبُهُمْ",
+          "content": "كافيتهم عقابا على كفرهم"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "pageIndex": 58,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ هَـٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَـٰهٍ إِلَّا ٱللَّهُۚ وَإِنَّ ٱللَّهَ لَهُوَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝٦٢ فَإِن تَوَلَّوۡا۟ فَإِنَّ ٱللَّهَ عَلِیمُۢ بِٱلۡمُفۡسِدِینَ ۝٦٣",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ تَعَالَوۡا۟ إِلَىٰ كَلِمَةࣲ سَوَاۤءِۭ بَیۡنَنَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ سَوَآءٍۭ",
+          "content": "كلامٍ عدل أو لا تختلف فيه الشرائع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 64
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 18,
+          "tokens": "كَلِمَةٍ سَوَآءٍۭ",
+          "content": "كلامٍ عدل أو لا تختلف فيه الشرائع"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَبَیۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَیۡـࣰٔا وَلَا یَتَّخِذَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ سَوَآءٍۭ",
+          "content": "كلامٍ عدل أو لا تختلف فيه الشرائع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بَعۡضُنَا بَعۡضًا أَرۡبَابࣰا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡا۟ فَقُولُوا۟ ٱشۡهَدُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ سَوَآءٍۭ",
+          "content": "كلامٍ عدل أو لا تختلف فيه الشرائع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِأَنَّا مُسۡلِمُونَ ۝٦٤ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تُحَاۤجُّونَ فِیۤ إِبۡرَ ٰ⁠هِیمَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةٍ سَوَآءٍۭ",
+          "content": "كلامٍ عدل أو لا تختلف فيه الشرائع",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَاۤ أُنزِلَتِ ٱلتَّوۡرَىٰةُ وَٱلۡإِنجِیلُ إِلَّا مِنۢ بَعۡدِهِۦۤۚ أَفَلَا تَعۡقِلُونَ ۝٦٥",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "هَـٰۤأَنتُمۡ هَـٰۤؤُلَاۤءِ حَـٰجَجۡتُمۡ فِیمَا لَكُم بِهِۦ عِلۡمࣱ فَلِمَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "تُحَاۤجُّونَ فِیمَا لَیۡسَ لَكُم بِهِۦ عِلۡمࣱۚ وَٱللَّهُ یَعۡلَمُ وَأَنتُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَا تَعۡلَمُونَ ۝٦٦ مَا كَانَ إِبۡرَ ٰ⁠هِیمُ یَهُودِیࣰّا وَلَا نَصۡرَانِیࣰّا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَـٰكِن كَانَ حَنِیفࣰا مُّسۡلِمࣰا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ ۝٦٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ حَنِيفًا",
+          "content": "مائلاً عن الباطل إلى الدِّين الحق",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "مُّسْلِمًا",
+          "content": "موحّدا، أو منقادا لله مطيعا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 14,
+          "tokens": "كَانَ حَنِيفًا",
+          "content": "مائلاً عن الباطل إلى الدِّين الحق"
+        },
+        {
+          "start": 25,
+          "length": 10,
+          "tokens": "مُّسْلِمًا",
+          "content": "موحّدا، أو منقادا لله مطيعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنَّ أَوۡلَى ٱلنَّاسِ بِإِبۡرَ ٰ⁠هِیمَ لَلَّذِینَ ٱتَّبَعُوهُ وَهَـٰذَا ٱلنَّبِیُّ وَٱلَّذِینَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِىُّ ٱلْمُؤْمِنِينَ",
+          "content": "ناصرهم ومجازيهم بالحسنى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ءَامَنُوا۟ۗ وَٱللَّهُ وَلِیُّ ٱلۡمُؤۡمِنِینَ ۝٦٨ وَدَّت طَّاۤىِٕفَةࣱ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِىُّ ٱلْمُؤْمِنِينَ",
+          "content": "ناصرهم ومجازيهم بالحسنى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 22,
+          "tokens": "وَلِىُّ ٱلْمُؤْمِنِينَ",
+          "content": "ناصرهم ومجازيهم بالحسنى"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَوۡ یُضِلُّونَكُمۡ وَمَا یُضِلُّونَ إِلَّاۤ أَنفُسَهُمۡ وَمَا یَشۡعُرُونَ ۝٦٩ یَـٰۤأَهۡلَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِـَٔایَـٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ ۝٧٠",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

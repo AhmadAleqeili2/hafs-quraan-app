@@ -1,0 +1,267 @@
+{
+  "pageIndex": 472,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَـٰقَوۡمِ مَا لِیۤ أَدۡعُوكُمۡ إِلَى ٱلنَّجَوٰةِ وَتَدۡعُونَنِیۤ إِلَى ٱلنَّارِ ۝٤١",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "تَدۡعُونَنِی لِأَكۡفُرَ بِٱللَّهِ وَأُشۡرِكَ بِهِۦ مَا لَیۡسَ لِی بِهِۦ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "عِلۡمࣱ وَأَنَا۠ أَدۡعُوكُمۡ إِلَى ٱلۡعَزِیزِ ٱلۡغَفَّـٰرِ ۝٤٢ لَا جَرَمَ أَنَّمَا",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَدۡعُونَنِیۤ إِلَیۡهِ لَیۡسَ لَهُۥ دَعۡوَةࣱ فِی ٱلدُّنۡیَا وَلَا فِی ٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا جَرَمَ",
+          "content": "حقّ وثبَتَ أو لا مَحالة أو حقّا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَيْسَ لَهُۥ دَعْوَةٌ",
+          "content": "مستجابة، أو استجابة دعوة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "مَرَدَّنَآ إِلَى ٱللَّهِ",
+          "content": "رُجُوعنا بعد المَوت إليه تعالى للجَزاء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 21,
+          "tokens": "لَيْسَ لَهُۥ دَعْوَةٌ",
+          "content": "مستجابة، أو استجابة دعوة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأَنَّ مَرَدَّنَاۤ إِلَى ٱللَّهِ وَأَنَّ ٱلۡمُسۡرِفِینَ هُمۡ أَصۡحَـٰبُ ٱلنَّارِ ۝٤٣",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا جَرَمَ",
+          "content": "حقّ وثبَتَ أو لا مَحالة أو حقّا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَيْسَ لَهُۥ دَعْوَةٌ",
+          "content": "مستجابة، أو استجابة دعوة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "مَرَدَّنَآ إِلَى ٱللَّهِ",
+          "content": "رُجُوعنا بعد المَوت إليه تعالى للجَزاء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 25,
+          "tokens": "مَرَدَّنَآ إِلَى ٱللَّهِ",
+          "content": "رُجُوعنا بعد المَوت إليه تعالى للجَزاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَسَتَذۡكُرُونَ مَاۤ أَقُولُ لَكُمۡۚ وَأُفَوِّضُ أَمۡرِیۤ إِلَى ٱللَّهِۚ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِنَّ ٱللَّهَ بَصِیرُۢ بِٱلۡعِبَادِ ۝٤٤ فَوَقَىٰهُ ٱللَّهُ سَیِّـَٔاتِ مَا مَكَرُوا۟ۖ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَحَاقَ بِـَٔالِ فِرۡعَوۡنَ سُوۤءُ ٱلۡعَذَابِ ۝٤٥ ٱلنَّارُ یُعۡرَضُونَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَاقَ",
+          "content": "أحَاطَ أو نَزَل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "وَحَاقَ",
+          "content": "أحَاطَ أو نَزَل"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "عَلَیۡهَا غُدُوࣰّا وَعَشِیࣰّاۚ وَیَوۡمَ تَقُومُ ٱلسَّاعَةُ أَدۡخِلُوۤا۟ ءَالَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غُدُوًّا وَعَشِيًّا",
+          "content": "صبَاحا ومساءً أو دائما في البرزخ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 40,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 20,
+          "tokens": "غُدُوًّا وَعَشِيًّا",
+          "content": "صبَاحا ومساءً أو دائما في البرزخ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِرۡعَوۡنَ أَشَدَّ ٱلۡعَذَابِ ۝٤٦ وَإِذۡ یَتَحَاۤجُّونَ فِی ٱلنَّارِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غُدُوًّا وَعَشِيًّا",
+          "content": "صبَاحا ومساءً أو دائما في البرزخ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 40,
+          "ayahIndex": 46
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَیَقُولُ ٱلضُّعَفَـٰۤؤُا۟ لِلَّذِینَ ٱسۡتَكۡبَرُوۤا۟ إِنَّا كُنَّا لَكُمۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّغْنُونَ عَنَّا",
+          "content": "دافِعون، أو حاملون عنّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 40,
+          "ayahIndex": 47
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَبَعࣰا فَهَلۡ أَنتُم مُّغۡنُونَ عَنَّا نَصِیبࣰا مِّنَ ٱلنَّارِ ۝٤٧ قَالَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّغْنُونَ عَنَّا",
+          "content": "دافِعون، أو حاملون عنّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 40,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 17,
+          "tokens": "مُّغْنُونَ عَنَّا",
+          "content": "دافِعون، أو حاملون عنّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِینَ ٱسۡتَكۡبَرُوۤا۟ إِنَّا كُلࣱّ فِیهَاۤ إِنَّ ٱللَّهَ قَدۡ حَكَمَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "بَیۡنَ ٱلۡعِبَادِ ۝٤٨ وَقَالَ ٱلَّذِینَ فِی ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱدۡعُوا۟ رَبَّكُمۡ یُخَفِّفۡ عَنَّا یَوۡمࣰا مِّنَ ٱلۡعَذَابِ ۝٤٩",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

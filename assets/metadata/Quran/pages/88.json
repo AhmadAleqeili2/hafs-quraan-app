@@ -1,0 +1,253 @@
+{
+  "pageIndex": 88,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یَزۡعُمُونَ أَنَّهُمۡ ءَامَنُوا۟ بِمَاۤ أُنزِلَ إِلَیۡكَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّٰغُوتِ",
+          "content": "الضّليل كعب بن الأشرف اليهودي",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 60
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَمَاۤ أُنزِلَ مِن قَبۡلِكَ یُرِیدُونَ أَن یَتَحَاكَمُوۤا۟ إِلَى ٱلطَّـٰغُوتِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّٰغُوتِ",
+          "content": "الضّليل كعب بن الأشرف اليهودي",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 12,
+          "tokens": "ٱلطَّٰغُوتِ",
+          "content": "الضّليل كعب بن الأشرف اليهودي"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَقَدۡ أُمِرُوۤا۟ أَن یَكۡفُرُوا۟ بِهِۦۖ وَیُرِیدُ ٱلشَّیۡطَـٰنُ أَن یُضِلَّهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّٰغُوتِ",
+          "content": "الضّليل كعب بن الأشرف اليهودي",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 60
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ضَلَـٰلَۢا بَعِیدࣰا ۝٦٠ وَإِذَا قِیلَ لَهُمۡ تَعَالَوۡا۟ إِلَىٰ مَاۤ أَنزَلَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلطَّٰغُوتِ",
+          "content": "الضّليل كعب بن الأشرف اليهودي",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 60
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَیۡتَ ٱلۡمُنَـٰفِقِینَ یَصُدُّونَ عَنكَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَصُدُّونَ عَنكَ",
+          "content": "يُعرضون عنك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 4,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 16,
+          "tokens": "يَصُدُّونَ عَنكَ",
+          "content": "يُعرضون عنك"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "صُدُودࣰا ۝٦١ فَكَیۡفَ إِذَاۤ أَصَـٰبَتۡهُم مُّصِیبَةُۢ بِمَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَصُدُّونَ عَنكَ",
+          "content": "يُعرضون عنك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 4,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قَدَّمَتۡ أَیۡدِیهِمۡ ثُمَّ جَاۤءُوكَ یَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَاۤ إِلَّاۤ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِحۡسَـٰنࣰا وَتَوۡفِیقًا ۝٦٢ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ یَعۡلَمُ ٱللَّهُ مَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فِی قُلُوبِهِمۡ فَأَعۡرِضۡ عَنۡهُمۡ وَعِظۡهُمۡ وَقُل لَّهُمۡ فِیۤ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَنفُسِهِمۡ قَوۡلَۢا بَلِیغࣰا ۝٦٣ وَمَاۤ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "لِیُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوۤا۟ أَنفُسَهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "جَاۤءُوكَ فَٱسۡتَغۡفَرُوا۟ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَوَجَدُوا۟ ٱللَّهَ تَوَّابࣰا رَّحِیمࣰا ۝٦٤ فَلَا وَرَبِّكَ لَا یُؤۡمِنُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "حَتَّىٰ یُحَكِّمُوكَ فِیمَا شَجَرَ بَیۡنَهُمۡ ثُمَّ لَا یَجِدُوا۟ فِیۤ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَجَرَ بَيْنَهُمْ",
+          "content": "أشكل والتبس عليهم من الأمور",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 4,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "حَرَجًا",
+          "content": "ضيقًا أو شكًّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 17,
+          "tokens": "شَجَرَ بَيْنَهُمْ",
+          "content": "أشكل والتبس عليهم من الأمور"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَنفُسِهِمۡ حَرَجࣰا مِّمَّا قَضَیۡتَ وَیُسَلِّمُوا۟ تَسۡلِیمࣰا ۝٦٥",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَجَرَ بَيْنَهُمْ",
+          "content": "أشكل والتبس عليهم من الأمور",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 4,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "حَرَجًا",
+          "content": "ضيقًا أو شكًّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 7,
+          "tokens": "حَرَجًا",
+          "content": "ضيقًا أو شكًّا"
+        }
+      ]
+    }
+  ]
+}

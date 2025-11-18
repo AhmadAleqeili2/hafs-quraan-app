@@ -1,0 +1,947 @@
+{
+  "pageIndex": 353,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَإِن لَّمۡ تَجِدُوا۟ فِیهَاۤ أَحَدࣰا فَلَا تَدۡخُلُوهَا حَتَّىٰ یُؤۡذَنَ لَكُمۡۖ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْكَىٰ لَكُمْ",
+          "content": "أطهر لكم من دنس الريبة والدّناءة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِن قِیلَ لَكُمُ ٱرۡجِعُوا۟ فَٱرۡجِعُوا۟ۖ هُوَ أَزۡكَىٰ لَكُمۡۚ وَٱللَّهُ بِمَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْكَىٰ لَكُمْ",
+          "content": "أطهر لكم من دنس الريبة والدّناءة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 16,
+          "tokens": "أَزْكَىٰ لَكُمْ",
+          "content": "أطهر لكم من دنس الريبة والدّناءة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "تَعۡمَلُونَ عَلِیمࣱ ۝٢٨ لَّیۡسَ عَلَیۡكُمۡ جُنَاحٌ أَن تَدۡخُلُوا۟ بُیُوتًا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْكَىٰ لَكُمْ",
+          "content": "أطهر لكم من دنس الريبة والدّناءة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "غَیۡرَ مَسۡكُونَةࣲ فِیهَا مَتَـٰعࣱ لَّكُمۡۚ وَٱللَّهُ یَعۡلَمُ مَا تُبۡدُونَ وَمَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُنَاحٌ",
+          "content": "إثم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 24,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "مَتَٰعٌ لَّكُمْ",
+          "content": "منفعة ومصلحة لكم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 24,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 17,
+          "tokens": "مَتَٰعٌ لَّكُمْ",
+          "content": "منفعة ومصلحة لكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "تَكۡتُمُونَ ۝٢٩ قُل لِّلۡمُؤۡمِنِینَ یَغُضُّوا۟ مِنۡ أَبۡصَـٰرِهِمۡ وَیَحۡفَظُوا۟",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُنَاحٌ",
+          "content": "إثم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 24,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "مَتَٰعٌ لَّكُمْ",
+          "content": "منفعة ومصلحة لكم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 24,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فُرُوجَهُمۡۚ ذَ ٰ⁠لِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِیرُۢ بِمَا یَصۡنَعُونَ ۝٣٠",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغُضُّوا۟ مِنْ أَبْصَٰرِهِمْ",
+          "content": "يكفوا نظرهم عن المحرّمات",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 24,
+          "ayahIndex": 30
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَقُل لِّلۡمُؤۡمِنَـٰتِ یَغۡضُضۡنَ مِنۡ أَبۡصَـٰرِهِنَّ وَیَحۡفَظۡنَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فُرُوجَهُنَّ وَلَا یُبۡدِینَ زِینَتَهُنَّ إِلَّا مَا ظَهَرَ مِنۡهَاۖ وَلۡیَضۡرِبۡنَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 12,
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد"
+        },
+        {
+          "start": 49,
+          "length": 19,
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين"
+        },
+        {
+          "start": 69,
+          "length": 14,
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِخُمُرِهِنَّ عَلَىٰ جُیُوبِهِنَّۖ وَلَا یُبۡدِینَ زِینَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)"
+        },
+        {
+          "start": 14,
+          "length": 20,
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)"
+        },
+        {
+          "start": 71,
+          "length": 16,
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَوۡ ءَابَاۤىِٕهِنَّ أَوۡ ءَابَاۤءِ بُعُولَتِهِنَّ أَوۡ أَبۡنَاۤىِٕهِنَّ أَوۡ أَبۡنَاۤءِ بُعُولَتِهِنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَوۡ إِخۡوَ ٰ⁠نِهِنَّ أَوۡ بَنِیۤ إِخۡوَ ٰ⁠نِهِنَّ أَوۡ بَنِیۤ أَخَوَ ٰ⁠تِهِنَّ أَوۡ نِسَاۤىِٕهِنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 85,
+          "length": 14,
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَوۡ مَا مَلَكَتۡ أَیۡمَـٰنُهُنَّ أَوِ ٱلتَّـٰبِعِینَ غَیۡرِ أُو۟لِی ٱلۡإِرۡبَةِ مِنَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 19,
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلرِّجَالِ أَوِ ٱلطِّفۡلِ ٱلَّذِینَ لَمۡ یَظۡهَرُوا۟ عَلَىٰ عَوۡرَ ٰ⁠تِ ٱلنِّسَاۤءِۖ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 16,
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَا یَضۡرِبۡنَ بِأَرۡجُلِهِنَّ لِیُعۡلَمَ مَا یُخۡفِینَ مِن زِینَتِهِنَّۚ وَتُوبُوۤا۟",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَى ٱللَّهِ جَمِیعًا أَیُّهَ ٱلۡمُؤۡمِنُونَ لَعَلَّكُمۡ تُفۡلِحُونَ ۝٣١",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زِينَتَهُنَّ",
+          "content": "مواضع زينتهن من الجسد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "مَا ظَهَرَ مِنْهَا",
+          "content": "الوجه والكفين والقدمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَلْيَضْرِبْنَ",
+          "content": "وليلقين ويسدلن",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "بِخُمُرِهِنَّ",
+          "content": "أغطية رؤوسهن ( المقانع)",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "عَلَىٰ جُيُوبِهِنَّ",
+          "content": "على مواضعها (صدورهن وما حواليها)",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لِبُعُولَتِهِنَّ",
+          "content": "لأزواجهن",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "نِسَآئِهِنَّ",
+          "content": "المختصّات بهن بالصحبة أو الخدمة",
+          "tokenFromIndex": 43,
+          "tokenToIndex": 43,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "أُو۟لِى ٱلْإِرْبَةِ",
+          "content": "أصحاب الحاجة إلى النساء",
+          "tokenFromIndex": 51,
+          "tokenToIndex": 52,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "لَمْ يَظْهَرُوا۟",
+          "content": "لم يبلغوا حد الشهوة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 59,
+          "surahIndex": 24,
+          "ayahIndex": 31
+        }
+      ]
+    }
+  ]
+}

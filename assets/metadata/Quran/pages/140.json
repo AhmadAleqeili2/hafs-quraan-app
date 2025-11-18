@@ -1,0 +1,639 @@
+{
+  "pageIndex": 140,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱللَّهَ فَالِقُ ٱلۡحَبِّ وَٱلنَّوَىٰۖ یُخۡرِجُ ٱلۡحَیَّ مِنَ ٱلۡمَیِّتِ وَمُخۡرِجُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَالِقُ ٱلْحَبِّ",
+          "content": "شاقّه عن النبات، أو خالقه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 95
+        },
+        {
+          "tokens": "فَأَنَّىٰ تُؤْفَكُونَ",
+          "content": "فكيف تصرفون عن عبادته ؟",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 95
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 16,
+          "tokens": "فَالِقُ ٱلْحَبِّ",
+          "content": "شاقّه عن النبات، أو خالقه"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡمَیِّتِ مِنَ ٱلۡحَیِّۚ ذَ ٰ⁠لِكُمُ ٱللَّهُۖ فَأَنَّىٰ تُؤۡفَكُونَ ۝٩٥ فَالِقُ ٱلۡإِصۡبَاحِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَالِقُ ٱلْحَبِّ",
+          "content": "شاقّه عن النبات، أو خالقه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 95
+        },
+        {
+          "tokens": "فَأَنَّىٰ تُؤْفَكُونَ",
+          "content": "فكيف تصرفون عن عبادته ؟",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 95
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 21,
+          "tokens": "فَأَنَّىٰ تُؤْفَكُونَ",
+          "content": "فكيف تصرفون عن عبادته ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَجَعَلَ ٱلَّیۡلَ سَكَنࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ حُسۡبَانࣰاۚ ذَ ٰ⁠لِكَ تَقۡدِیرُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَالِقُ ٱلْإِصْبَاحِ",
+          "content": "شاقّ ظلمته عن بياض النّهار أو خالقه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 6,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا",
+          "content": "يجريان في أفلاكهما بحساب مقدّر نيطت به مصالح الخلق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 35,
+          "tokens": "وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا",
+          "content": "يجريان في أفلاكهما بحساب مقدّر نيطت به مصالح الخلق"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡعَزِیزِ ٱلۡعَلِیمِ ۝٩٦ وَهُوَ ٱلَّذِی جَعَلَ لَكُمُ ٱلنُّجُومَ لِتَهۡتَدُوا۟",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَالِقُ ٱلْإِصْبَاحِ",
+          "content": "شاقّ ظلمته عن بياض النّهار أو خالقه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 6,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "وَٱلشَّمْسَ وَٱلْقَمَرَ حُسْبَانًا",
+          "content": "يجريان في أفلاكهما بحساب مقدّر نيطت به مصالح الخلق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 96
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِهَا فِی ظُلُمَـٰتِ ٱلۡبَرِّ وَٱلۡبَحۡرِۗ قَدۡ فَصَّلۡنَا ٱلۡـَٔایَـٰتِ لِقَوۡمࣲ یَعۡلَمُونَ ۝٩٧",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَهُوَ ٱلَّذِیۤ أَنشَأَكُم مِّن نَّفۡسࣲ وَ ٰ⁠حِدَةࣲ فَمُسۡتَقَرࣱّ وَمُسۡتَوۡدَعࣱۗ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَمُسْتَقَرٌّ",
+          "content": "في الأصلاب، وقيل في الأرحام ونحوها",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "وَمُسْتَوْدَعٌ",
+          "content": "في الأرحام ونحوها وقيل في الأصلاب",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 98
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 13,
+          "tokens": "فَمُسْتَقَرٌّ",
+          "content": "في الأصلاب، وقيل في الأرحام ونحوها"
+        },
+        {
+          "start": 66,
+          "length": 15,
+          "tokens": "وَمُسْتَوْدَعٌ",
+          "content": "في الأرحام ونحوها وقيل في الأصلاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قَدۡ فَصَّلۡنَا ٱلۡـَٔایَـٰتِ لِقَوۡمࣲ یَفۡقَهُونَ ۝٩٨ وَهُوَ ٱلَّذِیۤ أَنزَلَ مِنَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَمُسْتَقَرٌّ",
+          "content": "في الأصلاب، وقيل في الأرحام ونحوها",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "وَمُسْتَوْدَعٌ",
+          "content": "في الأرحام ونحوها وقيل في الأصلاب",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 6,
+          "ayahIndex": 98
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلسَّمَاۤءِ مَاۤءࣰ فَأَخۡرَجۡنَا بِهِۦ نَبَاتَ كُلِّ شَیۡءࣲ فَأَخۡرَجۡنَا مِنۡهُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "خَضِرࣰا نُّخۡرِجُ مِنۡهُ حَبࣰّا مُّتَرَاكِبࣰا وَمِنَ ٱلنَّخۡلِ مِن طَلۡعِهَا قِنۡوَانࣱ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا"
+        },
+        {
+          "start": 25,
+          "length": 20,
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها"
+        },
+        {
+          "start": 67,
+          "length": 9,
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان"
+        },
+        {
+          "start": 77,
+          "length": 9,
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "دَانِیَةࣱ وَجَنَّـٰتࣲ مِّنۡ أَعۡنَابࣲ وَٱلزَّیۡتُونَ وَٱلرُّمَّانَ مُشۡتَبِهࣰا وَغَیۡرَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مُتَشَـٰبِهٍۗ ٱنظُرُوۤا۟ إِلَىٰ ثَمَرِهِۦۤ إِذَاۤ أَثۡمَرَ وَیَنۡعِهِۦۤۚ إِنَّ فِی ذَ ٰ⁠لِكُمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 13,
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یُؤۡمِنُونَ ۝٩٩ وَجَعَلُوا۟ لِلَّهِ شُرَكَاۤءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَضِرًا",
+          "content": "شيئا أخضر غضّا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "حَبًّا مُّتَرَاكِبًا",
+          "content": "متراكما كسنابل الحنطة ونحوها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "طَلْعِهَا",
+          "content": "هو أوّل ما يخرج من ثمر النّخل في الكيزان",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "قِنْوَانٌ",
+          "content": "عذوق وعراجين كالعناقيد تنشق عنها الكيزان",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "دَانِيَةٌ",
+          "content": "متدلّية أو قريبة من المتناول",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        },
+        {
+          "tokens": "وَيَنْعِهِۦٓ",
+          "content": "وإلى حال نضجه وإدراكه",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 6,
+          "ayahIndex": 99
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَخَرَقُوا۟ لَهُۥ بَنِینَ وَبَنَـٰتِۭ بِغَیۡرِ عِلۡمࣲۚ سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یَصِفُونَ ۝١٠٠",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجِنَّ",
+          "content": "الشّياطين حيث أطاعوهم في الكفر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "وَخَرَقُوا۟ لَهُۥ",
+          "content": "اختلقوا وافتروا له سبحانه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 100
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَخَرَقُوا۟ لَهُۥ",
+          "content": "اختلقوا وافتروا له سبحانه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "بَدِیعُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ أَنَّىٰ یَكُونُ لَهُۥ وَلَدࣱ وَلَمۡ تَكُن لَّهُۥ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَدِيعُ",
+          "content": "مُبدع ومُخترع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 6,
+          "ayahIndex": 101
+        },
+        {
+          "tokens": "أَنَّىٰ يَكُونُ",
+          "content": "كيف، أو من أين يكون ؟",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 6,
+          "ayahIndex": 101
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "بَدِيعُ",
+          "content": "مُبدع ومُخترع"
+        },
+        {
+          "start": 38,
+          "length": 15,
+          "tokens": "أَنَّىٰ يَكُونُ",
+          "content": "كيف، أو من أين يكون ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "صَـٰحِبَةࣱۖ وَخَلَقَ كُلَّ شَیۡءࣲۖ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝١٠١",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَدِيعُ",
+          "content": "مُبدع ومُخترع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 6,
+          "ayahIndex": 101
+        },
+        {
+          "tokens": "أَنَّىٰ يَكُونُ",
+          "content": "كيف، أو من أين يكون ؟",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 6,
+          "ayahIndex": 101
+        }
+      ]
+    }
+  ]
+}

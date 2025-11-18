@@ -1,0 +1,279 @@
+{
+  "pageIndex": 93,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَا كَانَ لِمُؤۡمِنٍ أَن یَقۡتُلَ مُؤۡمِنًا إِلَّا خَطَـࣰٔاۚ وَمَن قَتَلَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مُؤۡمِنًا خَطَـࣰٔا فَتَحۡرِیرُ رَقَبَةࣲ مُّؤۡمِنَةࣲ وَدِیَةࣱ مُّسَلَّمَةٌ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِلَىٰۤ أَهۡلِهِۦۤ إِلَّاۤ أَن یَصَّدَّقُوا۟ۚ فَإِن كَانَ مِن قَوۡمٍ عَدُوࣲّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَّكُمۡ وَهُوَ مُؤۡمِنࣱ فَتَحۡرِیرُ رَقَبَةࣲ مُّؤۡمِنَةࣲۖ وَإِن كَانَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِن قَوۡمِۭ بَیۡنَكُمۡ وَبَیۡنَهُم مِّیثَـٰقࣱ فَدِیَةࣱ مُّسَلَّمَةٌ إِلَىٰۤ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَهۡلِهِۦ وَتَحۡرِیرُ رَقَبَةࣲ مُّؤۡمِنَةࣲۖ فَمَن لَّمۡ یَجِدۡ فَصِیَامُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "شَهۡرَیۡنِ مُتَتَابِعَیۡنِ تَوۡبَةࣰ مِّنَ ٱللَّهِۗ وَكَانَ ٱللَّهُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَلِیمًا حَكِیمࣰا ۝٩٢ وَمَن یَقۡتُلۡ مُؤۡمِنࣰا مُّتَعَمِّدࣰا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَجَزَاۤؤُهُۥ جَهَنَّمُ خَـٰلِدࣰا فِیهَا وَغَضِبَ ٱللَّهُ عَلَیۡهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِیمࣰا ۝٩٣ یَـٰۤأَیُّهَا ٱلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ءَامَنُوۤا۟ إِذَا ضَرَبۡتُمۡ فِی سَبِیلِ ٱللَّهِ فَتَبَیَّنُوا۟ وَلَا تَقُولُوا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 10,
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لِمَنۡ أَلۡقَىٰۤ إِلَیۡكُمُ ٱلسَّلَـٰمَ لَسۡتَ مُؤۡمِنࣰا تَبۡتَغُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 11,
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَرَضَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِیرَةࣱۚ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 29,
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "كَذَ ٰ⁠لِكَ كُنتُم مِّن قَبۡلُ فَمَنَّ ٱللَّهُ عَلَیۡكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَتَبَیَّنُوۤا۟ۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا ۝٩٤",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ",
+          "content": "سافرتم وذهبتم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "ٱلسَّلَٰمَ",
+          "content": "الاستسلام أو تحيّة الإسلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا",
+          "content": "الغنيمة وهي مال زائل",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 94
+        }
+      ]
+    }
+  ]
+}

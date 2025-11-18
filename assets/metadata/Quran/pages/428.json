@@ -1,0 +1,289 @@
+{
+  "pageIndex": 428,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة سبأ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی ٱلۡـَٔاخِرَةِۚ وَهُوَ ٱلۡحَكِیمُ ٱلۡخَبِیرُ ۝١ یَعۡلَمُ مَا یَلِجُ فِی ٱلۡأَرۡضِ وَمَا",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَخۡرُجُ مِنۡهَا وَمَا یَنزِلُ مِنَ ٱلسَّمَاۤءِ وَمَا یَعۡرُجُ فِیهَاۚ وَهُوَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا يَلِجُ فِى ٱلْأَرْضِ",
+          "content": "ما يدخل فيها من مطر وغيره",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 5,
+          "surahIndex": 34,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَمَا يَعْرُجُ",
+          "content": "ما يصعد من الملائكة والأعمال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 34,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 14,
+          "tokens": "وَمَا يَعْرُجُ",
+          "content": "ما يصعد من الملائكة والأعمال"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلرَّحِیمُ ٱلۡغَفُورُ ۝٢ وَقَالَ ٱلَّذِینَ كَفَرُوا۟ لَا تَأۡتِینَا ٱلسَّاعَةُۖ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا يَلِجُ فِى ٱلْأَرْضِ",
+          "content": "ما يدخل فيها من مطر وغيره",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 5,
+          "surahIndex": 34,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَمَا يَعْرُجُ",
+          "content": "ما يصعد من الملائكة والأعمال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 34,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قُلۡ بَلَىٰ وَرَبِّی لَتَأۡتِیَنَّكُمۡ عَـٰلِمِ ٱلۡغَیۡبِۖ لَا یَعۡزُبُ عَنۡهُ مِثۡقَالُ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَعْزُبُ عَنْهُ",
+          "content": "لا يغيب عنه ولا يخفى عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "مِثْقَالُ ذَرَّةٍ",
+          "content": "مفدار أصغر نملة أو هَباءة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 19,
+          "tokens": "لَا يَعْزُبُ عَنْهُ",
+          "content": "لا يغيب عنه ولا يخفى عليه"
+        },
+        {
+          "start": 79,
+          "length": 9,
+          "tokens": "مِثْقَالُ ذَرَّةٍ",
+          "content": "مفدار أصغر نملة أو هَباءة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ذَرَّةࣲ فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَلَا فِی ٱلۡأَرۡضِ وَلَاۤ أَصۡغَرُ مِن ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَعْزُبُ عَنْهُ",
+          "content": "لا يغيب عنه ولا يخفى عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "مِثْقَالُ ذَرَّةٍ",
+          "content": "مفدار أصغر نملة أو هَباءة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "مِثْقَالُ ذَرَّةٍ",
+          "content": "مفدار أصغر نملة أو هَباءة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَاۤ أَكۡبَرُ إِلَّا فِی كِتَـٰبࣲ مُّبِینࣲ ۝٣ لِّیَجۡزِیَ ٱلَّذِینَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَعْزُبُ عَنْهُ",
+          "content": "لا يغيب عنه ولا يخفى عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "مِثْقَالُ ذَرَّةٍ",
+          "content": "مفدار أصغر نملة أو هَباءة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 34,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِۚ أُو۟لَـٰۤىِٕكَ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "كَرِیمࣱ ۝٤ وَٱلَّذِینَ سَعَوۡ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَهُمۡ عَذَابࣱ مِّن رِّجۡزٍ أَلِیمࣱ ۝٥ وَیَرَى ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "مسابقين ظانّين أنّهم يفوتوننا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 34,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مِّن رِّجْزٍ",
+          "content": "أشدّ العذاب وأسوئه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 34,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 12,
+          "tokens": "مِّن رِّجْزٍ",
+          "content": "أشدّ العذاب وأسوئه"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِیۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَ هُوَ ٱلۡحَقَّ وَیَهۡدِیۤ إِلَىٰ صِرَ ٰ⁠طِ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡعَزِیزِ ٱلۡحَمِیدِ ۝٦ وَقَالَ ٱلَّذِینَ كَفَرُوا۟ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلࣲ",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِی خَلۡقࣲ جَدِیدٍ ۝٧",
+      "surahIndexFirst": 34,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُزِّقْتُمْ",
+          "content": "قطّعتم وصرتم رفاتا وترابا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 34,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 11,
+          "tokens": "مُزِّقْتُمْ",
+          "content": "قطّعتم وصرتم رفاتا وترابا"
+        }
+      ]
+    }
+  ]
+}

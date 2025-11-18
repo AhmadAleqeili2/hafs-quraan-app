@@ -1,0 +1,363 @@
+{
+  "pageIndex": 204,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ ٱتَّخَذُوا۟ مَسۡجِدࣰا ضِرَارࣰا وَكُفۡرࣰا وَتَفۡرِیقَۢا بَیۡنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَسْجِدًا ضِرَارًا",
+          "content": "مُضارّة لأهل مسجد قباء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        },
+        {
+          "tokens": "وَإِرْصَادًا",
+          "content": "ترقّبا وانتظارا، أو إعدادا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 18,
+          "tokens": "مَسْجِدًا ضِرَارًا",
+          "content": "مُضارّة لأهل مسجد قباء"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡمُؤۡمِنِینَ وَإِرۡصَادࣰا لِّمَنۡ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبۡلُۚ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَسْجِدًا ضِرَارًا",
+          "content": "مُضارّة لأهل مسجد قباء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        },
+        {
+          "tokens": "وَإِرْصَادًا",
+          "content": "ترقّبا وانتظارا، أو إعدادا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 12,
+          "tokens": "وَإِرْصَادًا",
+          "content": "ترقّبا وانتظارا، أو إعدادا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَیَحۡلِفُنَّ إِنۡ أَرَدۡنَاۤ إِلَّا ٱلۡحُسۡنَىٰۖ وَٱللَّهُ یَشۡهَدُ إِنَّهُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَسْجِدًا ضِرَارًا",
+          "content": "مُضارّة لأهل مسجد قباء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        },
+        {
+          "tokens": "وَإِرْصَادًا",
+          "content": "ترقّبا وانتظارا، أو إعدادا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَكَـٰذِبُونَ ۝١٠٧ لَا تَقُمۡ فِیهِ أَبَدࣰاۚ لَّمَسۡجِدٌ أُسِّسَ عَلَى ٱلتَّقۡوَىٰ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَسْجِدًا ضِرَارًا",
+          "content": "مُضارّة لأهل مسجد قباء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        },
+        {
+          "tokens": "وَإِرْصَادًا",
+          "content": "ترقّبا وانتظارا، أو إعدادا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 9,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِنۡ أَوَّلِ یَوۡمٍ أَحَقُّ أَن تَقُومَ فِیهِۚ فِیهِ رِجَالࣱ یُحِبُّونَ أَن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّمَسْجِدٌ",
+          "content": "هو مسجد قُباء أو المسجد النّبوي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 108
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَتَطَهَّرُوا۟ۚ وَٱللَّهُ یُحِبُّ ٱلۡمُطَّهِّرِینَ ۝١٠٨ أَفَمَنۡ أَسَّسَ بُنۡیَـٰنَهُۥ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّمَسْجِدٌ",
+          "content": "هو مسجد قُباء أو المسجد النّبوي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 108
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَلَىٰ تَقۡوَىٰ مِنَ ٱللَّهِ وَرِضۡوَ ٰ⁠نٍ خَیۡرٌ أَم مَّنۡ أَسَّسَ بُنۡیَـٰنَهُۥ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ شَفَا جُرُفٍ",
+          "content": "على حرف بئر لم تُبن بالحجارة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "هَارٍ",
+          "content": "هائر متصدّع أو متهدّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "فَٱنْهَارَ بِهِۦ",
+          "content": "فسقط البنيان بالباني",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَلَىٰ شَفَا جُرُفٍ هَارࣲ فَٱنۡهَارَ بِهِۦ فِی نَارِ جَهَنَّمَۗ وَٱللَّهُ لَا یَهۡدِی",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ شَفَا جُرُفٍ",
+          "content": "على حرف بئر لم تُبن بالحجارة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "هَارٍ",
+          "content": "هائر متصدّع أو متهدّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "فَٱنْهَارَ بِهِۦ",
+          "content": "فسقط البنيان بالباني",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "عَلَىٰ شَفَا جُرُفٍ",
+          "content": "على حرف بئر لم تُبن بالحجارة"
+        },
+        {
+          "start": 20,
+          "length": 5,
+          "tokens": "هَارٍ",
+          "content": "هائر متصدّع أو متهدّم"
+        },
+        {
+          "start": 26,
+          "length": 16,
+          "tokens": "فَٱنْهَارَ بِهِۦ",
+          "content": "فسقط البنيان بالباني"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ ۝١٠٩ لَا یَزَالُ بُنۡیَـٰنُهُمُ ٱلَّذِی بَنَوۡا۟ رِیبَةࣰ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ شَفَا جُرُفٍ",
+          "content": "على حرف بئر لم تُبن بالحجارة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "هَارٍ",
+          "content": "هائر متصدّع أو متهدّم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "فَٱنْهَارَ بِهِۦ",
+          "content": "فسقط البنيان بالباني",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 9,
+          "ayahIndex": 109
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِی قُلُوبِهِمۡ إِلَّاۤ أَن تَقَطَّعَ قُلُوبُهُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمٌ ۝١١٠",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِيبَةً فِى قُلُوبِهِمْ",
+          "content": "شكّا ونفاقا في قلوبهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 9,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَقَطَّعَ قُلُوبُهُمْ",
+          "content": "تتقطّع وتتفرّق أجزاء بالموت",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "رِيبَةً فِى قُلُوبِهِمْ",
+          "content": "شكّا ونفاقا في قلوبهم"
+        },
+        {
+          "start": 28,
+          "length": 22,
+          "tokens": "تَقَطَّعَ قُلُوبُهُمْ",
+          "content": "تتقطّع وتتفرّق أجزاء بالموت"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِنَّ ٱللَّهَ ٱشۡتَرَىٰ مِنَ ٱلۡمُؤۡمِنِینَ أَنفُسَهُمۡ وَأَمۡوَ ٰ⁠لَهُم",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِأَنَّ لَهُمُ ٱلۡجَنَّةَۚ یُقَـٰتِلُونَ فِی سَبِیلِ ٱللَّهِ فَیَقۡتُلُونَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَیُقۡتَلُونَۖ وَعۡدًا عَلَیۡهِ حَقࣰّا فِی ٱلتَّوۡرَىٰةِ وَٱلۡإِنجِیلِ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡقُرۡءَانِۚ وَمَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ مِنَ ٱللَّهِۚ فَٱسۡتَبۡشِرُوا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِبَیۡعِكُمُ ٱلَّذِی بَایَعۡتُم بِهِۦۚ وَذَ ٰ⁠لِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ ۝١١١",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "pageIndex": 215,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَوۡ أَنَّ لِكُلِّ نَفۡسࣲ ظَلَمَتۡ مَا فِی ٱلۡأَرۡضِ لَٱفۡتَدَتۡ بِهِۦۗ وَأَسَرُّوا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الغمّ والحسرة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 10,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 74,
+          "length": 12,
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الغمّ والحسرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلنَّدَامَةَ لَمَّا رَأَوُا۟ ٱلۡعَذَابَۖ وَقُضِیَ بَیۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الغمّ والحسرة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 10,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الغمّ والحسرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَا یُظۡلَمُونَ ۝٥٤ أَلَاۤ إِنَّ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۗ أَلَاۤ إِنَّ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَسَرُّوا۟ ٱلنَّدَامَةَ",
+          "content": "أخفوا الغمّ والحسرة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 10,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَعۡدَ ٱللَّهِ حَقࣱّ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ ۝٥٥ هُوَ یُحۡیِۦ وَیُمِیتُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَإِلَیۡهِ تُرۡجَعُونَ ۝٥٦ یَـٰۤأَیُّهَا ٱلنَّاسُ قَدۡ جَاۤءَتۡكُم مَّوۡعِظَةࣱ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِّن رَّبِّكُمۡ وَشِفَاۤءࣱ لِّمَا فِی ٱلصُّدُورِ وَهُدࣰى وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ ۝٥٧",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "قُلۡ بِفَضۡلِ ٱللَّهِ وَبِرَحۡمَتِهِۦ فَبِذَ ٰ⁠لِكَ فَلۡیَفۡرَحُوا۟ هُوَ خَیۡرࣱ مِّمَّا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَجۡمَعُونَ ۝٥٨ قُلۡ أَرَءَیۡتُم مَّاۤ أَنزَلَ ٱللَّهُ لَكُم مِّن رِّزۡقࣲ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَجَعَلۡتُم مِّنۡهُ حَرَامࣰا وَحَلَـٰلࣰا قُلۡ ءَاۤللَّهُ أَذِنَ لَكُمۡۖ أَمۡ عَلَى",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        },
+        {
+          "tokens": "أَذِنَ لَكُمْ",
+          "content": "أعلمكم بهذا التحليل والتّحريم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        },
+        {
+          "tokens": "تَفْتَرُونَ",
+          "content": "تكذبون في نسبة ذلك إليه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 14,
+          "tokens": "أَذِنَ لَكُمْ",
+          "content": "أعلمكم بهذا التحليل والتّحريم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱللَّهِ تَفۡتَرُونَ ۝٥٩ وَمَا ظَنُّ ٱلَّذِینَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        },
+        {
+          "tokens": "أَذِنَ لَكُمْ",
+          "content": "أعلمكم بهذا التحليل والتّحريم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        },
+        {
+          "tokens": "تَفْتَرُونَ",
+          "content": "تكذبون في نسبة ذلك إليه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 10,
+          "ayahIndex": 59
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 11,
+          "tokens": "تَفْتَرُونَ",
+          "content": "تكذبون في نسبة ذلك إليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَوۡمَ ٱلۡقِیَـٰمَةِۗ إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَـٰكِنَّ أَكۡثَرَهُمۡ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَا یَشۡكُرُونَ ۝٦٠ وَمَا تَكُونُ فِی شَأۡنࣲ وَمَا تَتۡلُوا۟ مِنۡهُ مِن قُرۡءَانࣲ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَلَا تَعۡمَلُونَ مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَیۡكُمۡ شُهُودًا إِذۡ تُفِیضُونَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَكُونُ فِى شَأْنٍ",
+          "content": "في أمر هامّ مُعتنى به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تشرعون وتخوضون فيه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "وَمَا يَعْزُبُ",
+          "content": "ما يبعُد وما يغيب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "مِّثْقَالِ ذَرَّةٍ",
+          "content": "وزن أصغر نملة أو هباءة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 10,
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تشرعون وتخوضون فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِیهِۚ وَمَا یَعۡزُبُ عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةࣲ فِی ٱلۡأَرۡضِ وَلَا فِی",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَكُونُ فِى شَأْنٍ",
+          "content": "في أمر هامّ مُعتنى به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تشرعون وتخوضون فيه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "وَمَا يَعْزُبُ",
+          "content": "ما يبعُد وما يغيب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "مِّثْقَالِ ذَرَّةٍ",
+          "content": "وزن أصغر نملة أو هباءة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تشرعون وتخوضون فيه"
+        },
+        {
+          "start": 7,
+          "length": 14,
+          "tokens": "وَمَا يَعْزُبُ",
+          "content": "ما يبعُد وما يغيب"
+        },
+        {
+          "start": 39,
+          "length": 18,
+          "tokens": "مِّثْقَالِ ذَرَّةٍ",
+          "content": "وزن أصغر نملة أو هباءة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلسَّمَاۤءِ وَلَاۤ أَصۡغَرَ مِن ذَ ٰ⁠لِكَ وَلَاۤ أَكۡبَرَ إِلَّا فِی كِتَـٰبࣲ مُّبِینٍ ۝٦١",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَكُونُ فِى شَأْنٍ",
+          "content": "في أمر هامّ مُعتنى به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تشرعون وتخوضون فيه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "وَمَا يَعْزُبُ",
+          "content": "ما يبعُد وما يغيب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "مِّثْقَالِ ذَرَّةٍ",
+          "content": "وزن أصغر نملة أو هباءة",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 10,
+          "ayahIndex": 61
+        }
+      ]
+    }
+  ]
+}

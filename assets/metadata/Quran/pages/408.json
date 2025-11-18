@@ -1,0 +1,303 @@
+{
+  "pageIndex": 408,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا مَسَّ ٱلنَّاسَ ضُرࣱّ دَعَوۡا۟ رَبَّهُم مُّنِیبِینَ إِلَیۡهِ ثُمَّ إِذَاۤ أَذَاقَهُم",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِّنۡهُ رَحۡمَةً إِذَا فَرِیقࣱ مِّنۡهُم بِرَبِّهِمۡ یُشۡرِكُونَ ۝٣٣ لِیَكۡفُرُوا۟ بِمَاۤ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ءَاتَیۡنَـٰهُمۡۚ فَتَمَتَّعُوا۟ فَسَوۡفَ تَعۡلَمُونَ ۝٣٤ أَمۡ أَنزَلۡنَا عَلَیۡهِمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "سُلۡطَـٰنࣰا فَهُوَ یَتَكَلَّمُ بِمَا كَانُوا۟ بِهِۦ یُشۡرِكُونَ ۝٣٥ وَإِذَاۤ أَذَقۡنَا",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُلْطَٰنًا",
+          "content": "كتابا أو حُجّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "سُلْطَٰنًا",
+          "content": "كتابا أو حُجّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلنَّاسَ رَحۡمَةࣰ فَرِحُوا۟ بِهَاۖ وَإِن تُصِبۡهُمۡ سَیِّئَةُۢ بِمَا قَدَّمَتۡ أَیۡدِیهِمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَرِحُوا۟ بِهَا",
+          "content": "بَطِروا وأسروا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "هُمْ يَقْنَطُونَ",
+          "content": "ييْأسون من رحمة الله تعالى",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 30,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 16,
+          "tokens": "فَرِحُوا۟ بِهَا",
+          "content": "بَطِروا وأسروا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِذَا هُمۡ یَقۡنَطُونَ ۝٣٦ أَوَلَمۡ یَرَوۡا۟ أَنَّ ٱللَّهَ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَرِحُوا۟ بِهَا",
+          "content": "بَطِروا وأسروا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 36
+        },
+        {
+          "tokens": "هُمْ يَقْنَطُونَ",
+          "content": "ييْأسون من رحمة الله تعالى",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 30,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 16,
+          "tokens": "هُمْ يَقْنَطُونَ",
+          "content": "ييْأسون من رحمة الله تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَیَقۡدِرُۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یُؤۡمِنُونَ ۝٣٧ فَـَٔاتِ ذَا ٱلۡقُرۡبَىٰ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّقه على من يشاء لحكمة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 30,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّقه على من يشاء لحكمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَقَّهُۥ وَٱلۡمِسۡكِینَ وَٱبۡنَ ٱلسَّبِیلِۚ ذَ ٰ⁠لِكَ خَیۡرࣱ لِّلَّذِینَ یُرِیدُونَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَجۡهَ ٱللَّهِۖ وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ ۝٣٨ وَمَاۤ ءَاتَیۡتُم مِّن رِّبࣰا",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِّیَرۡبُوَا۟ فِیۤ أَمۡوَ ٰ⁠لِ ٱلنَّاسِ فَلَا یَرۡبُوا۟ عِندَ ٱللَّهِۖ وَمَاۤ ءَاتَیۡتُم مِّن",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِّبًا",
+          "content": "هو الرّبا المُحرّم المعروف",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "لِّيَرْبُوَا۟",
+          "content": "لِيزيد ذلك الرّبا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "فَلَا يَرْبُوا۟",
+          "content": "فلا يزكو ولا يُبارك فيه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "ٱلْمُضْعِفُونَ",
+          "content": "ذوو الأضعاف من الحسنات",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لِّيَرْبُوَا۟",
+          "content": "لِيزيد ذلك الرّبا"
+        },
+        {
+          "start": 40,
+          "length": 15,
+          "tokens": "فَلَا يَرْبُوا۟",
+          "content": "فلا يزكو ولا يُبارك فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "زَكَوٰةࣲ تُرِیدُونَ وَجۡهَ ٱللَّهِ فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُضۡعِفُونَ ۝٣٩",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِّبًا",
+          "content": "هو الرّبا المُحرّم المعروف",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "لِّيَرْبُوَا۟",
+          "content": "لِيزيد ذلك الرّبا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "فَلَا يَرْبُوا۟",
+          "content": "فلا يزكو ولا يُبارك فيه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "ٱلْمُضْعِفُونَ",
+          "content": "ذوو الأضعاف من الحسنات",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 30,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 14,
+          "tokens": "ٱلْمُضْعِفُونَ",
+          "content": "ذوو الأضعاف من الحسنات"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱللَّهُ ٱلَّذِی خَلَقَكُمۡ ثُمَّ رَزَقَكُمۡ ثُمَّ یُمِیتُكُمۡ ثُمَّ یُحۡیِیكُمۡۖ هَلۡ مِن",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "شُرَكَاۤىِٕكُم مَّن یَفۡعَلُ مِن ذَ ٰ⁠لِكُم مِّن شَیۡءࣲۚ سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "عَمَّا یُشۡرِكُونَ ۝٤٠ ظَهَرَ ٱلۡفَسَادُ فِی ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَیۡدِی ٱلنَّاسِ لِیُذِیقَهُم بَعۡضَ ٱلَّذِی عَمِلُوا۟ لَعَلَّهُمۡ یَرۡجِعُونَ ۝٤١",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

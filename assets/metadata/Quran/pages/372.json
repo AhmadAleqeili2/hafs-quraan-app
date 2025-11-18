@@ -1,0 +1,193 @@
+{
+  "pageIndex": 372,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ وَمَا عِلۡمِی بِمَا كَانُوا۟ یَعۡمَلُونَ ۝١١٢ إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّیۖ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَوۡ تَشۡعُرُونَ ۝١١٣ وَمَاۤ أَنَا۠ بِطَارِدِ ٱلۡمُؤۡمِنِینَ ۝١١٤ إِنۡ أَنَا۠ إِلَّا نَذِیرࣱ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مُّبِینࣱ ۝١١٥ قَالُوا۟ لَىِٕن لَّمۡ تَنتَهِ یَـٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِینَ ۝١١٦ قَالَ رَبِّ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِنَّ قَوۡمِی كَذَّبُونِ ۝١١٧ فَٱفۡتَحۡ بَیۡنِی وَبَیۡنَهُمۡ فَتۡحࣰا وَنَجِّنِی وَمَن مَّعِیَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِنَ ٱلۡمُؤۡمِنِینَ ۝١١٨ فَأَنجَیۡنَـٰهُ وَمَن مَّعَهُۥ فِی ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ ۝١١٩",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱفْتَحْ",
+          "content": "فاحكم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 26,
+          "ayahIndex": 118
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِینَ ۝١٢٠ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَكۡثَرُهُم مُّؤۡمِنِینَ ۝١٢١ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝١٢٢ كَذَّبَتۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 121,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَادٌ ٱلۡمُرۡسَلِینَ ۝١٢٣ إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ هُودٌ أَلَا تَتَّقُونَ ۝١٢٤ إِنِّی لَكُمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "رَسُولٌ أَمِینࣱ ۝١٢٥ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٢٦ وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٢٧ أَتَبۡنُونَ بِكُلِّ رِیعٍ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ءَایَةࣰ تَعۡبَثُونَ ۝١٢٨ وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ ۝١٢٩",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 128,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِيعٍ",
+          "content": "طريق، أو مكان مرتفع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "ءَايَةً",
+          "content": "بناءً شامخا كالعلَم في الإرتفاع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 26,
+          "ayahIndex": 128
+        },
+        {
+          "tokens": "تَعْبَثُونَ",
+          "content": "ببنائها، أو بمن يمرّ بها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 26,
+          "ayahIndex": 128
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "ءَايَةً",
+          "content": "بناءً شامخا كالعلَم في الإرتفاع"
+        },
+        {
+          "start": 8,
+          "length": 11,
+          "tokens": "تَعْبَثُونَ",
+          "content": "ببنائها، أو بمن يمرّ بها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَإِذَا بَطَشۡتُم بَطَشۡتُمۡ جَبَّارِینَ ۝١٣٠ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٣١",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 130,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱتَّقُوا۟ ٱلَّذِیۤ أَمَدَّكُم بِمَا تَعۡلَمُونَ ۝١٣٢ أَمَدَّكُم بِأَنۡعَـٰمࣲ وَبَنِینَ ۝١٣٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 132,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَدَّكُم",
+          "content": "أنعم عليكم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 132
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 10,
+          "tokens": "أَمَدَّكُم",
+          "content": "أنعم عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَجَنَّـٰتࣲ وَعُیُونٍ ۝١٣٤ إِنِّیۤ أَخَافُ عَلَیۡكُمۡ عَذَابَ یَوۡمٍ عَظِیمࣲ ۝١٣٥",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 134,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَالُوا۟ سَوَاۤءٌ عَلَیۡنَاۤ أَوَعَظۡتَ أَمۡ لَمۡ تَكُن مِّنَ ٱلۡوَ ٰ⁠عِظِینَ ۝١٣٦",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

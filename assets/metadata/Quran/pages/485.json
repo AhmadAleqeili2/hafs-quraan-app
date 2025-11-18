@@ -1,0 +1,385 @@
+{
+  "pageIndex": 485,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ یُحَاۤجُّونَ فِی ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِیبَ لَهُۥ حُجَّتُهُمۡ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتُجِيبَ لَهُۥ",
+          "content": "استجاب الناس وأذعنوا لدين الله",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 42,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "حُجَّتُهُمْ دَاحِضَةٌ",
+          "content": "باطلة زائلة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 42,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 16,
+          "tokens": "ٱسْتُجِيبَ لَهُۥ",
+          "content": "استجاب الناس وأذعنوا لدين الله"
+        },
+        {
+          "start": 70,
+          "length": 11,
+          "tokens": "حُجَّتُهُمْ دَاحِضَةٌ",
+          "content": "باطلة زائلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَیۡهِمۡ غَضَبࣱ وَلَهُمۡ عَذَابࣱ شَدِیدٌ ۝١٦",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتُجِيبَ لَهُۥ",
+          "content": "استجاب الناس وأذعنوا لدين الله",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 42,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "حُجَّتُهُمْ دَاحِضَةٌ",
+          "content": "باطلة زائلة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 42,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "حُجَّتُهُمْ دَاحِضَةٌ",
+          "content": "باطلة زائلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱللَّهُ ٱلَّذِیۤ أَنزَلَ ٱلۡكِتَـٰبَ بِٱلۡحَقِّ وَٱلۡمِیزَانَۗ وَمَا یُدۡرِیكَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العدّل والتّسوية في الحقوق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 14,
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العدّل والتّسوية في الحقوق"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَعَلَّ ٱلسَّاعَةَ قَرِیبࣱ ۝١٧ یَسۡتَعۡجِلُ بِهَا ٱلَّذِینَ لَا یُؤۡمِنُونَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العدّل والتّسوية في الحقوق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِهَاۖ وَٱلَّذِینَ ءَامَنُوا۟ مُشۡفِقُونَ مِنۡهَا وَیَعۡلَمُونَ أَنَّهَا ٱلۡحَقُّۗ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُشْفِقُونَ مِنْهَا",
+          "content": "خائفون منها مع اعتنائهم بها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 42,
+          "ayahIndex": 18
+        },
+        {
+          "tokens": "يُمَارُونَ فِى ٱلسَّاعَةِ",
+          "content": "يُجَادلون، أوْ يَشكّونَ فيها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 19,
+          "surahIndex": 42,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 19,
+          "tokens": "مُشْفِقُونَ مِنْهَا",
+          "content": "خائفون منها مع اعتنائهم بها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَلَاۤ إِنَّ ٱلَّذِینَ یُمَارُونَ فِی ٱلسَّاعَةِ لَفِی ضَلَـٰلِۭ بَعِیدٍ ۝١٨",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُشْفِقُونَ مِنْهَا",
+          "content": "خائفون منها مع اعتنائهم بها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 42,
+          "ayahIndex": 18
+        },
+        {
+          "tokens": "يُمَارُونَ فِى ٱلسَّاعَةِ",
+          "content": "يُجَادلون، أوْ يَشكّونَ فيها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 19,
+          "surahIndex": 42,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 25,
+          "tokens": "يُمَارُونَ فِى ٱلسَّاعَةِ",
+          "content": "يُجَادلون، أوْ يَشكّونَ فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهُ لَطِیفُۢ بِعِبَادِهِۦ یَرۡزُقُ مَن یَشَاۤءُۖ وَهُوَ ٱلۡقَوِیُّ ٱلۡعَزِیزُ ۝١٩",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَطِيفٌۢ بِعِبَادِهِۦ",
+          "content": "بَرٌّ رفيقٌ بهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 42,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 21,
+          "tokens": "لَطِيفٌۢ بِعِبَادِهِۦ",
+          "content": "بَرٌّ رفيقٌ بهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَن كَانَ یُرِیدُ حَرۡثَ ٱلۡـَٔاخِرَةِ نَزِدۡ لَهُۥ فِی حَرۡثِهِۦۖ وَمَن",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرْثَ ٱلْءَاخِرَةِ",
+          "content": "ثوَابَها الموعود، أو العمل لها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 42,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 20,
+          "tokens": "حَرْثَ ٱلْءَاخِرَةِ",
+          "content": "ثوَابَها الموعود، أو العمل لها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَانَ یُرِیدُ حَرۡثَ ٱلدُّنۡیَا نُؤۡتِهِۦ مِنۡهَا وَمَا لَهُۥ فِی ٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرْثَ ٱلْءَاخِرَةِ",
+          "content": "ثوَابَها الموعود، أو العمل لها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 42,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِن نَّصِیبٍ ۝٢٠ أَمۡ لَهُمۡ شُرَكَـٰۤؤُا۟ شَرَعُوا۟ لَهُم مِّنَ ٱلدِّینِ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرْثَ ٱلْءَاخِرَةِ",
+          "content": "ثوَابَها الموعود، أو العمل لها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 42,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَا لَمۡ یَأۡذَنۢ بِهِ ٱللَّهُۚ وَلَوۡلَا كَلِمَةُ ٱلۡفَصۡلِ لَقُضِیَ بَیۡنَهُمۡۗ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةُ ٱلْفَصْلِ",
+          "content": "الحكم بتأخير العذاب للآخرة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 42,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 18,
+          "tokens": "كَلِمَةُ ٱلْفَصْلِ",
+          "content": "الحكم بتأخير العذاب للآخرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَإِنَّ ٱلظَّـٰلِمِینَ لَهُمۡ عَذَابٌ أَلِیمࣱ ۝٢١ تَرَى ٱلظَّـٰلِمِینَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلِمَةُ ٱلْفَصْلِ",
+          "content": "الحكم بتأخير العذاب للآخرة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 42,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مُشۡفِقِینَ مِمَّا كَسَبُوا۟ وَهُوَ وَاقِعُۢ بِهِمۡۗ وَٱلَّذِینَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوْضَاتِ ٱلْجَنَّاتِ",
+          "content": "مَحَاسنها ومَلاذها أو أطيب بِقاعها وأنزهِها",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 42,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ فِی رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوْضَاتِ ٱلْجَنَّاتِ",
+          "content": "مَحَاسنها ومَلاذها أو أطيب بِقاعها وأنزهِها",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 42,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 22,
+          "tokens": "رَوْضَاتِ ٱلْجَنَّاتِ",
+          "content": "مَحَاسنها ومَلاذها أو أطيب بِقاعها وأنزهِها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَّا یَشَاۤءُونَ عِندَ رَبِّهِمۡۚ ذَ ٰ⁠لِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِیرُ ۝٢٢",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوْضَاتِ ٱلْجَنَّاتِ",
+          "content": "مَحَاسنها ومَلاذها أو أطيب بِقاعها وأنزهِها",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 42,
+          "ayahIndex": 22
+        }
+      ]
+    }
+  ]
+}

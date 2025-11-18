@@ -1,0 +1,431 @@
+{
+  "pageIndex": 540,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦۤ أُو۟لَـٰۤىِٕكَ هُمُ ٱلصِّدِّیقُونَۖ وَٱلشُّهَدَاۤءُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِـَٔایَـٰتِنَاۤ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَحِیمِ ۝١٩ ٱعۡلَمُوۤا۟ أَنَّمَا ٱلۡحَیَوٰةُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلدُّنۡیَا لَعِبࣱ وَلَهۡوࣱ وَزِینَةࣱ وَتَفَاخُرُۢ بَیۡنَكُمۡ وَتَكَاثُرࣱ فِی ٱلۡأَمۡوَ ٰ⁠لِ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَكَاثُرٌ",
+          "content": "مباهاة وتطاول بالعَدد والعُدد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "أَعْجَبَ ٱلْكُفَّارَ",
+          "content": "راق الزّراع",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيْبس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَكُونُ حُطَٰمًا",
+          "content": "فتاتا هشيما متكسّرا بعد يُبْسِه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 11,
+          "tokens": "وَتَكَاثُرٌ",
+          "content": "مباهاة وتطاول بالعَدد والعُدد"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱلۡأَوۡلَـٰدِۖ كَمَثَلِ غَیۡثٍ أَعۡجَبَ ٱلۡكُفَّارَ نَبَاتُهُۥ ثُمَّ یَهِیجُ فَتَرَىٰهُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَكَاثُرٌ",
+          "content": "مباهاة وتطاول بالعَدد والعُدد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "أَعْجَبَ ٱلْكُفَّارَ",
+          "content": "راق الزّراع",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيْبس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَكُونُ حُطَٰمًا",
+          "content": "فتاتا هشيما متكسّرا بعد يُبْسِه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 20,
+          "tokens": "أَعْجَبَ ٱلْكُفَّارَ",
+          "content": "راق الزّراع"
+        },
+        {
+          "start": 71,
+          "length": 7,
+          "tokens": "يَهِيجُ",
+          "content": "يَيْبس في أقصى غايته"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مُصۡفَرࣰّا ثُمَّ یَكُونُ حُطَـٰمࣰاۖ وَفِی ٱلۡـَٔاخِرَةِ عَذَابࣱ شَدِیدࣱ وَمَغۡفِرَةࣱ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَكَاثُرٌ",
+          "content": "مباهاة وتطاول بالعَدد والعُدد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "أَعْجَبَ ٱلْكُفَّارَ",
+          "content": "راق الزّراع",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيْبس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَكُونُ حُطَٰمًا",
+          "content": "فتاتا هشيما متكسّرا بعد يُبْسِه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 18,
+          "tokens": "يَكُونُ حُطَٰمًا",
+          "content": "فتاتا هشيما متكسّرا بعد يُبْسِه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِّنَ ٱللَّهِ وَرِضۡوَ ٰ⁠نࣱۚ وَمَا ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۤ إِلَّا مَتَـٰعُ ٱلۡغُرُورِ ۝٢٠",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَكَاثُرٌ",
+          "content": "مباهاة وتطاول بالعَدد والعُدد",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "أَعْجَبَ ٱلْكُفَّارَ",
+          "content": "راق الزّراع",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَهِيجُ",
+          "content": "يَيْبس في أقصى غايته",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَكُونُ حُطَٰمًا",
+          "content": "فتاتا هشيما متكسّرا بعد يُبْسِه",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 57,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "سَابِقُوۤا۟ إِلَىٰ مَغۡفِرَةࣲ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا كَعَرۡضِ ٱلسَّمَاۤءِ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَابِقُوٓا۟",
+          "content": "سارعوا مسارعة المتسابقين في المضمار",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 57,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "سَابِقُوٓا۟",
+          "content": "سارعوا مسارعة المتسابقين في المضمار"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلۡأَرۡضِ أُعِدَّتۡ لِلَّذِینَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦۚ ذَ ٰ⁠لِكَ فَضۡلُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَابِقُوٓا۟",
+          "content": "سارعوا مسارعة المتسابقين في المضمار",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 57,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱللَّهِ یُؤۡتِیهِ مَن یَشَاۤءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ ۝٢١ مَاۤ أَصَابَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَابِقُوٓا۟",
+          "content": "سارعوا مسارعة المتسابقين في المضمار",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 57,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِن مُّصِیبَةࣲ فِی ٱلۡأَرۡضِ وَلَا فِیۤ أَنفُسِكُمۡ إِلَّا فِی كِتَـٰبࣲ مِّن",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّبْرَأَهَآ",
+          "content": "نَخْلُقَ هذه الكائنات",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قَبۡلِ أَن نَّبۡرَأَهَاۤۚ إِنَّ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ ۝٢٢ لِّكَیۡلَا",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّبْرَأَهَآ",
+          "content": "نَخْلُقَ هذه الكائنات",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 14,
+          "tokens": "نَّبْرَأَهَآ",
+          "content": "نَخْلُقَ هذه الكائنات"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "تَأۡسَوۡا۟ عَلَىٰ مَا فَاتَكُمۡ وَلَا تَفۡرَحُوا۟ بِمَاۤ ءَاتَىٰكُمۡۗ وَٱللَّهُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّكَيْلَا تَأْسَوْا۟",
+          "content": "لكيلا تحزنوا حزن قنوط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَلَا تَفْرَحُوا۟",
+          "content": "فَرَحَ بَطٍَر واختيال",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مُخْتَالٍ فَخُورٍ",
+          "content": "متكبّر مُبَاهٍ متطاول بما أوتي",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "لِّكَيْلَا تَأْسَوْا۟",
+          "content": "لكيلا تحزنوا حزن قنوط"
+        },
+        {
+          "start": 32,
+          "length": 17,
+          "tokens": "وَلَا تَفْرَحُوا۟",
+          "content": "فَرَحَ بَطٍَر واختيال"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَا یُحِبُّ كُلَّ مُخۡتَالࣲ فَخُورٍ ۝٢٣ ٱلَّذِینَ یَبۡخَلُونَ وَیَأۡمُرُونَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّكَيْلَا تَأْسَوْا۟",
+          "content": "لكيلا تحزنوا حزن قنوط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَلَا تَفْرَحُوا۟",
+          "content": "فَرَحَ بَطٍَر واختيال",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مُخْتَالٍ فَخُورٍ",
+          "content": "متكبّر مُبَاهٍ متطاول بما أوتي",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 57,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 17,
+          "tokens": "مُخْتَالٍ فَخُورٍ",
+          "content": "متكبّر مُبَاهٍ متطاول بما أوتي"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلنَّاسَ بِٱلۡبُخۡلِۗ وَمَن یَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلۡغَنِیُّ ٱلۡحَمِیدُ ۝٢٤",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

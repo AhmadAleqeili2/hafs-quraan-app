@@ -1,0 +1,365 @@
+{
+  "pageIndex": 531,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَاۤ أَمۡرُنَاۤ إِلَّا وَ ٰ⁠حِدَةࣱ كَلَمۡحِۭ بِٱلۡبَصَرِ ۝٥٠ وَلَقَدۡ أَهۡلَكۡنَاۤ",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِلَّا وَٰحِدَةٌ",
+          "content": "'كلمة واحدة، هي ''كُنْ'''",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 54,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 18,
+          "tokens": "إِلَّا وَٰحِدَةٌ",
+          "content": "'كلمة واحدة، هي ''كُنْ'''"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَشۡیَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرࣲ ۝٥١ وَكُلُّ شَیۡءࣲ فَعَلُوهُ فِی ٱلزُّبُرِ ۝٥٢",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَشْيَاعَكُمْ",
+          "content": "أمثالهم في الكفر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 54,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "أَشْيَاعَكُمْ",
+          "content": "أمثالهم في الكفر"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَكُلُّ صَغِیرࣲ وَكَبِیرࣲ مُّسۡتَطَرٌ ۝٥٣ إِنَّ ٱلۡمُتَّقِینَ فِی",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّسْتَطَرٌ",
+          "content": "مسطور مكتوب في اللوح المحفوظ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 54,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 11,
+          "tokens": "مُّسْتَطَرٌ",
+          "content": "مسطور مكتوب في اللوح المحفوظ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "جَنَّـٰتࣲ وَنَهَرࣲ ۝٥٤ فِی مَقۡعَدِ صِدۡقٍ عِندَ مَلِیكࣲ مُّقۡتَدِرِۭ ۝٥٥",
+      "surahIndexFirst": 54,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَهَرٍ",
+          "content": "أنهار",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 54,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 8,
+          "tokens": "وَنَهَرٍ",
+          "content": "أنهار"
+        }
+      ]
+    },
+    {
+      "sortKey": 6998,
+      "text": "سورة الرحمن",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 6999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلرَّحۡمَـٰنُ ۝١ عَلَّمَ ٱلۡقُرۡءَانَ ۝٢ خَلَقَ ٱلۡإِنسَـٰنَ ۝٣ عَلَّمَهُ ٱلۡبَیَانَ ۝٤",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانࣲ ۝٥ وَٱلنَّجۡمُ وَٱلشَّجَرُ یَسۡجُدَانِ ۝٦",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِحُسْبَانٍ",
+          "content": "يجريان بحساب مقدّر في بروجهما",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 11,
+          "tokens": "بِحُسْبَانٍ",
+          "content": "يجريان بحساب مقدّر في بروجهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلسَّمَاۤءَ رَفَعَهَا وَوَضَعَ ٱلۡمِیزَانَ ۝٧ أَلَّا تَطۡغَوۡا۟ فِی ٱلۡمِیزَانِ ۝٨",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوَضَعَ ٱلْمِيزَانَ",
+          "content": "شرَع العدل وأمر به الخلق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 55,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 20,
+          "tokens": "وَوَضَعَ ٱلْمِيزَانَ",
+          "content": "شرَع العدل وأمر به الخلق"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَأَقِیمُوا۟ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُوا۟ ٱلۡمِیزَانَ ۝٩ وَٱلۡأَرۡضَ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدْل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+          "content": "لا تنقصوا مَوْزون الميزان",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 55,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 11,
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدْل"
+        },
+        {
+          "start": 35,
+          "length": 29,
+          "tokens": "وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+          "content": "لا تنقصوا مَوْزون الميزان"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَضَعَهَا لِلۡأَنَامِ ۝١٠ فِیهَا فَـٰكِهَةࣱ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ ۝١١",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَرْضَ وَضَعَهَا",
+          "content": "خلقها محفوظة عن السماء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 55,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "وَٱلْأَرْضَ وَضَعَهَا",
+          "content": "خلقها محفوظة عن السماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّیۡحَانُ ۝١٢ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝١٣",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذُو ٱلْعَصْفِ",
+          "content": "القِشْر أو التّبْن أو الوَرَق اليابس",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "وَٱلرَّيْحَانُ",
+          "content": "النبات المشموم الطيّب الرّائحة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 55,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 13,
+          "tokens": "ذُو ٱلْعَصْفِ",
+          "content": "القِشْر أو التّبْن أو الوَرَق اليابس"
+        },
+        {
+          "start": 25,
+          "length": 14,
+          "tokens": "وَٱلرَّيْحَانُ",
+          "content": "النبات المشموم الطيّب الرّائحة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "خَلَقَ ٱلۡإِنسَـٰنَ مِن صَلۡصَـٰلࣲ كَٱلۡفَخَّارِ ۝١٤ وَخَلَقَ ٱلۡجَاۤنَّ مِن",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَلْصَٰلٍ",
+          "content": "طين يابس يُسمع له صلصلة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 55,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "كَٱلْفَخَّارِ",
+          "content": "هو الطين يُحرَق حتى يتحجّر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 55,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 10,
+          "tokens": "صَلْصَٰلٍ",
+          "content": "طين يابس يُسمع له صلصلة"
+        },
+        {
+          "start": 35,
+          "length": 13,
+          "tokens": "كَٱلْفَخَّارِ",
+          "content": "هو الطين يُحرَق حتى يتحجّر"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَّارِجࣲ مِّن نَّارࣲ ۝١٥ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝١٦ رَبُّ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّارِجٍ",
+          "content": "لهبٍ صافٍ لا دخان فيه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 55,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "مَّارِجٍ",
+          "content": "لهبٍ صافٍ لا دخان فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡمَشۡرِقَیۡنِ وَرَبُّ ٱلۡمَغۡرِبَیۡنِ ۝١٧ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝١٨",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

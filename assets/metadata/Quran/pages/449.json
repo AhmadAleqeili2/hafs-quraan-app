@@ -1,0 +1,227 @@
+{
+  "pageIndex": 449,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَجَعَلۡنَا ذُرِّیَّتَهُۥ هُمُ ٱلۡبَاقِینَ ۝٧٧ وَتَرَكۡنَا عَلَیۡهِ فِی ٱلۡـَٔاخِرِینَ ۝٧٨ سَلَـٰمٌ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَلَىٰ نُوحࣲ فِی ٱلۡعَـٰلَمِینَ ۝٧٩ إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ ۝٨٠ إِنَّهُۥ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ ۝٨١ ثُمَّ أَغۡرَقۡنَا ٱلۡـَٔاخَرِینَ ۝٨٢ وَإِنَّ مِن",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "شِیعَتِهِۦ لَإِبۡرَ ٰ⁠هِیمَ ۝٨٣ إِذۡ جَاۤءَ رَبَّهُۥ بِقَلۡبࣲ سَلِیمٍ ۝٨٤ إِذۡ قَالَ لِأَبِیهِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِن شِيعَتِهِۦ",
+          "content": "ممّن شايعه على منهاجه وملّته",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "مِن شِيعَتِهِۦ",
+          "content": "ممّن شايعه على منهاجه وملّته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ ۝٨٥ أَىِٕفۡكًا ءَالِهَةࣰ دُونَ ٱللَّهِ تُرِیدُونَ ۝٨٦",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَـٰلَمِینَ ۝٨٧ فَنَظَرَ نَظۡرَةࣰ فِی ٱلنُّجُومِ ۝٨٨",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَقَالَ إِنِّی سَقِیمࣱ ۝٨٩ فَتَوَلَّوۡا۟ عَنۡهُ مُدۡبِرِینَ ۝٩٠ فَرَاغَ إِلَىٰۤ ءَالِهَتِهِمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنِّى سَقِيمٌ",
+          "content": "يُريد أنه سقيم القلب لكفرهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 89
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 14,
+          "tokens": "إِنِّى سَقِيمٌ",
+          "content": "يُريد أنه سقيم القلب لكفرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَقَالَ أَلَا تَأۡكُلُونَ ۝٩١ مَا لَكُمۡ لَا تَنطِقُونَ ۝٩٢ فَرَاغَ عَلَیۡهِمۡ ضَرۡبَۢا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمْ",
+          "content": "فمال إليها خفية ليُحطّمها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِٱلۡیَمِینِ ۝٩٣ فَأَقۡبَلُوۤا۟ إِلَیۡهِ یَزِفُّونَ ۝٩٤ قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ ۝٩٥",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرْبًۢا بِٱلْيَمِينِ",
+          "content": "يضربهم ضربا مُلتبسا بالقوّة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "ضَرْبًۢا بِٱلْيَمِينِ",
+          "content": "يضربهم ضربا مُلتبسا بالقوّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ ۝٩٦ قَالُوا۟ ٱبۡنُوا۟ لَهُۥ بُنۡیَـٰنࣰا فَأَلۡقُوهُ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِی ٱلۡجَحِیمِ ۝٩٧ فَأَرَادُوا۟ بِهِۦ كَیۡدࣰا فَجَعَلۡنَـٰهُمُ ٱلۡأَسۡفَلِینَ ۝٩٨",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَقَالَ إِنِّی ذَاهِبٌ إِلَىٰ رَبِّی سَیَهۡدِینِ ۝٩٩ رَبِّ هَبۡ لِی مِنَ ٱلصَّـٰلِحِینَ ۝١٠٠",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَبَشَّرۡنَـٰهُ بِغُلَـٰمٍ حَلِیمࣲ ۝١٠١ فَلَمَّا بَلَغَ مَعَهُ ٱلسَّعۡیَ قَالَ یَـٰبُنَیَّ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغُلَٰمٍ حَلِيمٍ",
+          "content": "رجّح كثيرٌ أنّه إسماعيل عليه السلام",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 101
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "بِغُلَٰمٍ حَلِيمٍ",
+          "content": "رجّح كثيرٌ أنّه إسماعيل عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِنِّیۤ أَرَىٰ فِی ٱلۡمَنَامِ أَنِّیۤ أَذۡبَحُكَ فَٱنظُرۡ مَاذَا تَرَىٰۚ قَالَ یَـٰۤأَبَتِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَلَغَ مَعَهُ ٱلسَّعْىَ",
+          "content": "درجة العمل معه في حوائجه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 102
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱفۡعَلۡ مَا تُؤۡمَرُۖ سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ مِنَ ٱلصَّـٰبِرِینَ ۝١٠٢",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَلَغَ مَعَهُ ٱلسَّعْىَ",
+          "content": "درجة العمل معه في حوائجه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 102
+        }
+      ]
+    }
+  ]
+}

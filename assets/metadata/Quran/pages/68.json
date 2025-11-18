@@ -1,0 +1,285 @@
+{
+  "pageIndex": 68,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلِیُمَحِّصَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَیَمۡحَقَ ٱلۡكَـٰفِرِینَ ۝١٤١ أَمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 141,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليُصفي ويُطهّر من الذنوب",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 141
+        },
+        {
+          "tokens": "وَيَمْحَقَ",
+          "content": "يُهلك ويستأصل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 141
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليُصفي ويُطهّر من الذنوب"
+        },
+        {
+          "start": 43,
+          "length": 10,
+          "tokens": "وَيَمْحَقَ",
+          "content": "يُهلك ويستأصل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "حَسِبۡتُمۡ أَن تَدۡخُلُوا۟ ٱلۡجَنَّةَ وَلَمَّا یَعۡلَمِ ٱللَّهُ ٱلَّذِینَ جَـٰهَدُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِنكُمۡ وَیَعۡلَمَ ٱلصَّـٰبِرِینَ ۝١٤٢ وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَیۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ ۝١٤٣ وَمَا مُحَمَّدٌ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِلَّا رَسُولࣱ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِی۟ن مَّاتَ أَوۡ قُتِلَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱنقَلَبۡتُمۡ عَلَىٰۤ أَعۡقَـٰبِكُمۡۚ وَمَن یَنقَلِبۡ عَلَىٰ عَقِبَیۡهِ فَلَن یَضُرَّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهَ شَیۡـࣰٔاۗ وَسَیَجۡزِی ٱللَّهُ ٱلشَّـٰكِرِینَ ۝١٤٤ وَمَا كَانَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَـٰبࣰا مُّؤَجَّلࣰاۗ وَمَن یُرِدۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِتَٰبًا مُّؤَجَّلًا",
+          "content": "مؤقتا بوقت معلوم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 145
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 22,
+          "tokens": "كِتَٰبًا مُّؤَجَّلًا",
+          "content": "مؤقتا بوقت معلوم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ثَوَابَ ٱلدُّنۡیَا نُؤۡتِهِۦ مِنۡهَا وَمَن یُرِدۡ ثَوَابَ ٱلۡـَٔاخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِتَٰبًا مُّؤَجَّلًا",
+          "content": "مؤقتا بوقت معلوم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 145
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَسَنَجۡزِی ٱلشَّـٰكِرِینَ ۝١٤٥ وَكَأَیِّن مِّن نَّبِیࣲّ قَـٰتَلَ مَعَهُۥ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِتَٰبًا مُّؤَجَّلًا",
+          "content": "مؤقتا بوقت معلوم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 145
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "رِبِّیُّونَ كَثِیرࣱ فَمَا وَهَنُوا۟ لِمَاۤ أَصَابَهُمۡ فِی سَبِیلِ ٱللَّهِ وَمَا ضَعُفُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 146,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأَيِّن مِّن نَّبِىٍّ",
+          "content": "كم من نبيّ – كثير من الأنبياء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "رِبِّيُّونَ",
+          "content": "علماء فقهاء أو جموع كثيرة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "فَمَا وَهَنُوا۟",
+          "content": "فما عجزوا أو فما جبُنوا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "وَمَا ٱسْتَكَانُوا۟",
+          "content": "ما خضعوا أو ذلّوا لعدوّهم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "رِبِّيُّونَ",
+          "content": "علماء فقهاء أو جموع كثيرة"
+        },
+        {
+          "start": 20,
+          "length": 15,
+          "tokens": "فَمَا وَهَنُوا۟",
+          "content": "فما عجزوا أو فما جبُنوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَمَا ٱسۡتَكَانُوا۟ۗ وَٱللَّهُ یُحِبُّ ٱلصَّـٰبِرِینَ ۝١٤٦ وَمَا كَانَ قَوۡلَهُمۡ إِلَّاۤ أَن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 146,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأَيِّن مِّن نَّبِىٍّ",
+          "content": "كم من نبيّ – كثير من الأنبياء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "رِبِّيُّونَ",
+          "content": "علماء فقهاء أو جموع كثيرة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "فَمَا وَهَنُوا۟",
+          "content": "فما عجزوا أو فما جبُنوا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        },
+        {
+          "tokens": "وَمَا ٱسْتَكَانُوا۟",
+          "content": "ما خضعوا أو ذلّوا لعدوّهم",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 3,
+          "ayahIndex": 146
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "وَمَا ٱسْتَكَانُوا۟",
+          "content": "ما خضعوا أو ذلّوا لعدوّهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "قَالُوا۟ رَبَّنَا ٱغۡفِرۡ لَنَا ذُنُوبَنَا وَإِسۡرَافَنَا فِیۤ أَمۡرِنَا وَثَبِّتۡ أَقۡدَامَنَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱنصُرۡنَا عَلَى ٱلۡقَوۡمِ ٱلۡكَـٰفِرِینَ ۝١٤٧ فَـَٔاتَىٰهُمُ ٱللَّهُ ثَوَابَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلدُّنۡیَا وَحُسۡنَ ثَوَابِ ٱلۡـَٔاخِرَةِۗ وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ ۝١٤٨",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

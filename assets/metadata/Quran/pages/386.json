@@ -1,0 +1,385 @@
+{
+  "pageIndex": 386,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَنُمَكِّنَ لَهُمۡ فِی ٱلۡأَرۡضِ وَنُرِیَ فِرۡعَوۡنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَحْذَرُونَ",
+          "content": "يخافون من ذهاب مُلكهمْ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 28,
+          "ayahIndex": 6
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنۡهُم مَّا كَانُوا۟ یَحۡذَرُونَ ۝٦ وَأَوۡحَیۡنَاۤ إِلَىٰۤ أُمِّ مُوسَىٰۤ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَحْذَرُونَ",
+          "content": "يخافون من ذهاب مُلكهمْ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 28,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 11,
+          "tokens": "يَحْذَرُونَ",
+          "content": "يخافون من ذهاب مُلكهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَنۡ أَرۡضِعِیهِۖ فَإِذَا خِفۡتِ عَلَیۡهِ فَأَلۡقِیهِ فِی ٱلۡیَمِّ وَلَا تَخَافِی",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَا تَحۡزَنِیۤۖ إِنَّا رَاۤدُّوهُ إِلَیۡكِ وَجَاعِلُوهُ مِنَ ٱلۡمُرۡسَلِینَ ۝٧",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَٱلۡتَقَطَهُۥۤ ءَالُ فِرۡعَوۡنَ لِیَكُونَ لَهُمۡ عَدُوࣰّا وَحَزَنًاۗ إِنَّ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانُوا۟ خَٰطِـِٔينَ",
+          "content": "مُذبذبين آثمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِرۡعَوۡنَ وَهَـٰمَـٰنَ وَجُنُودَهُمَا كَانُوا۟ خَـٰطِـِٔینَ ۝٨",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانُوا۟ خَٰطِـِٔينَ",
+          "content": "مُذبذبين آثمين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 21,
+          "tokens": "كَانُوا۟ خَٰطِـِٔينَ",
+          "content": "مُذبذبين آثمين"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَقَالَتِ ٱمۡرَأَتُ فِرۡعَوۡنَ قُرَّتُ عَیۡنࣲ لِّی وَلَكَۖ لَا تَقۡتُلُوهُ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُرَّتُ عَيْنٍ",
+          "content": "هو مسرّة وفرح ٌ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 14,
+          "tokens": "قُرَّتُ عَيْنٍ",
+          "content": "هو مسرّة وفرح ٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَسَىٰۤ أَن یَنفَعَنَاۤ أَوۡ نَتَّخِذَهُۥ وَلَدࣰا وَهُمۡ لَا یَشۡعُرُونَ ۝٩",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُرَّتُ عَيْنٍ",
+          "content": "هو مسرّة وفرح ٌ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَأَصۡبَحَ فُؤَادُ أُمِّ مُوسَىٰ فَـٰرِغًاۖ إِن كَادَتۡ لَتُبۡدِی بِهِۦ لَوۡلَاۤ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٰرِغًا",
+          "content": "خاليا من كلّ ما سِوى موسى",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "لَتُبْدِى بِهِۦ",
+          "content": "لَتصَرّح بأنه ابنها لشدّة وَجْدِها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "رَّبَطْنَا",
+          "content": "بالعصمة والصبر والتّثبيت",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 10,
+          "tokens": "فَٰرِغًا",
+          "content": "خاليا من كلّ ما سِوى موسى"
+        },
+        {
+          "start": 56,
+          "length": 15,
+          "tokens": "لَتُبْدِى بِهِۦ",
+          "content": "لَتصَرّح بأنه ابنها لشدّة وَجْدِها"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن رَّبَطۡنَا عَلَىٰ قَلۡبِهَا لِتَكُونَ مِنَ ٱلۡمُؤۡمِنِینَ ۝١٠ وَقَالَتۡ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٰرِغًا",
+          "content": "خاليا من كلّ ما سِوى موسى",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "لَتُبْدِى بِهِۦ",
+          "content": "لَتصَرّح بأنه ابنها لشدّة وَجْدِها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "رَّبَطْنَا",
+          "content": "بالعصمة والصبر والتّثبيت",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 28,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 10,
+          "tokens": "رَّبَطْنَا",
+          "content": "بالعصمة والصبر والتّثبيت"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لِأُخۡتِهِۦ قُصِّیهِۖ فَبَصُرَتۡ بِهِۦ عَن جُنُبࣲ وَهُمۡ لَا یَشۡعُرُونَ ۝١١",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُصِّيهِ",
+          "content": "اتّبعي أثره وتعرّفي خبره",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 28,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "فَبَصُرَتْ بِهِۦ",
+          "content": "أبْصَرته",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "عَن جُنُبٍ",
+          "content": "عن بُعْد أو عن مكان بعيد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 28,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 9,
+          "tokens": "قُصِّيهِ",
+          "content": "اتّبعي أثره وتعرّفي خبره"
+        },
+        {
+          "start": 22,
+          "length": 16,
+          "tokens": "فَبَصُرَتْ بِهِۦ",
+          "content": "أبْصَرته"
+        },
+        {
+          "start": 39,
+          "length": 10,
+          "tokens": "عَن جُنُبٍ",
+          "content": "عن بُعْد أو عن مكان بعيد"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَحَرَّمۡنَا عَلَیۡهِ ٱلۡمَرَاضِعَ مِن قَبۡلُ فَقَالَتۡ هَلۡ أَدُلُّكُمۡ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَكْفُلُونَهُۥ لَكُمْ",
+          "content": "يقومون بتربيته لأجلكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَلَىٰۤ أَهۡلِ بَیۡتࣲ یَكۡفُلُونَهُۥ لَكُمۡ وَهُمۡ لَهُۥ نَـٰصِحُونَ ۝١٢",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَكْفُلُونَهُۥ لَكُمْ",
+          "content": "يقومون بتربيته لأجلكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 21,
+          "tokens": "يَكْفُلُونَهُۥ لَكُمْ",
+          "content": "يقومون بتربيته لأجلكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَرَدَدۡنَـٰهُ إِلَىٰۤ أُمِّهِۦ كَیۡ تَقَرَّ عَیۡنُهَا وَلَا تَحۡزَنَ وَلِتَعۡلَمَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسرّ وتَفرح بولدها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 28,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 17,
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسرّ وتَفرح بولدها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ ۝١٣",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسرّ وتَفرح بولدها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 28,
+          "ayahIndex": 13
+        }
+      ]
+    }
+  ]
+}

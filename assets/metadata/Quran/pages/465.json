@@ -1,0 +1,295 @@
+{
+  "pageIndex": 465,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَوۡ تَقُولَ لَوۡ أَنَّ ٱللَّهَ هَدَىٰنِی لَكُنتُ مِنَ ٱلۡمُتَّقِینَ ۝٥٧ أَوۡ تَقُولَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "حِینَ تَرَى ٱلۡعَذَابَ لَوۡ أَنَّ لِی كَرَّةࣰ فَأَكُونَ مِنَ ٱلۡمُحۡسِنِینَ ۝٥٨",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرَّةً",
+          "content": "رَجْعة إلى الدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 39,
+          "ayahIndex": 58
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 7,
+          "tokens": "كَرَّةً",
+          "content": "رَجْعة إلى الدنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بَلَىٰ قَدۡ جَاۤءَتۡكَ ءَایَـٰتِی فَكَذَّبۡتَ بِهَا وَٱسۡتَكۡبَرۡتَ وَكُنتَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِنَ ٱلۡكَـٰفِرِینَ ۝٥٩ وَیَوۡمَ ٱلۡقِیَـٰمَةِ تَرَى ٱلَّذِینَ كَذَبُوا۟ عَلَى",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهِ وُجُوهُهُم مُّسۡوَدَّةٌۚ أَلَیۡسَ فِی جَهَنَّمَ مَثۡوࣰى لِّلۡمُتَكَبِّرِینَ ۝٦٠",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوًى لِّلْمُتَكَبِّرِينَ",
+          "content": "مَأوًى ومُقامٌ لهم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 39,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 27,
+          "tokens": "مَثْوًى لِّلْمُتَكَبِّرِينَ",
+          "content": "مَأوًى ومُقامٌ لهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَیُنَجِّی ٱللَّهُ ٱلَّذِینَ ٱتَّقَوۡا۟ بِمَفَازَتِهِمۡ لَا یَمَسُّهُمُ ٱلسُّوۤءُ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمَفَازَتِهِمْ",
+          "content": "بفوْزهم وظفرهِمْ بالبغيَة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 39,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 15,
+          "tokens": "بِمَفَازَتِهِمْ",
+          "content": "بفوْزهم وظفرهِمْ بالبغيَة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلَا هُمۡ یَحۡزَنُونَ ۝٦١ ٱللَّهُ خَـٰلِقُ كُلِّ شَیۡءࣲۖ وَهُوَ عَلَىٰ كُلِّ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمَفَازَتِهِمْ",
+          "content": "بفوْزهم وظفرهِمْ بالبغيَة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 39,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "شَیۡءࣲ وَكِیلࣱ ۝٦٢ لَّهُۥ مَقَالِیدُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۗ وَٱلَّذِینَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ ۝٦٣ قُلۡ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّهُۥ مَقَالِيدُ",
+          "content": "مَفاتيح أو خزائن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 39,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَفَغَیۡرَ ٱللَّهِ تَأۡمُرُوۤنِّیۤ أَعۡبُدُ أَیُّهَا ٱلۡجَـٰهِلُونَ ۝٦٤ وَلَقَدۡ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أُوحِیَ إِلَیۡكَ وَإِلَى ٱلَّذِینَ مِن قَبۡلِكَ لَىِٕنۡ أَشۡرَكۡتَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَحْبَطَنَّ عَمَلُكَ",
+          "content": "ليبْطلنّ عَمَلك ويَفسدنّ",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 39,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَیَحۡبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلۡخَـٰسِرِینَ ۝٦٥ بَلِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَحْبَطَنَّ عَمَلُكَ",
+          "content": "ليبْطلنّ عَمَلك ويَفسدنّ",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 39,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "لَيَحْبَطَنَّ عَمَلُكَ",
+          "content": "ليبْطلنّ عَمَلك ويَفسدنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱللَّهَ فَٱعۡبُدۡ وَكُن مِّنَ ٱلشَّـٰكِرِینَ ۝٦٦ وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "قَدۡرِهِۦ وَٱلۡأَرۡضُ جَمِیعࣰا قَبۡضَتُهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ وَٱلسَّمَـٰوَ ٰ⁠تُ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عَرَفوه، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "قَبْضَتُهُۥ",
+          "content": "مِلكه وفي مَقدوره وتصرّفه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ",
+          "content": "بقدرته كطيّ السّجل للكتب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 11,
+          "tokens": "قَبْضَتُهُۥ",
+          "content": "مِلكه وفي مَقدوره وتصرّفه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَطۡوِیَّـٰتُۢ بِیَمِینِهِۦۚ سُبۡحَـٰنَهُۥ وَتَعَـٰلَىٰ عَمَّا یُشۡرِكُونَ ۝٦٧",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا قَدَرُوا۟ ٱللَّهَ",
+          "content": "ما عَرَفوه، أو ما عظّموه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "قَبْضَتُهُۥ",
+          "content": "مِلكه وفي مَقدوره وتصرّفه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ",
+          "content": "بقدرته كطيّ السّجل للكتب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 39,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 28,
+          "tokens": "مَطْوِيَّٰتٌۢ بِيَمِينِهِۦ",
+          "content": "بقدرته كطيّ السّجل للكتب"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "pageIndex": 124,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أُحِلَّ لَكُمۡ صَیۡدُ ٱلۡبَحۡرِ وَطَعَامُهُۥ مَتَـٰعࣰا لَّكُمۡ وَلِلسَّیَّارَةِۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِلسَّيَّارَةِ",
+          "content": "للمسافرين",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 63,
+          "length": 17,
+          "tokens": "وَلِلسَّيَّارَةِ",
+          "content": "للمسافرين"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَحُرِّمَ عَلَیۡكُمۡ صَیۡدُ ٱلۡبَرِّ مَا دُمۡتُمۡ حُرُمࣰاۗ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِیۤ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِلسَّيَّارَةِ",
+          "content": "للمسافرين",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 96
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِلَیۡهِ تُحۡشَرُونَ ۝٩٦ جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَیۡتَ ٱلۡحَرَامَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلِلسَّيَّارَةِ",
+          "content": "للمسافرين",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 96
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "قِیَـٰمࣰا لِّلنَّاسِ وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡیَ وَٱلۡقَلَـٰۤىِٕدَۚ ذَ ٰ⁠لِكَ لِتَعۡلَمُوۤا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبَيْتَ ٱلْحَرَامَ",
+          "content": "جميع الحرم وهو المراد بالكعبة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "قِيَٰمًا لِّلنَّاسِ",
+          "content": "قواما لمصالحهم دينا ودنيا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلشَّهْرَ ٱلْحَرَامَ",
+          "content": "الأشهر الحرم الأربعة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْهَدْىَ",
+          "content": "ما يُهدى من الأنعام إلى الكعبة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْقَلَٰٓئِدَ",
+          "content": "ما يقلد به الهَدْي علامة له",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "قِيَٰمًا لِّلنَّاسِ",
+          "content": "قواما لمصالحهم دينا ودنيا"
+        },
+        {
+          "start": 21,
+          "length": 22,
+          "tokens": "وَٱلشَّهْرَ ٱلْحَرَامَ",
+          "content": "الأشهر الحرم الأربعة"
+        },
+        {
+          "start": 44,
+          "length": 11,
+          "tokens": "وَٱلْهَدْىَ",
+          "content": "ما يُهدى من الأنعام إلى الكعبة"
+        },
+        {
+          "start": 56,
+          "length": 18,
+          "tokens": "وَٱلْقَلَٰٓئِدَ",
+          "content": "ما يقلد به الهَدْي علامة له"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَنَّ ٱللَّهَ یَعۡلَمُ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبَيْتَ ٱلْحَرَامَ",
+          "content": "جميع الحرم وهو المراد بالكعبة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "قِيَٰمًا لِّلنَّاسِ",
+          "content": "قواما لمصالحهم دينا ودنيا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلشَّهْرَ ٱلْحَرَامَ",
+          "content": "الأشهر الحرم الأربعة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْهَدْىَ",
+          "content": "ما يُهدى من الأنعام إلى الكعبة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْقَلَٰٓئِدَ",
+          "content": "ما يقلد به الهَدْي علامة له",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "شَیۡءٍ عَلِیمٌ ۝٩٧ ٱعۡلَمُوۤا۟ أَنَّ ٱللَّهَ شَدِیدُ ٱلۡعِقَابِ وَأَنَّ ٱللَّهَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبَيْتَ ٱلْحَرَامَ",
+          "content": "جميع الحرم وهو المراد بالكعبة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "قِيَٰمًا لِّلنَّاسِ",
+          "content": "قواما لمصالحهم دينا ودنيا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلشَّهْرَ ٱلْحَرَامَ",
+          "content": "الأشهر الحرم الأربعة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْهَدْىَ",
+          "content": "ما يُهدى من الأنعام إلى الكعبة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "وَٱلْقَلَٰٓئِدَ",
+          "content": "ما يقلد به الهَدْي علامة له",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "غَفُورࣱ رَّحِیمࣱ ۝٩٨ مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَـٰغُۗ وَٱللَّهُ یَعۡلَمُ مَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "تُبۡدُونَ وَمَا تَكۡتُمُونَ ۝٩٩ قُل لَّا یَسۡتَوِی ٱلۡخَبِیثُ وَٱلطَّیِّبُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَوۡ أَعۡجَبَكَ كَثۡرَةُ ٱلۡخَبِیثِۚ فَٱتَّقُوا۟ ٱللَّهَ یَـٰۤأُو۟لِی ٱلۡأَلۡبَـٰبِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَعَلَّكُمۡ تُفۡلِحُونَ ۝١٠٠ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَسۡـَٔلُوا۟ عَنۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَشۡیَاۤءَ إِن تُبۡدَ لَكُمۡ تَسُؤۡكُمۡ وَإِن تَسۡـَٔلُوا۟ عَنۡهَا حِینَ یُنَزَّلُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡقُرۡءَانُ تُبۡدَ لَكُمۡ عَفَا ٱللَّهُ عَنۡهَاۗ وَٱللَّهُ غَفُورٌ حَلِیمࣱ ۝١٠١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "قَدۡ سَأَلَهَا قَوۡمࣱ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُوا۟ بِهَا كَـٰفِرِینَ ۝١٠٢ مَا جَعَلَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهُ مِنۢ بَحِیرَةࣲ وَلَا سَاۤىِٕبَةࣲ وَلَا وَصِیلَةࣲ وَلَا حَامࣲ وَلَـٰكِنَّ ٱلَّذِینَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَحِيرَةٍ",
+          "content": "الناقة تشق أذنها وتخلى للطواغيت إذا ولدت خمسة أبطن آخرها ذكر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "سَآئِبَةٍ",
+          "content": "الناقة تسيب للأصنام لنحو برء من مرض أو نجاة في حرب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "وَصِيلَةٍ",
+          "content": "الناقة تترك للطواغيت إذا بكّرت بأنثى ثم ثنّت بأنثى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "حَامٍ",
+          "content": "الفحل لا يركب ولا يحمل عليه إذا لقح ولدُ ولده",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 9,
+          "tokens": "بَحِيرَةٍ",
+          "content": "الناقة تشق أذنها وتخلى للطواغيت إذا ولدت خمسة أبطن آخرها ذكر"
+        },
+        {
+          "start": 29,
+          "length": 11,
+          "tokens": "سَآئِبَةٍ",
+          "content": "الناقة تسيب للأصنام لنحو برء من مرض أو نجاة في حرب"
+        },
+        {
+          "start": 47,
+          "length": 9,
+          "tokens": "وَصِيلَةٍ",
+          "content": "الناقة تترك للطواغيت إذا بكّرت بأنثى ثم ثنّت بأنثى"
+        },
+        {
+          "start": 63,
+          "length": 5,
+          "tokens": "حَامٍ",
+          "content": "الفحل لا يركب ولا يحمل عليه إذا لقح ولدُ ولده"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَفَرُوا۟ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَۖ وَأَكۡثَرُهُمۡ لَا یَعۡقِلُونَ ۝١٠٣",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَحِيرَةٍ",
+          "content": "الناقة تشق أذنها وتخلى للطواغيت إذا ولدت خمسة أبطن آخرها ذكر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "سَآئِبَةٍ",
+          "content": "الناقة تسيب للأصنام لنحو برء من مرض أو نجاة في حرب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "وَصِيلَةٍ",
+          "content": "الناقة تترك للطواغيت إذا بكّرت بأنثى ثم ثنّت بأنثى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "حَامٍ",
+          "content": "الفحل لا يركب ولا يحمل عليه إذا لقح ولدُ ولده",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 103
+        }
+      ]
+    }
+  ]
+}

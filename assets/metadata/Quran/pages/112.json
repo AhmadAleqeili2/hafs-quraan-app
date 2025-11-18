@@ -1,0 +1,359 @@
+{
+  "pageIndex": 112,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالُوا۟ یَـٰمُوسَىٰۤ إِنَّا لَن نَّدۡخُلَهَاۤ أَبَدࣰا مَّا دَامُوا۟ فِیهَا فَٱذۡهَبۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَنتَ وَرَبُّكَ فَقَـٰتِلَاۤ إِنَّا هَـٰهُنَا قَـٰعِدُونَ ۝٢٤ قَالَ رَبِّ إِنِّی",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَاۤ أَمۡلِكُ إِلَّا نَفۡسِی وَأَخِیۖ فَٱفۡرُقۡ بَیۡنَنَا وَبَیۡنَ ٱلۡقَوۡمِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱفْرُقْ",
+          "content": "فافضل بحُكمك",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 9,
+          "tokens": "فَٱفْرُقْ",
+          "content": "فافضل بحُكمك"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡفَـٰسِقِینَ ۝٢٥ قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَیۡهِمۡۛ أَرۡبَعِینَ سَنَةࣰۛ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱفْرُقْ",
+          "content": "فافضل بحُكمك",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَتِیهُونَ فِی ٱلۡأَرۡضِۚ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡفَـٰسِقِینَ ۝٢٦",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتِيهُونَ فِى ٱلْأَرْضِ",
+          "content": "يسيرون فيها مُتحيرين ضالين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "يَتِيهُونَ فِى ٱلْأَرْضِ",
+          "content": "يسيرون فيها مُتحيرين ضالين"
+        },
+        {
+          "start": 26,
+          "length": 12,
+          "tokens": "فَلَا تَأْسَ",
+          "content": "فلا تحزن"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱتۡلُ عَلَیۡهِمۡ نَبَأَ ٱبۡنَیۡ ءَادَمَ بِٱلۡحَقِّ إِذۡ قَرَّبَا قُرۡبَانࣰا فَتُقُبِّلَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرَّبَا",
+          "content": "ما يُتقرب به من البرّ إليه تعالى",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 8,
+          "tokens": "قَرَّبَا",
+          "content": "ما يُتقرب به من البرّ إليه تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِنۡ أَحَدِهِمَا وَلَمۡ یُتَقَبَّلۡ مِنَ ٱلۡـَٔاخَرِ قَالَ لَأَقۡتُلَنَّكَۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرَّبَا",
+          "content": "ما يُتقرب به من البرّ إليه تعالى",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "قَالَ إِنَّمَا یَتَقَبَّلُ ٱللَّهُ مِنَ ٱلۡمُتَّقِینَ ۝٢٧ لَىِٕنۢ بَسَطتَ إِلَیَّ یَدَكَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرَّبَا",
+          "content": "ما يُتقرب به من البرّ إليه تعالى",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لِتَقۡتُلَنِی مَاۤ أَنَا۠ بِبَاسِطࣲ یَدِیَ إِلَیۡكَ لِأَقۡتُلَكَۖ إِنِّیۤ أَخَافُ ٱللَّهَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "رَبَّ ٱلۡعَـٰلَمِینَ ۝٢٨ إِنِّیۤ أُرِیدُ أَن تَبُوۤأَ بِإِثۡمِی وَإِثۡمِكَ فَتَكُونَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِنۡ أَصۡحَـٰبِ ٱلنَّارِۚ وَذَ ٰ⁠لِكَ جَزَ ٰ⁠ۤؤُا۟ ٱلظَّـٰلِمِینَ ۝٢٩ فَطَوَّعَتۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبُوٓأَ بِإِثْمِى",
+          "content": "ترجع بإثم قتلي إذا قتلتني",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "وَإِثْمِكَ",
+          "content": "السابق المانع من قُبول قُربانك",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 5,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَهُۥ نَفۡسُهُۥ قَتۡلَ أَخِیهِ فَقَتَلَهُۥ فَأَصۡبَحَ مِنَ ٱلۡخَـٰسِرِینَ ۝٣٠",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ",
+          "content": "زيّنت وسهلت له نفسُهُ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "فَطَوَّعَتْ لَهُۥ نَفْسُهُۥ",
+          "content": "زيّنت وسهلت له نفسُهُ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَبَعَثَ ٱللَّهُ غُرَابࣰا یَبۡحَثُ فِی ٱلۡأَرۡضِ لِیُرِیَهُۥ كَیۡفَ یُوَ ٰ⁠رِی",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَبْحَثُ فِى ٱلْأَرْضِ",
+          "content": "يحفر فيها ليدفن غُرابا قتله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سَوْءَةَ أَخِيهِ",
+          "content": "جيفته أو عورته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "يَٰوَيْلَتَىٰٓ",
+          "content": "كلمةُ جزع وتحسر",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 22,
+          "tokens": "يَبْحَثُ فِى ٱلْأَرْضِ",
+          "content": "يحفر فيها ليدفن غُرابا قتله"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "سَوۡءَةَ أَخِیهِۚ قَالَ یَـٰوَیۡلَتَىٰۤ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَـٰذَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَبْحَثُ فِى ٱلْأَرْضِ",
+          "content": "يحفر فيها ليدفن غُرابا قتله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سَوْءَةَ أَخِيهِ",
+          "content": "جيفته أو عورته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "يَٰوَيْلَتَىٰٓ",
+          "content": "كلمةُ جزع وتحسر",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "سَوْءَةَ أَخِيهِ",
+          "content": "جيفته أو عورته"
+        },
+        {
+          "start": 24,
+          "length": 15,
+          "tokens": "يَٰوَيْلَتَىٰٓ",
+          "content": "كلمةُ جزع وتحسر"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡغُرَابِ فَأُوَ ٰ⁠رِیَ سَوۡءَةَ أَخِیۖ فَأَصۡبَحَ مِنَ ٱلنَّـٰدِمِینَ ۝٣١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَبْحَثُ فِى ٱلْأَرْضِ",
+          "content": "يحفر فيها ليدفن غُرابا قتله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سَوْءَةَ أَخِيهِ",
+          "content": "جيفته أو عورته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "يَٰوَيْلَتَىٰٓ",
+          "content": "كلمةُ جزع وتحسر",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 31
+        }
+      ]
+    }
+  ]
+}

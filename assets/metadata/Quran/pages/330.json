@@ -1,0 +1,387 @@
+{
+  "pageIndex": 330,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّتِیۤ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِیهَا مِن رُّوحِنَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَحْصَنَتْ فَرْجَهَا",
+          "content": "حفظته من الحلال والحرام",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "مِن رُّوحِنَا",
+          "content": "من جهة روحنا وهو جبريل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 20,
+          "tokens": "أَحْصَنَتْ فَرْجَهَا",
+          "content": "حفظته من الحلال والحرام"
+        },
+        {
+          "start": 51,
+          "length": 13,
+          "tokens": "مِن رُّوحِنَا",
+          "content": "من جهة روحنا وهو جبريل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَجَعَلۡنَـٰهَا وَٱبۡنَهَاۤ ءَایَةࣰ لِّلۡعَـٰلَمِینَ ۝٩١ إِنَّ هَـٰذِهِۦۤ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَحْصَنَتْ فَرْجَهَا",
+          "content": "حفظته من الحلال والحرام",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 91
+        },
+        {
+          "tokens": "مِن رُّوحِنَا",
+          "content": "من جهة روحنا وهو جبريل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أُمَّتُكُمۡ أُمَّةࣰ وَ ٰ⁠حِدَةࣰ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ ۝٩٢",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّتُكُمْ",
+          "content": "ملّتكم (الإسلام)",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "أُمَّتُكُمْ",
+          "content": "ملّتكم (الإسلام)"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَتَقَطَّعُوۤا۟ أَمۡرَهُم بَیۡنَهُمۡۖ كُلٌّ إِلَیۡنَا رَ ٰ⁠جِعُونَ ۝٩٣",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَقَطَّعُوٓا۟ أَمْرَهُم",
+          "content": "تفرّقوا في دينهم فِرقا وأحزابا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 21,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "وَتَقَطَّعُوٓا۟ أَمْرَهُم",
+          "content": "تفرّقوا في دينهم فِرقا وأحزابا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَمَن یَعۡمَلۡ مِنَ ٱلصَّـٰلِحَـٰتِ وَهُوَ مُؤۡمِنࣱ فَلَا كُفۡرَانَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لِسَعۡیِهِۦ وَإِنَّا لَهُۥ كَـٰتِبُونَ ۝٩٤ وَحَرَ ٰ⁠مٌ عَلَىٰ قَرۡیَةٍ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَهۡلَكۡنَـٰهَاۤ أَنَّهُمۡ لَا یَرۡجِعُونَ ۝٩٥ حَتَّىٰۤ إِذَا فُتِحَتۡ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَرَٰمٌ عَلَىٰ قَرْيَةٍ",
+          "content": "مُمتنِعٌ البتّة على أهل قرية",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 95
+        },
+        {
+          "tokens": "أَنَّهُمْ لَا يَرْجِعُونَ",
+          "content": "إلينا بالبعث للجزاء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 95
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 25,
+          "tokens": "أَنَّهُمْ لَا يَرْجِعُونَ",
+          "content": "إلينا بالبعث للجزاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبࣲ یَنسِلُونَ ۝٩٦",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَدَبٍ",
+          "content": "مرتفع من الأرض",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 21,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "يَنسِلُونَ",
+          "content": "يُسرعون المشي في الخروج",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 21,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 6,
+          "tokens": "حَدَبٍ",
+          "content": "مرتفع من الأرض"
+        },
+        {
+          "start": 46,
+          "length": 10,
+          "tokens": "يَنسِلُونَ",
+          "content": "يُسرعون المشي في الخروج"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِیَ شَـٰخِصَةٌ أَبۡصَـٰرُ ٱلَّذِینَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْوَعْدُ ٱلْحَقُّ",
+          "content": "البعث والحساب والجزاء",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "شَٰخِصَةٌ أَبْصَٰرُ",
+          "content": "مُرتفعة لا تكاد تطرف أبصار",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 18,
+          "tokens": "ٱلْوَعْدُ ٱلْحَقُّ",
+          "content": "البعث والحساب والجزاء"
+        },
+        {
+          "start": 44,
+          "length": 21,
+          "tokens": "شَٰخِصَةٌ أَبْصَٰرُ",
+          "content": "مُرتفعة لا تكاد تطرف أبصار"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "كَفَرُوا۟ یَـٰوَیۡلَنَا قَدۡ كُنَّا فِی غَفۡلَةࣲ مِّنۡ هَـٰذَا بَلۡ كُنَّا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْوَعْدُ ٱلْحَقُّ",
+          "content": "البعث والحساب والجزاء",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "شَٰخِصَةٌ أَبْصَٰرُ",
+          "content": "مُرتفعة لا تكاد تطرف أبصار",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ظَـٰلِمِینَ ۝٩٧ إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْوَعْدُ ٱلْحَقُّ",
+          "content": "البعث والحساب والجزاء",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "شَٰخِصَةٌ أَبْصَٰرُ",
+          "content": "مُرتفعة لا تكاد تطرف أبصار",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَ ٰ⁠رِدُونَ ۝٩٨ لَوۡ كَانَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَصَبُ جَهَنَّمَ",
+          "content": "حطبها ووقودها الذي به تهيَّج",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 21,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "لَهَا وَٰرِدُونَ",
+          "content": "فيها داخلون",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 21,
+          "ayahIndex": 98
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "حَصَبُ جَهَنَّمَ",
+          "content": "حطبها ووقودها الذي به تهيَّج"
+        },
+        {
+          "start": 25,
+          "length": 18,
+          "tokens": "لَهَا وَٰرِدُونَ",
+          "content": "فيها داخلون"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "هَـٰۤؤُلَاۤءِ ءَالِهَةࣰ مَّا وَرَدُوهَاۖ وَكُلࣱّ فِیهَا خَـٰلِدُونَ ۝٩٩",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَهُمۡ فِیهَا زَفِیرࣱ وَهُمۡ فِیهَا لَا یَسۡمَعُونَ ۝١٠٠ إِنَّ ٱلَّذِینَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَفِيرٌ",
+          "content": "تنفّس شديد تنتفخ منه الضّلوع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 100
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 7,
+          "tokens": "زَفِيرٌ",
+          "content": "تنفّس شديد تنتفخ منه الضّلوع"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "سَبَقَتۡ لَهُم مِّنَّا ٱلۡحُسۡنَىٰۤ أُو۟لَـٰۤىِٕكَ عَنۡهَا مُبۡعَدُونَ ۝١٠١",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

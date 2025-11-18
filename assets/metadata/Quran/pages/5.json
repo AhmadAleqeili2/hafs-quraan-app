@@ -1,0 +1,225 @@
+{
+  "pageIndex": 5,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَبَشِّرِ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمۡ جَنَّـٰتࣲ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُتَشَٰبِهًا",
+          "content": "في اللون والمنظر لا في الطعم",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُۖ كُلَّمَا رُزِقُوا۟ مِنۡهَا مِن ثَمَرَةࣲ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُتَشَٰبِهًا",
+          "content": "في اللون والمنظر لا في الطعم",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "رِّزۡقࣰا قَالُوا۟ هَـٰذَا ٱلَّذِی رُزِقۡنَا مِن قَبۡلُۖ وَأُتُوا۟ بِهِۦ مُتَشَـٰبِهࣰاۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُتَشَٰبِهًا",
+          "content": "في اللون والمنظر لا في الطعم",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 72,
+          "length": 14,
+          "tokens": "مُتَشَٰبِهًا",
+          "content": "في اللون والمنظر لا في الطعم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَهُمۡ فِیهَاۤ أَزۡوَ ٰ⁠جࣱ مُّطَهَّرَةࣱۖ وَهُمۡ فِیهَا خَـٰلِدُونَ ۝٢٥ إِنَّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُتَشَٰبِهًا",
+          "content": "في اللون والمنظر لا في الطعم",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهَ لَا یَسۡتَحۡیِۦۤ أَن یَضۡرِبَ مَثَلࣰا مَّا بَعُوضَةࣰ فَمَا فَوۡقَهَاۚ فَأَمَّا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلَّذِینَ ءَامَنُوا۟ فَیَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ فَیَقُولُونَ مَاذَاۤ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلࣰاۘ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "یُضِلُّ بِهِۦ كَثِیرࣰا وَیَهۡدِی بِهِۦ كَثِیرࣰاۚ وَمَا یُضِلُّ بِهِۦۤ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَّا ٱلۡفَـٰسِقِینَ ۝٢٦ ٱلَّذِینَ یَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِیثَـٰقِهِۦ وَیَقۡطَعُونَ مَاۤ أَمَرَ ٱللَّهُ بِهِۦۤ أَن یُوصَلَ وَیُفۡسِدُونَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِی ٱلۡأَرۡضِۚ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡخَـٰسِرُونَ ۝٢٧ كَیۡفَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَ ٰ⁠تࣰا فَأَحۡیَـٰكُمۡۖ ثُمَّ یُمِیتُكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ثُمَّ یُحۡیِیكُمۡ ثُمَّ إِلَیۡهِ تُرۡجَعُونَ ۝٢٨ هُوَ ٱلَّذِی خَلَقَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَكُم مَّا فِی ٱلۡأَرۡضِ جَمِیعࣰا ثُمَّ ٱسۡتَوَىٰۤ إِلَى ٱلسَّمَاۤءِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ",
+          "content": "قصد إلى خلقِها بإرادتهِ قصداً سويا بلا صارفٍ عنه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "فَسَوَّىٰهُنَّ",
+          "content": "أتمهنَّ وقومهُنَّ وأحكمهنَّ",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 28,
+          "tokens": "ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ",
+          "content": "قصد إلى خلقِها بإرادتهِ قصداً سويا بلا صارفٍ عنه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَسَوَّىٰهُنَّ سَبۡعَ سَمَـٰوَ ٰ⁠تࣲۚ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝٢٩",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ",
+          "content": "قصد إلى خلقِها بإرادتهِ قصداً سويا بلا صارفٍ عنه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "فَسَوَّىٰهُنَّ",
+          "content": "أتمهنَّ وقومهُنَّ وأحكمهنَّ",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "فَسَوَّىٰهُنَّ",
+          "content": "أتمهنَّ وقومهُنَّ وأحكمهنَّ"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "pageIndex": 62,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَن تَنَالُوا۟ ٱلۡبِرَّ حَتَّىٰ تُنفِقُوا۟ مِمَّا تُحِبُّونَۚ وَمَا تُنفِقُوا۟ مِن شَیۡءࣲ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبِرَّ",
+          "content": "الإحسان وكمال الخير",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 8,
+          "tokens": "ٱلْبِرَّ",
+          "content": "الإحسان وكمال الخير"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَإِنَّ ٱللَّهَ بِهِۦ عَلِیمࣱ ۝٩٢ كُلُّ ٱلطَّعَامِ كَانَ حِلࣰّا لِّبَنِیۤ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبِرَّ",
+          "content": "الإحسان وكمال الخير",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 92
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِسۡرَ ٰ⁠ۤءِیلَ إِلَّا مَا حَرَّمَ إِسۡرَ ٰ⁠ۤءِیلُ عَلَىٰ نَفۡسِهِۦ مِن قَبۡلِ أَن تُنَزَّلَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِسْرَٰٓءِيلَ",
+          "content": "يعقوب بن إسحاق عليهما السلام",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "إِسْرَٰٓءِيلَ",
+          "content": "يعقوب بن إسحاق عليهما السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلتَّوۡرَىٰةُۚ قُلۡ فَأۡتُوا۟ بِٱلتَّوۡرَىٰةِ فَٱتۡلُوهَاۤ إِن كُنتُمۡ صَـٰدِقِینَ ۝٩٣",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِسْرَٰٓءِيلَ",
+          "content": "يعقوب بن إسحاق عليهما السلام",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 93
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَمَنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ ٱلۡكَذِبَ مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ فَأُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "هُمُ ٱلظَّـٰلِمُونَ ۝٩٤ قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُوا۟ مِلَّةَ إِبۡرَ ٰ⁠هِیمَ حَنِیفࣰاۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِینَ ۝٩٥ إِنَّ أَوَّلَ بَیۡتࣲ وُضِعَ لِلنَّاسِ لَلَّذِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلاً عن الباطل إلى الدِّين الحقّ",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 95
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "بِبَكَّةَ مُبَارَكࣰا وَهُدࣰى لِّلۡعَـٰلَمِینَ ۝٩٦ فِیهِ ءَایَـٰتُۢ بَیِّنَـٰتࣱ مَّقَامُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِبَكَّةَ",
+          "content": "مكة المكرمة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "بِبَكَّةَ",
+          "content": "مكة المكرمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِبۡرَ ٰ⁠هِیمَۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنࣰاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَیۡتِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَنِ ٱسۡتَطَاعَ إِلَیۡهِ سَبِیلࣰاۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِیٌّ عَنِ ٱلۡعَـٰلَمِینَ ۝٩٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَكۡفُرُونَ بِـَٔایَـٰتِ ٱللَّهِ وَٱللَّهُ شَهِیدٌ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَلَىٰ مَا تَعۡمَلُونَ ۝٩٨ قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَصُدُّونَ عَن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "سَبِیلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجࣰا وَأَنتُمۡ شُهَدَاۤءُۗ وَمَا ٱللَّهُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبْغُونَهَا عِوَجًا",
+          "content": "تطلبونها مُعْوجّة أو ذات اعوجاج",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 20,
+          "tokens": "تَبْغُونَهَا عِوَجًا",
+          "content": "تطلبونها مُعْوجّة أو ذات اعوجاج"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ ۝٩٩ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تُطِیعُوا۟ فَرِیقࣰا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبْغُونَهَا عِوَجًا",
+          "content": "تطلبونها مُعْوجّة أو ذات اعوجاج",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 99
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِّنَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ یَرُدُّوكُم بَعۡدَ إِیمَـٰنِكُمۡ كَـٰفِرِینَ ۝١٠٠",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

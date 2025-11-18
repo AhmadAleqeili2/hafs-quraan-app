@@ -1,0 +1,431 @@
+{
+  "pageIndex": 422,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَن یَقۡنُتۡ مِنكُنَّ لِلَّهِ وَرَسُولِهِۦ وَتَعۡمَلۡ صَـٰلِحࣰا نُّؤۡتِهَاۤ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَقْنُتْ مِنكُنَّ",
+          "content": "تطِعْ أو تخضعْ منكنّ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 17,
+          "tokens": "يَقْنُتْ مِنكُنَّ",
+          "content": "تطِعْ أو تخضعْ منكنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَجۡرَهَا مَرَّتَیۡنِ وَأَعۡتَدۡنَا لَهَا رِزۡقࣰا كَرِیمࣰا ۝٣١ یَـٰنِسَاۤءَ ٱلنَّبِیِّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَقْنُتْ مِنكُنَّ",
+          "content": "تطِعْ أو تخضعْ منكنّ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَسۡتُنَّ كَأَحَدࣲ مِّنَ ٱلنِّسَاۤءِ إِنِ ٱتَّقَیۡتُنَّۚ فَلَا تَخۡضَعۡنَ بِٱلۡقَوۡلِ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَخْضَعْنَ بِٱلْقَوْلِ",
+          "content": "لا تلنّ القول ولا ترقّقنه للرّجال",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 33,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 28,
+          "tokens": "فَلَا تَخْضَعْنَ بِٱلْقَوْلِ",
+          "content": "لا تلنّ القول ولا ترقّقنه للرّجال"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَیَطۡمَعَ ٱلَّذِی فِی قَلۡبِهِۦ مَرَضࣱ وَقُلۡنَ قَوۡلࣰا مَّعۡرُوفࣰا ۝٣٢ وَقَرۡنَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَخْضَعْنَ بِٱلْقَوْلِ",
+          "content": "لا تلنّ القول ولا ترقّقنه للرّجال",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 33,
+          "ayahIndex": 32
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فِی بُیُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَـٰهِلِیَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرْنَ فِى بُيُوتِكُنَّ",
+          "content": "الزمنَ بيوتكنّ وكذا جميع النّساء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَلَا تَبَرَّجْنَ",
+          "content": "لا تُبدين الزّينة الواجب سترُها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ",
+          "content": "ما كان قبل الإسلام من الجهالات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "الذنب، أو الإثم أو النّقص",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "وَقَرْنَ فِى بُيُوتِكُنَّ",
+          "content": "الزمنَ بيوتكنّ وكذا جميع النّساء"
+        },
+        {
+          "start": 17,
+          "length": 17,
+          "tokens": "وَلَا تَبَرَّجْنَ",
+          "content": "لا تُبدين الزّينة الواجب سترُها"
+        },
+        {
+          "start": 45,
+          "length": 28,
+          "tokens": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ",
+          "content": "ما كان قبل الإسلام من الجهالات"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلصَّلَوٰةَ وَءَاتِینَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥۤۚ إِنَّمَا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرْنَ فِى بُيُوتِكُنَّ",
+          "content": "الزمنَ بيوتكنّ وكذا جميع النّساء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَلَا تَبَرَّجْنَ",
+          "content": "لا تُبدين الزّينة الواجب سترُها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ",
+          "content": "ما كان قبل الإسلام من الجهالات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "الذنب، أو الإثم أو النّقص",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یُرِیدُ ٱللَّهُ لِیُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَیۡتِ وَیُطَهِّرَكُمۡ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرْنَ فِى بُيُوتِكُنَّ",
+          "content": "الزمنَ بيوتكنّ وكذا جميع النّساء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَلَا تَبَرَّجْنَ",
+          "content": "لا تُبدين الزّينة الواجب سترُها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ",
+          "content": "ما كان قبل الإسلام من الجهالات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "الذنب، أو الإثم أو النّقص",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 9,
+          "tokens": "ٱلرِّجْسَ",
+          "content": "الذنب، أو الإثم أو النّقص"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَطۡهِیرࣰا ۝٣٣ وَٱذۡكُرۡنَ مَا یُتۡلَىٰ فِی بُیُوتِكُنَّ مِنۡ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَرْنَ فِى بُيُوتِكُنَّ",
+          "content": "الزمنَ بيوتكنّ وكذا جميع النّساء",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَلَا تَبَرَّجْنَ",
+          "content": "لا تُبدين الزّينة الواجب سترُها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلْجَٰهِلِيَّةِ ٱلْأُولَىٰ",
+          "content": "ما كان قبل الإسلام من الجهالات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "الذنب، أو الإثم أو النّقص",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 33,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ءَایَـٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ إِنَّ ٱللَّهَ كَانَ لَطِیفًا خَبِیرًا ۝٣٤",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْحِكْمَةِ",
+          "content": "هدي النّبوّة أو أحكام القرآن",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 14,
+          "tokens": "وَٱلْحِكْمَةِ",
+          "content": "هدي النّبوّة أو أحكام القرآن"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِنَّ ٱلۡمُسۡلِمِینَ وَٱلۡمُسۡلِمَـٰتِ وَٱلۡمُؤۡمِنِینَ وَٱلۡمُؤۡمِنَـٰتِ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَٱلۡقَـٰنِتِینَ وَٱلۡقَـٰنِتَـٰتِ وَٱلصَّـٰدِقِینَ وَٱلصَّـٰدِقَـٰتِ وَٱلصَّـٰبِرِینَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَٱلصَّـٰبِرَ ٰ⁠تِ وَٱلۡخَـٰشِعِینَ وَٱلۡخَـٰشِعَـٰتِ وَٱلۡمُتَصَدِّقِینَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱلۡمُتَصَدِّقَـٰتِ وَٱلصَّـٰۤىِٕمِینَ وَٱلصَّـٰۤىِٕمَـٰتِ وَٱلۡحَـٰفِظِینَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فُرُوجَهُمۡ وَٱلۡحَـٰفِظَـٰتِ وَٱلذَّ ٰ⁠كِرِینَ ٱللَّهَ كَثِیرࣰا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَٱلذَّ ٰ⁠كِرَ ٰ⁠تِ أَعَدَّ ٱللَّهُ لَهُم مَّغۡفِرَةࣰ وَأَجۡرًا عَظِیمࣰا ۝٣٥",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْقَٰنِتِينَ",
+          "content": "المطيعين الخاضعين لله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 35
+        }
+      ]
+    }
+  ]
+}

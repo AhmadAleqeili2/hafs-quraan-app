@@ -1,0 +1,307 @@
+{
+  "pageIndex": 475,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "هُوَ ٱلَّذِی خَلَقَكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال عَقلكم وقوتِكمْ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "یُخۡرِجُكُمۡ طِفۡلࣰا ثُمَّ لِتَبۡلُغُوۤا۟ أَشُدَّكُمۡ ثُمَّ لِتَكُونُوا۟ شُیُوخࣰاۚ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال عَقلكم وقوتِكمْ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 26,
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال عَقلكم وقوتِكمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَمِنكُم مَّن یُتَوَفَّىٰ مِن قَبۡلُۖ وَلِتَبۡلُغُوۤا۟ أَجَلࣰا مُّسَمࣰّى وَلَعَلَّكُمۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال عَقلكم وقوتِكمْ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَعۡقِلُونَ ۝٦٧ هُوَ ٱلَّذِی یُحۡیِۦ وَیُمِیتُۖ فَإِذَا قَضَىٰۤ أَمۡرࣰا فَإِنَّمَا",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال عَقلكم وقوتِكمْ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 40,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَقُولُ لَهُۥ كُن فَیَكُونُ ۝٦٨ أَلَمۡ تَرَ إِلَى ٱلَّذِینَ یُجَـٰدِلُونَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَضَىٰٓ أَمْرًا",
+          "content": "أرَاد إيجادَ أمرٍ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 40,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِیۤ ءَایَـٰتِ ٱللَّهِ أَنَّىٰ یُصۡرَفُونَ ۝٦٩ ٱلَّذِینَ كَذَّبُوا۟ بِٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنَّىٰ يُصْرَفُونَ",
+          "content": "كيف يُصرفون عن الآيات مع صِدْقِها ووضوحها ؟",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 40,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 19,
+          "tokens": "أَنَّىٰ يُصْرَفُونَ",
+          "content": "كيف يُصرفون عن الآيات مع صِدْقِها ووضوحها ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَبِمَاۤ أَرۡسَلۡنَا بِهِۦ رُسُلَنَاۖ فَسَوۡفَ یَعۡلَمُونَ ۝٧٠ إِذِ ٱلۡأَغۡلَـٰلُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فِیۤ أَعۡنَـٰقِهِمۡ وَٱلسَّلَـٰسِلُ یُسۡحَبُونَ ۝٧١ فِی ٱلۡحَمِیمِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَغْلَٰلُ",
+          "content": "القيود تجمع الأيدي إلى الأعناق",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ثُمَّ فِی ٱلنَّارِ یُسۡجَرُونَ ۝٧٢ ثُمَّ قِیلَ لَهُمۡ أَیۡنَ مَا كُنتُمۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحَمِيمِ",
+          "content": "الماء البالغ نِهاية الحرارة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 72
+        },
+        {
+          "tokens": "يُسْجَرُونَ",
+          "content": "توقد أو تُملأ بهِمْ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 72
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "يُسْجَرُونَ",
+          "content": "توقد أو تُملأ بهِمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "تُشۡرِكُونَ ۝٧٣ مِن دُونِ ٱللَّهِۖ قَالُوا۟ ضَلُّوا۟ عَنَّا بَل لَّمۡ نَكُن",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "نَّدۡعُوا۟ مِن قَبۡلُ شَیۡـࣰٔاۚ كَذَ ٰ⁠لِكَ یُضِلُّ ٱللَّهُ ٱلۡكَـٰفِرِینَ ۝٧٤",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ذَ ٰ⁠لِكُم بِمَا كُنتُمۡ تَفۡرَحُونَ فِی ٱلۡأَرۡضِ بِغَیۡرِ ٱلۡحَقِّ وَبِمَا كُنتُمۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَفْرَحُونَ",
+          "content": "تَبْطرونَ وتأشرون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 40,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "تَمْرَحُونَ",
+          "content": "تتوسّعون في الفرح والبطر",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 40,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 11,
+          "tokens": "تَفْرَحُونَ",
+          "content": "تَبْطرونَ وتأشرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "تَمۡرَحُونَ ۝٧٥ ٱدۡخُلُوۤا۟ أَبۡوَ ٰ⁠بَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۖ فَبِئۡسَ مَثۡوَى",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَفْرَحُونَ",
+          "content": "تَبْطرونَ وتأشرون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 40,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "تَمْرَحُونَ",
+          "content": "تتوسّعون في الفرح والبطر",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 40,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "تَمْرَحُونَ",
+          "content": "تتوسّعون في الفرح والبطر"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡمُتَكَبِّرِینَ ۝٧٦ فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّۚ فَإِمَّا نُرِیَنَّكَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوَى ٱلْمُتَكَبِّرِينَ",
+          "content": "مأواهمْ ومُقامَهمْ",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 40,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "مَثْوَى ٱلْمُتَكَبِّرِينَ",
+          "content": "مأواهمْ ومُقامَهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بَعۡضَ ٱلَّذِی نَعِدُهُمۡ أَوۡ نَتَوَفَّیَنَّكَ فَإِلَیۡنَا یُرۡجَعُونَ ۝٧٧",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

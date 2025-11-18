@@ -1,0 +1,329 @@
+{
+  "pageIndex": 351,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱلَّذِینَ جَاۤءُو بِٱلۡإِفۡكِ عُصۡبَةࣱ مِّنكُمۡۚ لَا تَحۡسَبُوهُ شَرࣰّا لَّكُمۖ بَلۡ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْإِفْكِ",
+          "content": "أقبح الكذب وأفحشه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "عُصْبَةٌ مِّنكُمْ",
+          "content": "جماعة منكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "تَوَلَّىٰ كِبْرَهُۥ",
+          "content": "تحمّل معظمه (رأس المنافقين)",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 11,
+          "tokens": "بِٱلْإِفْكِ",
+          "content": "أقبح الكذب وأفحشه"
+        },
+        {
+          "start": 36,
+          "length": 18,
+          "tokens": "عُصْبَةٌ مِّنكُمْ",
+          "content": "جماعة منكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "هُوَ خَیۡرࣱ لَّكُمۡۚ لِكُلِّ ٱمۡرِئࣲ مِّنۡهُم مَّا ٱكۡتَسَبَ مِنَ ٱلۡإِثۡمِۚ وَٱلَّذِی تَوَلَّىٰ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْإِفْكِ",
+          "content": "أقبح الكذب وأفحشه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "عُصْبَةٌ مِّنكُمْ",
+          "content": "جماعة منكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "تَوَلَّىٰ كِبْرَهُۥ",
+          "content": "تحمّل معظمه (رأس المنافقين)",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 87,
+          "length": 9,
+          "tokens": "تَوَلَّىٰ كِبْرَهُۥ",
+          "content": "تحمّل معظمه (رأس المنافقين)"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "كِبۡرَهُۥ مِنۡهُمۡ لَهُۥ عَذَابٌ عَظِیمࣱ ۝١١ لَّوۡلَاۤ إِذۡ سَمِعۡتُمُوهُ ظَنَّ ٱلۡمُؤۡمِنُونَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْإِفْكِ",
+          "content": "أقبح الكذب وأفحشه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "عُصْبَةٌ مِّنكُمْ",
+          "content": "جماعة منكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "تَوَلَّىٰ كِبْرَهُۥ",
+          "content": "تحمّل معظمه (رأس المنافقين)",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 24,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "تَوَلَّىٰ كِبْرَهُۥ",
+          "content": "تحمّل معظمه (رأس المنافقين)"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَٱلۡمُؤۡمِنَـٰتُ بِأَنفُسِهِمۡ خَیۡرࣰا وَقَالُوا۟ هَـٰذَاۤ إِفۡكࣱ مُّبِینࣱ ۝١٢ لَّوۡلَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "جَاۤءُو عَلَیۡهِ بِأَرۡبَعَةِ شُهَدَاۤءَۚ فَإِذۡ لَمۡ یَأۡتُوا۟ بِٱلشُّهَدَاۤءِ فَأُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "عِندَ ٱللَّهِ هُمُ ٱلۡكَـٰذِبُونَ ۝١٣ وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِ لَمَسَّكُمۡ فِی مَاۤ أَفَضۡتُمۡ فِیهِ عَذَابٌ عَظِیمٌ ۝١٤",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَضْتُمْ فِيهِ",
+          "content": "خضتم فيه من حديث الإفك",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 24,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 16,
+          "tokens": "أَفَضْتُمْ فِيهِ",
+          "content": "خضتم فيه من حديث الإفك"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِذۡ تَلَقَّوۡنَهُۥ بِأَلۡسِنَتِكُمۡ وَتَقُولُونَ بِأَفۡوَاهِكُم مَّا لَیۡسَ لَكُم بِهِۦ عِلۡمࣱ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَحْسَبُونَهُۥ هَيِّنًا",
+          "content": "تظنونه سهلا لا تبعة له",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 24,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَتَحۡسَبُونَهُۥ هَیِّنࣰا وَهُوَ عِندَ ٱللَّهِ عَظِیمࣱ ۝١٥ وَلَوۡلَاۤ إِذۡ سَمِعۡتُمُوهُ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَحْسَبُونَهُۥ هَيِّنًا",
+          "content": "تظنونه سهلا لا تبعة له",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 24,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "وَتَحْسَبُونَهُۥ هَيِّنًا",
+          "content": "تظنونه سهلا لا تبعة له"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "قُلۡتُم مَّا یَكُونُ لَنَاۤ أَن نَّتَكَلَّمَ بِهَـٰذَا سُبۡحَـٰنَكَ هَـٰذَا بُهۡتَـٰنٌ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَكَ",
+          "content": "تعجّب من شناعة هذا الإفك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 24,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "بُهْتَٰنٌ",
+          "content": "كذب يُحيّر سامعه لفظاعته",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 24,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 12,
+          "tokens": "سُبْحَٰنَكَ",
+          "content": "تعجّب من شناعة هذا الإفك"
+        },
+        {
+          "start": 76,
+          "length": 10,
+          "tokens": "بُهْتَٰنٌ",
+          "content": "كذب يُحيّر سامعه لفظاعته"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَظِیمࣱ ۝١٦ یَعِظُكُمُ ٱللَّهُ أَن تَعُودُوا۟ لِمِثۡلِهِۦۤ أَبَدًا إِن كُنتُم",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَكَ",
+          "content": "تعجّب من شناعة هذا الإفك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 24,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "بُهْتَٰنٌ",
+          "content": "كذب يُحيّر سامعه لفظاعته",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 24,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مُّؤۡمِنِینَ ۝١٧ وَیُبَیِّنُ ٱللَّهُ لَكُمُ ٱلۡـَٔایَـٰتِۚ وَٱللَّهُ عَلِیمٌ حَكِیمٌ ۝١٨ إِنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِینَ یُحِبُّونَ أَن تَشِیعَ ٱلۡفَـٰحِشَةُ فِی ٱلَّذِینَ ءَامَنُوا۟ لَهُمۡ عَذَابٌ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَلِیمࣱ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِۚ وَٱللَّهُ یَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ ۝١٩ وَلَوۡلَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ وَأَنَّ ٱللَّهَ رَءُوفࣱ رَّحِیمࣱ ۝٢٠",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "pageIndex": 220,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَوۡلَا كَانَتۡ قَرۡیَةٌ ءَامَنَتۡ فَنَفَعَهَاۤ إِیمَـٰنُهَاۤ إِلَّا قَوۡمَ یُونُسَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَذَابَ ٱلْخِزْىِ",
+          "content": "الذّلّ والهوان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 98
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَمَّاۤ ءَامَنُوا۟ كَشَفۡنَا عَنۡهُمۡ عَذَابَ ٱلۡخِزۡیِ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَذَابَ ٱلْخِزْىِ",
+          "content": "الذّلّ والهوان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 98
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 17,
+          "tokens": "عَذَابَ ٱلْخِزْىِ",
+          "content": "الذّلّ والهوان"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَمَتَّعۡنَـٰهُمۡ إِلَىٰ حِینࣲ ۝٩٨ وَلَوۡ شَاۤءَ رَبُّكَ لَـَٔامَنَ مَن فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَذَابَ ٱلْخِزْىِ",
+          "content": "الذّلّ والهوان",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 98
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كُلُّهُمۡ جَمِیعًاۚ أَفَأَنتَ تُكۡرِهُ ٱلنَّاسَ حَتَّىٰ یَكُونُوا۟ مُؤۡمِنِینَ ۝٩٩",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَمَا كَانَ لِنَفۡسٍ أَن تُؤۡمِنَ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَیَجۡعَلُ ٱلرِّجۡسَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَجْعَلُ ٱلرِّجْسَ",
+          "content": "العذاب، أو السّخط",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 10,
+          "ayahIndex": 100
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 20,
+          "tokens": "وَيَجْعَلُ ٱلرِّجْسَ",
+          "content": "العذاب، أو السّخط"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلَى ٱلَّذِینَ لَا یَعۡقِلُونَ ۝١٠٠ قُلِ ٱنظُرُوا۟ مَاذَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَجْعَلُ ٱلرِّجْسَ",
+          "content": "العذاب، أو السّخط",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 10,
+          "ayahIndex": 100
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱلۡأَرۡضِۚ وَمَا تُغۡنِی ٱلۡـَٔایَـٰتُ وَٱلنُّذُرُ عَن قَوۡمࣲ لَّا یُؤۡمِنُونَ ۝١٠١",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَهَلۡ یَنتَظِرُونَ إِلَّا مِثۡلَ أَیَّامِ ٱلَّذِینَ خَلَوۡا۟ مِن قَبۡلِهِمۡۚ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "قُلۡ فَٱنتَظِرُوۤا۟ إِنِّی مَعَكُم مِّنَ ٱلۡمُنتَظِرِینَ ۝١٠٢ ثُمَّ نُنَجِّی",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "رُسُلَنَا وَٱلَّذِینَ ءَامَنُوا۟ۚ كَذَ ٰ⁠لِكَ حَقًّا عَلَیۡنَا نُنجِ ٱلۡمُؤۡمِنِینَ ۝١٠٣",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "قُلۡ یَـٰۤأَیُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِی شَكࣲّ مِّن دِینِی فَلَاۤ أَعۡبُدُ ٱلَّذِینَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَـٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِی یَتَوَفَّىٰكُمۡۖ وَأُمِرۡتُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِینَ ۝١٠٤ وَأَنۡ أَقِمۡ وَجۡهَكَ لِلدِّینِ حَنِیفࣰا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِینَ ۝١٠٥ وَلَا تَدۡعُ مِن دُونِ ٱللَّهِ مَا لَا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقِمْ وَجْهَكَ لِلدِّينِ",
+          "content": "اصرف ذاتك كلّها للدّين الحنيفيّ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 105
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الأديان الباطلة كلّها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 105
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَنفَعُكَ وَلَا یَضُرُّكَۖ فَإِن فَعَلۡتَ فَإِنَّكَ إِذࣰا مِّنَ ٱلظَّـٰلِمِینَ ۝١٠٦",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

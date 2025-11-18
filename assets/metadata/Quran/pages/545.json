@@ -1,0 +1,455 @@
+{
+  "pageIndex": 545,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَّا تَجِدُ قَوۡمࣰا یُؤۡمِنُونَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ یُوَاۤدُّونَ مَنۡ حَاۤدَّ",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱللَّهَ وَرَسُولَهُۥ وَلَوۡ كَانُوۤا۟ ءَابَاۤءَهُمۡ أَوۡ أَبۡنَاۤءَهُمۡ أَوۡ إِخۡوَ ٰ⁠نَهُمۡ",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَوۡ عَشِیرَتَهُمۡۚ أُو۟لَـٰۤىِٕكَ كَتَبَ فِی قُلُوبِهِمُ ٱلۡإِیمَـٰنَ وَأَیَّدَهُم",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِرُوحࣲ مِّنۡهُۖ وَیُدۡخِلُهُمۡ جَنَّـٰتࣲ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "خَـٰلِدِینَ فِیهَاۚ رَضِیَ ٱللَّهُ عَنۡهُمۡ وَرَضُوا۟ عَنۡهُۚ أُو۟لَـٰۤىِٕكَ حِزۡبُ",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱللَّهِۚ أَلَاۤ إِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡمُفۡلِحُونَ ۝٢٢",
+      "surahIndexFirst": 58,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحٍ مِّنْهُ",
+          "content": "بنور يقذفه في قلوبهم، أو بالقرآن",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 58,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 8998,
+      "text": "سورة الحشر",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزّهَه ومَجّدَهُ تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 59,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 8999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزّهَه ومَجّدَهُ تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 59,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "سَبَّحَ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِیزُ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزّهَه ومَجّدَهُ تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 59,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزّهَه ومَجّدَهُ تعالى ودلّ عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡحَكِیمُ ۝١ هُوَ ٱلَّذِیۤ أَخۡرَجَ ٱلَّذِینَ كَفَرُوا۟ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ مِن",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزّهَه ومَجّدَهُ تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 59,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "دِیَـٰرِهِمۡ لِأَوَّلِ ٱلۡحَشۡرِۚ مَا ظَنَنتُمۡ أَن یَخۡرُجُوا۟ۖ وَظَنُّوۤا۟ أَنَّهُم مَّانِعَتُهُمۡ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِينَ كَفَرُوا۟",
+          "content": "هو يهود بني النضير قرب المدينة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لِأَوَّلِ ٱلْحَشْرِ",
+          "content": "في أول إخراج وإجلاء إلى الشام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "فَأَتَىٰهُمُ ٱللَّهُ",
+          "content": "فأتاهم أمره وعقابه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لَمْ يَحْتَسِبُوا۟",
+          "content": "لم يظنوا ولم يخطر لهم ببَال",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَقَذَفَ",
+          "content": "ألقى وأنزل إنزالا شديدا",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 20,
+          "tokens": "لِأَوَّلِ ٱلْحَشْرِ",
+          "content": "في أول إخراج وإجلاء إلى الشام"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنۡ حَیۡثُ لَمۡ یَحۡتَسِبُوا۟ۖ وَقَذَفَ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِينَ كَفَرُوا۟",
+          "content": "هو يهود بني النضير قرب المدينة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لِأَوَّلِ ٱلْحَشْرِ",
+          "content": "في أول إخراج وإجلاء إلى الشام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "فَأَتَىٰهُمُ ٱللَّهُ",
+          "content": "فأتاهم أمره وعقابه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لَمْ يَحْتَسِبُوا۟",
+          "content": "لم يظنوا ولم يخطر لهم ببَال",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَقَذَفَ",
+          "content": "ألقى وأنزل إنزالا شديدا",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 20,
+          "tokens": "فَأَتَىٰهُمُ ٱللَّهُ",
+          "content": "فأتاهم أمره وعقابه"
+        },
+        {
+          "start": 58,
+          "length": 19,
+          "tokens": "لَمْ يَحْتَسِبُوا۟",
+          "content": "لم يظنوا ولم يخطر لهم ببَال"
+        },
+        {
+          "start": 78,
+          "length": 8,
+          "tokens": "وَقَذَفَ",
+          "content": "ألقى وأنزل إنزالا شديدا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فِی قُلُوبِهِمُ ٱلرُّعۡبَۚ یُخۡرِبُونَ بُیُوتَهُم بِأَیۡدِیهِمۡ وَأَیۡدِی ٱلۡمُؤۡمِنِینَ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِينَ كَفَرُوا۟",
+          "content": "هو يهود بني النضير قرب المدينة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لِأَوَّلِ ٱلْحَشْرِ",
+          "content": "في أول إخراج وإجلاء إلى الشام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "فَأَتَىٰهُمُ ٱللَّهُ",
+          "content": "فأتاهم أمره وعقابه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لَمْ يَحْتَسِبُوا۟",
+          "content": "لم يظنوا ولم يخطر لهم ببَال",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَقَذَفَ",
+          "content": "ألقى وأنزل إنزالا شديدا",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَٱعۡتَبِرُوا۟ یَـٰۤأُو۟لِی ٱلۡأَبۡصَـٰرِ ۝٢ وَلَوۡلَاۤ أَن كَتَبَ ٱللَّهُ عَلَیۡهِمُ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِينَ كَفَرُوا۟",
+          "content": "هو يهود بني النضير قرب المدينة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لِأَوَّلِ ٱلْحَشْرِ",
+          "content": "في أول إخراج وإجلاء إلى الشام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "فَأَتَىٰهُمُ ٱللَّهُ",
+          "content": "فأتاهم أمره وعقابه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لَمْ يَحْتَسِبُوا۟",
+          "content": "لم يظنوا ولم يخطر لهم ببَال",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَقَذَفَ",
+          "content": "ألقى وأنزل إنزالا شديدا",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 59,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡجَلَاۤءَ لَعَذَّبَهُمۡ فِی ٱلدُّنۡیَاۖ وَلَهُمۡ فِی ٱلۡـَٔاخِرَةِ عَذَابُ ٱلنَّارِ ۝٣",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجَلَآءَ",
+          "content": "الخروج من الوَطن",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 59,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "ٱلْجَلَآءَ",
+          "content": "الخروج من الوَطن"
+        }
+      ]
+    }
+  ]
+}

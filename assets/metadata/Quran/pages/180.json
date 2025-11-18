@@ -1,0 +1,299 @@
+{
+  "pageIndex": 180,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱذۡكُرُوۤا۟ إِذۡ أَنتُمۡ قَلِیلࣱ مُّسۡتَضۡعَفُونَ فِی ٱلۡأَرۡضِ تَخَافُونَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَطَّفَكُمُ ٱلنَّاسُ",
+          "content": "يستلبوكم ويصطلموكم بسرعة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 8,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَن یَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَیَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَطَّفَكُمُ ٱلنَّاسُ",
+          "content": "يستلبوكم ويصطلموكم بسرعة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 8,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 24,
+          "tokens": "يَتَخَطَّفَكُمُ ٱلنَّاسُ",
+          "content": "يستلبوكم ويصطلموكم بسرعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِّنَ ٱلطَّیِّبَـٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ ۝٢٦ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَطَّفَكُمُ ٱلنَّاسُ",
+          "content": "يستلبوكم ويصطلموكم بسرعة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 8,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَا تَخُونُوا۟ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوۤا۟ أَمَـٰنَـٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ ۝٢٧",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱعۡلَمُوۤا۟ أَنَّمَاۤ أَمۡوَ ٰ⁠لُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱ وَأَنَّ ٱللَّهَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "ابتلاء ومحنة أو سبب في الإثم والعقاب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 8,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 8,
+          "tokens": "فِتْنَةٌ",
+          "content": "ابتلاء ومحنة أو سبب في الإثم والعقاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عِندَهُۥۤ أَجۡرٌ عَظِیمࣱ ۝٢٨ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِن تَتَّقُوا۟",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "ابتلاء ومحنة أو سبب في الإثم والعقاب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 8,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهَ یَجۡعَل لَّكُمۡ فُرۡقَانࣰا وَیُكَفِّرۡ عَنكُمۡ سَیِّـَٔاتِكُمۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فُرْقَانًا",
+          "content": "هداية ونورا أو نجاة، أو مخرجًا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 8,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 10,
+          "tokens": "فُرْقَانًا",
+          "content": "هداية ونورا أو نجاة، أو مخرجًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَیَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ ۝٢٩ وَإِذۡ یَمۡكُرُ بِكَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فُرْقَانًا",
+          "content": "هداية ونورا أو نجاة، أو مخرجًا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 8,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ لِیُثۡبِتُوكَ أَوۡ یَقۡتُلُوكَ أَوۡ یُخۡرِجُوكَۚ وَیَمۡكُرُونَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيُثْبِتُوكَ",
+          "content": "ليحبسوك أو ليُقيّدوك بالوثاق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 8,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "وَيَمْكُرُ ٱللَّهُ",
+          "content": "يعاملهم معاملة الماكرين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 8,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 13,
+          "tokens": "لِيُثْبِتُوكَ",
+          "content": "ليحبسوك أو ليُقيّدوك بالوثاق"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَیَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَیۡرُ ٱلۡمَـٰكِرِینَ ۝٣٠ وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيُثْبِتُوكَ",
+          "content": "ليحبسوك أو ليُقيّدوك بالوثاق",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 8,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "وَيَمْكُرُ ٱللَّهُ",
+          "content": "يعاملهم معاملة الماكرين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 8,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "وَيَمْكُرُ ٱللَّهُ",
+          "content": "يعاملهم معاملة الماكرين"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ءَایَـٰتُنَا قَالُوا۟ قَدۡ سَمِعۡنَا لَوۡ نَشَاۤءُ لَقُلۡنَا مِثۡلَ هَـٰذَاۤ إِنۡ هَـٰذَاۤ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أكاذيبهم المسطورة في كتبهم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 8,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِلَّاۤ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ ۝٣١ وَإِذۡ قَالُوا۟ ٱللَّهُمَّ إِن كَانَ هَـٰذَا",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أكاذيبهم المسطورة في كتبهم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 8,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 25,
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أكاذيبهم المسطورة في كتبهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَیۡنَا حِجَارَةࣰ مِّنَ ٱلسَّمَاۤءِ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِیمࣲ ۝٣٢ وَمَا كَانَ ٱللَّهُ لِیُعَذِّبَهُمۡ وَأَنتَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "فِیهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ یَسۡتَغۡفِرُونَ ۝٣٣",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

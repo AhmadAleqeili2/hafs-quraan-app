@@ -1,0 +1,395 @@
+{
+  "pageIndex": 306,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰیَحۡیَىٰ خُذِ ٱلۡكِتَـٰبَ بِقُوَّةࣲۖ وَءَاتَیۡنَـٰهُ ٱلۡحُكۡمَ صَبِیࣰّا ۝١٢",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحُكْمَ",
+          "content": "فهم التّوراة والعبادة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 9,
+          "tokens": "ٱلْحُكْمَ",
+          "content": "فهم التّوراة والعبادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَحَنَانࣰا مِّن لَّدُنَّا وَزَكَوٰةࣰۖ وَكَانَ تَقِیࣰّا ۝١٣ وَبَرَّۢا بِوَ ٰ⁠لِدَیۡهِ وَلَمۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَنَانًا",
+          "content": "رحمة وعطفا على النّاس",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 19,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "وَزَكَوٰةً",
+          "content": "بركة، أو طهارة من الذنوب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "وَكَانَ تَقِيًّا",
+          "content": "مُطيعا مجتنبا للمعاصي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَحَنَانًا",
+          "content": "رحمة وعطفا على النّاس"
+        },
+        {
+          "start": 26,
+          "length": 11,
+          "tokens": "وَزَكَوٰةً",
+          "content": "بركة، أو طهارة من الذنوب"
+        },
+        {
+          "start": 38,
+          "length": 16,
+          "tokens": "وَكَانَ تَقِيًّا",
+          "content": "مُطيعا مجتنبا للمعاصي"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَكُن جَبَّارًا عَصِیࣰّا ۝١٤ وَسَلَـٰمٌ عَلَیۡهِ یَوۡمَ وُلِدَ وَیَوۡمَ یَمُوتُ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَرًّۢا بِوَٰلِدَيْهِ",
+          "content": "كثيرَ البرّ والإحسان إليهما",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 19,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "جَبَّارًا عَصِيًّا",
+          "content": "مُتكبّرا مخالفا أمر ربّه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 18,
+          "tokens": "جَبَّارًا عَصِيًّا",
+          "content": "مُتكبّرا مخالفا أمر ربّه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَیَوۡمَ یُبۡعَثُ حَیࣰّا ۝١٥ وَٱذۡكُرۡ فِی ٱلۡكِتَـٰبِ مَرۡیَمَ إِذِ ٱنتَبَذَتۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِنۡ أَهۡلِهَا مَكَانࣰا شَرۡقِیࣰّا ۝١٦ فَٱتَّخَذَتۡ مِن دُونِهِمۡ حِجَابࣰا",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱنتَبَذَتْ",
+          "content": "اعتزلت وانفردتْ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَأَرۡسَلۡنَاۤ إِلَیۡهَا رُوحَنَا فَتَمَثَّلَ لَهَا بَشَرࣰا سَوِیࣰّا ۝١٧ قَالَتۡ إِنِّیۤ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حِجَابًا",
+          "content": "سِترا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "رُوحَنَا",
+          "content": "جبريل عليه السّلام",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 19,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "بَشَرًا سَوِيًّا",
+          "content": "إنسانا مُستوي الخلق تامّه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 19,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 8,
+          "tokens": "رُوحَنَا",
+          "content": "جبريل عليه السّلام"
+        },
+        {
+          "start": 52,
+          "length": 16,
+          "tokens": "بَشَرًا سَوِيًّا",
+          "content": "إنسانا مُستوي الخلق تامّه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَعُوذُ بِٱلرَّحۡمَـٰنِ مِنكَ إِن كُنتَ تَقِیࣰّا ۝١٨ قَالَ إِنَّمَاۤ أَنَا۠ رَسُولُ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "رَبِّكِ لِأَهَبَ لَكِ غُلَـٰمࣰا زَكِیࣰّا ۝١٩ قَالَتۡ أَنَّىٰ یَكُونُ لِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غُلَٰمًا زَكِيًّا",
+          "content": "مُزكّى مُطهّرا بالخِلقة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 18,
+          "tokens": "غُلَٰمًا زَكِيًّا",
+          "content": "مُزكّى مُطهّرا بالخِلقة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "غُلَـٰمࣱ وَلَمۡ یَمۡسَسۡنِی بَشَرࣱ وَلَمۡ أَكُ بَغِیࣰّا ۝٢٠ قَالَ كَذَ ٰ⁠لِكِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغِيًّا",
+          "content": "فاجرة تبغي الرّجال",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 19,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 8,
+          "tokens": "بَغِيًّا",
+          "content": "فاجرة تبغي الرّجال"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَالَ رَبُّكِ هُوَ عَلَیَّ هَیِّنࣱۖ وَلِنَجۡعَلَهُۥۤ ءَایَةࣰ لِّلنَّاسِ وَرَحۡمَةࣰ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِّنَّاۚ وَكَانَ أَمۡرࣰا مَّقۡضِیࣰّا ۝٢١ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَكَانࣰا قَصِیࣰّا ۝٢٢ فَأَجَاۤءَهَا ٱلۡمَخَاضُ إِلَىٰ جِذۡعِ ٱلنَّخۡلَةِ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانًا قَصِيًّا",
+          "content": "بعيدا من أهلها وراء الجبل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 19,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "مَكَانًا قَصِيًّا",
+          "content": "بعيدا من أهلها وراء الجبل"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "قَالَتۡ یَـٰلَیۡتَنِی مِتُّ قَبۡلَ هَـٰذَا وَكُنتُ نَسۡیࣰا مَّنسِیࣰّا ۝٢٣",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَجَآءَهَا ٱلْمَخَاضُ",
+          "content": "فألجأها واضطرّها وجع الولادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 19,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "نَسْيًا مَّنسِيًّا",
+          "content": "شيئا حقيرا متروكا لا يخطر بالبال",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 19,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 18,
+          "tokens": "نَسْيًا مَّنسِيًّا",
+          "content": "شيئا حقيرا متروكا لا يخطر بالبال"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَنَادَىٰهَا مِن تَحۡتِهَاۤ أَلَّا تَحۡزَنِی قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِیࣰّا ۝٢٤",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَنَادَىٰهَا",
+          "content": "جبريل أو عيسى عليهما السلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 19,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "سَرِيًّا",
+          "content": "جدولا أو غلاما سامِيَ القَدْر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 19,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "فَنَادَىٰهَا",
+          "content": "جبريل أو عيسى عليهما السلام"
+        },
+        {
+          "start": 74,
+          "length": 8,
+          "tokens": "سَرِيًّا",
+          "content": "جدولا أو غلاما سامِيَ القَدْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَهُزِّیۤ إِلَیۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَـٰقِطۡ عَلَیۡكِ رُطَبࣰا جَنِیࣰّا ۝٢٥",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُطَبًا جَنِيًّا",
+          "content": "صالحا للاجْتِناء، أو طريّا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 16,
+          "tokens": "رُطَبًا جَنِيًّا",
+          "content": "صالحا للاجْتِناء، أو طريّا"
+        }
+      ]
+    }
+  ]
+}

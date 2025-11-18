@@ -1,0 +1,553 @@
+{
+  "pageIndex": 126,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَوۡمَ یَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَیَقُولُ مَاذَاۤ أُجِبۡتُمۡۖ قَالُوا۟ لَا عِلۡمَ لَنَاۤۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِنَّكَ أَنتَ عَلَّـٰمُ ٱلۡغُیُوبِ ۝١٠٩ إِذۡ قَالَ ٱللَّهُ یَـٰعِیسَى ٱبۡنَ مَرۡیَمَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱذۡكُرۡ نِعۡمَتِی عَلَیۡكَ وَعَلَىٰ وَ ٰ⁠لِدَتِكَ إِذۡ أَیَّدتُّكَ بِرُوحِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 67,
+          "length": 7,
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡقُدُسِ تُكَلِّمُ ٱلنَّاسَ فِی ٱلۡمَهۡدِ وَكَهۡلࣰاۖ وَإِذۡ عَلَّمۡتُكَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام"
+        },
+        {
+          "start": 29,
+          "length": 13,
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام"
+        },
+        {
+          "start": 43,
+          "length": 10,
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِیلَۖ وَإِذۡ تَخۡلُقُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 64,
+          "length": 8,
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِنَ ٱلطِّینِ كَهَیۡـَٔةِ ٱلطَّیۡرِ بِإِذۡنِی فَتَنفُخُ فِیهَا فَتَكُونُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "طَیۡرَۢا بِإِذۡنِیۖ وَتُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ بِإِذۡنِیۖ وَإِذۡ تُخۡرِجُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 11,
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡمَوۡتَىٰ بِإِذۡنِیۖ وَإِذۡ كَفَفۡتُ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ عَنكَ إِذۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "جِئۡتَهُم بِٱلۡبَیِّنَـٰتِ فَقَالَ ٱلَّذِینَ كَفَرُوا۟ مِنۡهُمۡ إِنۡ هَـٰذَاۤ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَّا سِحۡرࣱ مُّبِینࣱ ۝١١٠ وَإِذۡ أَوۡحَیۡتُ إِلَى ٱلۡحَوَارِیِّـۧنَ أَنۡ ءَامِنُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "فِى ٱلْمَهْدِ",
+          "content": "في زمن الرضاعة قبل أوان الكلام",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "وَكَهْلًا",
+          "content": "في حال إكتمال القوة( بعد نزوله )",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "تَخْلُقُ",
+          "content": "تصوّر وتقدر",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        },
+        {
+          "tokens": "ٱلْأَكْمَهَ",
+          "content": "الأعمى خلقة",
+          "tokenFromIndex": 40,
+          "tokenToIndex": 40,
+          "surahIndex": 5,
+          "ayahIndex": 110
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بِی وَبِرَسُولِی قَالُوۤا۟ ءَامَنَّا وَٱشۡهَدۡ بِأَنَّنَا مُسۡلِمُونَ ۝١١١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحَوَارِيِّۦنَ",
+          "content": "أنصار عيسى عليه السلام وخواصّه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 5,
+          "ayahIndex": 111
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِذۡ قَالَ ٱلۡحَوَارِیُّونَ یَـٰعِیسَى ٱبۡنَ مَرۡیَمَ هَلۡ یَسۡتَطِیعُ رَبُّكَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآئِدَةً",
+          "content": "خوانا عليه طعام",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَن یُنَزِّلَ عَلَیۡنَا مَاۤىِٕدَةࣰ مِّنَ ٱلسَّمَاۤءِۖ قَالَ ٱتَّقُوا۟ ٱللَّهَ إِن كُنتُم",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآئِدَةً",
+          "content": "خوانا عليه طعام",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 112
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 11,
+          "tokens": "مَآئِدَةً",
+          "content": "خوانا عليه طعام"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مُّؤۡمِنِینَ ۝١١٢ قَالُوا۟ نُرِیدُ أَن نَّأۡكُلَ مِنۡهَا وَتَطۡمَىِٕنَّ قُلُوبُنَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآئِدَةً",
+          "content": "خوانا عليه طعام",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 5,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَنَعۡلَمَ أَن قَدۡ صَدَقۡتَنَا وَنَكُونَ عَلَیۡهَا مِنَ ٱلشَّـٰهِدِینَ ۝١١٣",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

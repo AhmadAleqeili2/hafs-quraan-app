@@ -1,0 +1,473 @@
+{
+  "pageIndex": 43,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱللَّهُ وَلِیُّ ٱلَّذِینَ ءَامَنُوا۟ یُخۡرِجُهُم مِّنَ ٱلظُّلُمَـٰتِ إِلَى ٱلنُّورِۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 257,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَٱلَّذِینَ كَفَرُوۤا۟ أَوۡلِیَاۤؤُهُمُ ٱلطَّـٰغُوتُ یُخۡرِجُونَهُم مِّنَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 257,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلنُّورِ إِلَى ٱلظُّلُمَـٰتِۗ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 257,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "خَـٰلِدُونَ ۝٢٥٧ أَلَمۡ تَرَ إِلَى ٱلَّذِی حَاۤجَّ إِبۡرَ ٰ⁠هِـۧمَ فِی رَبِّهِۦۤ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 257,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَنۡ ءَاتَىٰهُ ٱللَّهُ ٱلۡمُلۡكَ إِذۡ قَالَ إِبۡرَ ٰ⁠هِـۧمُ رَبِّیَ ٱلَّذِی یُحۡیِۦ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 258,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ",
+          "content": "هو نمرود بن كنعان الجبّار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        },
+        {
+          "tokens": "فَبُهِتَ",
+          "content": "غُلِب وتحيّر وانقطعت حُجّته",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 36,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَیُمِیتُ قَالَ أَنَا۠ أُحۡیِۦ وَأُمِیتُۖ قَالَ إِبۡرَ ٰ⁠هِـۧمُ فَإِنَّ ٱللَّهَ یَأۡتِی",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 258,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ",
+          "content": "هو نمرود بن كنعان الجبّار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        },
+        {
+          "tokens": "فَبُهِتَ",
+          "content": "غُلِب وتحيّر وانقطعت حُجّته",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 36,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِٱلشَّمۡسِ مِنَ ٱلۡمَشۡرِقِ فَأۡتِ بِهَا مِنَ ٱلۡمَغۡرِبِ فَبُهِتَ ٱلَّذِی",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 258,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ",
+          "content": "هو نمرود بن كنعان الجبّار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        },
+        {
+          "tokens": "فَبُهِتَ",
+          "content": "غُلِب وتحيّر وانقطعت حُجّته",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 36,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 8,
+          "tokens": "فَبُهِتَ",
+          "content": "غُلِب وتحيّر وانقطعت حُجّته"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "كَفَرَۗ وَٱللَّهُ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ ۝٢٥٨ أَوۡ كَٱلَّذِی",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 258,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّذِى حَآجَّ إِبْرَٰهِۦمَ",
+          "content": "هو نمرود بن كنعان الجبّار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        },
+        {
+          "tokens": "فَبُهِتَ",
+          "content": "غُلِب وتحيّر وانقطعت حُجّته",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 36,
+          "surahIndex": 2,
+          "ayahIndex": 258
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَرَّ عَلَىٰ قَرۡیَةࣲ وَهِیَ خَاوِیَةٌ عَلَىٰ عُرُوشِهَا قَالَ أَنَّىٰ یُحۡیِۦ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 27,
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت"
+        },
+        {
+          "start": 63,
+          "length": 15,
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "هَـٰذِهِ ٱللَّهُ بَعۡدَ مَوۡتِهَاۖ فَأَمَاتَهُ ٱللَّهُ مِا۟ئَةَ عَامࣲ ثُمَّ بَعَثَهُۥۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "قَالَ كَمۡ لَبِثۡتَۖ قَالَ لَبِثۡتُ یَوۡمًا أَوۡ بَعۡضَ یَوۡمࣲۖ قَالَ بَل",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَّبِثۡتَ مِا۟ئَةَ عَامࣲ فَٱنظُرۡ إِلَىٰ طَعَامِكَ وَشَرَابِكَ لَمۡ یَتَسَنَّهۡۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 63,
+          "length": 17,
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱنظُرۡ إِلَىٰ حِمَارِكَ وَلِنَجۡعَلَكَ ءَایَةࣰ لِّلنَّاسِۖ وَٱنظُرۡ إِلَى",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡعِظَامِ كَیۡفَ نُنشِزُهَا ثُمَّ نَكۡسُوهَا لَحۡمࣰاۚ فَلَمَّا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 10,
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَبَیَّنَ لَهُۥ قَالَ أَعۡلَمُ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝٢٥٩",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 259,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةٌ عَلَىٰ عُرُوشِهَا",
+          "content": "ساقطة على سقوفها التي سقطت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "أَنَّىٰ يُحْىِۦ",
+          "content": "كيف أو متى يُحيي؟",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "لَمْ يَتَسَنَّهْ",
+          "content": "لم يتغيّر مع مرور السّنين عليه",
+          "tokenFromIndex": 41,
+          "tokenToIndex": 42,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        },
+        {
+          "tokens": "نُنشِزُهَا",
+          "content": "نرفعها من الأرض لنؤلّفها",
+          "tokenFromIndex": 53,
+          "tokenToIndex": 53,
+          "surahIndex": 2,
+          "ayahIndex": 259
+        }
+      ]
+    }
+  ]
+}

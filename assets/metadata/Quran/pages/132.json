@@ -1,0 +1,369 @@
+{
+  "pageIndex": 132,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّمَا یَسۡتَجِیبُ ٱلَّذِینَ یَسۡمَعُونَۘ وَٱلۡمَوۡتَىٰ یَبۡعَثُهُمُ ٱللَّهُ ثُمَّ إِلَیۡهِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "یُرۡجَعُونَ ۝٣٦ وَقَالُوا۟ لَوۡلَا نُزِّلَ عَلَیۡهِ ءَایَةࣱ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَادِرٌ عَلَىٰۤ أَن یُنَزِّلَ ءَایَةࣰ وَلَـٰكِنَّ أَكۡثَرَهُمۡ لَا یَعۡلَمُونَ ۝٣٧ وَمَا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِن دَاۤبَّةࣲ فِی ٱلۡأَرۡضِ وَلَا طَـٰۤىِٕرࣲ یَطِیرُ بِجَنَاحَیۡهِ إِلَّاۤ أُمَمٌ أَمۡثَالُكُمۚ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَمٌ أَمْثَالُكُم",
+          "content": "في خلقنا لها وتدبيرنا أمورها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "مَّا فَرَّطْنَا",
+          "content": "ما أغفلنا وتركنا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 75,
+          "length": 20,
+          "tokens": "أُمَمٌ أَمْثَالُكُم",
+          "content": "في خلقنا لها وتدبيرنا أمورها"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مَّا فَرَّطۡنَا فِی ٱلۡكِتَـٰبِ مِن شَیۡءࣲۚ ثُمَّ إِلَىٰ رَبِّهِمۡ یُحۡشَرُونَ ۝٣٨",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَمٌ أَمْثَالُكُم",
+          "content": "في خلقنا لها وتدبيرنا أمورها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 6,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "مَّا فَرَّطْنَا",
+          "content": "ما أغفلنا وتركنا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 6,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "مَّا فَرَّطْنَا",
+          "content": "ما أغفلنا وتركنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱلَّذِینَ كَذَّبُوا۟ بِـَٔایَـٰتِنَا صُمࣱّ وَبُكۡمࣱ فِی ٱلظُّلُمَـٰتِۗ مَن یَشَإِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلظُّلُمَٰتِ",
+          "content": "ظلمات الجهل والعناد والكفر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 54,
+          "length": 18,
+          "tokens": "فِى ٱلظُّلُمَٰتِ",
+          "content": "ظلمات الجهل والعناد والكفر"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهُ یُضۡلِلۡهُ وَمَن یَشَأۡ یَجۡعَلۡهُ عَلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝٣٩ قُلۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلظُّلُمَٰتِ",
+          "content": "ظلمات الجهل والعناد والكفر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 6,
+          "ayahIndex": 39
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَرَءَیۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ أَوۡ أَتَتۡكُمُ ٱلسَّاعَةُ أَغَیۡرَ ٱللَّهِ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتَكُمْ",
+          "content": "أخبروني عن عجيب أمركم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 6,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "أَرَءَيْتَكُمْ",
+          "content": "أخبروني عن عجيب أمركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "تَدۡعُونَ إِن كُنتُمۡ صَـٰدِقِینَ ۝٤٠ بَلۡ إِیَّاهُ تَدۡعُونَ فَیَكۡشِفُ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتَكُمْ",
+          "content": "أخبروني عن عجيب أمركم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 6,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَا تَدۡعُونَ إِلَیۡهِ إِن شَاۤءَ وَتَنسَوۡنَ مَا تُشۡرِكُونَ ۝٤١ وَلَقَدۡ أَرۡسَلۡنَاۤ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِلَىٰۤ أُمَمࣲ مِّن قَبۡلِكَ فَأَخَذۡنَـٰهُم بِٱلۡبَأۡسَاۤءِ وَٱلضَّرَّاۤءِ لَعَلَّهُمۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ",
+          "content": "البؤس والفقر والسّقم والزّمان",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 42
+        },
+        {
+          "tokens": "يَتَضَرَّعُونَ",
+          "content": "يتذلّلون ويتخشّعون ويتوبون",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 42
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 30,
+          "tokens": "بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ",
+          "content": "البؤس والفقر والسّقم والزّمان"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَتَضَرَّعُونَ ۝٤٢ فَلَوۡلَاۤ إِذۡ جَاۤءَهُم بَأۡسُنَا تَضَرَّعُوا۟ وَلَـٰكِن قَسَتۡ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْبَأْسَآءِ وَٱلضَّرَّآءِ",
+          "content": "البؤس والفقر والسّقم والزّمان",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 6,
+          "ayahIndex": 42
+        },
+        {
+          "tokens": "يَتَضَرَّعُونَ",
+          "content": "يتذلّلون ويتخشّعون ويتوبون",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 6,
+          "ayahIndex": 42
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "يَتَضَرَّعُونَ",
+          "content": "يتذلّلون ويتخشّعون ويتوبون"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "قُلُوبُهُمۡ وَزَیَّنَ لَهُمُ ٱلشَّیۡطَـٰنُ مَا كَانُوا۟ یَعۡمَلُونَ ۝٤٣ فَلَمَّا",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَآءَهُم بَأْسُنَا",
+          "content": "أتاهم عذابنا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 6,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "نَسُوا۟ مَا ذُكِّرُوا۟ بِهِۦ فَتَحۡنَا عَلَیۡهِمۡ أَبۡوَ ٰ⁠بَ كُلِّ شَیۡءٍ حَتَّىٰۤ",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كُلِّ شَىْءٍ",
+          "content": "من النّعم الكثيرة استدراجا لهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "أَخَذْنَٰهُم بَغْتَةً",
+          "content": "أنزلنا بهم العذاب فجأة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "هُم مُّبْلِسُونَ",
+          "content": "آيسون من الرّحمة أو مُكتئبون",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 62,
+          "length": 12,
+          "tokens": "كُلِّ شَىْءٍ",
+          "content": "من النّعم الكثيرة استدراجا لهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِذَا فَرِحُوا۟ بِمَاۤ أُوتُوۤا۟ أَخَذۡنَـٰهُم بَغۡتَةࣰ فَإِذَا هُم مُّبۡلِسُونَ ۝٤٤",
+      "surahIndexFirst": 6,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كُلِّ شَىْءٍ",
+          "content": "من النّعم الكثيرة استدراجا لهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "أَخَذْنَٰهُم بَغْتَةً",
+          "content": "أنزلنا بهم العذاب فجأة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "هُم مُّبْلِسُونَ",
+          "content": "آيسون من الرّحمة أو مُكتئبون",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 6,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 22,
+          "tokens": "أَخَذْنَٰهُم بَغْتَةً",
+          "content": "أنزلنا بهم العذاب فجأة"
+        },
+        {
+          "start": 64,
+          "length": 16,
+          "tokens": "هُم مُّبْلِسُونَ",
+          "content": "آيسون من الرّحمة أو مُكتئبون"
+        }
+      ]
+    }
+  ]
+}

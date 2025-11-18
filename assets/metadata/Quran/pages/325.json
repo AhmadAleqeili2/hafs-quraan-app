@@ -1,0 +1,253 @@
+{
+  "pageIndex": 325,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا رَءَاكَ ٱلَّذِینَ كَفَرُوۤا۟ إِن یَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَـٰذَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلَّذِی یَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَـٰنِ هُمۡ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "كَـٰفِرُونَ ۝٣٦ خُلِقَ ٱلۡإِنسَـٰنُ مِنۡ عَجَلࣲۚ سَأُو۟رِیكُمۡ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ءَایَـٰتِی فَلَا تَسۡتَعۡجِلُونِ ۝٣٧ وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِن كُنتُمۡ صَـٰدِقِینَ ۝٣٨ لَوۡ یَعۡلَمُ ٱلَّذِینَ كَفَرُوا۟ حِینَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَا یَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَكُفُّونَ",
+          "content": "لا يمنعون ولا يدفعون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "لَا يَكُفُّونَ",
+          "content": "لا يمنعون ولا يدفعون"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "هُمۡ یُنصَرُونَ ۝٣٩ بَلۡ تَأۡتِیهِم بَغۡتَةࣰ فَتَبۡهَتُهُمۡ فَلَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَكُفُّونَ",
+          "content": "لا يمنعون ولا يدفعون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 39
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَسۡتَطِیعُونَ رَدَّهَا وَلَا هُمۡ یُنظَرُونَ ۝٤٠ وَلَقَدِ ٱسۡتُهۡزِئَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "فَتَبْهَتُهُمْ",
+          "content": "تحيّرُهم وتدهشهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "يُنظَرُونَ",
+          "content": "يُمهلون ويُؤخّرون",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 21,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 10,
+          "tokens": "يُنظَرُونَ",
+          "content": "يُمهلون ويُؤخّرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِرُسُلࣲ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِینَ سَخِرُوا۟ مِنۡهُم مَّا كَانُوا۟",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَحَاقَ",
+          "content": "أحاط، أو نزل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 7,
+          "tokens": "فَحَاقَ",
+          "content": "أحاط، أو نزل"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِهِۦ یَسۡتَهۡزِءُونَ ۝٤١ قُلۡ مَن یَكۡلَؤُكُم بِٱلَّیۡلِ وَٱلنَّهَارِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَحَاقَ",
+          "content": "أحاط، أو نزل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِنَ ٱلرَّحۡمَـٰنِۚ بَلۡ هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ ۝٤٢",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَكْلَؤُكُم",
+          "content": "يحفظكم ويحرسكم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 42
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَمۡ لَهُمۡ ءَالِهَةࣱ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا یَسۡتَطِیعُونَ نَصۡرَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُصْحَبُونَ",
+          "content": "يُجارون ويمنعون أو يُنصرون",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 21,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَنفُسِهِمۡ وَلَا هُم مِّنَّا یُصۡحَبُونَ ۝٤٣ بَلۡ مَتَّعۡنَا هَـٰۤؤُلَاۤءِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُصْحَبُونَ",
+          "content": "يُجارون ويمنعون أو يُنصرون",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 21,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 11,
+          "tokens": "يُصْحَبُونَ",
+          "content": "يُجارون ويمنعون أو يُنصرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَءَابَاۤءَهُمۡ حَتَّىٰ طَالَ عَلَیۡهِمُ ٱلۡعُمُرُۗ أَفَلَا یَرَوۡنَ أَنَّا نَأۡتِی",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَاۤۚ أَفَهُمُ ٱلۡغَـٰلِبُونَ ۝٤٤",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

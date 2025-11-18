@@ -1,0 +1,883 @@
+{
+  "pageIndex": 332,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الحج",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "زَلْزَلَةَ ٱلسَّاعَةِ",
+          "content": "أهوال القيامة وشدائدها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 22,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَلْزَلَةَ ٱلسَّاعَةِ",
+          "content": "أهوال القيامة وشدائدها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 22,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَـٰۤأَیُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمۡۚ إِنَّ زَلۡزَلَةَ ٱلسَّاعَةِ شَیۡءٌ عَظِیمࣱ ۝١",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَلْزَلَةَ ٱلسَّاعَةِ",
+          "content": "أهوال القيامة وشدائدها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 22,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 21,
+          "tokens": "زَلْزَلَةَ ٱلسَّاعَةِ",
+          "content": "أهوال القيامة وشدائدها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّاۤ أَرۡضَعَتۡ وَتَضَعُ كُلُّ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَذْهَلُ",
+          "content": "تغفُلُ وتُشغلُ لشدة الهول",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 8,
+          "tokens": "تَذْهَلُ",
+          "content": "تغفُلُ وتُشغلُ لشدة الهول"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَـٰرَىٰ وَمَا هُم بِسُكَـٰرَىٰ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَذْهَلُ",
+          "content": "تغفُلُ وتُشغلُ لشدة الهول",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَلَـٰكِنَّ عَذَابَ ٱللَّهِ شَدِیدࣱ ۝٢ وَمِنَ ٱلنَّاسِ مَن یُجَـٰدِلُ فِی ٱللَّهِ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَذْهَلُ",
+          "content": "تغفُلُ وتُشغلُ لشدة الهول",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِغَیۡرِ عِلۡمࣲ وَیَتَّبِعُ كُلَّ شَیۡطَـٰنࣲ مَّرِیدࣲ ۝٣ كُتِبَ عَلَیۡهِ أَنَّهُۥ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّرِيدٍ",
+          "content": "متمرّدٍ عاتٍ متجرد للفساد",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 22,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 8,
+          "tokens": "مَّرِيدٍ",
+          "content": "متمرّدٍ عاتٍ متجرد للفساد"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَن تَوَلَّاهُ فَأَنَّهُۥ یُضِلُّهُۥ وَیَهۡدِیهِ إِلَىٰ عَذَابِ ٱلسَّعِیرِ ۝٤",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَوَلَّاهُ",
+          "content": "اتخذه وليا وتبعه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 10,
+          "tokens": "تَوَلَّاهُ",
+          "content": "اتخذه وليا وتبعه"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَـٰۤأَیُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِی رَیۡبࣲ مِّنَ ٱلۡبَعۡثِ فَإِنَّا خَلَقۡنَـٰكُم",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ مِنۡ عَلَقَةࣲ ثُمَّ مِن مُّضۡغَةࣲ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 9,
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ"
+        },
+        {
+          "start": 44,
+          "length": 8,
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة"
+        },
+        {
+          "start": 63,
+          "length": 9,
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مُّخَلَّقَةࣲ وَغَیۡرِ مُخَلَّقَةࣲ لِّنُبَیِّنَ لَكُمۡۚ وَنُقِرُّ فِی ٱلۡأَرۡحَامِ مَا نَشَاۤءُ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى ثُمَّ نُخۡرِجُكُمۡ طِفۡلࣰا ثُمَّ لِتَبۡلُغُوۤا۟ أَشُدَّكُمۡۖ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 27,
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمِنكُم مَّن یُتَوَفَّىٰ وَمِنكُم مَّن یُرَدُّ إِلَىٰۤ أَرۡذَلِ ٱلۡعُمُرِ لِكَیۡلَا",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 18,
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "یَعۡلَمَ مِنۢ بَعۡدِ عِلۡمࣲ شَیۡـࣰٔاۚ وَتَرَى ٱلۡأَرۡضَ هَامِدَةࣰ فَإِذَاۤ أَنزَلۡنَا عَلَیۡهَا",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 9,
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡمَاۤءَ ٱهۡتَزَّتۡ وَرَبَتۡ وَأَنۢبَتَتۡ مِن كُلِّ زَوۡجِۭ بَهِیجࣲ ۝٥",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُّطْفَةٍ",
+          "content": "منيّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "عَلَقَةٍ",
+          "content": "قطعة دم جامدة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّضْغَةٍ",
+          "content": "قطعة لحم قدر ما يمضغ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "مُّخَلَّقَةٍ",
+          "content": "مستبينة الخلق مُصوّرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "لِتَبْلُغُوٓا۟ أَشُدَّكُمْ",
+          "content": "كمال قوتكم وعقلكم",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَرْذَلِ ٱلْعُمُرِ",
+          "content": "أخسِّه:أي الخَرَف والهَرَم",
+          "tokenFromIndex": 48,
+          "tokenToIndex": 49,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "هَامِدَةً",
+          "content": "ميتة يابسة قاحلة",
+          "tokenFromIndex": 58,
+          "tokenToIndex": 58,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت",
+          "tokenFromIndex": 64,
+          "tokenToIndex": 64,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 69,
+          "surahIndex": 22,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 10,
+          "tokens": "ٱهْتَزَّتْ",
+          "content": "تحركت بالنبات"
+        },
+        {
+          "start": 21,
+          "length": 8,
+          "tokens": "وَرَبَتْ",
+          "content": "ازدادت وانتفخت"
+        },
+        {
+          "start": 53,
+          "length": 15,
+          "tokens": "زَوْجٍۭ بَهِيجٍ",
+          "content": "صنف حسن نضير"
+        }
+      ]
+    }
+  ]
+}

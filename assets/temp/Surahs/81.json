@@ -1,0 +1,938 @@
+[
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 1,
+        "index_in_ayah": 1,
+        "ayah_text": "إِذَا",
+        "lineIndex": "4",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 1,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلشَّمۡسُ",
+        "lineIndex": "4",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 1,
+        "index_in_ayah": 3,
+        "ayah_text": "كُوِّرَتۡ",
+        "lineIndex": "4",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 2,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 2,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلنُّجُومُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 2,
+        "index_in_ayah": 3,
+        "ayah_text": "ٱنكَدَرَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 3,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": "5",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 3,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡجِبَالُ",
+        "lineIndex": "5",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 3,
+        "index_in_ayah": 3,
+        "ayah_text": "سُیِّرَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 4,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 4,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡعِشَارُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 4,
+        "index_in_ayah": 3,
+        "ayah_text": "عُطِّلَتۡ",
+        "lineIndex": "5",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 5,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 5,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡوُحُوشُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 5,
+        "index_in_ayah": 3,
+        "ayah_text": "حُشِرَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 6,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": "6",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 6,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡبِحَارُ",
+        "lineIndex": "6",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 6,
+        "index_in_ayah": 3,
+        "ayah_text": "سُجِّرَتۡ",
+        "lineIndex": "6",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 7,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 7,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلنُّفُوسُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 7,
+        "index_in_ayah": 3,
+        "ayah_text": "زُوِّجَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 8,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": "7",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 8,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡمَوۡءُۥدَةُ",
+        "lineIndex": "7",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 8,
+        "index_in_ayah": 3,
+        "ayah_text": "سُىِٕلَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 9,
+        "index_in_ayah": 1,
+        "ayah_text": "بِأَیِّ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 9,
+        "index_in_ayah": 2,
+        "ayah_text": "ذَنۢبࣲ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 9,
+        "index_in_ayah": 3,
+        "ayah_text": "قُتِلَتۡ",
+        "lineIndex": "7",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 10,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 10,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلصُّحُفُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 10,
+        "index_in_ayah": 3,
+        "ayah_text": "نُشِرَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 11,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": "8",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 11,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلسَّمَاۤءُ",
+        "lineIndex": "8",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 11,
+        "index_in_ayah": 3,
+        "ayah_text": "كُشِطَتۡ",
+        "lineIndex": "8",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 12,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 12,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡجَحِیمُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 12,
+        "index_in_ayah": 3,
+        "ayah_text": "سُعِّرَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 13,
+        "index_in_ayah": 1,
+        "ayah_text": "وَإِذَا",
+        "lineIndex": "9",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 13,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡجَنَّةُ",
+        "lineIndex": "9",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 13,
+        "index_in_ayah": 3,
+        "ayah_text": "أُزۡلِفَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 14,
+        "index_in_ayah": 1,
+        "ayah_text": "عَلِمَتۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 14,
+        "index_in_ayah": 2,
+        "ayah_text": "نَفۡسࣱ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 14,
+        "index_in_ayah": 3,
+        "ayah_text": "مَّاۤ",
+        "lineIndex": "9",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 14,
+        "index_in_ayah": 4,
+        "ayah_text": "أَحۡضَرَتۡ",
+        "lineIndex": "9",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 15,
+        "index_in_ayah": 1,
+        "ayah_text": "فَلَاۤ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 15,
+        "index_in_ayah": 2,
+        "ayah_text": "أُقۡسِمُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 15,
+        "index_in_ayah": 3,
+        "ayah_text": "بِٱلۡخُنَّسِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 16,
+        "index_in_ayah": 1,
+        "ayah_text": "ٱلۡجَوَارِ",
+        "lineIndex": "10",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 16,
+        "index_in_ayah": 2,
+        "ayah_text": "ٱلۡكُنَّسِ",
+        "lineIndex": "10",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 17,
+        "index_in_ayah": 1,
+        "ayah_text": "وَٱلَّیۡلِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 17,
+        "index_in_ayah": 2,
+        "ayah_text": "إِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 17,
+        "index_in_ayah": 3,
+        "ayah_text": "عَسۡعَسَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 18,
+        "index_in_ayah": 1,
+        "ayah_text": "وَٱلصُّبۡحِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 18,
+        "index_in_ayah": 2,
+        "ayah_text": "إِذَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 18,
+        "index_in_ayah": 3,
+        "ayah_text": "تَنَفَّسَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 19,
+        "index_in_ayah": 1,
+        "ayah_text": "إِنَّهُۥ",
+        "lineIndex": "11",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 19,
+        "index_in_ayah": 2,
+        "ayah_text": "لَقَوۡلُ",
+        "lineIndex": "11",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 19,
+        "index_in_ayah": 3,
+        "ayah_text": "رَسُولࣲ",
+        "lineIndex": "11",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 19,
+        "index_in_ayah": 4,
+        "ayah_text": "كَرِیمࣲ",
+        "lineIndex": "11",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 1,
+        "ayah_text": "ذِی",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 2,
+        "ayah_text": "قُوَّةٍ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 3,
+        "ayah_text": "عِندَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 4,
+        "ayah_text": "ذِی",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 5,
+        "ayah_text": "ٱلۡعَرۡشِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 20,
+        "index_in_ayah": 6,
+        "ayah_text": "مَكِینࣲ",
+        "lineIndex": "11",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 21,
+        "index_in_ayah": 1,
+        "ayah_text": "مُّطَاعࣲ",
+        "lineIndex": "12",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 21,
+        "index_in_ayah": 2,
+        "ayah_text": "ثَمَّ",
+        "lineIndex": "12",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 21,
+        "index_in_ayah": 3,
+        "ayah_text": "أَمِینࣲ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 22,
+        "index_in_ayah": 1,
+        "ayah_text": "وَمَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 22,
+        "index_in_ayah": 2,
+        "ayah_text": "صَاحِبُكُم",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 22,
+        "index_in_ayah": 3,
+        "ayah_text": "بِمَجۡنُونࣲ",
+        "lineIndex": "12",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 23,
+        "index_in_ayah": 1,
+        "ayah_text": "وَلَقَدۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 23,
+        "index_in_ayah": 2,
+        "ayah_text": "رَءَاهُ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 23,
+        "index_in_ayah": 3,
+        "ayah_text": "بِٱلۡأُفُقِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 23,
+        "index_in_ayah": 4,
+        "ayah_text": "ٱلۡمُبِینِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 24,
+        "index_in_ayah": 1,
+        "ayah_text": "وَمَا",
+        "lineIndex": "13",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 24,
+        "index_in_ayah": 2,
+        "ayah_text": "هُوَ",
+        "lineIndex": "13",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 24,
+        "index_in_ayah": 3,
+        "ayah_text": "عَلَى",
+        "lineIndex": "13",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 24,
+        "index_in_ayah": 4,
+        "ayah_text": "ٱلۡغَیۡبِ",
+        "lineIndex": "13",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 24,
+        "index_in_ayah": 5,
+        "ayah_text": "بِضَنِینࣲ",
+        "lineIndex": "13",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 25,
+        "index_in_ayah": 1,
+        "ayah_text": "وَمَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 25,
+        "index_in_ayah": 2,
+        "ayah_text": "هُوَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 25,
+        "index_in_ayah": 3,
+        "ayah_text": "بِقَوۡلِ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 25,
+        "index_in_ayah": 4,
+        "ayah_text": "شَیۡطَـٰنࣲ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 25,
+        "index_in_ayah": 5,
+        "ayah_text": "رَّجِیمࣲ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 26,
+        "index_in_ayah": 1,
+        "ayah_text": "فَأَیۡنَ",
+        "lineIndex": "14",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 26,
+        "index_in_ayah": 2,
+        "ayah_text": "تَذۡهَبُونَ",
+        "lineIndex": "14",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 27,
+        "index_in_ayah": 1,
+        "ayah_text": "إِنۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 27,
+        "index_in_ayah": 2,
+        "ayah_text": "هُوَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 27,
+        "index_in_ayah": 3,
+        "ayah_text": "إِلَّا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 27,
+        "index_in_ayah": 4,
+        "ayah_text": "ذِكۡرࣱ",
+        "lineIndex": "14",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 27,
+        "index_in_ayah": 5,
+        "ayah_text": "لِّلۡعَـٰلَمِینَ",
+        "lineIndex": "14",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 28,
+        "index_in_ayah": 1,
+        "ayah_text": "لِمَن",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 28,
+        "index_in_ayah": 2,
+        "ayah_text": "شَاۤءَ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 28,
+        "index_in_ayah": 3,
+        "ayah_text": "مِنكُمۡ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 28,
+        "index_in_ayah": 4,
+        "ayah_text": "أَن",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 28,
+        "index_in_ayah": 5,
+        "ayah_text": "یَسۡتَقِیمَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 1,
+        "ayah_text": "وَمَا",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 2,
+        "ayah_text": "تَشَاۤءُونَ",
+        "lineIndex": 4004,
+        "pageIndex": 4004
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 3,
+        "ayah_text": "إِلَّاۤ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 4,
+        "ayah_text": "أَن",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 5,
+        "ayah_text": "یَشَاۤءَ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 6,
+        "ayah_text": "ٱللَّهُ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 7,
+        "ayah_text": "رَبُّ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    },
+    {
+        "surah_index": 81,
+        "surah_name": "التكوير",
+        "ayah_number": 29,
+        "index_in_ayah": 8,
+        "ayah_text": "ٱلۡعَـٰلَمِینَ",
+        "lineIndex": "15",
+        "pageIndex": "586"
+    }
+]

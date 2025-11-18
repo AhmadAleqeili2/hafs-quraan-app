@@ -1,0 +1,265 @@
+{
+  "pageIndex": 257,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرࣱ مِّثۡلُكُمۡ وَلَـٰكِنَّ ٱللَّهَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "یَمُنُّ عَلَىٰ مَن یَشَاۤءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَاۤ أَن نَّأۡتِیَكُم",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِسُلۡطَـٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ ۝١١",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَمَا لَنَاۤ أَلَّا نَتَوَكَّلَ عَلَى ٱللَّهِ وَقَدۡ هَدَىٰنَا سُبُلَنَاۚ وَلَنَصۡبِرَنَّ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَلَىٰ مَاۤ ءَاذَیۡتُمُونَاۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ ۝١٢",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَقَالَ ٱلَّذِینَ كَفَرُوا۟ لِرُسُلِهِمۡ لَنُخۡرِجَنَّكُم مِّنۡ أَرۡضِنَاۤ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَوۡ لَتَعُودُنَّ فِی مِلَّتِنَاۖ فَأَوۡحَىٰۤ إِلَیۡهِمۡ رَبُّهُمۡ لَنُهۡلِكَنَّ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلظَّـٰلِمِینَ ۝١٣ وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ذَ ٰ⁠لِكَ لِمَنۡ خَافَ مَقَامِی وَخَافَ وَعِیدِ ۝١٤ وَٱسۡتَفۡتَحُوا۟",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَافَ مَقَامِى",
+          "content": "موقفه بين يديّ للحساب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 14,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 14,
+          "tokens": "خَافَ مَقَامِى",
+          "content": "موقفه بين يديّ للحساب"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَخَابَ كُلُّ جَبَّارٍ عَنِیدࣲ ۝١٥ مِّن وَرَاۤىِٕهِۦ جَهَنَّمُ وَیُسۡقَىٰ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱسْتَفْتَحُوا۟",
+          "content": "استنصر الرّسل بالله على الظالمين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 14,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "وَخَابَ كُلُّ جَبَّارٍ",
+          "content": "خسر وهلك كلّ مُتعاظم متكبّر",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 14,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "عَنِيدٍ",
+          "content": "معاند للحقّ، مُجانب له",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 14,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "وَخَابَ كُلُّ جَبَّارٍ",
+          "content": "خسر وهلك كلّ مُتعاظم متكبّر"
+        },
+        {
+          "start": 23,
+          "length": 7,
+          "tokens": "عَنِيدٍ",
+          "content": "معاند للحقّ، مُجانب له"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِن مَّاۤءࣲ صَدِیدࣲ ۝١٦ یَتَجَرَّعُهُۥ وَلَا یَكَادُ یُسِیغُهُۥ وَیَأۡتِیهِ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَدِيدٍ",
+          "content": "ما يسيل من أجساد أهل النّار",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 14,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 7,
+          "tokens": "صَدِيدٍ",
+          "content": "ما يسيل من أجساد أهل النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡمَوۡتُ مِن كُلِّ مَكَانࣲ وَمَا هُوَ بِمَیِّتࣲۖ وَمِن وَرَاۤىِٕهِۦ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَجَرَّعُهُۥ",
+          "content": "يتكلّف بلعه لحرارته ومرارته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 14,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "وَلَا يَكَادُ يُسِيغُهُۥ",
+          "content": "يبتلعه لشدّة كراهته ونتنه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 14,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَذَابٌ غَلِیظࣱ ۝١٧ مَّثَلُ ٱلَّذِینَ كَفَرُوا۟ بِرَبِّهِمۡۖ أَعۡمَـٰلُهُمۡ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَجَرَّعُهُۥ",
+          "content": "يتكلّف بلعه لحرارته ومرارته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 14,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "وَلَا يَكَادُ يُسِيغُهُۥ",
+          "content": "يبتلعه لشدّة كراهته ونتنه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 14,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّیحُ فِی یَوۡمٍ عَاصِفࣲۖ لَّا یَقۡدِرُونَ",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَوْمٍ عَاصِفٍ",
+          "content": "شديد هبوب الرّيح",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 14,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 15,
+          "tokens": "يَوْمٍ عَاصِفٍ",
+          "content": "شديد هبوب الرّيح"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِمَّا كَسَبُوا۟ عَلَىٰ شَیۡءࣲۚ ذَ ٰ⁠لِكَ هُوَ ٱلضَّلَـٰلُ ٱلۡبَعِیدُ ۝١٨",
+      "surahIndexFirst": 14,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَوْمٍ عَاصِفٍ",
+          "content": "شديد هبوب الرّيح",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 14,
+          "ayahIndex": 18
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "pageIndex": 311,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَفَرَءَیۡتَ ٱلَّذِی كَفَرَ بِـَٔایَـٰتِنَا وَقَالَ لَأُوتَیَنَّ مَالࣰا وَوَلَدًا ۝٧٧",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتَ",
+          "content": "أخبرني",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 19,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "أَفَرَءَيْتَ",
+          "content": "أخبرني"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَطَّلَعَ ٱلۡغَیۡبَ أَمِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَـٰنِ عَهۡدࣰا ۝٧٨ كَلَّاۚ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَطَّلَعَ ٱلْغَيْبَ",
+          "content": "أعلم الغيب (استفهام)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 19,
+          "ayahIndex": 78
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "أَطَّلَعَ ٱلْغَيْبَ",
+          "content": "أعلم الغيب (استفهام)"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "سَنَكۡتُبُ مَا یَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدࣰّا ۝٧٩ وَنَرِثُهُۥ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَمُدُّ لَهُۥ",
+          "content": "نُطوّل له أو نزيدُهُ",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 79
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 15,
+          "tokens": "وَنَمُدُّ لَهُۥ",
+          "content": "نُطوّل له أو نزيدُهُ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَا یَقُولُ وَیَأۡتِینَا فَرۡدࣰا ۝٨٠ وَٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ ءَالِهَةࣰ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لِّیَكُونُوا۟ لَهُمۡ عِزࣰّا ۝٨١ كَلَّاۚ سَیَكۡفُرُونَ بِعِبَادَتِهِمۡ وَیَكُونُونَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِزًّا",
+          "content": "شُفعاء وأنصارا يتعزّزون بهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 81
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 6,
+          "tokens": "عِزًّا",
+          "content": "شُفعاء وأنصارا يتعزّزون بهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلَیۡهِمۡ ضِدًّا ۝٨٢ أَلَمۡ تَرَ أَنَّاۤ أَرۡسَلۡنَا ٱلشَّیَـٰطِینَ عَلَى ٱلۡكَـٰفِرِینَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضِدًّا",
+          "content": "ذلاّ وهوانا لا عزّا أو أعوانا عليهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 6,
+          "tokens": "ضِدًّا",
+          "content": "ذلاّ وهوانا لا عزّا أو أعوانا عليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَؤُزُّهُمۡ أَزࣰّا ۝٨٣ فَلَا تَعۡجَلۡ عَلَیۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدࣰّا ۝٨٤",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَؤُزُّهُمْ أَزًّا",
+          "content": "تُغريهم بالمعاصي إغراء",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "تَؤُزُّهُمْ أَزًّا",
+          "content": "تُغريهم بالمعاصي إغراء"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِینَ إِلَى ٱلرَّحۡمَـٰنِ وَفۡدࣰا ۝٨٥ وَنَسُوقُ ٱلۡمُجۡرِمِینَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَفْدًا",
+          "content": "ركبانا، أو وافدين استرفاداً",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 19,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 7,
+          "tokens": "وَفْدًا",
+          "content": "ركبانا، أو وافدين استرفاداً"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَىٰ جَهَنَّمَ وِرۡدࣰا ۝٨٦ لَّا یَمۡلِكُونَ ٱلشَّفَـٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وِرْدًا",
+          "content": "عِطاشا، أو كالدّوابّ التي تَردُ الماء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 19,
+          "ayahIndex": 86
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 7,
+          "tokens": "وِرْدًا",
+          "content": "عِطاشا، أو كالدّوابّ التي تَردُ الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلرَّحۡمَـٰنِ عَهۡدࣰا ۝٨٧ وَقَالُوا۟ ٱتَّخَذَ ٱلرَّحۡمَـٰنُ وَلَدࣰا ۝٨٨ لَّقَدۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "جِئۡتُمۡ شَیۡـًٔا إِدࣰّا ۝٨٩ تَكَادُ ٱلسَّمَـٰوَ ٰ⁠تُ یَتَفَطَّرۡنَ مِنۡهُ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَيْـًٔا إِدًّا",
+          "content": "منكرا فظيعا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 89
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 15,
+          "tokens": "شَيْـًٔا إِدًّا",
+          "content": "منكرا فظيعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَتَنشَقُّ ٱلۡأَرۡضُ وَتَخِرُّ ٱلۡجِبَالُ هَدًّا ۝٩٠ أَن دَعَوۡا۟ لِلرَّحۡمَـٰنِ وَلَدࣰا ۝٩١",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَفَطَّرْنَ مِنْهُ",
+          "content": "يتشقّقْن ويتفتّتْن من شناعته",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+          "content": "تسقط مهدودة عليهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 90
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 27,
+          "tokens": "وَتَخِرُّ ٱلْجِبَالُ هَدًّا",
+          "content": "تسقط مهدودة عليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَا یَنۢبَغِی لِلرَّحۡمَـٰنِ أَن یَتَّخِذَ وَلَدًا ۝٩٢ إِن كُلُّ مَن فِی",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ إِلَّاۤ ءَاتِی ٱلرَّحۡمَـٰنِ عَبۡدࣰا ۝٩٣ لَّقَدۡ أَحۡصَىٰهُمۡ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَعَدَّهُمۡ عَدࣰّا ۝٩٤ وَكُلُّهُمۡ ءَاتِیهِ یَوۡمَ ٱلۡقِیَـٰمَةِ فَرۡدًا ۝٩٥",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

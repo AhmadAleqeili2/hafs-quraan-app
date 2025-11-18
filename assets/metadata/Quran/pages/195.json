@@ -1,0 +1,265 @@
+{
+  "pageIndex": 195,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَقَدِ ٱبۡتَغَوُا۟ ٱلۡفِتۡنَةَ مِن قَبۡلُ وَقَلَّبُوا۟ لَكَ ٱلۡأُمُورَ حَتَّىٰ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ",
+          "content": "دبّروا لك الحيل والمكائد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 9,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 28,
+          "tokens": "وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ",
+          "content": "دبّروا لك الحيل والمكائد"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "جَاۤءَ ٱلۡحَقُّ وَظَهَرَ أَمۡرُ ٱللَّهِ وَهُمۡ كَـٰرِهُونَ ۝٤٨ وَمِنۡهُم",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ",
+          "content": "دبّروا لك الحيل والمكائد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 9,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَّن یَقُولُ ٱئۡذَن لِّی وَلَا تَفۡتِنِّیۤۚ أَلَا فِی ٱلۡفِتۡنَةِ سَقَطُوا۟ۗ وَإِنَّ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱئْذَن لِّى",
+          "content": "في التّخلف عن الجهاد",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "وَلَا تَفْتِنِّىٓ",
+          "content": "لا توقعني في الإثم بمخالفة أمرك",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 11,
+          "tokens": "ٱئْذَن لِّى",
+          "content": "في التّخلف عن الجهاد"
+        },
+        {
+          "start": 25,
+          "length": 18,
+          "tokens": "وَلَا تَفْتِنِّىٓ",
+          "content": "لا توقعني في الإثم بمخالفة أمرك"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "جَهَنَّمَ لَمُحِیطَةُۢ بِٱلۡكَـٰفِرِینَ ۝٤٩ إِن تُصِبۡكَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱئْذَن لِّى",
+          "content": "في التّخلف عن الجهاد",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "وَلَا تَفْتِنِّىٓ",
+          "content": "لا توقعني في الإثم بمخالفة أمرك",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "حَسَنَةࣱ تَسُؤۡهُمۡۖ وَإِن تُصِبۡكَ مُصِیبَةࣱ یَقُولُوا۟ قَدۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَخَذۡنَاۤ أَمۡرَنَا مِن قَبۡلُ وَیَتَوَلَّوا۟ وَّهُمۡ فَرِحُونَ ۝٥٠ قُل",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَّن یُصِیبَنَاۤ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوۡلَىٰنَاۚ وَعَلَى",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱللَّهِ فَلۡیَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ ۝٥١ قُلۡ هَلۡ تَرَبَّصُونَ بِنَاۤ إِلَّاۤ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِحۡدَى ٱلۡحُسۡنَیَیۡنِۖ وَنَحۡنُ نَتَرَبَّصُ بِكُمۡ أَن یُصِیبَكُمُ ٱللَّهُ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلْ تَرَبَّصُونَ بِنَآ",
+          "content": "ما تنتظرون بنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْحُسْنَيَيْنِ",
+          "content": "النّصرة والشّهادة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 16,
+          "tokens": "ٱلْحُسْنَيَيْنِ",
+          "content": "النّصرة والشّهادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِعَذَابࣲ مِّنۡ عِندِهِۦۤ أَوۡ بِأَیۡدِینَاۖ فَتَرَبَّصُوۤا۟ إِنَّا مَعَكُم",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلْ تَرَبَّصُونَ بِنَآ",
+          "content": "ما تنتظرون بنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْحُسْنَيَيْنِ",
+          "content": "النّصرة والشّهادة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مُّتَرَبِّصُونَ ۝٥٢ قُلۡ أَنفِقُوا۟ طَوۡعًا أَوۡ كَرۡهࣰا لَّن یُتَقَبَّلَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلْ تَرَبَّصُونَ بِنَآ",
+          "content": "ما تنتظرون بنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْحُسْنَيَيْنِ",
+          "content": "النّصرة والشّهادة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِنكُمۡ إِنَّكُمۡ كُنتُمۡ قَوۡمࣰا فَـٰسِقِینَ ۝٥٣ وَمَا",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَـٰتُهُمۡ إِلَّاۤ أَنَّهُمۡ كَفَرُوا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا یَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "كُسَالَىٰ وَلَا یُنفِقُونَ إِلَّا وَهُمۡ كَـٰرِهُونَ ۝٥٤",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

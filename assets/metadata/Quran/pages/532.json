@@ -1,0 +1,345 @@
+{
+  "pageIndex": 532,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "مَرَجَ ٱلۡبَحۡرَیۡنِ یَلۡتَقِیَانِ ۝١٩ بَیۡنَهُمَا بَرۡزَخࣱ لَّا یَبۡغِیَانِ ۝٢٠ فَبِأَیِّ ءَالَاۤءِ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَرَجَ ٱلْبَحْرَيْنِ",
+          "content": "أرْسَل العذب والمِلح في مجاريهما",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 55,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "يَلْتَقِيَانِ",
+          "content": "يتجاوران أو يلتقي طرفاهما",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "مَرَجَ ٱلْبَحْرَيْنِ",
+          "content": "أرْسَل العذب والمِلح في مجاريهما"
+        },
+        {
+          "start": 21,
+          "length": 13,
+          "tokens": "يَلْتَقِيَانِ",
+          "content": "يتجاوران أو يلتقي طرفاهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رَبِّكُمَا تُكَذِّبَانِ ۝٢١ یَخۡرُجُ مِنۡهُمَا ٱللُّؤۡلُؤُ وَٱلۡمَرۡجَانُ ۝٢٢ فَبِأَیِّ ءَالَاۤءِ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "رَبِّكُمَا تُكَذِّبَانِ ۝٢٣ وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِی ٱلۡبَحۡرِ كَٱلۡأَعۡلَـٰمِ ۝٢٤",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٢٥ كُلُّ مَنۡ عَلَیۡهَا فَانࣲ ۝٢٦ وَیَبۡقَىٰ وَجۡهُ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "رَبِّكَ ذُو ٱلۡجَلَـٰلِ وَٱلۡإِكۡرَامِ ۝٢٧ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٢٨",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذُو ٱلْجَلَٰلِ",
+          "content": "العظمة والاستغناء المطلق",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 55,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَٱلْإِكْرَامِ",
+          "content": "الفَضْل التام",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 55,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 15,
+          "tokens": "ذُو ٱلْجَلَٰلِ",
+          "content": "العظمة والاستغناء المطلق"
+        },
+        {
+          "start": 24,
+          "length": 14,
+          "tokens": "وَٱلْإِكْرَامِ",
+          "content": "الفَضْل التام"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَسۡـَٔلُهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ كُلَّ یَوۡمٍ هُوَ فِی شَأۡنࣲ ۝٢٩ فَبِأَیِّ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى شَأْنٍ",
+          "content": "يأتي بأحوالٍ ويذهب بأحوالٍ بالحكمة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 55,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 10,
+          "tokens": "فِى شَأْنٍ",
+          "content": "يأتي بأحوالٍ ويذهب بأحوالٍ بالحكمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٣٠ سَنَفۡرُغُ لَكُمۡ أَیُّهَ ٱلثَّقَلَانِ ۝٣١ فَبِأَیِّ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٣٢ یَـٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ إِنِ ٱسۡتَطَعۡتُمۡ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَن تَنفُذُوا۟ مِنۡ أَقۡطَارِ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ فَٱنفُذُوا۟ۚ لَا تَنفُذُونَ",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَنفُذُوا۟",
+          "content": "تخرجوا هربا من قضائي",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "فَٱنفُذُوا۟",
+          "content": "فاخرجوا (أمر تعجيز)",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "بِسُلْطَٰنٍ",
+          "content": "بقوّة وقهر، وهيهات !",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 10,
+          "tokens": "تَنفُذُوا۟",
+          "content": "تخرجوا هربا من قضائي"
+        },
+        {
+          "start": 59,
+          "length": 12,
+          "tokens": "فَٱنفُذُوا۟",
+          "content": "فاخرجوا (أمر تعجيز)"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَّا بِسُلۡطَـٰنࣲ ۝٣٣ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٣٤ یُرۡسَلُ عَلَیۡكُمَا",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَنفُذُوا۟",
+          "content": "تخرجوا هربا من قضائي",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "فَٱنفُذُوا۟",
+          "content": "فاخرجوا (أمر تعجيز)",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "بِسُلْطَٰنٍ",
+          "content": "بقوّة وقهر، وهيهات !",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 55,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 12,
+          "tokens": "بِسُلْطَٰنٍ",
+          "content": "بقوّة وقهر، وهيهات !"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "شُوَاظࣱ مِّن نَّارࣲ وَنُحَاسࣱ فَلَا تَنتَصِرَانِ ۝٣٥ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شُوَاظٌ",
+          "content": "لهب خالص لا دخان فيه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 35
+        },
+        {
+          "tokens": "وَنُحَاسٌ",
+          "content": "صُفْرٌ مُذاب أو دخان بلا لهَب",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 55,
+          "ayahIndex": 35
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "شُوَاظٌ",
+          "content": "لهب خالص لا دخان فيه"
+        },
+        {
+          "start": 20,
+          "length": 9,
+          "tokens": "وَنُحَاسٌ",
+          "content": "صُفْرٌ مُذاب أو دخان بلا لهَب"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تُكَذِّبَانِ ۝٣٦ فَإِذَا ٱنشَقَّتِ ٱلسَّمَاۤءُ فَكَانَتۡ وَرۡدَةࣰ كَٱلدِّهَانِ ۝٣٧",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٣٨ فَیَوۡمَىِٕذࣲ لَّا یُسۡـَٔلُ عَن",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ذَنۢبِهِۦۤ إِنسࣱ وَلَا جَاۤنࣱّ ۝٣٩ فَبِأَیِّ ءَالَاۤءِ رَبِّكُمَا تُكَذِّبَانِ ۝٤٠",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یُعۡرَفُ ٱلۡمُجۡرِمُونَ بِسِیمَـٰهُمۡ فَیُؤۡخَذُ بِٱلنَّوَ ٰ⁠صِی وَٱلۡأَقۡدَامِ ۝٤١",
+      "surahIndexFirst": 55,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِسِيمَٰهُمْ",
+          "content": "بسواد الوجوه، وزرقة العيون",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 55,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فَيُؤْخَذُ بِٱلنَّوَٰصِى",
+          "content": "بشعور مقدّم الرّءوس",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 55,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 13,
+          "tokens": "بِسِيمَٰهُمْ",
+          "content": "بسواد الوجوه، وزرقة العيون"
+        },
+        {
+          "start": 38,
+          "length": 26,
+          "tokens": "فَيُؤْخَذُ بِٱلنَّوَٰصِى",
+          "content": "بشعور مقدّم الرّءوس"
+        }
+      ]
+    }
+  ]
+}

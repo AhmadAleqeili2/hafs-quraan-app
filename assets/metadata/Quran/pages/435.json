@@ -1,0 +1,399 @@
+{
+  "pageIndex": 435,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِن یُكَذِّبُوكَ فَقَدۡ كُذِّبَتۡ رُسُلࣱ مِّن قَبۡلِكَۚ وَإِلَى ٱللَّهِ تُرۡجَعُ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡأُمُورُ ۝٤ یَـٰۤأَیُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقࣱّۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَیَوٰةُ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلدُّنۡیَا وَلَا یَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ ۝٥ إِنَّ ٱلشَّیۡطَـٰنَ لَكُمۡ عَدُوࣱّ فَٱتَّخِذُوهُ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَغُرَّنَّكُمُ",
+          "content": "فلا تخدعنّكم ولا تلهينّكم بالزّخارف والملذات",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 35,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "ٱلْغَرُورُ",
+          "content": "ما يغرّ ويخدع من شيطان وغيره",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 35,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 10,
+          "tokens": "ٱلْغَرُورُ",
+          "content": "ما يغرّ ويخدع من شيطان وغيره"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَدُوًّاۚ إِنَّمَا یَدۡعُوا۟ حِزۡبَهُۥ لِیَكُونُوا۟ مِنۡ أَصۡحَـٰبِ ٱلسَّعِیرِ ۝٦ ٱلَّذِینَ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "كَفَرُوا۟ لَهُمۡ عَذَابࣱ شَدِیدࣱۖ وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَّغۡفِرَةࣱ وَأَجۡرࣱ كَبِیرٌ ۝٧ أَفَمَن زُیِّنَ لَهُۥ سُوۤءُ عَمَلِهِۦ فَرَءَاهُ حَسَنࣰاۖ فَإِنَّ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهَ یُضِلُّ مَن یَشَاۤءُ وَیَهۡدِی مَن یَشَاۤءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَیۡهِمۡ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ",
+          "content": "فلا تهلك نفسك عليهم غموما وأحزانا لكفرهم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 20,
+          "surahIndex": 35,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 34,
+          "tokens": "فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ",
+          "content": "فلا تهلك نفسك عليهم غموما وأحزانا لكفرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَسَرَ ٰ⁠تٍۚ إِنَّ ٱللَّهَ عَلِیمُۢ بِمَا یَصۡنَعُونَ ۝٨ وَٱللَّهُ ٱلَّذِیۤ أَرۡسَلَ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ",
+          "content": "فلا تهلك نفسك عليهم غموما وأحزانا لكفرهم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 20,
+          "surahIndex": 35,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "فَلَا تَذْهَبْ نَفْسُكَ عَلَيْهِمْ حَسَرَٰتٍ",
+          "content": "فلا تهلك نفسك عليهم غموما وأحزانا لكفرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلرِّیَـٰحَ فَتُثِیرُ سَحَابࣰا فَسُقۡنَـٰهُ إِلَىٰ بَلَدࣲ مَّیِّتࣲ فَأَحۡیَیۡنَا بِهِ ٱلۡأَرۡضَ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتُثِيرُ سَحَابًا",
+          "content": "تحرّكه وتهيّجه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 35,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ٱلنُّشُورُ",
+          "content": "بعث الموتى من القبور للجزاء",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 35,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 18,
+          "tokens": "فَتُثِيرُ سَحَابًا",
+          "content": "تحرّكه وتهيّجه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بَعۡدَ مَوۡتِهَاۚ كَذَ ٰ⁠لِكَ ٱلنُّشُورُ ۝٩ مَن كَانَ یُرِیدُ ٱلۡعِزَّةَ فَلِلَّهِ ٱلۡعِزَّةُ جَمِیعًاۚ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتُثِيرُ سَحَابًا",
+          "content": "تحرّكه وتهيّجه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 35,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ٱلنُّشُورُ",
+          "content": "بعث الموتى من القبور للجزاء",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 35,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 10,
+          "tokens": "ٱلنُّشُورُ",
+          "content": "بعث الموتى من القبور للجزاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِلَیۡهِ یَصۡعَدُ ٱلۡكَلِمُ ٱلطَّیِّبُ وَٱلۡعَمَلُ ٱلصَّـٰلِحُ یَرۡفَعُهُۥۚ وَٱلَّذِینَ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُرِيدُ ٱلْعِزَّةَ",
+          "content": "الشّرف والمنعة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "ٱلْكَلِمُ ٱلطَّيِّبُ",
+          "content": "كلمة التوحيد وجميع عبادات اللّسان",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ",
+          "content": "يرفع الله العمل الصّالح ويقبله",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "يَبُورُ",
+          "content": "يفسد ويبطل",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 20,
+          "tokens": "ٱلْكَلِمُ ٱلطَّيِّبُ",
+          "content": "كلمة التوحيد وجميع عبادات اللّسان"
+        },
+        {
+          "start": 39,
+          "length": 36,
+          "tokens": "وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ",
+          "content": "يرفع الله العمل الصّالح ويقبله"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَمۡكُرُونَ ٱلسَّیِّـَٔاتِ لَهُمۡ عَذَابࣱ شَدِیدࣱۖ وَمَكۡرُ أُو۟لَـٰۤىِٕكَ هُوَ یَبُورُ ۝١٠",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُرِيدُ ٱلْعِزَّةَ",
+          "content": "الشّرف والمنعة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "ٱلْكَلِمُ ٱلطَّيِّبُ",
+          "content": "كلمة التوحيد وجميع عبادات اللّسان",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "وَٱلْعَمَلُ ٱلصَّٰلِحُ يَرْفَعُهُۥ",
+          "content": "يرفع الله العمل الصّالح ويقبله",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "يَبُورُ",
+          "content": "يفسد ويبطل",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 35,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 80,
+          "length": 7,
+          "tokens": "يَبُورُ",
+          "content": "يفسد ويبطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱللَّهُ خَلَقَكُم مِّن تُرَابࣲ ثُمَّ مِن نُّطۡفَةࣲ ثُمَّ جَعَلَكُمۡ أَزۡوَ ٰ⁠جࣰاۚ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْوَٰجًا",
+          "content": "ذكورا وإناثا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مُّعَمَّرٍ",
+          "content": "طويل العمر",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 13,
+          "tokens": "أَزْوَٰجًا",
+          "content": "ذكورا وإناثا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَمَا یُعَمَّرُ مِن مُّعَمَّرࣲ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْوَٰجًا",
+          "content": "ذكورا وإناثا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مُّعَمَّرٍ",
+          "content": "طويل العمر",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 81,
+          "length": 10,
+          "tokens": "مُّعَمَّرٍ",
+          "content": "طويل العمر"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَا یُنقَصُ مِنۡ عُمُرِهِۦۤ إِلَّا فِی كِتَـٰبٍۚ إِنَّ ذَ ٰ⁠لِكَ عَلَى ٱللَّهِ یَسِیرࣱ ۝١١",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَزْوَٰجًا",
+          "content": "ذكورا وإناثا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مُّعَمَّرٍ",
+          "content": "طويل العمر",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 35,
+          "ayahIndex": 11
+        }
+      ]
+    }
+  ]
+}

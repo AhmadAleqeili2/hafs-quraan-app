@@ -1,0 +1,435 @@
+{
+  "pageIndex": 352,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَتَّبِعُوا۟ خُطُوَ ٰ⁠تِ ٱلشَّیۡطَـٰنِۚ وَمَن یَتَّبِعۡ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طرقه وأثاره ومذاهبه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "بِٱلْفَحْشَآءِ",
+          "content": "ما عَظُم قبحه من الذنوب",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "وَٱلْمُنكَرِ",
+          "content": "ما ينكره الشّرع ويكرهه الله",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "مَا زَكَىٰ",
+          "content": "ما تطهّر من دنس الذنوب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 26,
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طرقه وأثاره ومذاهبه"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "خُطُوَ ٰ⁠تِ ٱلشَّیۡطَـٰنِ فَإِنَّهُۥ یَأۡمُرُ بِٱلۡفَحۡشَاۤءِ وَٱلۡمُنكَرِۚ وَلَوۡلَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طرقه وأثاره ومذاهبه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "بِٱلْفَحْشَآءِ",
+          "content": "ما عَظُم قبحه من الذنوب",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "وَٱلْمُنكَرِ",
+          "content": "ما ينكره الشّرع ويكرهه الله",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "مَا زَكَىٰ",
+          "content": "ما تطهّر من دنس الذنوب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 15,
+          "tokens": "بِٱلْفَحْشَآءِ",
+          "content": "ما عَظُم قبحه من الذنوب"
+        },
+        {
+          "start": 62,
+          "length": 13,
+          "tokens": "وَٱلْمُنكَرِ",
+          "content": "ما ينكره الشّرع ويكرهه الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ مَا زَكَىٰ مِنكُم مِّنۡ أَحَدٍ أَبَدࣰا وَلَـٰكِنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طرقه وأثاره ومذاهبه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "بِٱلْفَحْشَآءِ",
+          "content": "ما عَظُم قبحه من الذنوب",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "وَٱلْمُنكَرِ",
+          "content": "ما ينكره الشّرع ويكرهه الله",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "مَا زَكَىٰ",
+          "content": "ما تطهّر من دنس الذنوب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 10,
+          "tokens": "مَا زَكَىٰ",
+          "content": "ما تطهّر من دنس الذنوب"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱللَّهَ یُزَكِّی مَن یَشَاۤءُۗ وَٱللَّهُ سَمِیعٌ عَلِیمࣱ ۝٢١ وَلَا یَأۡتَلِ أُو۟لُوا۟ ٱلۡفَضۡلِ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُطُوَٰتِ ٱلشَّيْطَٰنِ",
+          "content": "طرقه وأثاره ومذاهبه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "بِٱلْفَحْشَآءِ",
+          "content": "ما عَظُم قبحه من الذنوب",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "وَٱلْمُنكَرِ",
+          "content": "ما ينكره الشّرع ويكرهه الله",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "مَا زَكَىٰ",
+          "content": "ما تطهّر من دنس الذنوب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 24,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِنكُمۡ وَٱلسَّعَةِ أَن یُؤۡتُوۤا۟ أُو۟لِی ٱلۡقُرۡبَىٰ وَٱلۡمَسَـٰكِینَ وَٱلۡمُهَـٰجِرِینَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْتَلِ",
+          "content": "لا يحلف أو لا يُقصّر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "أُو۟لُوا۟ ٱلْفَضْلِ",
+          "content": "أصحاب الزيادة في الدّين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "وَٱلسَّعَةِ",
+          "content": "الغنى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 11,
+          "tokens": "وَٱلسَّعَةِ",
+          "content": "الغنى"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِی سَبِیلِ ٱللَّهِۖ وَلۡیَعۡفُوا۟ وَلۡیَصۡفَحُوۤا۟ۗ أَلَا تُحِبُّونَ أَن یَغۡفِرَ ٱللَّهُ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْتَلِ",
+          "content": "لا يحلف أو لا يُقصّر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "أُو۟لُوا۟ ٱلْفَضْلِ",
+          "content": "أصحاب الزيادة في الدّين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "وَٱلسَّعَةِ",
+          "content": "الغنى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمٌ ۝٢٢ إِنَّ ٱلَّذِینَ یَرۡمُونَ ٱلۡمُحۡصَنَـٰتِ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْتَلِ",
+          "content": "لا يحلف أو لا يُقصّر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "أُو۟لُوا۟ ٱلْفَضْلِ",
+          "content": "أصحاب الزيادة في الدّين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "وَٱلسَّعَةِ",
+          "content": "الغنى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 24,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡغَـٰفِلَـٰتِ ٱلۡمُؤۡمِنَـٰتِ لُعِنُوا۟ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِ وَلَهُمۡ عَذَابٌ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "العفائف، ومثلهن المحصنون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "عَظِیمࣱ ۝٢٣ یَوۡمَ تَشۡهَدُ عَلَیۡهِمۡ أَلۡسِنَتُهُمۡ وَأَیۡدِیهِمۡ وَأَرۡجُلُهُم بِمَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "العفائف، ومثلهن المحصنون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 24,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "كَانُوا۟ یَعۡمَلُونَ ۝٢٤ یَوۡمَىِٕذࣲ یُوَفِّیهِمُ ٱللَّهُ دِینَهُمُ ٱلۡحَقَّ وَیَعۡلَمُونَ أَنَّ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱللَّهَ هُوَ ٱلۡحَقُّ ٱلۡمُبِینُ ۝٢٥ ٱلۡخَبِیثَـٰتُ لِلۡخَبِیثِینَ وَٱلۡخَبِیثُونَ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دِينَهُمُ ٱلْحَقَّ",
+          "content": "جزاءهم الثابت لهم بالعدل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 24,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لِلۡخَبِیثَـٰتِۖ وَٱلطَّیِّبَـٰتُ لِلطَّیِّبِینَ وَٱلطَّیِّبُونَ لِلطَّیِّبَـٰتِۚ",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "أُو۟لَـٰۤىِٕكَ مُبَرَّءُونَ مِمَّا یَقُولُونَۖ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ ۝٢٦ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلَّذِینَ ءَامَنُوا۟ لَا تَدۡخُلُوا۟ بُیُوتًا غَیۡرَ بُیُوتِكُمۡ حَتَّىٰ تَسۡتَأۡنِسُوا۟",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَسْتَأْنِسُوا۟",
+          "content": "تستأذنوا ممن يملك الإذن",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 15,
+          "tokens": "تَسْتَأْنِسُوا۟",
+          "content": "تستأذنوا ممن يملك الإذن"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَتُسَلِّمُوا۟ عَلَىٰۤ أَهۡلِهَاۚ ذَ ٰ⁠لِكُمۡ خَیۡرࣱ لَّكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ ۝٢٧",
+      "surahIndexFirst": 24,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَسْتَأْنِسُوا۟",
+          "content": "تستأذنوا ممن يملك الإذن",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 24,
+          "ayahIndex": 27
+        }
+      ]
+    }
+  ]
+}

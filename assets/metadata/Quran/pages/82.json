@@ -1,0 +1,839 @@
+{
+  "pageIndex": 82,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلۡمُحۡصَنَـٰتُ مِنَ ٱلنِّسَاۤءِ إِلَّا مَا مَلَكَتۡ أَیۡمَـٰنُكُمۡۖ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "كِتَـٰبَ ٱللَّهِ عَلَیۡكُمۡۚ وَأُحِلَّ لَكُم مَّا وَرَاۤءَ ذَ ٰ⁠لِكُمۡ أَن تَبۡتَغُوا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِأَمۡوَ ٰ⁠لِكُم مُّحۡصِنِینَ غَیۡرَ مُسَـٰفِحِینَۚ فَمَا ٱسۡتَمۡتَعۡتُم بِهِۦ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 12,
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام"
+        },
+        {
+          "start": 30,
+          "length": 21,
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِنۡهُنَّ فَـَٔاتُوهُنَّ أُجُورَهُنَّ فَرِیضَةࣰۚ وَلَا جُنَاحَ عَلَیۡكُمۡ فِیمَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 12,
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "تَرَ ٰ⁠ضَیۡتُم بِهِۦ مِنۢ بَعۡدِ ٱلۡفَرِیضَةِۚ إِنَّ ٱللَّهَ كَانَ عَلِیمًا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "حَكِیمࣰا ۝٢٤ وَمَن لَّمۡ یَسۡتَطِعۡ مِنكُمۡ طَوۡلًا أَن یَنكِحَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُحْصَنَٰتُ",
+          "content": "ذوات الأزواج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "مُّحْصِنِينَ",
+          "content": "أعفّاء عن الحرام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحِينَ",
+          "content": "غير زانين",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "أُجُورَهُنَّ",
+          "content": "مهورهنّ",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡمُحۡصَنَـٰتِ ٱلۡمُؤۡمِنَـٰتِ فَمِن مَّا مَلَكَتۡ أَیۡمَـٰنُكُم مِّن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَتَیَـٰتِكُمُ ٱلۡمُؤۡمِنَـٰتِۚ وَٱللَّهُ أَعۡلَمُ بِإِیمَـٰنِكُمۚ بَعۡضُكُم",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِّنۢ بَعۡضࣲۚ فَٱنكِحُوهُنَّ بِإِذۡنِ أَهۡلِهِنَّ وَءَاتُوهُنَّ أُجُورَهُنَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِٱلۡمَعۡرُوفِ مُحۡصَنَـٰتٍ غَیۡرَ مُسَـٰفِحَـٰتࣲ وَلَا مُتَّخِذَ ٰ⁠تِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 21,
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى "
+        },
+        {
+          "start": 56,
+          "length": 14,
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَخۡدَانࣲۚ فَإِذَاۤ أُحۡصِنَّ فَإِنۡ أَتَیۡنَ بِفَـٰحِشَةࣲ فَعَلَیۡهِنَّ نِصۡفُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَا عَلَى ٱلۡمُحۡصَنَـٰتِ مِنَ ٱلۡعَذَابِۚ ذَ ٰ⁠لِكَ لِمَنۡ خَشِیَ ٱلۡعَنَتَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 16,
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِنكُمۡۚ وَأَن تَصۡبِرُوا۟ خَیۡرࣱ لَّكُمۡۗ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ ۝٢٥",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَوْلًا",
+          "content": "غِنًى وسعَةً",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "الحرائر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْمُحْصَنَٰتِ",
+          "content": "عفائف",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "فَتَيَٰتِكُمُ",
+          "content": "إمائكم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "غَيْرَ مُسَٰفِحَٰتٍ",
+          "content": "غير مجاهراتٍ بالزّنى ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُتَّخِذَٰتِ أَخْدَانٍ",
+          "content": "مُصاحبات أصدقاء للزّنى سرًّا",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "خَشِىَ ٱلْعَنَتَ",
+          "content": "خاف الزّنى، أو الإثم به",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 4,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "یُرِیدُ ٱللَّهُ لِیُبَیِّنَ لَكُمۡ وَیَهۡدِیَكُمۡ سُنَنَ ٱلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُنَنَ",
+          "content": "طرائق ومناهج",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 6,
+          "tokens": "سُنَنَ",
+          "content": "طرائق ومناهج"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِن قَبۡلِكُمۡ وَیَتُوبَ عَلَیۡكُمۡۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ ۝٢٦",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُنَنَ",
+          "content": "طرائق ومناهج",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 26
+        }
+      ]
+    }
+  ]
+}

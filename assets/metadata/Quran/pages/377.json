@@ -1,0 +1,383 @@
+{
+  "pageIndex": 377,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة النمل",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "طسۤۚ تِلۡكَ ءَایَـٰتُ ٱلۡقُرۡءَانِ وَكِتَابࣲ مُّبِینٍ ۝١ هُدࣰى وَبُشۡرَىٰ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لِلۡمُؤۡمِنِینَ ۝٢ ٱلَّذِینَ یُقِیمُونَ ٱلصَّلَوٰةَ وَیُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هُدًى",
+          "content": "هادٍ من الضّلالة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 27,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "هُمۡ یُوقِنُونَ ۝٣ إِنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ زَیَّنَّا لَهُمۡ أَعۡمَـٰلَهُمۡ فَهُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَعۡمَهُونَ ۝٤ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ لَهُمۡ سُوۤءُ ٱلۡعَذَابِ وَهُمۡ فِی ٱلۡـَٔاخِرَةِ هُمُ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَهُمْ يَعْمَهُونَ",
+          "content": "يعمون عن الرّشد أو يتحيّرون",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 27,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "فَهُمْ يَعْمَهُونَ",
+          "content": "يعمون عن الرّشد أو يتحيّرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡأَخۡسَرُونَ ۝٥ وَإِنَّكَ لَتُلَقَّى ٱلۡقُرۡءَانَ مِن لَّدُنۡ حَكِیمٍ عَلِیمٍ ۝٦ إِذۡ قَالَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مُوسَىٰ لِأَهۡلِهِۦۤ إِنِّیۤ ءَانَسۡتُ نَارࣰا سَـَٔاتِیكُم مِّنۡهَا بِخَبَرٍ أَوۡ ءَاتِیكُم بِشِهَابࣲ قَبَسࣲ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَانَسْتُ نَارًا",
+          "content": "أبصرتها إبصارا بيّنا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "بِشِهَابٍ قَبَسٍ",
+          "content": "بشُعلة نار ساطعة مقبوسة من أصلها",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "تَصْطَلُونَ",
+          "content": "تستدفئون بها من البرد",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 16,
+          "tokens": "ءَانَسْتُ نَارًا",
+          "content": "أبصرتها إبصارا بيّنا"
+        },
+        {
+          "start": 92,
+          "length": 16,
+          "tokens": "بِشِهَابٍ قَبَسٍ",
+          "content": "بشُعلة نار ساطعة مقبوسة من أصلها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَّعَلَّكُمۡ تَصۡطَلُونَ ۝٧ فَلَمَّا جَاۤءَهَا نُودِیَ أَنۢ بُورِكَ مَن فِی ٱلنَّارِ وَمَنۡ حَوۡلَهَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَانَسْتُ نَارًا",
+          "content": "أبصرتها إبصارا بيّنا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "بِشِهَابٍ قَبَسٍ",
+          "content": "بشُعلة نار ساطعة مقبوسة من أصلها",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "تَصْطَلُونَ",
+          "content": "تستدفئون بها من البرد",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 27,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 11,
+          "tokens": "تَصْطَلُونَ",
+          "content": "تستدفئون بها من البرد"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَسُبۡحَـٰنَ ٱللَّهِ رَبِّ ٱلۡعَـٰلَمِینَ ۝٨ یَـٰمُوسَىٰۤ إِنَّهُۥۤ أَنَا ٱللَّهُ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝٩",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُورِكَ",
+          "content": "قدّس وطُهّرَ وزيد خيرا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "مَن فِى ٱلنَّارِ وَمَنْ حَوْلَهَا",
+          "content": "الذين في ذلك الوادي الذي بدا فيه النور وهم موسى والملائكة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 10,
+          "surahIndex": 27,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَأَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَاۤنࣱّ وَلَّىٰ مُدۡبِرࣰا وَلَمۡ یُعَقِّبۡۚ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَهْتَزُّ",
+          "content": "تتحرّك بشدة واضطراب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "كَأَنَّهَا جَآنٌّ",
+          "content": "حيّة خفيفة في سرعة حركتها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "وَلَمْ يُعَقِّبْ",
+          "content": "لم يرجع على عقِبه أو لم يلتفت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 9,
+          "tokens": "تَهْتَزُّ",
+          "content": "تتحرّك بشدة واضطراب"
+        },
+        {
+          "start": 46,
+          "length": 18,
+          "tokens": "كَأَنَّهَا جَآنٌّ",
+          "content": "حيّة خفيفة في سرعة حركتها"
+        },
+        {
+          "start": 83,
+          "length": 17,
+          "tokens": "وَلَمْ يُعَقِّبْ",
+          "content": "لم يرجع على عقِبه أو لم يلتفت"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَـٰمُوسَىٰ لَا تَخَفۡ إِنِّی لَا یَخَافُ لَدَیَّ ٱلۡمُرۡسَلُونَ ۝١٠ إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَهْتَزُّ",
+          "content": "تتحرّك بشدة واضطراب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "كَأَنَّهَا جَآنٌّ",
+          "content": "حيّة خفيفة في سرعة حركتها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "وَلَمْ يُعَقِّبْ",
+          "content": "لم يرجع على عقِبه أو لم يلتفت",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 27,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "حُسۡنَۢا بَعۡدَ سُوۤءࣲ فَإِنِّی غَفُورࣱ رَّحِیمࣱ ۝١١ وَأَدۡخِلۡ یَدَكَ فِی جَیۡبِكَ تَخۡرُجۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "بَیۡضَاۤءَ مِنۡ غَیۡرِ سُوۤءࣲۖ فِی تِسۡعِ ءَایَـٰتٍ إِلَىٰ فِرۡعَوۡنَ وَقَوۡمِهِۦۤۚ إِنَّهُمۡ كَانُوا۟ قَوۡمࣰا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى جَيْبِكَ",
+          "content": "فتحة القميص حيث يُدخل الرّأس",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "بَيْضَآءَ",
+          "content": "نيّرة يغلب نورها نور الشمس",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "غَيْرِ سُوٓءٍ",
+          "content": "غير داء برص ونحوه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "بَيْضَآءَ",
+          "content": "نيّرة يغلب نورها نور الشمس"
+        },
+        {
+          "start": 16,
+          "length": 14,
+          "tokens": "غَيْرِ سُوٓءٍ",
+          "content": "غير داء برص ونحوه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَـٰسِقِینَ ۝١٢ فَلَمَّا جَاۤءَتۡهُمۡ ءَایَـٰتُنَا مُبۡصِرَةࣰ قَالُوا۟ هَـٰذَا سِحۡرࣱ مُّبِینࣱ ۝١٣",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى جَيْبِكَ",
+          "content": "فتحة القميص حيث يُدخل الرّأس",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "بَيْضَآءَ",
+          "content": "نيّرة يغلب نورها نور الشمس",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "غَيْرِ سُوٓءٍ",
+          "content": "غير داء برص ونحوه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 12
+        }
+      ]
+    }
+  ]
+}

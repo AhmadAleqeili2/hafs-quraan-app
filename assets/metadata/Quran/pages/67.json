@@ -1,0 +1,349 @@
+{
+  "pageIndex": 67,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَسَارِعُوۤا۟ إِلَىٰ مَغۡفِرَةࣲ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تُ وَٱلۡأَرۡضُ أُعِدَّتۡ لِلۡمُتَّقِینَ ۝١٣٣ ٱلَّذِینَ یُنفِقُونَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فِی ٱلسَّرَّاۤءِ وَٱلضَّرَّاۤءِ وَٱلۡكَـٰظِمِینَ ٱلۡغَیۡظَ وَٱلۡعَافِینَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 134,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّرَّآءِ وَٱلضَّرَّآءِ",
+          "content": "اليسر والعسر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 134
+        },
+        {
+          "tokens": "وَٱلْكَٰظِمِينَ ٱلْغَيْظَ",
+          "content": "الحابسين غيظهم في قلوبهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 134
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 27,
+          "tokens": "ٱلسَّرَّآءِ وَٱلضَّرَّآءِ",
+          "content": "اليسر والعسر"
+        },
+        {
+          "start": 32,
+          "length": 26,
+          "tokens": "وَٱلْكَٰظِمِينَ ٱلْغَيْظَ",
+          "content": "الحابسين غيظهم في قلوبهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَنِ ٱلنَّاسِۗ وَٱللَّهُ یُحِبُّ ٱلۡمُحۡسِنِینَ ۝١٣٤ وَٱلَّذِینَ إِذَا فَعَلُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 134,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّرَّآءِ وَٱلضَّرَّآءِ",
+          "content": "اليسر والعسر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 134
+        },
+        {
+          "tokens": "وَٱلْكَٰظِمِينَ ٱلْغَيْظَ",
+          "content": "الحابسين غيظهم في قلوبهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 134
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَـٰحِشَةً أَوۡ ظَلَمُوۤا۟ أَنفُسَهُمۡ ذَكَرُوا۟ ٱللَّهَ فَٱسۡتَغۡفَرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَعَلُوا۟ فَٰحِشَةً",
+          "content": "معصية كبيرة متناهية في القُبح",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 135
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "فَعَلُوا۟ فَٰحِشَةً",
+          "content": "معصية كبيرة متناهية في القُبح"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لِذُنُوبِهِمۡ وَمَن یَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ یُصِرُّوا۟ عَلَىٰ مَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَعَلُوا۟ فَٰحِشَةً",
+          "content": "معصية كبيرة متناهية في القُبح",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 135
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَعَلُوا۟ وَهُمۡ یَعۡلَمُونَ ۝١٣٥ أُو۟لَـٰۤىِٕكَ جَزَاۤؤُهُم مَّغۡفِرَةࣱ مِّن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَعَلُوا۟ فَٰحِشَةً",
+          "content": "معصية كبيرة متناهية في القُبح",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 135
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "رَّبِّهِمۡ وَجَنَّـٰتࣱ تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۚ وَنِعۡمَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَجۡرُ ٱلۡعَـٰمِلِینَ ۝١٣٦ قَدۡ خَلَتۡ مِن قَبۡلِكُمۡ سُنَنࣱ فَسِیرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِی ٱلۡأَرۡضِ فَٱنظُرُوا۟ كَیۡفَ كَانَ عَـٰقِبَةُ ٱلۡمُكَذِّبِینَ ۝١٣٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَتْ",
+          "content": "مضت وانْقضت",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 137
+        },
+        {
+          "tokens": "سُنَنٌ",
+          "content": "وقائع في الأمم المُكذّبة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 137
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "هَـٰذَا بَیَانࣱ لِّلنَّاسِ وَهُدࣰى وَمَوۡعِظَةࣱ لِّلۡمُتَّقِینَ ۝١٣٨",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 138,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلَا تَهِنُوا۟ وَلَا تَحۡزَنُوا۟ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ إِن كُنتُم مُّؤۡمِنِینَ ۝١٣٩",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 139,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَهِنُوا۟",
+          "content": "لا تضعفوا عن قتال أعدائكم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 139
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَلَا تَهِنُوا۟",
+          "content": "لا تضعفوا عن قتال أعدائكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِن یَمۡسَسۡكُمۡ قَرۡحࣱ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحࣱ مِّثۡلُهُۥۚ وَتِلۡكَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْحٌ",
+          "content": "جراحة يوم أُحُدْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "قَرْحٌ مِّثْلُهُۥ",
+          "content": "يوم بدر",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "نُدَاوِلُهَا",
+          "content": "نصرّفُها بأحوالٍ مُختلفة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 6,
+          "tokens": "قَرْحٌ",
+          "content": "جراحة يوم أُحُدْ"
+        },
+        {
+          "start": 47,
+          "length": 18,
+          "tokens": "قَرْحٌ مِّثْلُهُۥ",
+          "content": "يوم بدر"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡأَیَّامُ نُدَاوِلُهَا بَیۡنَ ٱلنَّاسِ وَلِیَعۡلَمَ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْحٌ",
+          "content": "جراحة يوم أُحُدْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "قَرْحٌ مِّثْلُهُۥ",
+          "content": "يوم بدر",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "نُدَاوِلُهَا",
+          "content": "نصرّفُها بأحوالٍ مُختلفة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 12,
+          "tokens": "نُدَاوِلُهَا",
+          "content": "نصرّفُها بأحوالٍ مُختلفة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَیَتَّخِذَ مِنكُمۡ شُهَدَاۤءَۗ وَٱللَّهُ لَا یُحِبُّ ٱلظَّـٰلِمِینَ ۝١٤٠",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْحٌ",
+          "content": "جراحة يوم أُحُدْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "قَرْحٌ مِّثْلُهُۥ",
+          "content": "يوم بدر",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        },
+        {
+          "tokens": "نُدَاوِلُهَا",
+          "content": "نصرّفُها بأحوالٍ مُختلفة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 140
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,533 @@
+{
+  "pageIndex": 114,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یُرِیدُونَ أَن یَخۡرُجُوا۟ مِنَ ٱلنَّارِ وَمَا هُم بِخَـٰرِجِینَ مِنۡهَاۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَهُمۡ عَذَابࣱ مُّقِیمࣱ ۝٣٧ وَٱلسَّارِقُ وَٱلسَّارِقَةُ فَٱقۡطَعُوۤا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَیۡدِیَهُمَا جَزَاۤءَۢ بِمَا كَسَبَا نَكَـٰلࣰا مِّنَ ٱللَّهِۗ وَٱللَّهُ عَزِیزٌ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَكَٰلًا",
+          "content": "عُقُوبة تمنع من العَوْد",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 9,
+          "tokens": "نَكَٰلًا",
+          "content": "عُقُوبة تمنع من العَوْد"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "حَكِیمࣱ ۝٣٨ فَمَن تَابَ مِنۢ بَعۡدِ ظُلۡمِهِۦ وَأَصۡلَحَ فَإِنَّ ٱللَّهَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَكَٰلًا",
+          "content": "عُقُوبة تمنع من العَوْد",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 5,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَتُوبُ عَلَیۡهِۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمٌ ۝٣٩ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ یُعَذِّبُ مَن یَشَاۤءُ وَیَغۡفِرُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لِمَن یَشَاۤءُۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝٤٠ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلرَّسُولُ لَا یَحۡزُنكَ ٱلَّذِینَ یُسَـٰرِعُونَ فِی ٱلۡكُفۡرِ مِنَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلَّذِینَ قَالُوۤا۟ ءَامَنَّا بِأَفۡوَ ٰ⁠هِهِمۡ وَلَمۡ تُؤۡمِن قُلُوبُهُمۡۛ وَمِنَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلَّذِینَ هَادُوا۟ۛ سَمَّـٰعُونَ لِلۡكَذِبِ سَمَّـٰعُونَ لِقَوۡمٍ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 23,
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه"
+        },
+        {
+          "start": 44,
+          "length": 21,
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ءَاخَرِینَ لَمۡ یَأۡتُوكَۖ یُحَرِّفُونَ ٱلۡكَلِمَ مِنۢ بَعۡدِ مَوَاضِعِهِۦۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين"
+        },
+        {
+          "start": 27,
+          "length": 22,
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَقُولُونَ إِنۡ أُوتِیتُمۡ هَـٰذَا فَخُذُوهُ وَإِن لَّمۡ تُؤۡتَوۡهُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَٱحۡذَرُوا۟ۚ وَمَن یُرِدِ ٱللَّهُ فِتۡنَتَهُۥ فَلَن تَمۡلِكَ لَهُۥ مِنَ ٱللَّهِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 11,
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "شَیۡـًٔاۚ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ لَمۡ یُرِدِ ٱللَّهُ أَن یُطَهِّرَ قُلُوبَهُمۡۚ لَهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فِی ٱلدُّنۡیَا خِزۡیࣱۖ وَلَهُمۡ فِی ٱلۡـَٔاخِرَةِ عَذَابٌ عَظِیمࣱ ۝٤١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمَّٰعُونَ لِلْكَذِبِ",
+          "content": "يسمعون كلامك فيمسخُونهُ ليكذبوا عليك فيه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "سَمَّٰعُونَ لِقَوْمٍ ءَاخَرِينَ",
+          "content": "يسمعُون كلامك للتجسّس لآخرين",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "يُحَرِّفُونَ ٱلْكَلِمَ",
+          "content": "يُبدلون أو يُؤوّلونه بالباطل",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فِتْنَتَهُۥ",
+          "content": "ضلالتهُ وكُفرهُ أو إهلاكهُ",
+          "tokenFromIndex": 44,
+          "tokenToIndex": 44,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 5,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 7,
+          "tokens": "خِزْىٌ",
+          "content": "افتضاح وذل"
+        }
+      ]
+    }
+  ]
+}

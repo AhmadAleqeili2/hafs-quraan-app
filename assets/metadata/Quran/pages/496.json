@@ -1,0 +1,249 @@
+{
+  "pageIndex": 496,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الدخان",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "حمۤ ۝١ وَٱلۡكِتَـٰبِ ٱلۡمُبِینِ ۝٢ إِنَّاۤ أَنزَلۡنَـٰهُ فِی لَیۡلَةࣲ مُّبَـٰرَكَةٍۚ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِنَّا كُنَّا مُنذِرِینَ ۝٣ فِیهَا یُفۡرَقُ كُلُّ أَمۡرٍ حَكِیمٍ ۝٤ أَمۡرࣰا",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيْلَةٍ مُّبَٰرَكَةٍ",
+          "content": "ليلة القدر من شهر رمضان",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 44,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِّنۡ عِندِنَاۤۚ إِنَّا كُنَّا مُرۡسِلِینَ ۝٥ رَحۡمَةࣰ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلسَّمِیعُ ٱلۡعَلِیمُ ۝٦ رَبِّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَاۤۖ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِن كُنتُم مُّوقِنِینَ ۝٧ لَاۤ إِلَـٰهَ إِلَّا هُوَ یُحۡیِۦ وَیُمِیتُۖ رَبُّكُمۡ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَرَبُّ ءَابَاۤىِٕكُمُ ٱلۡأَوَّلِینَ ۝٨ بَلۡ هُمۡ فِی شَكࣲّ یَلۡعَبُونَ ۝٩",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَٱرۡتَقِبۡ یَوۡمَ تَأۡتِی ٱلسَّمَاۤءُ بِدُخَانࣲ مُّبِینࣲ ۝١٠ یَغۡشَى ٱلنَّاسَۖ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱرْتَقِبْ",
+          "content": "انتظر بهؤلاء الشاكّين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 44,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "بِدُخَانٍ",
+          "content": "كناية عن إصابتهم بالجَدْب والمجاعة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 44,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "فَٱرْتَقِبْ",
+          "content": "انتظر بهؤلاء الشاكّين"
+        },
+        {
+          "start": 39,
+          "length": 9,
+          "tokens": "بِدُخَانٍ",
+          "content": "كناية عن إصابتهم بالجَدْب والمجاعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "هَـٰذَا عَذَابٌ أَلِیمࣱ ۝١١ رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ ۝١٢",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغْشَى ٱلنَّاسَ",
+          "content": "يشملهم ويحيط بهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 44,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَاۤءَهُمۡ رَسُولࣱ مُّبِینࣱ ۝١٣ ثُمَّ تَوَلَّوۡا۟",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ",
+          "content": "كيف يتذكّرون ويتّعِظون ؟",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 44,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 26,
+          "tokens": "أَنَّىٰ لَهُمُ ٱلذِّكْرَىٰ",
+          "content": "كيف يتذكّرون ويتّعِظون ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَنۡهُ وَقَالُوا۟ مُعَلَّمࣱ مَّجۡنُونٌ ۝١٤ إِنَّا كَاشِفُوا۟ ٱلۡعَذَابِ قَلِیلًاۚ إِنَّكُمۡ",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعَلَّمٌ",
+          "content": "يعلّمه بشر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 44,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 9,
+          "tokens": "مُعَلَّمٌ",
+          "content": "يعلّمه بشر"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَاۤىِٕدُونَ ۝١٥ یَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰۤ إِنَّا مُنتَقِمُونَ ۝١٦",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَاۤءَهُمۡ رَسُولࣱ كَرِیمٌ ۝١٧",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتَنَّا",
+          "content": "ابتلينا وامتحنّا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 44,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 8,
+          "tokens": "فَتَنَّا",
+          "content": "ابتلينا وامتحنّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَنۡ أَدُّوۤا۟ إِلَیَّ عِبَادَ ٱللَّهِۖ إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ ۝١٨",
+      "surahIndexFirst": 44,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ",
+          "content": "سلّموا إلي بني إسرائيل",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 5,
+          "surahIndex": 44,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 34,
+          "tokens": "أَدُّوٓا۟ إِلَىَّ عِبَادَ ٱللَّهِ",
+          "content": "سلّموا إلي بني إسرائيل"
+        }
+      ]
+    }
+  ]
+}

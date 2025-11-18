@@ -1,0 +1,199 @@
+{
+  "pageIndex": 369,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ ۝٤٠ فَلَمَّا جَاۤءَ ٱلسَّحَرَةُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَالُوا۟ لِفِرۡعَوۡنَ أَىِٕنَّ لَنَا لَأَجۡرًا إِن كُنَّا نَحۡنُ ٱلۡغَـٰلِبِینَ ۝٤١ قَالَ نَعَمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَإِنَّكُمۡ إِذࣰا لَّمِنَ ٱلۡمُقَرَّبِینَ ۝٤٢ قَالَ لَهُم مُّوسَىٰۤ أَلۡقُوا۟ مَاۤ أَنتُم مُّلۡقُونَ ۝٤٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَأَلۡقَوۡا۟ حِبَالَهُمۡ وَعِصِیَّهُمۡ وَقَالُوا۟ بِعِزَّةِ فِرۡعَوۡنَ إِنَّا لَنَحۡنُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِعِزَّةِ فِرْعَوْنَ",
+          "content": "بقوّته وعظمته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 26,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 20,
+          "tokens": "بِعِزَّةِ فِرْعَوْنَ",
+          "content": "بقوّته وعظمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡغَـٰلِبُونَ ۝٤٤ فَأَلۡقَىٰ مُوسَىٰ عَصَاهُ فَإِذَا هِیَ تَلۡقَفُ مَا یَأۡفِكُونَ ۝٤٥",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِعِزَّةِ فِرْعَوْنَ",
+          "content": "بقوّته وعظمته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 26,
+          "ayahIndex": 44
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَأُلۡقِیَ ٱلسَّحَرَةُ سَـٰجِدِینَ ۝٤٦ قَالُوۤا۟ ءَامَنَّا بِرَبِّ ٱلۡعَـٰلَمِینَ ۝٤٧",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "رَبِّ مُوسَىٰ وَهَـٰرُونَ ۝٤٨ قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "لَكَبِیرُكُمُ ٱلَّذِی عَلَّمَكُمُ ٱلسِّحۡرَ فَلَسَوۡفَ تَعۡلَمُونَۚ لَأُقَطِّعَنَّ أَیۡدِیَكُمۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَأَرۡجُلَكُم مِّنۡ خِلَـٰفࣲ وَلَأُصَلِّبَنَّكُمۡ أَجۡمَعِینَ ۝٤٩ قَالُوا۟ لَا ضَیۡرَۖ إِنَّاۤ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَىٰ رَبِّنَا مُنقَلِبُونَ ۝٥٠ إِنَّا نَطۡمَعُ أَن یَغۡفِرَ لَنَا رَبُّنَا خَطَـٰیَـٰنَاۤ أَن كُنَّاۤ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا ضَيْرَ",
+          "content": "لا ضرر علينا فيما يُصيبنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَوَّلَ ٱلۡمُؤۡمِنِینَ ۝٥١ وَأَوۡحَیۡنَاۤ إِلَىٰ مُوسَىٰۤ أَنۡ أَسۡرِ بِعِبَادِیۤ إِنَّكُم",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مُّتَّبَعُونَ ۝٥٢ فَأَرۡسَلَ فِرۡعَوۡنُ فِی ٱلۡمَدَاۤىِٕنِ حَـٰشِرِینَ ۝٥٣ إِنَّ هَـٰۤؤُلَاۤءِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّكُم مُّتَّبَعُونَ",
+          "content": "يتّبعُكُم فِرعون وجُنُوده",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 26,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "إِنَّكُم مُّتَّبَعُونَ",
+          "content": "يتّبعُكُم فِرعون وجُنُوده"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَشِرۡذِمَةࣱ قَلِیلُونَ ۝٥٤ وَإِنَّهُمۡ لَنَا لَغَاۤىِٕظُونَ ۝٥٥ وَإِنَّا لَجَمِیعٌ حَـٰذِرُونَ ۝٥٦",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَشِرْذِمَةٌ",
+          "content": "لطائفة قليلة بالنّسبة إلينا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "لَشِرْذِمَةٌ",
+          "content": "لطائفة قليلة بالنّسبة إلينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَأَخۡرَجۡنَـٰهُم مِّن جَنَّـٰتࣲ وَعُیُونࣲ ۝٥٧ وَكُنُوزࣲ وَمَقَامࣲ كَرِیمࣲ ۝٥٨",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَذَ ٰ⁠لِكَۖ وَأَوۡرَثۡنَـٰهَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ۝٥٩ فَأَتۡبَعُوهُم مُّشۡرِقِینَ ۝٦٠",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

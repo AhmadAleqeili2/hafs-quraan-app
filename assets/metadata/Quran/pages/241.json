@@ -1,0 +1,399 @@
+{
+  "pageIndex": 241,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالُوۤا۟ أَضۡغَـٰثُ أَحۡلَـٰمࣲۖ وَمَا نَحۡنُ بِتَأۡوِیلِ ٱلۡأَحۡلَـٰمِ بِعَـٰلِمِینَ ۝٤٤",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَضْغَٰثُ أَحْلَٰمٍ",
+          "content": "تخاليطها وأباطيلها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 22,
+          "tokens": "أَضْغَٰثُ أَحْلَٰمٍ",
+          "content": "تخاليطها وأباطيلها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَقَالَ ٱلَّذِی نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِیلِهِۦ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱدَّكَرَ بَعْدَ أُمَّةٍ",
+          "content": "تذكّر بعد مدّة طويلة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 25,
+          "tokens": "وَٱدَّكَرَ بَعْدَ أُمَّةٍ",
+          "content": "تذكّر بعد مدّة طويلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَأَرۡسِلُونِ ۝٤٥ یُوسُفُ أَیُّهَا ٱلصِّدِّیقُ أَفۡتِنَا فِی سَبۡعِ بَقَرَ ٰ⁠تࣲ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱدَّكَرَ بَعْدَ أُمَّةٍ",
+          "content": "تذكّر بعد مدّة طويلة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 45
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "سِمَانࣲ یَأۡكُلُهُنَّ سَبۡعٌ عِجَافࣱ وَسَبۡعِ سُنۢبُلَـٰتٍ خُضۡرࣲ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأُخَرَ یَابِسَـٰتࣲ لَّعَلِّیۤ أَرۡجِعُ إِلَى ٱلنَّاسِ لَعَلَّهُمۡ یَعۡلَمُونَ ۝٤٦ قَالَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "تَزۡرَعُونَ سَبۡعَ سِنِینَ دَأَبࣰا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِی سُنۢبُلِهِۦۤ إِلَّا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَأَبًا",
+          "content": "دائبين كعادتكم في الزّراعة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 7,
+          "tokens": "دَأَبًا",
+          "content": "دائبين كعادتكم في الزّراعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قَلِیلࣰا مِّمَّا تَأۡكُلُونَ ۝٤٧ ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ سَبۡعࣱ شِدَادࣱ یَأۡكُلۡنَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَأَبًا",
+          "content": "دائبين كعادتكم في الزّراعة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 47
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِیلࣰا مِّمَّا تُحۡصِنُونَ ۝٤٨ ثُمَّ یَأۡتِی مِنۢ بَعۡدِ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُحْصِنُونَ",
+          "content": "تخبؤونه من البذر للزّراعة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 11,
+          "tokens": "تُحْصِنُونَ",
+          "content": "تخبؤونه من البذر للزّراعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "عَامࣱ فِیهِ یُغَاثُ ٱلنَّاسُ وَفِیهِ یَعۡصِرُونَ ۝٤٩ وَقَالَ ٱلۡمَلِكُ ٱئۡتُونِی",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُغَاثُ ٱلنَّاسُ",
+          "content": "يُمطرون فتخصب أراضيهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 12,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "يَعْصِرُونَ",
+          "content": "ما شأنه أن يُعصر كالزّيتون",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 16,
+          "tokens": "يُغَاثُ ٱلنَّاسُ",
+          "content": "يُمطرون فتخصب أراضيهم"
+        },
+        {
+          "start": 37,
+          "length": 11,
+          "tokens": "يَعْصِرُونَ",
+          "content": "ما شأنه أن يُعصر كالزّيتون"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِهِۦۖ فَلَمَّا جَاۤءَهُ ٱلرَّسُولُ قَالَ ٱرۡجِعۡ إِلَىٰ رَبِّكَ فَسۡـَٔلۡهُ مَا بَالُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا بَالُ ٱلنِّسْوَةِ",
+          "content": "ما حالهنّ ما شأنهنّ ؟",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 77,
+          "length": 9,
+          "tokens": "مَا بَالُ ٱلنِّسْوَةِ",
+          "content": "ما حالهنّ ما شأنهنّ ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلنِّسۡوَةِ ٱلَّـٰتِی قَطَّعۡنَ أَیۡدِیَهُنَّۚ إِنَّ رَبِّی بِكَیۡدِهِنَّ عَلِیمࣱ ۝٥٠",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا بَالُ ٱلنِّسْوَةِ",
+          "content": "ما حالهنّ ما شأنهنّ ؟",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مَا بَالُ ٱلنِّسْوَةِ",
+          "content": "ما حالهنّ ما شأنهنّ ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قَالَ مَا خَطۡبُكُنَّ إِذۡ رَ ٰ⁠وَدتُّنَّ یُوسُفَ عَن نَّفۡسِهِۦۚ قُلۡنَ حَـٰشَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا خَطْبُكُنَّ",
+          "content": "ما شأنكنّ وأمركنّ ؟",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَٰشَ لِلَّهِ",
+          "content": "تنزيها لله وتعجيبا من عفّة يوسف",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَصْحَصَ ٱلْحَقُّ",
+          "content": "ظهر وانكشف بعد خفاء",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 15,
+          "tokens": "مَا خَطْبُكُنَّ",
+          "content": "ما شأنكنّ وأمركنّ ؟"
+        },
+        {
+          "start": 73,
+          "length": 6,
+          "tokens": "حَٰشَ لِلَّهِ",
+          "content": "تنزيها لله وتعجيبا من عفّة يوسف"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لِلَّهِ مَا عَلِمۡنَا عَلَیۡهِ مِن سُوۤءࣲۚ قَالَتِ ٱمۡرَأَتُ ٱلۡعَزِیزِ ٱلۡـَٔـٰنَ حَصۡحَصَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا خَطْبُكُنَّ",
+          "content": "ما شأنكنّ وأمركنّ ؟",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَٰشَ لِلَّهِ",
+          "content": "تنزيها لله وتعجيبا من عفّة يوسف",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَصْحَصَ ٱلْحَقُّ",
+          "content": "ظهر وانكشف بعد خفاء",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "حَٰشَ لِلَّهِ",
+          "content": "تنزيها لله وتعجيبا من عفّة يوسف"
+        },
+        {
+          "start": 83,
+          "length": 8,
+          "tokens": "حَصْحَصَ ٱلْحَقُّ",
+          "content": "ظهر وانكشف بعد خفاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡحَقُّ أَنَا۠ رَ ٰ⁠وَدتُّهُۥ عَن نَّفۡسِهِۦ وَإِنَّهُۥ لَمِنَ ٱلصَّـٰدِقِینَ ۝٥١ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا خَطْبُكُنَّ",
+          "content": "ما شأنكنّ وأمركنّ ؟",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَٰشَ لِلَّهِ",
+          "content": "تنزيها لله وتعجيبا من عفّة يوسف",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "حَصْحَصَ ٱلْحَقُّ",
+          "content": "ظهر وانكشف بعد خفاء",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 12,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "حَصْحَصَ ٱلْحَقُّ",
+          "content": "ظهر وانكشف بعد خفاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لِیَعۡلَمَ أَنِّی لَمۡ أَخُنۡهُ بِٱلۡغَیۡبِ وَأَنَّ ٱللَّهَ لَا یَهۡدِی كَیۡدَ ٱلۡخَاۤىِٕنِینَ ۝٥٢",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

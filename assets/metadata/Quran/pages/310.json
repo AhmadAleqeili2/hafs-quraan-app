@@ -1,0 +1,383 @@
+{
+  "pageIndex": 310,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "رَّبُّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا فَٱعۡبُدۡهُ وَٱصۡطَبِرۡ لِعِبَـٰدَتِهِۦۚ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمِيًّا",
+          "content": "مُضاهيا في ذاته وصفاته : لا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 19,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "هَلۡ تَعۡلَمُ لَهُۥ سَمِیࣰّا ۝٦٥ وَیَقُولُ ٱلۡإِنسَـٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَمِيًّا",
+          "content": "مُضاهيا في ذاته وصفاته : لا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 19,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 8,
+          "tokens": "سَمِيًّا",
+          "content": "مُضاهيا في ذاته وصفاته : لا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أُخۡرَجُ حَیًّا ۝٦٦ أَوَلَا یَذۡكُرُ ٱلۡإِنسَـٰنُ أَنَّا خَلَقۡنَـٰهُ مِن قَبۡلُ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَمۡ یَكُ شَیۡـࣰٔا ۝٦٧ فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّیَـٰطِینَ ثُمَّ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَنُحۡضِرَنَّهُمۡ حَوۡلَ جَهَنَّمَ جِثِیࣰّا ۝٦٨ ثُمَّ لَنَنزِعَنَّ مِن كُلِّ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جِثِيًّا",
+          "content": "باركِين على رُكبهم لشدّة الهول",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 8,
+          "tokens": "جِثِيًّا",
+          "content": "باركِين على رُكبهم لشدّة الهول"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "شِیعَةٍ أَیُّهُمۡ أَشَدُّ عَلَى ٱلرَّحۡمَـٰنِ عِتِیࣰّا ۝٦٩ ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِینَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِتِيًّا",
+          "content": "عِصيانا، أو جراءة أو فُجورا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 19,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 8,
+          "tokens": "عِتِيًّا",
+          "content": "عِصيانا، أو جراءة أو فُجورا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "هُمۡ أَوۡلَىٰ بِهَا صِلِیࣰّا ۝٧٠ وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صِلِيًّا",
+          "content": "دُخولا أو مُقاساة لحرّها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 8,
+          "tokens": "صِلِيًّا",
+          "content": "دُخولا أو مُقاساة لحرّها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَتۡمࣰا مَّقۡضِیࣰّا ۝٧١ ثُمَّ نُنَجِّی ٱلَّذِینَ ٱتَّقَوا۟ وَّنَذَرُ ٱلظَّـٰلِمِینَ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَارِدُهَا",
+          "content": "بالمرور على الصّراط الممدود عليها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 19,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فِیهَا جِثِیࣰّا ۝٧٢ وَإِذَا تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا بَیِّنَـٰتࣲ قَالَ ٱلَّذِینَ كَفَرُوا۟",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِلَّذِینَ ءَامَنُوۤا۟ أَیُّ ٱلۡفَرِیقَیۡنِ خَیۡرࣱ مَّقَامࣰا وَأَحۡسَنُ نَدِیࣰّا ۝٧٣",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَيْرٌ مَّقَامًا",
+          "content": "منزلا وسكنا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 19,
+          "ayahIndex": 73
+        },
+        {
+          "tokens": "وَأَحْسَنُ نَدِيًّا",
+          "content": "مجلسا ومُجتمعا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 19,
+          "ayahIndex": 73
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 16,
+          "tokens": "خَيْرٌ مَّقَامًا",
+          "content": "منزلا وسكنا"
+        },
+        {
+          "start": 61,
+          "length": 19,
+          "tokens": "وَأَحْسَنُ نَدِيًّا",
+          "content": "مجلسا ومُجتمعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَحۡسَنُ أَثَـٰثࣰا وَرِءۡیࣰا ۝٧٤",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْنٍ",
+          "content": "أمّة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 19,
+          "ayahIndex": 74
+        },
+        {
+          "tokens": "أَحْسَنُ أَثَٰثًا",
+          "content": "متاعا من الفَرْش والثياب وغيرها",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 19,
+          "ayahIndex": 74
+        },
+        {
+          "tokens": "وَرِءْيًا",
+          "content": "منظرا وهيئة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 19,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 6,
+          "tokens": "قَرْنٍ",
+          "content": "أمّة"
+        },
+        {
+          "start": 46,
+          "length": 18,
+          "tokens": "أَحْسَنُ أَثَٰثًا",
+          "content": "متاعا من الفَرْش والثياب وغيرها"
+        },
+        {
+          "start": 65,
+          "length": 9,
+          "tokens": "وَرِءْيًا",
+          "content": "منظرا وهيئة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قُلۡ مَن كَانَ فِی ٱلضَّلَـٰلَةِ فَلۡیَمۡدُدۡ لَهُ ٱلرَّحۡمَـٰنُ مَدًّاۚ حَتَّىٰۤ إِذَا رَأَوۡا۟",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلْيَمْدُدْ لَهُ",
+          "content": "يُمهله استدراجا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأَضْعَفُ جُندًا",
+          "content": "أقلّ أعوانا وأنصارا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 17,
+          "tokens": "فَلْيَمْدُدْ لَهُ",
+          "content": "يُمهله استدراجا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَا یُوعَدُونَ إِمَّا ٱلۡعَذَابَ وَإِمَّا ٱلسَّاعَةَ فَسَیَعۡلَمُونَ مَنۡ هُوَ شَرࣱّ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلْيَمْدُدْ لَهُ",
+          "content": "يُمهله استدراجا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأَضْعَفُ جُندًا",
+          "content": "أقلّ أعوانا وأنصارا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَّكَانࣰا وَأَضۡعَفُ جُندࣰا ۝٧٥ وَیَزِیدُ ٱللَّهُ ٱلَّذِینَ ٱهۡتَدَوۡا۟ هُدࣰىۗ",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلْيَمْدُدْ لَهُ",
+          "content": "يُمهله استدراجا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "وَأَضْعَفُ جُندًا",
+          "content": "أقلّ أعوانا وأنصارا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 19,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 17,
+          "tokens": "وَأَضْعَفُ جُندًا",
+          "content": "أقلّ أعوانا وأنصارا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَٱلۡبَـٰقِیَـٰتُ ٱلصَّـٰلِحَـٰتُ خَیۡرٌ عِندَ رَبِّكَ ثَوَابࣰا وَخَیۡرࣱ مَّرَدًّا ۝٧٦",
+      "surahIndexFirst": 19,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَخَيْرٌ مَّرَدًّا",
+          "content": "مرجعا وعاقبة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 19,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 64,
+          "length": 18,
+          "tokens": "وَخَيْرٌ مَّرَدًّا",
+          "content": "مرجعا وعاقبة"
+        }
+      ]
+    }
+  ]
+}

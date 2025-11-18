@@ -1,0 +1,423 @@
+{
+  "pageIndex": 563,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَسِرُّوا۟ قَوۡلَكُمۡ أَوِ ٱجۡهَرُوا۟ بِهِۦۤۖ إِنَّهُۥ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ ۝١٣ أَلَا",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "یَعۡلَمُ مَنۡ خَلَقَ وَهُوَ ٱللَّطِیفُ ٱلۡخَبِیرُ ۝١٤ هُوَ ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَرۡضَ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ذَلُولࣰا فَٱمۡشُوا۟ فِی مَنَاكِبِهَا وَكُلُوا۟ مِن رِّزۡقِهِۦۖ وَإِلَیۡهِ ٱلنُّشُورُ ۝١٥",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَرْضَ ذَلُولًا",
+          "content": "مُذلّلة ليّنَة سَهْلة تستقرّون عليها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 67,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "مَنَاكِبِهَا",
+          "content": "جَوَانبها، أو طُرُقِها وفِجَاجها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 67,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "وَإِلَيْهِ ٱلنُّشُورُ",
+          "content": "إليه تبْعثون من القبور",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 67,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "ٱلْأَرْضَ ذَلُولًا",
+          "content": "مُذلّلة ليّنَة سَهْلة تستقرّون عليها"
+        },
+        {
+          "start": 24,
+          "length": 12,
+          "tokens": "مَنَاكِبِهَا",
+          "content": "جَوَانبها، أو طُرُقِها وفِجَاجها"
+        },
+        {
+          "start": 63,
+          "length": 21,
+          "tokens": "وَإِلَيْهِ ٱلنُّشُورُ",
+          "content": "إليه تبْعثون من القبور"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ءَأَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِیَ تَمُورُ ۝١٦",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّن فِى ٱلسَّمَآءِ",
+          "content": "أمْرُه وقَضاؤُه وسلطانه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 67,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "يَخْسِفَ بِكُمُ",
+          "content": "يُغَوّر بكم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 67,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "هِىَ تَمُورُ",
+          "content": "تَرْتجّ وتضطرب فتعلو عليكم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 67,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 20,
+          "tokens": "مَّن فِى ٱلسَّمَآءِ",
+          "content": "أمْرُه وقَضاؤُه وسلطانه"
+        },
+        {
+          "start": 36,
+          "length": 15,
+          "tokens": "يَخْسِفَ بِكُمُ",
+          "content": "يُغَوّر بكم"
+        },
+        {
+          "start": 70,
+          "length": 12,
+          "tokens": "هِىَ تَمُورُ",
+          "content": "تَرْتجّ وتضطرب فتعلو عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَمۡ أَمِنتُم مَّن فِی ٱلسَّمَاۤءِ أَن یُرۡسِلَ عَلَیۡكُمۡ حَاصِبࣰاۖ فَسَتَعۡلَمُونَ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَاصِبًا",
+          "content": "ريحًا من السّماء فيها حَصباء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 67,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "كَيْفَ نَذِيرِ",
+          "content": "كيف إنذاري وقدْرتي على العِقاب",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 67,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 9,
+          "tokens": "حَاصِبًا",
+          "content": "ريحًا من السّماء فيها حَصباء"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "كَیۡفَ نَذِیرِ ۝١٧ وَلَقَدۡ كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ فَكَیۡفَ كَانَ نَكِیرِ ۝١٨",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَاصِبًا",
+          "content": "ريحًا من السّماء فيها حَصباء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 67,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "كَيْفَ نَذِيرِ",
+          "content": "كيف إنذاري وقدْرتي على العِقاب",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 67,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "كَيْفَ نَذِيرِ",
+          "content": "كيف إنذاري وقدْرتي على العِقاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَوَلَمۡ یَرَوۡا۟ إِلَى ٱلطَّیۡرِ فَوۡقَهُمۡ صَـٰۤفَّـٰتࣲ وَیَقۡبِضۡنَۚ مَا یُمۡسِكُهُنَّ إِلَّا",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَٰٓفَّٰتٍ وَيَقْبِضْنَ",
+          "content": "باسطاتٍ أجنحتهنّ في الجوّ عند الطيران ويَضْمُمْنَها إذا ضربنَ بها جُنوبهنّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 67,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 26,
+          "tokens": "صَٰٓفَّٰتٍ وَيَقْبِضْنَ",
+          "content": "باسطاتٍ أجنحتهنّ في الجوّ عند الطيران ويَضْمُمْنَها إذا ضربنَ بها جُنوبهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلرَّحۡمَـٰنُۚ إِنَّهُۥ بِكُلِّ شَیۡءِۭ بَصِیرٌ ۝١٩ أَمَّنۡ هَـٰذَا ٱلَّذِی هُوَ جُندࣱ لَّكُمۡ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَٰٓفَّٰتٍ وَيَقْبِضْنَ",
+          "content": "باسطاتٍ أجنحتهنّ في الجوّ عند الطيران ويَضْمُمْنَها إذا ضربنَ بها جُنوبهنّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 67,
+          "ayahIndex": 19
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَـٰنِۚ إِنِ ٱلۡكَـٰفِرُونَ إِلَّا فِی غُرُورٍ ۝٢٠ أَمَّنۡ هَـٰذَا",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَّنْ هَٰذَا",
+          "content": "بَلْ مَنْ هذا ؟ ؟",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 67,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "جُندٌ لَّكُمْ",
+          "content": "أعْوان لكم ومَنَعَة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 67,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "غُرُورٍ",
+          "content": "خديعة من الشيطان وجنده",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 67,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 7,
+          "tokens": "غُرُورٍ",
+          "content": "خديعة من الشيطان وجنده"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلَّذِی یَرۡزُقُكُمۡ إِنۡ أَمۡسَكَ رِزۡقَهُۥۚ بَل لَّجُّوا۟ فِی عُتُوࣲّ وَنُفُورٍ ۝٢١ أَفَمَن",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّجُّوا۟ فِى عُتُوٍّ",
+          "content": "تمادَوْا في استكبار وعناد",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 67,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "وَنُفُورٍ",
+          "content": "شِرَادٍ وتباعد عن الحقّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 67,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 21,
+          "tokens": "لَّجُّوا۟ فِى عُتُوٍّ",
+          "content": "تمادَوْا في استكبار وعناد"
+        },
+        {
+          "start": 72,
+          "length": 9,
+          "tokens": "وَنُفُورٍ",
+          "content": "شِرَادٍ وتباعد عن الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَمۡشِی مُكِبًّا عَلَىٰ وَجۡهِهِۦۤ أَهۡدَىٰۤ أَمَّن یَمۡشِی سَوِیًّا عَلَىٰ صِرَ ٰ⁠طࣲ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُكِبًّا عَلَىٰ وَجْهِهِۦٓ",
+          "content": "سَاقطا عليه لا يَأمن العثور",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 67,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "يَمْشِى سَوِيًّا",
+          "content": "مُسْتَويًا مُنتصِبا سالمًا من العثور (مَثلٌ للمشرك والموحّد)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 67,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 26,
+          "tokens": "مُكِبًّا عَلَىٰ وَجْهِهِۦٓ",
+          "content": "سَاقطا عليه لا يَأمن العثور"
+        },
+        {
+          "start": 52,
+          "length": 16,
+          "tokens": "يَمْشِى سَوِيًّا",
+          "content": "مُسْتَويًا مُنتصِبا سالمًا من العثور (مَثلٌ للمشرك والموحّد)"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مُّسۡتَقِیمࣲ ۝٢٢ قُلۡ هُوَ ٱلَّذِیۤ أَنشَأَكُمۡ وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَـٰرَ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُكِبًّا عَلَىٰ وَجْهِهِۦٓ",
+          "content": "سَاقطا عليه لا يَأمن العثور",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 67,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "يَمْشِى سَوِيًّا",
+          "content": "مُسْتَويًا مُنتصِبا سالمًا من العثور (مَثلٌ للمشرك والموحّد)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 67,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱلۡأَفۡـِٔدَةَۚ قَلِیلࣰا مَّا تَشۡكُرُونَ ۝٢٣ قُلۡ هُوَ ٱلَّذِی ذَرَأَكُمۡ فِی",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡأَرۡضِ وَإِلَیۡهِ تُحۡشَرُونَ ۝٢٤ وَیَقُولُونَ مَتَىٰ هَـٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَرَأَكُمْ",
+          "content": "خَلقكم وبَثّكم وفرّقكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 67,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "صَـٰدِقِینَ ۝٢٥ قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَاۤ أَنَا۠ نَذِیرࣱ مُّبِینࣱ ۝٢٦",
+      "surahIndexFirst": 67,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

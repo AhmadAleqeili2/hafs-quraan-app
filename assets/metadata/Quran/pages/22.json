@@ -1,0 +1,471 @@
+{
+  "pageIndex": 22,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "سَیَقُولُ ٱلسُّفَهَاۤءُ مِنَ ٱلنَّاسِ مَا وَلَّىٰهُمۡ عَن قِبۡلَتِهِمُ ٱلَّتِی كَانُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسُّفَهَآءُ",
+          "content": "الخفاف العقول : اليهود ومن شاكلهم في إنكار تحويل القبلة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "مَا وَلَّىٰهُمْ",
+          "content": "أيّ شيء صرفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "عَن قِبْلَتِهِمُ",
+          "content": "عن بيت المقدس",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 13,
+          "tokens": "ٱلسُّفَهَآءُ",
+          "content": "الخفاف العقول : اليهود ومن شاكلهم في إنكار تحويل القبلة"
+        },
+        {
+          "start": 38,
+          "length": 15,
+          "tokens": "مَا وَلَّىٰهُمْ",
+          "content": "أيّ شيء صرفهم"
+        },
+        {
+          "start": 54,
+          "length": 16,
+          "tokens": "عَن قِبْلَتِهِمُ",
+          "content": "عن بيت المقدس"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَلَیۡهَاۚ قُل لِّلَّهِ ٱلۡمَشۡرِقُ وَٱلۡمَغۡرِبُۚ یَهۡدِی مَن یَشَاۤءُ إِلَىٰ صِرَ ٰ⁠طࣲ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسُّفَهَآءُ",
+          "content": "الخفاف العقول : اليهود ومن شاكلهم في إنكار تحويل القبلة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "مَا وَلَّىٰهُمْ",
+          "content": "أيّ شيء صرفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "عَن قِبْلَتِهِمُ",
+          "content": "عن بيت المقدس",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مُّسۡتَقِیمࣲ ۝١٤٢ وَكَذَ ٰ⁠لِكَ جَعَلۡنَـٰكُمۡ أُمَّةࣰ وَسَطࣰا لِّتَكُونُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسُّفَهَآءُ",
+          "content": "الخفاف العقول : اليهود ومن شاكلهم في إنكار تحويل القبلة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "مَا وَلَّىٰهُمْ",
+          "content": "أيّ شيء صرفهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        },
+        {
+          "tokens": "عَن قِبْلَتِهِمُ",
+          "content": "عن بيت المقدس",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 142
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "شُهَدَاۤءَ عَلَى ٱلنَّاسِ وَیَكُونَ ٱلرَّسُولُ عَلَیۡكُمۡ شَهِیدࣰاۗ وَمَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً وَسَطًا",
+          "content": "خيارا أو متوسّطين مُعتدلين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِی كُنتَ عَلَیۡهَاۤ إِلَّا لِنَعۡلَمَ مَن یَتَّبِعُ ٱلرَّسُولَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً وَسَطًا",
+          "content": "خيارا أو متوسّطين مُعتدلين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِمَّن یَنقَلِبُ عَلَىٰ عَقِبَیۡهِۚ وَإِن كَانَتۡ لَكَبِیرَةً إِلَّا عَلَى ٱلَّذِینَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً وَسَطًا",
+          "content": "خيارا أو متوسّطين مُعتدلين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 28,
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة"
+        },
+        {
+          "start": 50,
+          "length": 11,
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِیُضِیعَ إِیمَـٰنَكُمۡۚ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً وَسَطًا",
+          "content": "خيارا أو متوسّطين مُعتدلين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 24,
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "بِٱلنَّاسِ لَرَءُوفࣱ رَّحِیمࣱ ۝١٤٣ قَدۡ نَرَىٰ تَقَلُّبَ وَجۡهِكَ فِی ٱلسَّمَاۤءِۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً وَسَطًا",
+          "content": "خيارا أو متوسّطين مُعتدلين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "يَنقَلِبُ عَلَىٰ عَقِبَيْهِ",
+          "content": "يرتدّ عن الإسلام عند تحويل القبلة إلى الكعبة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 27,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لَكَبِيرَةً",
+          "content": "لشاقّة ثقيلة على النّفوس",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        },
+        {
+          "tokens": "لِيُضِيعَ إِيمَٰنَكُمْ",
+          "content": "صلاتكم إلى بيت المقدس",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 2,
+          "ayahIndex": 143
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَلَنُوَلِّیَنَّكَ قِبۡلَةࣰ تَرۡضَىٰهَاۚ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 2,
+          "ayahIndex": 144
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 18,
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡحَرَامِۚ وَحَیۡثُ مَا كُنتُمۡ فَوَلُّوا۟ وُجُوهَكُمۡ شَطۡرَهُۥۗ وَإِنَّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 2,
+          "ayahIndex": 144
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ لَیَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۗ وَمَا ٱللَّهُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 2,
+          "ayahIndex": 144
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِغَـٰفِلٍ عَمَّا یَعۡمَلُونَ ۝١٤٤ وَلَىِٕنۡ أَتَیۡتَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَطْرَ ٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "تلقاء الكعبة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 2,
+          "ayahIndex": 144
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِكُلِّ ءَایَةࣲ مَّا تَبِعُوا۟ قِبۡلَتَكَۚ وَمَاۤ أَنتَ بِتَابِعࣲ قِبۡلَتَهُمۡۚ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَمَا بَعۡضُهُم بِتَابِعࣲ قِبۡلَةَ بَعۡضࣲۚ وَلَىِٕنِ ٱتَّبَعۡتَ أَهۡوَاۤءَهُم مِّنۢ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بَعۡدِ مَا جَاۤءَكَ مِنَ ٱلۡعِلۡمِ إِنَّكَ إِذࣰا لَّمِنَ ٱلظَّـٰلِمِینَ ۝١٤٥",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

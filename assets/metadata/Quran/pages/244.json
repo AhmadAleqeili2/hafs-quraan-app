@@ -1,0 +1,313 @@
+{
+  "pageIndex": 244,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ جَعَلَ ٱلسِّقَایَةَ فِی رَحۡلِ أَخِیهِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسِّقَايَةَ",
+          "content": "إناءً من ذهب للشّرب اتخذ للكيل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "أَذَّنَ مُؤَذِّنٌ",
+          "content": "نادى مُنادٍ وأعلم مُعلم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "ٱلْعِيرُ",
+          "content": "القافلة فيها الأحمال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 12,
+          "tokens": "ٱلسِّقَايَةَ",
+          "content": "إناءً من ذهب للشّرب اتخذ للكيل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ثُمَّ أَذَّنَ مُؤَذِّنٌ أَیَّتُهَا ٱلۡعِیرُ إِنَّكُمۡ لَسَـٰرِقُونَ ۝٧٠ قَالُوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسِّقَايَةَ",
+          "content": "إناءً من ذهب للشّرب اتخذ للكيل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "أَذَّنَ مُؤَذِّنٌ",
+          "content": "نادى مُنادٍ وأعلم مُعلم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "ٱلْعِيرُ",
+          "content": "القافلة فيها الأحمال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 17,
+          "tokens": "أَذَّنَ مُؤَذِّنٌ",
+          "content": "نادى مُنادٍ وأعلم مُعلم"
+        },
+        {
+          "start": 35,
+          "length": 8,
+          "tokens": "ٱلْعِيرُ",
+          "content": "القافلة فيها الأحمال"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَأَقۡبَلُوا۟ عَلَیۡهِم مَّاذَا تَفۡقِدُونَ ۝٧١ قَالُوا۟ نَفۡقِدُ صُوَاعَ ٱلۡمَلِكِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلِمَن جَاۤءَ بِهِۦ حِمۡلُ بَعِیرࣲ وَأَنَا۠ بِهِۦ زَعِیمࣱ ۝٧٢ قَالُوا۟ تَٱللَّهِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صُوَاعَ ٱلْمَلِكِ",
+          "content": "'صاعه ''مكياله''، وهو السّقاية'",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 12,
+          "ayahIndex": 72
+        },
+        {
+          "tokens": "زَعِيمٌ",
+          "content": "كفيل أؤدّيه إليه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 12,
+          "ayahIndex": 72
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 7,
+          "tokens": "زَعِيمٌ",
+          "content": "كفيل أؤدّيه إليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِی ٱلۡأَرۡضِ وَمَا كُنَّا سَـٰرِقِینَ ۝٧٣",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "قَالُوا۟ فَمَا جَزَ ٰ⁠ۤؤُهُۥۤ إِن كُنتُمۡ كَـٰذِبِینَ ۝٧٤ قَالُوا۟ جَزَ ٰ⁠ۤؤُهُۥ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "مَن وُجِدَ فِی رَحۡلِهِۦ فَهُوَ جَزَ ٰ⁠ۤؤُهُۥۚ كَذَ ٰ⁠لِكَ نَجۡزِی ٱلظَّـٰلِمِینَ ۝٧٥",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَبَدَأَ بِأَوۡعِیَتِهِمۡ قَبۡلَ وِعَاۤءِ أَخِیهِ ثُمَّ ٱسۡتَخۡرَجَهَا مِن",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِدْنَا لِيُوسُفَ",
+          "content": "دبّرنا لتحصيل غرضه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "دِينِ ٱلْمَلِكِ",
+          "content": "شريعة ملك مصر أو حُكمه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وِعَاۤءِ أَخِیهِۚ كَذَ ٰ⁠لِكَ كِدۡنَا لِیُوسُفَۖ مَا كَانَ لِیَأۡخُذَ أَخَاهُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِدْنَا لِيُوسُفَ",
+          "content": "دبّرنا لتحصيل غرضه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "دِينِ ٱلْمَلِكِ",
+          "content": "شريعة ملك مصر أو حُكمه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 18,
+          "tokens": "كِدْنَا لِيُوسُفَ",
+          "content": "دبّرنا لتحصيل غرضه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِی دِینِ ٱلۡمَلِكِ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ نَرۡفَعُ دَرَجَـٰتࣲ مَّن نَّشَاۤءُۗ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِدْنَا لِيُوسُفَ",
+          "content": "دبّرنا لتحصيل غرضه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "دِينِ ٱلْمَلِكِ",
+          "content": "شريعة ملك مصر أو حُكمه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 15,
+          "tokens": "دِينِ ٱلْمَلِكِ",
+          "content": "شريعة ملك مصر أو حُكمه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَفَوۡقَ كُلِّ ذِی عِلۡمٍ عَلِیمࣱ ۝٧٦ قَالُوۤا۟ إِن یَسۡرِقۡ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِدْنَا لِيُوسُفَ",
+          "content": "دبّرنا لتحصيل غرضه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "دِينِ ٱلْمَلِكِ",
+          "content": "شريعة ملك مصر أو حُكمه",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 12,
+          "ayahIndex": 76
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَقَدۡ سَرَقَ أَخࣱ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا یُوسُفُ فِی نَفۡسِهِۦ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَلَمۡ یُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرࣱّ مَّكَانࣰاۖ وَٱللَّهُ أَعۡلَمُ بِمَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "تَصِفُونَ ۝٧٧ قَالُوا۟ یَـٰۤأَیُّهَا ٱلۡعَزِیزُ إِنَّ لَهُۥۤ أَبࣰا شَیۡخࣰا كَبِیرࣰا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَخُذۡ أَحَدَنَا مَكَانَهُۥۤۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِینَ ۝٧٨",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

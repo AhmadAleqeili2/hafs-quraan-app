@@ -1,0 +1,633 @@
+{
+  "pageIndex": 541,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَقَدۡ أَرۡسَلۡنَا رُسُلَنَا بِٱلۡبَیِّنَـٰتِ وَأَنزَلۡنَا مَعَهُمُ ٱلۡكِتَـٰبَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العَدْل وأمَرْنا به أو الآلة المعروفة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَنزَلْنَا ٱلْحَدِيدَ",
+          "content": "خلقناه، أو هيّأناه للنّاس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بَأْسٌ شَدِيدٌ",
+          "content": "قوة شديدة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَٱلۡمِیزَانَ لِیَقُومَ ٱلنَّاسُ بِٱلۡقِسۡطِۖ وَأَنزَلۡنَا ٱلۡحَدِیدَ فِیهِ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العَدْل وأمَرْنا به أو الآلة المعروفة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَنزَلْنَا ٱلْحَدِيدَ",
+          "content": "خلقناه، أو هيّأناه للنّاس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بَأْسٌ شَدِيدٌ",
+          "content": "قوة شديدة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العَدْل وأمَرْنا به أو الآلة المعروفة"
+        },
+        {
+          "start": 46,
+          "length": 23,
+          "tokens": "وَأَنزَلْنَا ٱلْحَدِيدَ",
+          "content": "خلقناه، أو هيّأناه للنّاس"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بَأۡسࣱ شَدِیدࣱ وَمَنَـٰفِعُ لِلنَّاسِ وَلِیَعۡلَمَ ٱللَّهُ مَن یَنصُرُهُۥ وَرُسُلَهُۥ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العَدْل وأمَرْنا به أو الآلة المعروفة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَنزَلْنَا ٱلْحَدِيدَ",
+          "content": "خلقناه، أو هيّأناه للنّاس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بَأْسٌ شَدِيدٌ",
+          "content": "قوة شديدة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "بَأْسٌ شَدِيدٌ",
+          "content": "قوة شديدة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِٱلۡغَیۡبِۚ إِنَّ ٱللَّهَ قَوِیٌّ عَزِیزࣱ ۝٢٥ وَلَقَدۡ أَرۡسَلۡنَا نُوحࣰا وَإِبۡرَ ٰ⁠هِیمَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمِيزَانَ",
+          "content": "العَدْل وأمَرْنا به أو الآلة المعروفة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَنزَلْنَا ٱلْحَدِيدَ",
+          "content": "خلقناه، أو هيّأناه للنّاس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بَأْسٌ شَدِيدٌ",
+          "content": "قوة شديدة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَجَعَلۡنَا فِی ذُرِّیَّتِهِمَا ٱلنُّبُوَّةَ وَٱلۡكِتَـٰبَۖ فَمِنۡهُم مُّهۡتَدࣲۖ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَكَثِیرࣱ مِّنۡهُمۡ فَـٰسِقُونَ ۝٢٦ ثُمَّ قَفَّیۡنَا عَلَىٰۤ ءَاثَـٰرِهِم",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِرُسُلِنَا وَقَفَّیۡنَا بِعِیسَى ٱبۡنِ مَرۡیَمَ وَءَاتَیۡنَـٰهُ ٱلۡإِنجِیلَۖ وَجَعَلۡنَا",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبَعناهم وبعثنا بعدهمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 23,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 12,
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فِی قُلُوبِ ٱلَّذِینَ ٱتَّبَعُوهُ رَأۡفَةࣰ وَرَحۡمَةࣰۚ وَرَهۡبَانِیَّةً",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبَعناهم وبعثنا بعدهمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 23,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 21,
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به"
+        },
+        {
+          "start": 34,
+          "length": 20,
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا"
+        },
+        {
+          "start": 55,
+          "length": 16,
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱبۡتَدَعُوهَا مَا كَتَبۡنَـٰهَا عَلَیۡهِمۡ إِلَّا ٱبۡتِغَاۤءَ رِضۡوَ ٰ⁠نِ ٱللَّهِ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبَعناهم وبعثنا بعدهمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 23,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 28,
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَمَا رَعَوۡهَا حَقَّ رِعَایَتِهَاۖ فَـَٔاتَیۡنَا ٱلَّذِینَ ءَامَنُوا۟ مِنۡهُمۡ أَجۡرَهُمۡۖ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبَعناهم وبعثنا بعدهمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 23,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَكَثِیرࣱ مِّنۡهُمۡ فَـٰسِقُونَ ۝٢٧ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَفَّيْنَا عَلَىٰٓ ءَاثَٰرِهِم",
+          "content": "أتبَعناهم وبعثنا بعدهمْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلْإِنجِيلَ",
+          "content": "وقد حرّفوه بَعد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ٱلَّذِينَ ٱتَّبَعُوهُ",
+          "content": "على دينه الذي أرسل به",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رَأْفَةً وَرَحْمَةً",
+          "content": "مودّة ولينا، وشفَقة ً وتعطّفا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَرَهْبَانِيَّةً",
+          "content": "مغالاة في التعبّد والتّقشّف",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَا كَتَبْنَٰهَا عَلَيْهِمْ",
+          "content": "ما فرضناها عليهم بل ابتدعوها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 23,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَمَا رَعَوْهَا",
+          "content": "بلْ ضيّعها أخلافهم وكفروا بدين عيسى عليه السلام",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 57,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَءَامِنُوا۟ بِرَسُولِهِۦ یُؤۡتِكُمۡ كِفۡلَیۡنِ مِن رَّحۡمَتِهِۦ وَیَجۡعَل لَّكُمۡ نُورࣰا",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُؤْتِكُمْ كِفْلَيْنِ",
+          "content": "نصِيبَين (أجْرَيْن)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 57,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 21,
+          "tokens": "يُؤْتِكُمْ كِفْلَيْنِ",
+          "content": "نصِيبَين (أجْرَيْن)"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "تَمۡشُونَ بِهِۦ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورࣱ رَّحِیمࣱ ۝٢٨ لِّئَلَّا یَعۡلَمَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُؤْتِكُمْ كِفْلَيْنِ",
+          "content": "نصِيبَين (أجْرَيْن)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 57,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَهۡلُ ٱلۡكِتَـٰبِ أَلَّا یَقۡدِرُونَ عَلَىٰ شَیۡءࣲ مِّن فَضۡلِ ٱللَّهِ وَأَنَّ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّئَلَّا يَعْلَمَ",
+          "content": "'ليعلم و''لا'' مزيدة'",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡفَضۡلَ بِیَدِ ٱللَّهِ یُؤۡتِیهِ مَن یَشَاۤءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِیمِ ۝٢٩",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّئَلَّا يَعْلَمَ",
+          "content": "'ليعلم و''لا'' مزيدة'",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 29
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "pageIndex": 446,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الصافات",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلصَّٰٓفَّٰتِ صَفًّا",
+          "content": "قَسَم بالجماعات تصطفّ للعبادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلصَّٰٓفَّٰتِ صَفًّا",
+          "content": "قَسَم بالجماعات تصطفّ للعبادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلصَّـٰۤفَّـٰتِ صَفࣰّا ۝١ فَٱلزَّ ٰ⁠جِرَ ٰ⁠تِ زَجۡرࣰا ۝٢ فَٱلتَّـٰلِیَـٰتِ ذِكۡرًا ۝٣ إِنَّ إِلَـٰهَكُمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلصَّٰٓفَّٰتِ صَفًّا",
+          "content": "قَسَم بالجماعات تصطفّ للعبادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "وَٱلصَّٰٓفَّٰتِ صَفًّا",
+          "content": "قَسَم بالجماعات تصطفّ للعبادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَوَ ٰ⁠حِدࣱ ۝٤ رَّبُّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا وَرَبُّ ٱلۡمَشَـٰرِقِ ۝٥ إِنَّا زَیَّنَّا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌ",
+          "content": "جواب القسم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "إِنَّ إِلَٰهَكُمْ لَوَٰحِدٌ",
+          "content": "جواب القسم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلسَّمَاۤءَ ٱلدُّنۡیَا بِزِینَةٍ ٱلۡكَوَاكِبِ ۝٦ وَحِفۡظࣰا مِّن كُلِّ شَیۡطَـٰنࣲ مَّارِدࣲ ۝٧",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَّا یَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَیُقۡذَفُونَ مِن كُلِّ جَانِبࣲ ۝٨ دُحُورࣰاۖ وَلَهُمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُقْذَفُونَ",
+          "content": "يُرْجمون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 37,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 13,
+          "tokens": "وَيُقْذَفُونَ",
+          "content": "يُرْجمون"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَذَابࣱ وَاصِبٌ ۝٩ إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابࣱ ثَاقِبࣱ ۝١٠",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دُحُورًا",
+          "content": "إبعادا وطردا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 37,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "عَذَابٌ وَاصِبٌ",
+          "content": "دائمٌ لا ينْقطع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "عَذَابٌ وَاصِبٌ",
+          "content": "دائمٌ لا ينْقطع"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَاۤۚ إِنَّا خَلَقۡنَـٰهُم مِّن طِینࣲ لَّازِبِۭ ۝١١",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طِينٍ لَّازِبٍۭ",
+          "content": "ملتزق بَعْضه ببَعض",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 37,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 87,
+          "length": 15,
+          "tokens": "طِينٍ لَّازِبٍۭ",
+          "content": "ملتزق بَعْضه ببَعض"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بَلۡ عَجِبۡتَ وَیَسۡخَرُونَ ۝١٢ وَإِذَا ذُكِّرُوا۟ لَا یَذۡكُرُونَ ۝١٣ وَإِذَا رَأَوۡا۟ ءَایَةࣰ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَسْخَرُونَ",
+          "content": "وهم يَهزءون بتعَجّبكَ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 13,
+          "tokens": "وَيَسْخَرُونَ",
+          "content": "وهم يَهزءون بتعَجّبكَ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَسۡتَسۡخِرُونَ ۝١٤ وَقَالُوۤا۟ إِنۡ هَـٰذَاۤ إِلَّا سِحۡرࣱ مُّبِینٌ ۝١٥ أَءِذَا مِتۡنَا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَسْتَسْخِرُونَ",
+          "content": "يُبالِغونَ في سُخْريَتهمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "يَسْتَسْخِرُونَ",
+          "content": "يُبالِغونَ في سُخْريَتهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَكُنَّا تُرَابࣰا وَعِظَـٰمًا أَءِنَّا لَمَبۡعُوثُونَ ۝١٦ أَوَءَابَاۤؤُنَا ٱلۡأَوَّلُونَ ۝١٧ قُلۡ نَعَمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَأَنتُمۡ دَ ٰ⁠خِرُونَ ۝١٨ فَإِنَّمَا هِیَ زَجۡرَةࣱ وَ ٰ⁠حِدَةࣱ فَإِذَا هُمۡ یَنظُرُونَ ۝١٩ وَقَالُوا۟",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَنتُمْ دَٰخِرُونَ",
+          "content": "صاغِرون أذلاّء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "وَأَنتُمْ دَٰخِرُونَ",
+          "content": "صاغِرون أذلاّء"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَـٰوَیۡلَنَا هَـٰذَا یَوۡمُ ٱلدِّینِ ۝٢٠ هَـٰذَا یَوۡمُ ٱلۡفَصۡلِ ٱلَّذِی كُنتُم بِهِۦ تُكَذِّبُونَ ۝٢١",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَٰوَيْلَنَا",
+          "content": "يا هلاكنا احضر",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "يَوْمُ ٱلدِّينِ",
+          "content": "يوم الجَزاء والحساب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 37,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "يَٰوَيْلَنَا",
+          "content": "يا هلاكنا احضر"
+        },
+        {
+          "start": 22,
+          "length": 15,
+          "tokens": "يَوْمُ ٱلدِّينِ",
+          "content": "يوم الجَزاء والحساب"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱحۡشُرُوا۟ ٱلَّذِینَ ظَلَمُوا۟ وَأَزۡوَ ٰ⁠جَهُمۡ وَمَا كَانُوا۟ یَعۡبُدُونَ ۝٢٢ مِن دُونِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَزْوَٰجَهُمْ",
+          "content": "أشباههم، أو قُرناءهمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 17,
+          "tokens": "وَأَزْوَٰجَهُمْ",
+          "content": "أشباههم، أو قُرناءهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهِ فَٱهۡدُوهُمۡ إِلَىٰ صِرَ ٰ⁠طِ ٱلۡجَحِیمِ ۝٢٣ وَقِفُوهُمۡۖ إِنَّهُم مَّسۡـُٔولُونَ ۝٢٤",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

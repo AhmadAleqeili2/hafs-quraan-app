@@ -1,0 +1,339 @@
+{
+  "pageIndex": 47,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱلَّذِینَ یَأۡكُلُونَ ٱلرِّبَوٰا۟ لَا یَقُومُونَ إِلَّا كَمَا یَقُومُ ٱلَّذِی",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 275,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        },
+        {
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "یَتَخَبَّطُهُ ٱلشَّیۡطَـٰنُ مِنَ ٱلۡمَسِّۚ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَالُوۤا۟ إِنَّمَا ٱلۡبَیۡعُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 275,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        },
+        {
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 27,
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض"
+        },
+        {
+          "start": 33,
+          "length": 9,
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِثۡلُ ٱلرِّبَوٰا۟ۗ وَأَحَلَّ ٱللَّهُ ٱلۡبَیۡعَ وَحَرَّمَ ٱلرِّبَوٰا۟ۚ فَمَن جَاۤءَهُۥ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 275,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        },
+        {
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَوۡعِظَةࣱ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمۡرُهُۥۤ إِلَى ٱللَّهِۖ وَمَنۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 275,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        },
+        {
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَادَ فَأُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا خَـٰلِدُونَ ۝٢٧٥ یَمۡحَقُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 275,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَخَبَّطُهُ ٱلشَّيْطَٰنُ",
+          "content": "يصرعه ويضرب به الأرض",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        },
+        {
+          "tokens": "ٱلْمَسِّ",
+          "content": "الجنون والخبل",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 275
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱللَّهُ ٱلرِّبَوٰا۟ وَیُرۡبِی ٱلصَّدَقَـٰتِۗ وَٱللَّهُ لَا یُحِبُّ كُلَّ كَفَّارٍ أَثِیمٍ ۝٢٧٦",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 276,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟",
+          "content": "يُهلك المال الذي يدخل فيه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 276
+        },
+        {
+          "tokens": "وَيُرْبِى ٱلصَّدَقَٰتِ",
+          "content": "ينمّي المال الذي أُخرجَت منه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 276
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "يَمْحَقُ ٱللَّهُ ٱلرِّبَوٰا۟",
+          "content": "يُهلك المال الذي يدخل فيه"
+        },
+        {
+          "start": 20,
+          "length": 24,
+          "tokens": "وَيُرْبِى ٱلصَّدَقَٰتِ",
+          "content": "ينمّي المال الذي أُخرجَت منه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 277,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَءَاتَوُا۟ ٱلزَّكَوٰةَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَیۡهِمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 277,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَا هُمۡ یَحۡزَنُونَ ۝٢٧٧ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 277,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَذَرُوا۟ مَا بَقِیَ مِنَ ٱلرِّبَوٰۤا۟ إِن كُنتُم مُّؤۡمِنِینَ ۝٢٧٨ فَإِن لَّمۡ تَفۡعَلُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 278,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَأۡذَنُوا۟ بِحَرۡبࣲ مِّنَ ٱللَّهِ وَرَسُولِهِۦۖ وَإِن تُبۡتُمۡ فَلَكُمۡ رُءُوسُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 279,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأْذَنُوا۟ بِحَرْبٍ",
+          "content": "فأيقِنوا به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 279
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "فَأْذَنُوا۟ بِحَرْبٍ",
+          "content": "فأيقِنوا به"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَمۡوَ ٰ⁠لِكُمۡ لَا تَظۡلِمُونَ وَلَا تُظۡلَمُونَ ۝٢٧٩ وَإِن كَانَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 279,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأْذَنُوا۟ بِحَرْبٍ",
+          "content": "فأيقِنوا به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 279
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ذُو عُسۡرَةࣲ فَنَظِرَةٌ إِلَىٰ مَیۡسَرَةࣲۚ وَأَن تَصَدَّقُوا۟ خَیۡرࣱ لَّكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 280,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عُسْرَةٍ",
+          "content": "ضيق الحال من عُدْم المال",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 280
+        },
+        {
+          "tokens": "فَنَظِرَةٌ",
+          "content": "فإمهال وتأخير واجب عليكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 280
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 8,
+          "tokens": "عُسْرَةٍ",
+          "content": "ضيق الحال من عُدْم المال"
+        },
+        {
+          "start": 13,
+          "length": 10,
+          "tokens": "فَنَظِرَةٌ",
+          "content": "فإمهال وتأخير واجب عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِن كُنتُمۡ تَعۡلَمُونَ ۝٢٨٠ وَٱتَّقُوا۟ یَوۡمࣰا تُرۡجَعُونَ فِیهِ إِلَى",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 280,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عُسْرَةٍ",
+          "content": "ضيق الحال من عُدْم المال",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 280
+        },
+        {
+          "tokens": "فَنَظِرَةٌ",
+          "content": "فإمهال وتأخير واجب عليكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 280
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهِۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسࣲ مَّا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ ۝٢٨١",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 281,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

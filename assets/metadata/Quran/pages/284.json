@@ -1,0 +1,325 @@
+{
+  "pageIndex": 284,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "مَّن كَانَ یُرِیدُ ٱلۡعَاجِلَةَ عَجَّلۡنَا لَهُۥ فِیهَا مَا نَشَاۤءُ لِمَن نُّرِیدُ ثُمَّ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَصْلَىٰهَا",
+          "content": "يدْخلها، أو يقاسي حرّها",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 17,
+          "ayahIndex": 18
+        },
+        {
+          "tokens": "مَّدْحُورًا",
+          "content": "مطرودا مُبعدا من رحمة الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 17,
+          "ayahIndex": 18
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "جَعَلۡنَا لَهُۥ جَهَنَّمَ یَصۡلَىٰهَا مَذۡمُومࣰا مَّدۡحُورࣰا ۝١٨ وَمَنۡ أَرَادَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَصْلَىٰهَا",
+          "content": "يدْخلها، أو يقاسي حرّها",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 17,
+          "ayahIndex": 18
+        },
+        {
+          "tokens": "مَّدْحُورًا",
+          "content": "مطرودا مُبعدا من رحمة الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 17,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 11,
+          "tokens": "يَصْلَىٰهَا",
+          "content": "يدْخلها، أو يقاسي حرّها"
+        },
+        {
+          "start": 49,
+          "length": 11,
+          "tokens": "مَّدْحُورًا",
+          "content": "مطرودا مُبعدا من رحمة الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡـَٔاخِرَةَ وَسَعَىٰ لَهَا سَعۡیَهَا وَهُوَ مُؤۡمِنࣱ فَأُو۟لَـٰۤىِٕكَ كَانَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "سَعۡیُهُم مَّشۡكُورࣰا ۝١٩ كُلࣰّا نُّمِدُّ هَـٰۤؤُلَاۤءِ وَهَـٰۤؤُلَاۤءِ مِنۡ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَطَاۤءِ رَبِّكَۚ وَمَا كَانَ عَطَاۤءُ رَبِّكَ مَحۡظُورًا ۝٢٠ ٱنظُرۡ كَیۡفَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كُلًّا نُّمِدُّ",
+          "content": "نزيد من العطاء مرّة بعد أخرى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "مَحْظُورًا",
+          "content": "ممنوعا عمّن يريده تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 10,
+          "tokens": "مَحْظُورًا",
+          "content": "ممنوعا عمّن يريده تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَضَّلۡنَا بَعۡضَهُمۡ عَلَىٰ بَعۡضࣲۚ وَلَلۡـَٔاخِرَةُ أَكۡبَرُ دَرَجَـٰتࣲ وَأَكۡبَرُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَفۡضِیلࣰا ۝٢١ لَّا تَجۡعَلۡ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ فَتَقۡعُدَ مَذۡمُومࣰا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَّخۡذُولࣰا ۝٢٢ وَقَضَىٰ رَبُّكَ أَلَّا تَعۡبُدُوۤا۟ إِلَّاۤ إِیَّاهُ وَبِٱلۡوَ ٰ⁠لِدَیۡنِ إِحۡسَـٰنًاۚ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّخْذُولًا",
+          "content": "غير منصور ولا مُعان من الله",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 17,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مَّخْذُولًا",
+          "content": "غير منصور ولا مُعان من الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِمَّا یَبۡلُغَنَّ عِندَكَ ٱلۡكِبَرَ أَحَدُهُمَاۤ أَوۡ كِلَاهُمَا فَلَا تَقُل لَّهُمَاۤ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَضَىٰ رَبُّكَ",
+          "content": "أمر وألزم وحَكَم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "أُفٍّ",
+          "content": "كلمة تضجُّر وكراهيّة وتبرّم",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَلَا تَنْهَرْهُمَا",
+          "content": "لا تزجرهما عمّا لا يعجبك",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "قَوْلًا كَرِيمًا",
+          "content": "حسنا جميلا ليّنا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أُفࣲّ وَلَا تَنۡهَرۡهُمَا وَقُل لَّهُمَا قَوۡلࣰا كَرِیمࣰا ۝٢٣ وَٱخۡفِضۡ لَهُمَا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَضَىٰ رَبُّكَ",
+          "content": "أمر وألزم وحَكَم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "أُفٍّ",
+          "content": "كلمة تضجُّر وكراهيّة وتبرّم",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَلَا تَنْهَرْهُمَا",
+          "content": "لا تزجرهما عمّا لا يعجبك",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "قَوْلًا كَرِيمًا",
+          "content": "حسنا جميلا ليّنا",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 17,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 5,
+          "tokens": "أُفٍّ",
+          "content": "كلمة تضجُّر وكراهيّة وتبرّم"
+        },
+        {
+          "start": 6,
+          "length": 19,
+          "tokens": "وَلَا تَنْهَرْهُمَا",
+          "content": "لا تزجرهما عمّا لا يعجبك"
+        },
+        {
+          "start": 41,
+          "length": 16,
+          "tokens": "قَوْلًا كَرِيمًا",
+          "content": "حسنا جميلا ليّنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحۡمَةِ وَقُل رَّبِّ ٱرۡحَمۡهُمَا كَمَا رَبَّیَانِی",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "صَغِیرࣰا ۝٢٤ رَّبُّكُمۡ أَعۡلَمُ بِمَا فِی نُفُوسِكُمۡۚ إِن تَكُونُوا۟ صَـٰلِحِینَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَإِنَّهُۥ كَانَ لِلۡأَوَّ ٰ⁠بِینَ غَفُورࣰا ۝٢٥ وَءَاتِ ذَا ٱلۡقُرۡبَىٰ حَقَّهُۥ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِلْأَوَّٰبِينَ",
+          "content": "للتّوابين مما يفرُط منهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 17,
+          "tokens": "لِلْأَوَّٰبِينَ",
+          "content": "للتّوابين مما يفرُط منهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡمِسۡكِینَ وَٱبۡنَ ٱلسَّبِیلِ وَلَا تُبَذِّرۡ تَبۡذِیرًا ۝٢٦ إِنَّ ٱلۡمُبَذِّرِینَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَانُوۤا۟ إِخۡوَ ٰ⁠نَ ٱلشَّیَـٰطِینِۖ وَكَانَ ٱلشَّیۡطَـٰنُ لِرَبِّهِۦ كَفُورࣰا ۝٢٧",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

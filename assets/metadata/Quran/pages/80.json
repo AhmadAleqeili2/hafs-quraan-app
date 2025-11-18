@@ -1,0 +1,297 @@
+{
+  "pageIndex": 80,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّـٰتِی یَأۡتِینَ ٱلۡفَـٰحِشَةَ مِن نِّسَاۤىِٕكُمۡ فَٱسۡتَشۡهِدُوا۟ عَلَیۡهِنَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَرۡبَعَةࣰ مِّنكُمۡۖ فَإِن شَهِدُوا۟ فَأَمۡسِكُوهُنَّ فِی ٱلۡبُیُوتِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "حَتَّىٰ یَتَوَفَّىٰهُنَّ ٱلۡمَوۡتُ أَوۡ یَجۡعَلَ ٱللَّهُ لَهُنَّ سَبِیلࣰا ۝١٥",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَٱلَّذَانِ یَأۡتِیَـٰنِهَا مِنكُمۡ فَـَٔاذُوهُمَاۖ فَإِن تَابَا وَأَصۡلَحَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَأَعۡرِضُوا۟ عَنۡهُمَاۤۗ إِنَّ ٱللَّهَ كَانَ تَوَّابࣰا رَّحِیمًا ۝١٦",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِنَّمَا ٱلتَّوۡبَةُ عَلَى ٱللَّهِ لِلَّذِینَ یَعۡمَلُونَ ٱلسُّوۤءَ بِجَهَـٰلَةࣲ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بِسفهٍ، وكلّ من عصى جاهلٌ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 12,
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بِسفهٍ، وكلّ من عصى جاهلٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ثُمَّ یَتُوبُونَ مِن قَرِیبࣲ فَأُو۟لَـٰۤىِٕكَ یَتُوبُ ٱللَّهُ عَلَیۡهِمۡۗ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بِسفهٍ، وكلّ من عصى جاهلٌ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَكَانَ ٱللَّهُ عَلِیمًا حَكِیمࣰا ۝١٧ وَلَیۡسَتِ ٱلتَّوۡبَةُ لِلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِجَهَٰلَةٍ",
+          "content": "بِسفهٍ، وكلّ من عصى جاهلٌ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَعۡمَلُونَ ٱلسَّیِّـَٔاتِ حَتَّىٰۤ إِذَا حَضَرَ أَحَدَهُمُ ٱلۡمَوۡتُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَالَ إِنِّی تُبۡتُ ٱلۡـَٔـٰنَ وَلَا ٱلَّذِینَ یَمُوتُونَ وَهُمۡ كُفَّارٌۚ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أُو۟لَـٰۤىِٕكَ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِیمࣰا ۝١٨ یَـٰۤأَیُّهَا ٱلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ءَامَنُوا۟ لَا یَحِلُّ لَكُمۡ أَن تَرِثُوا۟ ٱلنِّسَاۤءَ كَرۡهࣰاۖ وَلَا تَعۡضُلُوهُنَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرْهًا",
+          "content": "مكروهين لهنّ أو مكروهات عليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "وَلَا تَعْضُلُوهُنَّ",
+          "content": "لا تمسكوهنّ مُضارّةً لهنّ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 8,
+          "tokens": "كَرْهًا",
+          "content": "مكروهين لهنّ أو مكروهات عليه"
+        },
+        {
+          "start": 65,
+          "length": 20,
+          "tokens": "وَلَا تَعْضُلُوهُنَّ",
+          "content": "لا تمسكوهنّ مُضارّةً لهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لِتَذۡهَبُوا۟ بِبَعۡضِ مَاۤ ءَاتَیۡتُمُوهُنَّ إِلَّاۤ أَن یَأۡتِینَ بِفَـٰحِشَةࣲ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرْهًا",
+          "content": "مكروهين لهنّ أو مكروهات عليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "وَلَا تَعْضُلُوهُنَّ",
+          "content": "لا تمسكوهنّ مُضارّةً لهنّ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 12,
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مُّبَیِّنَةࣲۚ وَعَاشِرُوهُنَّ بِٱلۡمَعۡرُوفِۚ فَإِن كَرِهۡتُمُوهُنَّ فَعَسَىٰۤ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرْهًا",
+          "content": "مكروهين لهنّ أو مكروهات عليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "وَلَا تَعْضُلُوهُنَّ",
+          "content": "لا تمسكوهنّ مُضارّةً لهنّ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَن تَكۡرَهُوا۟ شَیۡـࣰٔا وَیَجۡعَلَ ٱللَّهُ فِیهِ خَیۡرࣰا كَثِیرࣰا ۝١٩",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرْهًا",
+          "content": "مكروهين لهنّ أو مكروهات عليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "وَلَا تَعْضُلُوهُنَّ",
+          "content": "لا تمسكوهنّ مُضارّةً لهنّ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "بِفَٰحِشَةٍ مُّبَيِّنَةٍ",
+          "content": "النشُوز وسُوء الخُلق أو الزِّنى",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 19
+        }
+      ]
+    }
+  ]
+}

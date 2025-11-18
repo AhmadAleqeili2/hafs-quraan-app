@@ -1,0 +1,415 @@
+{
+  "pageIndex": 418,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الأحزاب",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "ٱتَّقِ ٱللَّهَ",
+          "content": "دُمْ على تقواه أو ازدد منها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱتَّقِ ٱللَّهَ",
+          "content": "دُمْ على تقواه أو ازدد منها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ ٱتَّقِ ٱللَّهۚ وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَۗ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱتَّقِ ٱللَّهَ",
+          "content": "دُمْ على تقواه أو ازدد منها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 14,
+          "tokens": "ٱتَّقِ ٱللَّهَ",
+          "content": "دُمْ على تقواه أو ازدد منها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "كَانَ عَلِیمًا حَكِیمࣰا ۝١ وَٱتَّبِعۡ مَا یُوحَىٰۤ إِلَیۡكَ مِن رَّبِّكَۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱتَّقِ ٱللَّهَ",
+          "content": "دُمْ على تقواه أو ازدد منها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا ۝٢ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا ۝٣ مَّا جَعَلَ ٱللَّهُ لِرَجُلࣲ مِّن قَلۡبَیۡنِ فِی جَوۡفِهِۦۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكِيلًا",
+          "content": "حافظا مفَوّضًا إليه كلّ أمر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 33,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 8,
+          "tokens": "وَكِيلًا",
+          "content": "حافظا مفَوّضًا إليه كلّ أمر"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَا جَعَلَ أَزۡوَ ٰ⁠جَكُمُ ٱلَّـٰۤـِٔی تُظَـٰهِرُونَ مِنۡهُنَّ أُمَّهَـٰتِكُمۡۚ وَمَا جَعَلَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُظَٰهِرُونَ مِنْهُنَّ",
+          "content": "تُحرّمونهنّ كحُرمة أمّهاتكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "أَدْعِيَآءَكُمْ",
+          "content": "من تتبنّونهم من أبناء غيركم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 23,
+          "tokens": "تُظَٰهِرُونَ مِنْهُنَّ",
+          "content": "تُحرّمونهنّ كحُرمة أمّهاتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَدۡعِیَاۤءَكُمۡ أَبۡنَاۤءَكُمۡۚ ذَ ٰ⁠لِكُمۡ قَوۡلُكُم بِأَفۡوَ ٰ⁠هِكُمۡۖ وَٱللَّهُ یَقُولُ ٱلۡحَقَّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُظَٰهِرُونَ مِنْهُنَّ",
+          "content": "تُحرّمونهنّ كحُرمة أمّهاتكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "أَدْعِيَآءَكُمْ",
+          "content": "من تتبنّونهم من أبناء غيركم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "أَدْعِيَآءَكُمْ",
+          "content": "من تتبنّونهم من أبناء غيركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَهُوَ یَهۡدِی ٱلسَّبِیلَ ۝٤ ٱدۡعُوهُمۡ لِـَٔابَاۤىِٕهِمۡ هُوَ أَقۡسَطُ عِندَ ٱللَّهِۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُظَٰهِرُونَ مِنْهُنَّ",
+          "content": "تُحرّمونهنّ كحُرمة أمّهاتكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "أَدْعِيَآءَكُمْ",
+          "content": "من تتبنّونهم من أبناء غيركم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 33,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَإِن لَّمۡ تَعۡلَمُوۤا۟ ءَابَاۤءَهُمۡ فَإِخۡوَ ٰ⁠نُكُمۡ فِی ٱلدِّینِ وَمَوَ ٰ⁠لِیكُمۡۚ وَلَیۡسَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَمَوَٰلِيكُمْ",
+          "content": "أولياؤكم في الدّين",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 17,
+          "tokens": "وَمَوَٰلِيكُمْ",
+          "content": "أولياؤكم في الدّين"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَلَیۡكُمۡ جُنَاحࣱ فِیمَاۤ أَخۡطَأۡتُم بِهِۦ وَلَـٰكِن مَّا تَعَمَّدَتۡ قُلُوبُكُمۡۚ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَمَوَٰلِيكُمْ",
+          "content": "أولياؤكم في الدّين",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمًا ۝٥ ٱلنَّبِیُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِینَ مِنۡ أَنفُسِهِمۡۖ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "وَمَوَٰلِيكُمْ",
+          "content": "أولياؤكم في الدّين",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 33,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَأَزۡوَ ٰ⁠جُهُۥۤ أُمَّهَـٰتُهُمۡۗ وَأُو۟لُوا۟ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضࣲ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلَىٰ بِٱلْمُؤْمِنِينَ",
+          "content": "أرأف بهم، وأنفع لهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ",
+          "content": "مثلهنّ في تحريم نكاحهنّ وتعظيم حُرمتهنّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأُو۟لُوا۟ ٱلْأَرْحَامِ",
+          "content": "ذوو القرابات",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 34,
+          "tokens": "وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ",
+          "content": "مثلهنّ في تحريم نكاحهنّ وتعظيم حُرمتهنّ"
+        },
+        {
+          "start": 35,
+          "length": 24,
+          "tokens": "وَأُو۟لُوا۟ ٱلْأَرْحَامِ",
+          "content": "ذوو القرابات"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِی كِتَـٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِینَ وَٱلۡمُهَـٰجِرِینَ إِلَّاۤ أَن تَفۡعَلُوۤا۟ إِلَىٰۤ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلَىٰ بِٱلْمُؤْمِنِينَ",
+          "content": "أرأف بهم، وأنفع لهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ",
+          "content": "مثلهنّ في تحريم نكاحهنّ وتعظيم حُرمتهنّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأُو۟لُوا۟ ٱلْأَرْحَامِ",
+          "content": "ذوو القرابات",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَوۡلِیَاۤىِٕكُم مَّعۡرُوفࣰاۚ كَانَ ذَ ٰ⁠لِكَ فِی ٱلۡكِتَـٰبِ مَسۡطُورࣰا ۝٦",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلَىٰ بِٱلْمُؤْمِنِينَ",
+          "content": "أرأف بهم، وأنفع لهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأَزْوَٰجُهُۥٓ أُمَّهَٰتُهُمْ",
+          "content": "مثلهنّ في تحريم نكاحهنّ وتعظيم حُرمتهنّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "وَأُو۟لُوا۟ ٱلْأَرْحَامِ",
+          "content": "ذوو القرابات",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 6
+        }
+      ]
+    }
+  ]
+}

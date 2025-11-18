@@ -1,0 +1,409 @@
+{
+  "pageIndex": 209,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱلَّذِینَ لَا یَرۡجُونَ لِقَاۤءَنَا وَرَضُوا۟ بِٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَٱطۡمَأَنُّوا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يتوقّعونه لإنكارهم البعث",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 25,
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يتوقّعونه لإنكارهم البعث"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "بِهَا وَٱلَّذِینَ هُمۡ عَنۡ ءَایَـٰتِنَا غَـٰفِلُونَ ۝٧ أُو۟لَـٰۤىِٕكَ مَأۡوَىٰهُمُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يتوقّعونه لإنكارهم البعث",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 7
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلنَّارُ بِمَا كَانُوا۟ یَكۡسِبُونَ ۝٨ إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلصَّـٰلِحَـٰتِ یَهۡدِیهِمۡ رَبُّهُم بِإِیمَـٰنِهِمۡۖ تَجۡرِی مِن تَحۡتِهِمُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡأَنۡهَـٰرُ فِی جَنَّـٰتِ ٱلنَّعِیمِ ۝٩ دَعۡوَىٰهُمۡ فِیهَا سُبۡحَـٰنَكَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱللَّهُمَّ وَتَحِیَّتُهُمۡ فِیهَا سَلَـٰمࣱۚ وَءَاخِرُ دَعۡوَىٰهُمۡ أَنِ ٱلۡحَمۡدُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَعْوَىٰهُمْ",
+          "content": "دُعاؤهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 10,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لِلَّهِ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٠ وَلَوۡ یُعَجِّلُ ٱللَّهُ لِلنَّاسِ ٱلشَّرَّ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَعْوَىٰهُمْ",
+          "content": "دُعاؤهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 10,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱسۡتِعۡجَالَهُم بِٱلۡخَیۡرِ لَقُضِیَ إِلَیۡهِمۡ أَجَلُهُمۡۖ فَنَذَرُ ٱلَّذِینَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ",
+          "content": "لأُهلِكوا وأبيدوا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "فِى طُغْيَٰنِهِمْ",
+          "content": "في تجاوزهم الحدّ في الكفر",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَعْمَهُونَ",
+          "content": "يعمون عن الرّشد أو يتحيّرون",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 31,
+          "tokens": "لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ",
+          "content": "لأُهلِكوا وأبيدوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَا یَرۡجُونَ لِقَاۤءَنَا فِی طُغۡیَـٰنِهِمۡ یَعۡمَهُونَ ۝١١ وَإِذَا مَسَّ ٱلۡإِنسَـٰنَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَقُضِىَ إِلَيْهِمْ أَجَلُهُمْ",
+          "content": "لأُهلِكوا وأبيدوا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "فِى طُغْيَٰنِهِمْ",
+          "content": "في تجاوزهم الحدّ في الكفر",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَعْمَهُونَ",
+          "content": "يعمون عن الرّشد أو يتحيّرون",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 18,
+          "tokens": "فِى طُغْيَٰنِهِمْ",
+          "content": "في تجاوزهم الحدّ في الكفر"
+        },
+        {
+          "start": 45,
+          "length": 11,
+          "tokens": "يَعْمَهُونَ",
+          "content": "يعمون عن الرّشد أو يتحيّرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦۤ أَوۡ قَاعِدًا أَوۡ قَاۤىِٕمࣰا فَلَمَّا كَشَفۡنَا",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلضُّرُّ",
+          "content": "الجهد والبلاء والشّدّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "دَعَانَا لِجَنۢبِهِۦٓ",
+          "content": "استغاث بنا لكشفه ملقى لجنبه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "مَرَّ",
+          "content": "استمرّ على كُفره ولم يتّعظ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "ٱلضُّرُّ",
+          "content": "الجهد والبلاء والشّدّة"
+        },
+        {
+          "start": 9,
+          "length": 21,
+          "tokens": "دَعَانَا لِجَنۢبِهِۦٓ",
+          "content": "استغاث بنا لكشفه ملقى لجنبه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ یَدۡعُنَاۤ إِلَىٰ ضُرࣲّ مَّسَّهُۥۚ كَذَ ٰ⁠لِكَ زُیِّنَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلضُّرُّ",
+          "content": "الجهد والبلاء والشّدّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "دَعَانَا لِجَنۢبِهِۦٓ",
+          "content": "استغاث بنا لكشفه ملقى لجنبه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "مَرَّ",
+          "content": "استمرّ على كُفره ولم يتّعظ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 5,
+          "tokens": "مَرَّ",
+          "content": "استمرّ على كُفره ولم يتّعظ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لِلۡمُسۡرِفِینَ مَا كَانُوا۟ یَعۡمَلُونَ ۝١٢ وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلضُّرُّ",
+          "content": "الجهد والبلاء والشّدّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "دَعَانَا لِجَنۢبِهِۦٓ",
+          "content": "استغاث بنا لكشفه ملقى لجنبه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "مَرَّ",
+          "content": "استمرّ على كُفره ولم يتّعظ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 10,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِن قَبۡلِكُمۡ لَمَّا ظَلَمُوا۟ وَجَاۤءَتۡهُمۡ رُسُلُهُم بِٱلۡبَیِّنَـٰتِ وَمَا كَانُوا۟",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقُرُونَ",
+          "content": "الأمم كقوم نوح وعاد وثمود",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 10,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "ظَلَمُوا۟",
+          "content": "بالكفر وتكذيب الرّسل",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 10,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 9,
+          "tokens": "ظَلَمُوا۟",
+          "content": "بالكفر وتكذيب الرّسل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لِیُؤۡمِنُوا۟ۚ كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡقَوۡمَ ٱلۡمُجۡرِمِینَ ۝١٣ ثُمَّ جَعَلۡنَـٰكُمۡ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقُرُونَ",
+          "content": "الأمم كقوم نوح وعاد وثمود",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 10,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "ظَلَمُوا۟",
+          "content": "بالكفر وتكذيب الرّسل",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 10,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "خَلَـٰۤىِٕفَ فِی ٱلۡأَرۡضِ مِنۢ بَعۡدِهِمۡ لِنَنظُرَ كَیۡفَ تَعۡمَلُونَ ۝١٤",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَعَلْنَٰكُمْ خَلَٰٓئِفَ",
+          "content": "استخلفناكم بعد اهلاك أولئك",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 10,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "جَعَلْنَٰكُمْ خَلَٰٓئِفَ",
+          "content": "استخلفناكم بعد اهلاك أولئك"
+        }
+      ]
+    }
+  ]
+}

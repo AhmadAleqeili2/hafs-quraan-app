@@ -1,0 +1,243 @@
+{
+  "pageIndex": 547,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ جَاۤءُو مِنۢ بَعۡدِهِمۡ یَقُولُونَ رَبَّنَا ٱغۡفِرۡ لَنَا وَلِإِخۡوَ ٰ⁠نِنَا",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلًّا",
+          "content": "حِقدًا وبُغضا وغِشّا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 59,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلَّذِینَ سَبَقُونَا بِٱلۡإِیمَـٰنِ وَلَا تَجۡعَلۡ فِی قُلُوبِنَا غِلࣰّا لِّلَّذِینَ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلًّا",
+          "content": "حِقدًا وبُغضا وغِشّا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 59,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 66,
+          "length": 6,
+          "tokens": "غِلًّا",
+          "content": "حِقدًا وبُغضا وغِشّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ءَامَنُوا۟ رَبَّنَاۤ إِنَّكَ رَءُوفࣱ رَّحِیمٌ ۝١٠ أَلَمۡ تَرَ إِلَى ٱلَّذِینَ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلًّا",
+          "content": "حِقدًا وبُغضا وغِشّا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 59,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "نَافَقُوا۟ یَقُولُونَ لِإِخۡوَ ٰ⁠نِهِمُ ٱلَّذِینَ كَفَرُوا۟ مِنۡ أَهۡلِ ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَىِٕنۡ أُخۡرِجۡتُمۡ لَنَخۡرُجَنَّ مَعَكُمۡ وَلَا نُطِیعُ فِیكُمۡ أَحَدًا أَبَدࣰا",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَإِن قُوتِلۡتُمۡ لَنَنصُرَنَّكُمۡ وَٱللَّهُ یَشۡهَدُ إِنَّهُمۡ لَكَـٰذِبُونَ ۝١١",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَىِٕنۡ أُخۡرِجُوا۟ لَا یَخۡرُجُونَ مَعَهُمۡ وَلَىِٕن قُوتِلُوا۟ لَا یَنصُرُونَهُمۡ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلَىِٕن نَّصَرُوهُمۡ لَیُوَلُّنَّ ٱلۡأَدۡبَـٰرَ ثُمَّ لَا یُنصَرُونَ ۝١٢ لَأَنتُمۡ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَشَدُّ رَهۡبَةࣰ فِی صُدُورِهِم مِّنَ ٱللَّهِۚ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَوۡمࣱ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَّا یَفۡقَهُونَ ۝١٣ لَا یُقَـٰتِلُونَكُمۡ جَمِیعًا إِلَّا فِی قُرࣰى مُّحَصَّنَةٍ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَوۡ مِن وَرَاۤءِ جُدُرِۭۚ بَأۡسُهُم بَیۡنَهُمۡ شَدِیدࣱۚ تَحۡسَبُهُمۡ جَمِیعࣰا",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَأْسُهُم بَيْنَهُمْ",
+          "content": "قتالهم فيما بينهم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 59,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَقُلُوبُهُمْ شَتَّىٰ",
+          "content": "متفرقة لتَعَاديهمْ",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 59,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 20,
+          "tokens": "بَأْسُهُم بَيْنَهُمْ",
+          "content": "قتالهم فيما بينهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَقُلُوبُهُمۡ شَتَّىٰۚ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَوۡمࣱ لَّا یَعۡقِلُونَ ۝١٤ كَمَثَلِ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَأْسُهُم بَيْنَهُمْ",
+          "content": "قتالهم فيما بينهم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 59,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "وَقُلُوبُهُمْ شَتَّىٰ",
+          "content": "متفرقة لتَعَاديهمْ",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 59,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 22,
+          "tokens": "وَقُلُوبُهُمْ شَتَّىٰ",
+          "content": "متفرقة لتَعَاديهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِینَ مِن قَبۡلِهِمۡ قَرِیبࣰاۖ ذَاقُوا۟ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 59,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 18,
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَلِیمࣱ ۝١٥ كَمَثَلِ ٱلشَّیۡطَـٰنِ إِذۡ قَالَ لِلۡإِنسَـٰنِ ٱكۡفُرۡ فَلَمَّا",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَالَ أَمْرِهِمْ",
+          "content": "سوء عاقبة كفرهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 59,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَفَرَ قَالَ إِنِّی بَرِیۤءࣱ مِّنكَ إِنِّیۤ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَـٰلَمِینَ ۝١٦",
+      "surahIndexFirst": 59,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

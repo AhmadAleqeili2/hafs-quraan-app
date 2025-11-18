@@ -1,0 +1,357 @@
+{
+  "pageIndex": 118,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا نَادَیۡتُمۡ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوࣰا وَلَعِبࣰاۚ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَوۡمࣱ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَّا یَعۡقِلُونَ ۝٥٨ قُلۡ یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ هَلۡ تَنقِمُونَ مِنَّاۤ إِلَّاۤ أَنۡ ءَامَنَّا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِٱللَّهِ وَمَاۤ أُنزِلَ إِلَیۡنَا وَمَاۤ أُنزِلَ مِن قَبۡلُ وَأَنَّ أَكۡثَرَكُمۡ فَـٰسِقُونَ ۝٥٩",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَنقِمُونَ",
+          "content": "تكرهون أو تعيبون وتنكرون",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 59
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "قُلۡ هَلۡ أُنَبِّئُكُم بِشَرࣲّ مِّن ذَ ٰ⁠لِكَ مَثُوبَةً عِندَ ٱللَّهِۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثُوبَةً",
+          "content": "جزاء ثابتا وعقوبة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "وَعَبَدَ ٱلطَّٰغُوتَ",
+          "content": "أطاع الشيطان في معصية الله",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "سَوَآءِ ٱلسَّبِيلِ",
+          "content": "الطريق المعتدل وهو الإسلام",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 9,
+          "tokens": "مَثُوبَةً",
+          "content": "جزاء ثابتا وعقوبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَلَیۡهِ وَجَعَلَ مِنۡهُمُ ٱلۡقِرَدَةَ وَٱلۡخَنَازِیرَ وَعَبَدَ ٱلطَّـٰغُوتَۚ أُو۟لَـٰۤىِٕكَ شَرࣱّ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثُوبَةً",
+          "content": "جزاء ثابتا وعقوبة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "وَعَبَدَ ٱلطَّٰغُوتَ",
+          "content": "أطاع الشيطان في معصية الله",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "سَوَآءِ ٱلسَّبِيلِ",
+          "content": "الطريق المعتدل وهو الإسلام",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 22,
+          "tokens": "وَعَبَدَ ٱلطَّٰغُوتَ",
+          "content": "أطاع الشيطان في معصية الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَّكَانࣰا وَأَضَلُّ عَن سَوَاۤءِ ٱلسَّبِیلِ ۝٦٠ وَإِذَا جَاۤءُوكُمۡ قَالُوۤا۟ ءَامَنَّا وَقَد",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثُوبَةً",
+          "content": "جزاء ثابتا وعقوبة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "وَعَبَدَ ٱلطَّٰغُوتَ",
+          "content": "أطاع الشيطان في معصية الله",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        },
+        {
+          "tokens": "سَوَآءِ ٱلسَّبِيلِ",
+          "content": "الطريق المعتدل وهو الإسلام",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 5,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 19,
+          "tokens": "سَوَآءِ ٱلسَّبِيلِ",
+          "content": "الطريق المعتدل وهو الإسلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "دَّخَلُوا۟ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُوا۟ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُوا۟ یَكۡتُمُونَ ۝٦١",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَتَرَىٰ كَثِیرࣰا مِّنۡهُمۡ یُسَـٰرِعُونَ فِی ٱلۡإِثۡمِ وَٱلۡعُدۡوَ ٰ⁠نِ وَأَكۡلِهِمُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكْلِهِمُ ٱلسُّحْتَ",
+          "content": "المال الحرام، وأفحشه الرُّشا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 12,
+          "tokens": "وَأَكْلِهِمُ ٱلسُّحْتَ",
+          "content": "المال الحرام، وأفحشه الرُّشا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُوا۟ یَعۡمَلُونَ ۝٦٢ لَوۡلَا یَنۡهَىٰهُمُ ٱلرَّبَّـٰنِیُّونَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكْلِهِمُ ٱلسُّحْتَ",
+          "content": "المال الحرام، وأفحشه الرُّشا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 5,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَأَكْلِهِمُ ٱلسُّحْتَ",
+          "content": "المال الحرام، وأفحشه الرُّشا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱلۡأَحۡبَارُ عَن قَوۡلِهِمُ ٱلۡإِثۡمَ وَأَكۡلِهِمُ ٱلسُّحۡتَۚ لَبِئۡسَ مَا كَانُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلرَّبَّٰنِيُّونَ",
+          "content": "عُبادُ اليهود، أو العلماء الفقهاء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "وَٱلْأَحْبَارُ",
+          "content": "علماء اليهود",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 5,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "وَٱلْأَحْبَارُ",
+          "content": "علماء اليهود"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَصۡنَعُونَ ۝٦٣ وَقَالَتِ ٱلۡیَهُودُ یَدُ ٱللَّهِ مَغۡلُولَةٌۚ غُلَّتۡ أَیۡدِیهِمۡ وَلُعِنُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلرَّبَّٰنِيُّونَ",
+          "content": "عُبادُ اليهود، أو العلماء الفقهاء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 5,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "وَٱلْأَحْبَارُ",
+          "content": "علماء اليهود",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 5,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِمَا قَالُوا۟ۘ بَلۡ یَدَاهُ مَبۡسُوطَتَانِ یُنفِقُ كَیۡفَ یَشَاۤءُۚ وَلَیَزِیدَنَّ كَثِیرࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْلُولَةٌ",
+          "content": "مقبوضة عن العطاء بُخلا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِّنۡهُم مَّاۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَ طُغۡیَـٰنࣰا وَكُفۡرࣰاۚ وَأَلۡقَیۡنَا بَیۡنَهُمُ ٱلۡعَدَ ٰ⁠وَةَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْلُولَةٌ",
+          "content": "مقبوضة عن العطاء بُخلا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡبَغۡضَاۤءَ إِلَىٰ یَوۡمِ ٱلۡقِیَـٰمَةِۚ كُلَّمَاۤ أَوۡقَدُوا۟ نَارࣰا لِّلۡحَرۡبِ أَطۡفَأَهَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْلُولَةٌ",
+          "content": "مقبوضة عن العطاء بُخلا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهُۚ وَیَسۡعَوۡنَ فِی ٱلۡأَرۡضِ فَسَادࣰاۚ وَٱللَّهُ لَا یُحِبُّ ٱلۡمُفۡسِدِینَ ۝٦٤",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْلُولَةٌ",
+          "content": "مقبوضة عن العطاء بُخلا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 64
+        }
+      ]
+    }
+  ]
+}

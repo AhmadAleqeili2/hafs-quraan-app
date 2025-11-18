@@ -1,0 +1,683 @@
+{
+  "pageIndex": 484,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَاطِرُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۚ جَعَلَ لَكُم مِّنۡ أَنفُسِكُمۡ أَزۡوَ ٰ⁠جࣰا",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرُ",
+          "content": "مبْدع ومخترع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِّنْ أَنفُسِكُمْ أَزْوَٰجًا",
+          "content": "حلائل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا",
+          "content": "أصنافا ذكورا وإناثا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَذْرَؤُكُمْ فِيهِ",
+          "content": "يُكَثِّركم بسبب هذا التزويج",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "فَاطِرُ",
+          "content": "مبْدع ومخترع"
+        },
+        {
+          "start": 51,
+          "length": 30,
+          "tokens": "مِّنْ أَنفُسِكُمْ أَزْوَٰجًا",
+          "content": "حلائل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَمِنَ ٱلۡأَنۡعَـٰمِ أَزۡوَ ٰ⁠جࣰا یَذۡرَؤُكُمۡ فِیهِۚ لَیۡسَ كَمِثۡلِهِۦ شَیۡءࣱۖ وَهُوَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرُ",
+          "content": "مبْدع ومخترع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِّنْ أَنفُسِكُمْ أَزْوَٰجًا",
+          "content": "حلائل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا",
+          "content": "أصنافا ذكورا وإناثا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَذْرَؤُكُمْ فِيهِ",
+          "content": "يُكَثِّركم بسبب هذا التزويج",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 33,
+          "tokens": "وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا",
+          "content": "أصنافا ذكورا وإناثا"
+        },
+        {
+          "start": 34,
+          "length": 19,
+          "tokens": "يَذْرَؤُكُمْ فِيهِ",
+          "content": "يُكَثِّركم بسبب هذا التزويج"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلسَّمِیعُ ٱلۡبَصِیرُ ۝١١ لَهُۥ مَقَالِیدُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ یَبۡسُطُ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرُ",
+          "content": "مبْدع ومخترع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِّنْ أَنفُسِكُمْ أَزْوَٰجًا",
+          "content": "حلائل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "وَمِنَ ٱلْأَنْعَٰمِ أَزْوَٰجًا",
+          "content": "أصنافا ذكورا وإناثا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَذْرَؤُكُمْ فِيهِ",
+          "content": "يُكَثِّركم بسبب هذا التزويج",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلرِّزۡقَ لِمَن یَشَاۤءُ وَیَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝١٢ شَرَعَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُۥ مَقَالِيدُ",
+          "content": "مفاتيح أو خزائن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 42,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيِّقه على من يشاء بحكمته",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 42,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 11,
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيِّقه على من يشاء بحكمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَكُم مِّنَ ٱلدِّینِ مَا وَصَّىٰ بِهِۦ نُوحࣰا وَٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ وَمَا",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرَعَ لَكُم",
+          "content": "بين وسَنَّ لكم طريقاً واضحاً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مَا وَصَّىٰ",
+          "content": "ما أمر به وألزم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "أَقِيمُوا۟ ٱلدِّينَ",
+          "content": "دين التوحيد، وهو دين الإسلام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "كَبُرَ",
+          "content": "عظُمَ وشقَّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يَجْتَبِىٓ",
+          "content": "يختار ويصطفي لدينه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يُنِيبُ",
+          "content": "يرجع إليه ويُقبِل على طاعته",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 5,
+          "tokens": "شَرَعَ لَكُم",
+          "content": "بين وسَنَّ لكم طريقاً واضحاً"
+        },
+        {
+          "start": 21,
+          "length": 11,
+          "tokens": "مَا وَصَّىٰ",
+          "content": "ما أمر به وألزم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَصَّیۡنَا بِهِۦۤ إِبۡرَ ٰ⁠هِیمَ وَمُوسَىٰ وَعِیسَىٰۤۖ أَنۡ أَقِیمُوا۟ ٱلدِّینَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرَعَ لَكُم",
+          "content": "بين وسَنَّ لكم طريقاً واضحاً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مَا وَصَّىٰ",
+          "content": "ما أمر به وألزم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "أَقِيمُوا۟ ٱلدِّينَ",
+          "content": "دين التوحيد، وهو دين الإسلام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "كَبُرَ",
+          "content": "عظُمَ وشقَّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يَجْتَبِىٓ",
+          "content": "يختار ويصطفي لدينه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يُنِيبُ",
+          "content": "يرجع إليه ويُقبِل على طاعته",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 19,
+          "tokens": "أَقِيمُوا۟ ٱلدِّينَ",
+          "content": "دين التوحيد، وهو دين الإسلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلَا تَتَفَرَّقُوا۟ فِیهِۚ كَبُرَ عَلَى ٱلۡمُشۡرِكِینَ مَا تَدۡعُوهُمۡ إِلَیۡهِۚ ٱللَّهُ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرَعَ لَكُم",
+          "content": "بين وسَنَّ لكم طريقاً واضحاً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مَا وَصَّىٰ",
+          "content": "ما أمر به وألزم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "أَقِيمُوا۟ ٱلدِّينَ",
+          "content": "دين التوحيد، وهو دين الإسلام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "كَبُرَ",
+          "content": "عظُمَ وشقَّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يَجْتَبِىٓ",
+          "content": "يختار ويصطفي لدينه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يُنِيبُ",
+          "content": "يرجع إليه ويُقبِل على طاعته",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 6,
+          "tokens": "كَبُرَ",
+          "content": "عظُمَ وشقَّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَجۡتَبِیۤ إِلَیۡهِ مَن یَشَاۤءُ وَیَهۡدِیۤ إِلَیۡهِ مَن یُنِیبُ ۝١٣ وَمَا تَفَرَّقُوۤا۟",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرَعَ لَكُم",
+          "content": "بين وسَنَّ لكم طريقاً واضحاً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "مَا وَصَّىٰ",
+          "content": "ما أمر به وألزم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "أَقِيمُوا۟ ٱلدِّينَ",
+          "content": "دين التوحيد، وهو دين الإسلام",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "كَبُرَ",
+          "content": "عظُمَ وشقَّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يَجْتَبِىٓ",
+          "content": "يختار ويصطفي لدينه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يُنِيبُ",
+          "content": "يرجع إليه ويُقبِل على طاعته",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 42,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "يَجْتَبِىٓ",
+          "content": "يختار ويصطفي لدينه"
+        },
+        {
+          "start": 57,
+          "length": 7,
+          "tokens": "يُنِيبُ",
+          "content": "يرجع إليه ويُقبِل على طاعته"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡعِلۡمُ بَغۡیَۢا بَیۡنَهُمۡۚ وَلَوۡلَا كَلِمَةࣱ سَبَقَتۡ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "عداوة، أو طلباً للدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "مُرِيبٍ",
+          "content": "موقعٍ في الريبة والقلق",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 20,
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "عداوة، أو طلباً للدنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِن رَّبِّكَ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى لَّقُضِیَ بَیۡنَهُمۡۚ وَإِنَّ ٱلَّذِینَ أُورِثُوا۟",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "عداوة، أو طلباً للدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "مُرِيبٍ",
+          "content": "موقعٍ في الريبة والقلق",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡكِتَـٰبَ مِنۢ بَعۡدِهِمۡ لَفِی شَكࣲّ مِّنۡهُ مُرِیبࣲ ۝١٤ فَلِذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "عداوة، أو طلباً للدنيا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "مُرِيبٍ",
+          "content": "موقعٍ في الريبة والقلق",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 42,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 7,
+          "tokens": "مُرِيبٍ",
+          "content": "موقعٍ في الريبة والقلق"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَٱدۡعُۖ وَٱسۡتَقِمۡ كَمَاۤ أُمِرۡتَۖ وَلَا تَتَّبِعۡ أَهۡوَاۤءَهُمۡۖ وَقُلۡ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱسْتَقِمْ",
+          "content": "الزم المنهج المستقيم المأمور به",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "لَا حُجَّةَ",
+          "content": "لا محاجة ولا خصومة لظهور الحق",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 11,
+          "tokens": "وَٱسْتَقِمْ",
+          "content": "الزم المنهج المستقيم المأمور به"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ءَامَنتُ بِمَاۤ أَنزَلَ ٱللَّهُ مِن كِتَـٰبࣲۖ وَأُمِرۡتُ لِأَعۡدِلَ بَیۡنَكُمُۖ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱسْتَقِمْ",
+          "content": "الزم المنهج المستقيم المأمور به",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "لَا حُجَّةَ",
+          "content": "لا محاجة ولا خصومة لظهور الحق",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهُ رَبُّنَا وَرَبُّكُمۡۖ لَنَاۤ أَعۡمَـٰلُنَا وَلَكُمۡ أَعۡمَـٰلُكُمۡۖ لَا حُجَّةَ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱسْتَقِمْ",
+          "content": "الزم المنهج المستقيم المأمور به",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "لَا حُجَّةَ",
+          "content": "لا محاجة ولا خصومة لظهور الحق",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 76,
+          "length": 11,
+          "tokens": "لَا حُجَّةَ",
+          "content": "لا محاجة ولا خصومة لظهور الحق"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بَیۡنَنَا وَبَیۡنَكُمُۖ ٱللَّهُ یَجۡمَعُ بَیۡنَنَاۖ وَإِلَیۡهِ ٱلۡمَصِیرُ ۝١٥",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱسْتَقِمْ",
+          "content": "الزم المنهج المستقيم المأمور به",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "لَا حُجَّةَ",
+          "content": "لا محاجة ولا خصومة لظهور الحق",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 15
+        }
+      ]
+    }
+  ]
+}

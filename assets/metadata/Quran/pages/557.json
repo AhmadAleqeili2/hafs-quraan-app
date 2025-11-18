@@ -1,0 +1,261 @@
+{
+  "pageIndex": 557,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔایَـٰتِنَاۤ أُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَصۡحَـٰبُ ٱلنَّارِ خَـٰلِدِینَ فِیهَاۖ وَبِئۡسَ ٱلۡمَصِیرُ ۝١٠",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَاۤ أَصَابَ مِن مُّصِیبَةٍ إِلَّا بِإِذۡنِ ٱللَّهِۗ وَمَن یُؤۡمِنۢ بِٱللَّهِ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِإِذْنِ ٱللَّهِ",
+          "content": "بإرادته وقضائه وقَدَره تعالى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 64,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَهْدِ قَلْبَهُۥ",
+          "content": "يوفّقه لليَقين والصّبر والتّسليم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 64,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 17,
+          "tokens": "بِإِذْنِ ٱللَّهِ",
+          "content": "بإرادته وقضائه وقَدَره تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَهۡدِ قَلۡبَهُۥۚ وَٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝١١ وَأَطِیعُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِإِذْنِ ٱللَّهِ",
+          "content": "بإرادته وقضائه وقَدَره تعالى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 64,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "يَهْدِ قَلْبَهُۥ",
+          "content": "يوفّقه لليَقين والصّبر والتّسليم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 64,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "يَهْدِ قَلْبَهُۥ",
+          "content": "يوفّقه لليَقين والصّبر والتّسليم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأَطِیعُوا۟ ٱلرَّسُولَۚ فَإِن تَوَلَّیۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَـٰغُ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلۡمُبِینُ ۝١٢ ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡیَتَوَكَّلِ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡمُؤۡمِنُونَ ۝١٣ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ مِنۡ أَزۡوَ ٰ⁠جِكُمۡ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَوۡلَـٰدِكُمۡ عَدُوࣰّا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُوا۟",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَتَصۡفَحُوا۟ وَتَغۡفِرُوا۟ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمٌ ۝١٤ إِنَّمَاۤ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَمۡوَ ٰ⁠لُكُمۡ وَأَوۡلَـٰدُكُمۡ فِتۡنَةࣱۚ وَٱللَّهُ عِندَهُۥۤ أَجۡرٌ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاءٌ ومِحنة واختبار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 9,
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاءٌ ومِحنة واختبار"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَظِیمࣱ ۝١٥ فَٱتَّقُوا۟ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُوا۟ وَأَطِیعُوا۟",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ",
+          "content": "بلاءٌ ومِحنة واختبار",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 64,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَأَنفِقُوا۟ خَیۡرࣰا لِّأَنفُسِكُمۡۗ وَمَن یُوقَ شُحَّ نَفۡسِهِۦ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُوقَ شُحَّ نَفْسِهِۦ",
+          "content": "يُكْفَ بُخلَهَا الشديد مع حِرْصها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 64,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 21,
+          "tokens": "يُوقَ شُحَّ نَفْسِهِۦ",
+          "content": "يُكْفَ بُخلَهَا الشديد مع حِرْصها"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ ۝١٦ إِن تُقۡرِضُوا۟ ٱللَّهَ قَرۡضًا",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُوقَ شُحَّ نَفْسِهِۦ",
+          "content": "يُكْفَ بُخلَهَا الشديد مع حِرْصها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 64,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "حَسَنࣰا یُضَـٰعِفۡهُ لَكُمۡ وَیَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْضًا حَسَنًا",
+          "content": "احتسابا بطيبة نفس وإخلاص",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 64,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "قَرْضًا حَسَنًا",
+          "content": "احتسابا بطيبة نفس وإخلاص"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "حَلِیمٌ ۝١٧ عَـٰلِمُ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝١٨",
+      "surahIndexFirst": 64,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْضًا حَسَنًا",
+          "content": "احتسابا بطيبة نفس وإخلاص",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 64,
+          "ayahIndex": 17
+        }
+      ]
+    }
+  ]
+}

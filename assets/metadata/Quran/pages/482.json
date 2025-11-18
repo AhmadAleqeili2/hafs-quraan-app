@@ -1,0 +1,491 @@
+{
+  "pageIndex": 482,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِلَیۡهِ یُرَدُّ عِلۡمُ ٱلسَّاعَةِۚ وَمَا تَخۡرُجُ مِن ثَمَرَ ٰ⁠تࣲ مِّنۡ أَكۡمَامِهَا",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَكْمَامِهَا",
+          "content": "أوْعِيَتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "ءَاذَنَّٰكَ",
+          "content": "أخبَرناك وأعْلمناك",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 12,
+          "tokens": "أَكْمَامِهَا",
+          "content": "أوْعِيَتها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَمَا تَحۡمِلُ مِنۡ أُنثَىٰ وَلَا تَضَعُ إِلَّا بِعِلۡمِهِۦۚ وَیَوۡمَ یُنَادِیهِمۡ أَیۡنَ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَكْمَامِهَا",
+          "content": "أوْعِيَتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "ءَاذَنَّٰكَ",
+          "content": "أخبَرناك وأعْلمناك",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "شُرَكَاۤءِی قَالُوۤا۟ ءَاذَنَّـٰكَ مَا مِنَّا مِن شَهِیدࣲ ۝٤٧ وَضَلَّ عَنۡهُم",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَكْمَامِهَا",
+          "content": "أوْعِيَتها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "ءَاذَنَّٰكَ",
+          "content": "أخبَرناك وأعْلمناك",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 41,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 12,
+          "tokens": "ءَاذَنَّٰكَ",
+          "content": "أخبَرناك وأعْلمناك"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَّا كَانُوا۟ یَدۡعُونَ مِن قَبۡلُۖ وَظَنُّوا۟ مَا لَهُم مِّن مَّحِیصࣲ ۝٤٨",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَظَنُّوا۟",
+          "content": "أيقنوا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 41,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "مَّحِيصٍ",
+          "content": "مَهرب ومفرّ من العذاب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 41,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 10,
+          "tokens": "وَظَنُّوا۟",
+          "content": "أيقنوا"
+        },
+        {
+          "start": 62,
+          "length": 8,
+          "tokens": "مَّحِيصٍ",
+          "content": "مَهرب ومفرّ من العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَّا یَسۡـَٔمُ ٱلۡإِنسَـٰنُ مِن دُعَاۤءِ ٱلۡخَیۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَیَـُٔوسࣱ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ",
+          "content": "لا يملّ ولا يفتر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "دُعَآءِ ٱلْخَيْرِ",
+          "content": "طَلبه العافية والسّعَة في النّعمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "فَيَـُٔوسٌ قَنُوطٌ",
+          "content": "من فضل الله ورحمته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 27,
+          "tokens": "لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ",
+          "content": "لا يملّ ولا يفتر"
+        },
+        {
+          "start": 32,
+          "length": 18,
+          "tokens": "دُعَآءِ ٱلْخَيْرِ",
+          "content": "طَلبه العافية والسّعَة في النّعمة"
+        },
+        {
+          "start": 75,
+          "length": 10,
+          "tokens": "فَيَـُٔوسٌ قَنُوطٌ",
+          "content": "من فضل الله ورحمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "قَنُوطࣱ ۝٤٩ وَلَىِٕنۡ أَذَقۡنَـٰهُ رَحۡمَةࣰ مِّنَّا مِنۢ بَعۡدِ ضَرَّاۤءَ مَسَّتۡهُ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا يَسْـَٔمُ ٱلْإِنسَٰنُ",
+          "content": "لا يملّ ولا يفتر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "دُعَآءِ ٱلْخَيْرِ",
+          "content": "طَلبه العافية والسّعَة في النّعمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "فَيَـُٔوسٌ قَنُوطٌ",
+          "content": "من فضل الله ورحمته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 41,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "فَيَـُٔوسٌ قَنُوطٌ",
+          "content": "من فضل الله ورحمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَیَقُولَنَّ هَـٰذَا لِی وَمَاۤ أَظُنُّ ٱلسَّاعَةَ قَاۤىِٕمَةࣰ وَلَىِٕن رُّجِعۡتُ إِلَىٰ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَٰذَا لِى",
+          "content": "هذا حقّي أستحقّه بعملي",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "عَذَابٍ غَلِيظٍ",
+          "content": "شديد لا يُفَتّرُ عنهم",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 11,
+          "tokens": "هَٰذَا لِى",
+          "content": "هذا حقّي أستحقّه بعملي"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "رَبِّیۤ إِنَّ لِی عِندَهُۥ لَلۡحُسۡنَىٰۚ فَلَنُنَبِّئَنَّ ٱلَّذِینَ كَفَرُوا۟ بِمَا عَمِلُوا۟",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَٰذَا لِى",
+          "content": "هذا حقّي أستحقّه بعملي",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "عَذَابٍ غَلِيظٍ",
+          "content": "شديد لا يُفَتّرُ عنهم",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَنُذِیقَنَّهُم مِّنۡ عَذَابٍ غَلِیظࣲ ۝٥٠ وَإِذَاۤ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَـٰنِ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَٰذَا لِى",
+          "content": "هذا حقّي أستحقّه بعملي",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "عَذَابٍ غَلِيظٍ",
+          "content": "شديد لا يُفَتّرُ عنهم",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 41,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 15,
+          "tokens": "عَذَابٍ غَلِيظٍ",
+          "content": "شديد لا يُفَتّرُ عنهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَعۡرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ ٱلشَّرُّ فَذُو دُعَاۤءٍ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "تباعد عن الشكر بكلّيَتِه تكَبّرًا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 41,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "دُعَآءٍ عَرِيضٍ",
+          "content": "كثيرٍ مسْتَمرّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 41,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 21,
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "تباعد عن الشكر بكلّيَتِه تكَبّرًا"
+        },
+        {
+          "start": 62,
+          "length": 8,
+          "tokens": "دُعَآءٍ عَرِيضٍ",
+          "content": "كثيرٍ مسْتَمرّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَرِیضࣲ ۝٥١ قُلۡ أَرَءَیۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ ثُمَّ كَفَرۡتُم بِهِۦ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "تباعد عن الشكر بكلّيَتِه تكَبّرًا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 41,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "دُعَآءٍ عَرِيضٍ",
+          "content": "كثيرٍ مسْتَمرّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 41,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "دُعَآءٍ عَرِيضٍ",
+          "content": "كثيرٍ مسْتَمرّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَنۡ أَضَلُّ مِمَّنۡ هُوَ فِی شِقَاقِۭ بَعِیدࣲ ۝٥٢ سَنُرِیهِمۡ ءَایَـٰتِنَا",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 41,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فِی ٱلۡـَٔافَاقِ وَفِیۤ أَنفُسِهِمۡ حَتَّىٰ یَتَبَیَّنَ لَهُمۡ أَنَّهُ ٱلۡحَقُّۗ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْءَافَاقِ",
+          "content": "أقطار السّموات والأرض",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 41,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 12,
+          "tokens": "ٱلْءَافَاقِ",
+          "content": "أقطار السّموات والأرض"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَوَلَمۡ یَكۡفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَیۡءࣲ شَهِیدٌ ۝٥٣ أَلَاۤ إِنَّهُمۡ",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْءَافَاقِ",
+          "content": "أقطار السّموات والأرض",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 41,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فِی مِرۡیَةࣲ مِّن لِّقَاۤءِ رَبِّهِمۡۗ أَلَاۤ إِنَّهُۥ بِكُلِّ شَیۡءࣲ مُّحِیطُۢ ۝٥٤",
+      "surahIndexFirst": 41,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِرْيَةٍ",
+          "content": "شكّ ٍ عَظيم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 41,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 8,
+          "tokens": "مِرْيَةٍ",
+          "content": "شكّ ٍ عَظيم"
+        }
+      ]
+    }
+  ]
+}

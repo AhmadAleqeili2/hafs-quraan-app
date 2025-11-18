@@ -1,0 +1,427 @@
+{
+  "pageIndex": 85,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ یُنفِقُونَ أَمۡوَ ٰ⁠لَهُمۡ رِئَاۤءَ ٱلنَّاسِ وَلَا یُؤۡمِنُونَ بِٱللَّهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِئَآءَ ٱلنَّاسِ",
+          "content": "مُراءةً لهم وسُمعة لا لِوجه الله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 17,
+          "tokens": "رِئَآءَ ٱلنَّاسِ",
+          "content": "مُراءةً لهم وسُمعة لا لِوجه الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَا بِٱلۡیَوۡمِ ٱلۡـَٔاخِرِۗ وَمَن یَكُنِ ٱلشَّیۡطَـٰنُ لَهُۥ قَرِینࣰا فَسَاۤءَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِئَآءَ ٱلنَّاسِ",
+          "content": "مُراءةً لهم وسُمعة لا لِوجه الله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَرِینࣰا ۝٣٨ وَمَاذَا عَلَیۡهِمۡ لَوۡ ءَامَنُوا۟ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ وَأَنفَقُوا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رِئَآءَ ٱلنَّاسِ",
+          "content": "مُراءةً لهم وسُمعة لا لِوجه الله",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 4,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِمَّا رَزَقَهُمُ ٱللَّهُۚ وَكَانَ ٱللَّهُ بِهِمۡ عَلِیمًا ۝٣٩ إِنَّ ٱللَّهَ لَا یَظۡلِمُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِثۡقَالَ ذَرَّةࣲۖ وَإِن تَكُ حَسَنَةࣰ یُضَـٰعِفۡهَا وَیُؤۡتِ مِن لَّدُنۡهُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِثْقَالَ ذَرَّةٍ",
+          "content": "مقدار أصغر نملةٍ، أو هباءَةٍ",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "مِثْقَالَ ذَرَّةٍ",
+          "content": "مقدار أصغر نملةٍ، أو هباءَةٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَجۡرًا عَظِیمࣰا ۝٤٠ فَكَیۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِیدࣲ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِثْقَالَ ذَرَّةٍ",
+          "content": "مقدار أصغر نملةٍ، أو هباءَةٍ",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَجِئۡنَا بِكَ عَلَىٰ هَـٰۤؤُلَاۤءِ شَهِیدࣰا ۝٤١ یَوۡمَىِٕذࣲ یَوَدُّ ٱلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "كَفَرُوا۟ وَعَصَوُا۟ ٱلرَّسُولَ لَوۡ تُسَوَّىٰ بِهِمُ ٱلۡأَرۡضُ وَلَا یَكۡتُمُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ",
+          "content": "لو كانوا والأرض سواءً فلا يُبعثون",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 42
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 31,
+          "tokens": "لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ",
+          "content": "لو كانوا والأرض سواءً فلا يُبعثون"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱللَّهَ حَدِیثࣰا ۝٤٢ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَقۡرَبُوا۟ ٱلصَّلَوٰةَ وَأَنتُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوْ تُسَوَّىٰ بِهِمُ ٱلْأَرْضُ",
+          "content": "لو كانوا والأرض سواءً فلا يُبعثون",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 42
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "سُكَـٰرَىٰ حَتَّىٰ تَعۡلَمُوا۟ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِی",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 67,
+          "length": 8,
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "سَبِیلٍ حَتَّىٰ تَغۡتَسِلُوا۟ۚ وَإِن كُنتُم مَّرۡضَىٰۤ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَاۤءَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَحَدࣱ مِّنكُم مِّنَ ٱلۡغَاۤىِٕطِ أَوۡ لَـٰمَسۡتُمُ ٱلنِّسَاۤءَ فَلَمۡ تَجِدُوا۟ مَاۤءࣰ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 12,
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)"
+        },
+        {
+          "start": 39,
+          "length": 24,
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَتَیَمَّمُوا۟ صَعِیدࣰا طَیِّبࣰا فَٱمۡسَحُوا۟ بِوُجُوهِكُمۡ وَأَیۡدِیكُمۡۗ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 17,
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا ۝٤٣ أَلَمۡ تَرَ إِلَى ٱلَّذِینَ أُوتُوا۟ نَصِیبࣰا مِّنَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَابِرِى سَبِيلٍ",
+          "content": "مسافرين فقدوا الماء فيتيمّمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "ٱلْغَآئِطِ",
+          "content": "مكان قضاء الحاجة (كِناية عن الحدث)",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَٰمَسْتُمُ ٱلنِّسَآءَ",
+          "content": "واقعتموهنّ أو مسستم بشرتهنّ",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "صَعِيدًا طَيِّبًا",
+          "content": "تُرابًا، أو وجه الأرض – طاهرًا",
+          "tokenFromIndex": 39,
+          "tokenToIndex": 40,
+          "surahIndex": 4,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡكِتَـٰبِ یَشۡتَرُونَ ٱلضَّلَـٰلَةَ وَیُرِیدُونَ أَن تَضِلُّوا۟ ٱلسَّبِیلَ ۝٤٤",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

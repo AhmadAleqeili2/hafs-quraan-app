@@ -1,0 +1,387 @@
+{
+  "pageIndex": 601,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة العصر",
+      "surahIndexFirst": 103,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلْعَصْرِ",
+          "content": "(قسمٌ) بالدّهر أو عصر النّبوّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 103,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 103,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْعَصْرِ",
+          "content": "(قسمٌ) بالدّهر أو عصر النّبوّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 103,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلۡعَصۡرِ ۝١ إِنَّ ٱلۡإِنسَـٰنَ لَفِی خُسۡرٍ ۝٢ إِلَّا ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 103,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْعَصْرِ",
+          "content": "(قسمٌ) بالدّهر أو عصر النّبوّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 103,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَٱلْعَصْرِ",
+          "content": "(قسمٌ) بالدّهر أو عصر النّبوّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوۡا۟ بِٱلۡحَقِّ وَتَوَاصَوۡا۟ بِٱلصَّبۡرِ ۝٣",
+      "surahIndexFirst": 103,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَوَاصَوْا۟ بِٱلْحَقِّ",
+          "content": "بالخَيْر كلّه اعتِقادًا وعَمَلاً",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 103,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "content": "عَن المَعاصي وعلى الطّاعات والبلاء",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 103,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 24,
+          "tokens": "وَتَوَاصَوْا۟ بِٱلْحَقِّ",
+          "content": "بالخَيْر كلّه اعتِقادًا وعَمَلاً"
+        },
+        {
+          "start": 53,
+          "length": 25,
+          "tokens": "وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+          "content": "عَن المَعاصي وعلى الطّاعات والبلاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 6998,
+      "text": "سورة الهمزة",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَيْلٌ",
+          "content": "عذاب أو هَلاك أوْ وَادٍ في جَهنّم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "هُمَزَةٍ لُّمَزَةٍ",
+          "content": "طَعّان غَيّاب عَيّاب للناس",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 6999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْلٌ",
+          "content": "عذاب أو هَلاك أوْ وَادٍ في جَهنّم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "هُمَزَةٍ لُّمَزَةٍ",
+          "content": "طَعّان غَيّاب عَيّاب للناس",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَیۡلࣱ لِّكُلِّ هُمَزَةࣲ لُّمَزَةٍ ۝١ ٱلَّذِی جَمَعَ مَالࣰا وَعَدَّدَهُۥ ۝٢",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْلٌ",
+          "content": "عذاب أو هَلاك أوْ وَادٍ في جَهنّم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "هُمَزَةٍ لُّمَزَةٍ",
+          "content": "طَعّان غَيّاب عَيّاب للناس",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 104,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "وَيْلٌ",
+          "content": "عذاب أو هَلاك أوْ وَادٍ في جَهنّم"
+        },
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "هُمَزَةٍ لُّمَزَةٍ",
+          "content": "طَعّان غَيّاب عَيّاب للناس"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَحۡسَبُ أَنَّ مَالَهُۥۤ أَخۡلَدَهُۥ ۝٣ كَلَّاۖ لَیُنۢبَذَنَّ فِی ٱلۡحُطَمَةِ ۝٤",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخْلَدَهُۥ",
+          "content": "يُخلّدُهُ في الدنيا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 104,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 11,
+          "tokens": "أَخْلَدَهُۥ",
+          "content": "يُخلّدُهُ في الدنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَمَاۤ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ ۝٥ نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ ۝٦ ٱلَّتِی تَطَّلِعُ",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَى ٱلۡأَفۡـِٔدَةِ ۝٧ إِنَّهَا عَلَیۡهِم مُّؤۡصَدَةࣱ ۝٨ فِی عَمَدࣲ مُّمَدَّدَةِۭ ۝٩",
+      "surahIndexFirst": 104,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+          "content": "تَغْشَى حَرَارتها أوْساط القلوب",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 104,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+          "content": "تَغْشَى حَرَارتها أوْساط القلوب"
+        }
+      ]
+    },
+    {
+      "sortKey": 12998,
+      "text": "سورة الفيل",
+      "surahIndexFirst": 105,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "بِأَصْحَٰبِ ٱلْفِيلِ",
+          "content": "وَقَعَت القصّة أوّل عام مولده صلى الله عليه وسلم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 105,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 105,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِأَصْحَٰبِ ٱلْفِيلِ",
+          "content": "وَقَعَت القصّة أوّل عام مولده صلى الله عليه وسلم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 105,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَلَمۡ تَرَ كَیۡفَ فَعَلَ رَبُّكَ بِأَصۡحَـٰبِ ٱلۡفِیلِ ۝١ أَلَمۡ یَجۡعَلۡ",
+      "surahIndexFirst": 105,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِأَصْحَٰبِ ٱلْفِيلِ",
+          "content": "وَقَعَت القصّة أوّل عام مولده صلى الله عليه وسلم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 105,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 21,
+          "tokens": "بِأَصْحَٰبِ ٱلْفِيلِ",
+          "content": "وَقَعَت القصّة أوّل عام مولده صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "كَیۡدَهُمۡ فِی تَضۡلِیلࣲ ۝٢ وَأَرۡسَلَ عَلَیۡهِمۡ طَیۡرًا أَبَابِیلَ ۝٣",
+      "surahIndexFirst": 105,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَجْعَلْ كَيْدَهُمْ",
+          "content": "سَعْيَهمْ لتخْريب الكَعْبَة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 105,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "تَضْلِيلٍ",
+          "content": "تَضييع وإبْطال وخَسار",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 105,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "يَجْعَلْ كَيْدَهُمْ",
+          "content": "سَعْيَهمْ لتخْريب الكَعْبَة"
+        },
+        {
+          "start": 15,
+          "length": 9,
+          "tokens": "تَضْلِيلٍ",
+          "content": "تَضييع وإبْطال وخَسار"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَرۡمِیهِم بِحِجَارَةࣲ مِّن سِجِّیلࣲ ۝٤ فَجَعَلَهُمۡ كَعَصۡفࣲ مَّأۡكُولِۭ ۝٥",
+      "surahIndexFirst": 105,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سِجِّيلٍ",
+          "content": "طين مُتحجّر مُحْرَق (آجُرٍّ )",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 105,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 8,
+          "tokens": "سِجِّيلٍ",
+          "content": "طين مُتحجّر مُحْرَق (آجُرٍّ )"
+        }
+      ]
+    }
+  ]
+}

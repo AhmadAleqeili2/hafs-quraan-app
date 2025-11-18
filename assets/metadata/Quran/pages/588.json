@@ -1,0 +1,301 @@
+{
+  "pageIndex": 588,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لِیَوۡمٍ عَظِیمࣲ ۝٥ یَوۡمَ یَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَـٰلَمِینَ ۝٦ كَلَّاۤ إِنَّ كِتَـٰبَ",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡفُجَّارِ لَفِی سِجِّینࣲ ۝٧ وَمَاۤ أَدۡرَىٰكَ مَا سِجِّینࣱ ۝٨ كِتَـٰبࣱ مَّرۡقُومࣱ ۝٩",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كِتَٰبَ ٱلْفُجَّارِ",
+          "content": "ما يُكتب من أعمالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 83,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "لَفِى سِجِّينٍ",
+          "content": "لمُثبَتٌ في ديوان الشّر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 83,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "كِتَٰبَ ٱلْفُجَّارِ",
+          "content": "ما يُكتب من أعمالهم"
+        },
+        {
+          "start": 12,
+          "length": 14,
+          "tokens": "لَفِى سِجِّينٍ",
+          "content": "لمُثبَتٌ في ديوان الشّر"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝١٠ ٱلَّذِینَ یُكَذِّبُونَ بِیَوۡمِ ٱلدِّینِ ۝١١ وَمَا یُكَذِّبُ",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِهِۦۤ إِلَّا كُلُّ مُعۡتَدٍ أَثِیمٍ ۝١٢ إِذَا تُتۡلَىٰ عَلَیۡهِ ءَایَـٰتُنَا قَالَ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ ۝١٣",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعْتَدٍ",
+          "content": "فاجر مُتجاوز عن نَهْج الحقّ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 83,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 8,
+          "tokens": "مُعْتَدٍ",
+          "content": "فاجر مُتجاوز عن نَهْج الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "كَلَّاۖ بَلۡۜ رَانَ عَلَىٰ قُلُوبِهِم مَّا كَانُوا۟ یَكۡسِبُونَ ۝١٤ كَلَّاۤ إِنَّهُمۡ عَن رَّبِّهِمۡ",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلَّا",
+          "content": "رَدْعٌ وزجْرٌ عن قولهم الباطل",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 83,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "رَانَ عَلَىٰ قُلُوبِهِم",
+          "content": "غَلبَ وغَّطى عليها أو طبع عليها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 83,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "كَلَّا",
+          "content": "رَدْعٌ وزجْرٌ عن قولهم الباطل"
+        },
+        {
+          "start": 14,
+          "length": 23,
+          "tokens": "رَانَ عَلَىٰ قُلُوبِهِم",
+          "content": "غَلبَ وغَّطى عليها أو طبع عليها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَوۡمَىِٕذࣲ لَّمَحۡجُوبُونَ ۝١٥ ثُمَّ إِنَّهُمۡ لَصَالُوا۟ ٱلۡجَحِیمِ ۝١٦ ثُمَّ یُقَالُ هَـٰذَا",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلَّذِی كُنتُم بِهِۦ تُكَذِّبُونَ ۝١٧ كَلَّاۤ إِنَّ كِتَـٰبَ ٱلۡأَبۡرَارِ لَفِی عِلِّیِّینَ ۝١٨",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَمَاۤ أَدۡرَىٰكَ مَا عِلِّیُّونَ ۝١٩ كِتَـٰبࣱ مَّرۡقُومࣱ ۝٢٠ یَشۡهَدُهُ ٱلۡمُقَرَّبُونَ ۝٢١",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِی نَعِیمٍ ۝٢٢ عَلَى ٱلۡأَرَاۤىِٕكِ یَنظُرُونَ ۝٢٣ تَعۡرِفُ فِی",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِیمِ ۝٢٤ یُسۡقَوۡنَ مِن رَّحِیقࣲ مَّخۡتُومٍ ۝٢٥ خِتَـٰمُهُۥ",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَضْرَةَ ٱلنَّعِيمِ",
+          "content": "بهجته ورونقه وبَهاءَه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 83,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 19,
+          "tokens": "نَضْرَةَ ٱلنَّعِيمِ",
+          "content": "بهجته ورونقه وبَهاءَه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِسۡكࣱۚ وَفِی ذَ ٰ⁠لِكَ فَلۡیَتَنَافَسِ ٱلۡمُتَنَـٰفِسُونَ ۝٢٦ وَمِزَاجُهُۥ مِن",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خِتَٰمُهُۥ مِسْكٌ",
+          "content": "ختام إنائه المِسْك بَدَل الّطين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 83,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "فَلْيَتَنَافَسِ",
+          "content": "فليَتَسارعْ، أو فليَسْتَبِقْ",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 83,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "خِتَٰمُهُۥ مِسْكٌ",
+          "content": "ختام إنائه المِسْك بَدَل الّطين"
+        },
+        {
+          "start": 24,
+          "length": 15,
+          "tokens": "فَلْيَتَنَافَسِ",
+          "content": "فليَتَسارعْ، أو فليَسْتَبِقْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَسۡنِیمٍ ۝٢٧ عَیۡنࣰا یَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ ۝٢٨ إِنَّ ٱلَّذِینَ أَجۡرَمُوا۟ كَانُوا۟",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمِزَاجُهُۥ",
+          "content": "ما يُمْزَجَ بهِ ويُخْلَط",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 83,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "تَسْنِيمٍ",
+          "content": "عَيْن ٍ عاليةٍ شَرابُها أشرف شراب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 83,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "تَسْنِيمٍ",
+          "content": "عَيْن ٍ عاليةٍ شَرابُها أشرف شراب"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِنَ ٱلَّذِینَ ءَامَنُوا۟ یَضۡحَكُونَ ۝٢٩ وَإِذَا مَرُّوا۟ بِهِمۡ یَتَغَامَزُونَ ۝٣٠",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَإِذَا ٱنقَلَبُوۤا۟ إِلَىٰۤ أَهۡلِهِمُ ٱنقَلَبُوا۟ فَكِهِینَ ۝٣١ وَإِذَا رَأَوۡهُمۡ قَالُوۤا۟",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَكِهِينَ",
+          "content": "مُتلذذين باستِخفافهم بالمؤمنين",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 83,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 9,
+          "tokens": "فَكِهِينَ",
+          "content": "مُتلذذين باستِخفافهم بالمؤمنين"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِنَّ هَـٰۤؤُلَاۤءِ لَضَاۤلُّونَ ۝٣٢ وَمَاۤ أُرۡسِلُوا۟ عَلَیۡهِمۡ حَـٰفِظِینَ ۝٣٣",
+      "surahIndexFirst": 83,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

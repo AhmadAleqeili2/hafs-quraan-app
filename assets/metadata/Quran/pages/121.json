@@ -1,0 +1,191 @@
+{
+  "pageIndex": 121,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لُعِنَ ٱلَّذِینَ كَفَرُوا۟ مِنۢ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ عَلَىٰ لِسَانِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "دَاوُۥدَ وَعِیسَى ٱبۡنِ مَرۡیَمَۚ ذَ ٰ⁠لِكَ بِمَا عَصَوا۟ وَّكَانُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَعۡتَدُونَ ۝٧٨ كَانُوا۟ لَا یَتَنَاهَوۡنَ عَن مُّنكَرࣲ فَعَلُوهُۚ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَبِئۡسَ مَا كَانُوا۟ یَفۡعَلُونَ ۝٧٩ تَرَىٰ كَثِیرࣰا مِّنۡهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَتَوَلَّوۡنَ ٱلَّذِینَ كَفَرُوا۟ۚ لَبِئۡسَ مَا قَدَّمَتۡ لَهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَخِطَ ٱللَّهُ عَلَيْهِمْ",
+          "content": "غضب عليهم بما فعلوا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 80
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَنفُسُهُمۡ أَن سَخِطَ ٱللَّهُ عَلَیۡهِمۡ وَفِی ٱلۡعَذَابِ هُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَخِطَ ٱللَّهُ عَلَيْهِمْ",
+          "content": "غضب عليهم بما فعلوا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 80
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 25,
+          "tokens": "سَخِطَ ٱللَّهُ عَلَيْهِمْ",
+          "content": "غضب عليهم بما فعلوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "خَـٰلِدُونَ ۝٨٠ وَلَوۡ كَانُوا۟ یُؤۡمِنُونَ بِٱللَّهِ وَٱلنَّبِیِّ وَمَاۤ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَخِطَ ٱللَّهُ عَلَيْهِمْ",
+          "content": "غضب عليهم بما فعلوا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 5,
+          "ayahIndex": 80
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أُنزِلَ إِلَیۡهِ مَا ٱتَّخَذُوهُمۡ أَوۡلِیَاۤءَ وَلَـٰكِنَّ كَثِیرࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِّنۡهُمۡ فَـٰسِقُونَ ۝٨١ لَتَجِدَنَّ أَشَدَّ ٱلنَّاسِ عَدَ ٰ⁠وَةࣰ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِّلَّذِینَ ءَامَنُوا۟ ٱلۡیَهُودَ وَٱلَّذِینَ أَشۡرَكُوا۟ۖ وَلَتَجِدَنَّ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَقۡرَبَهُم مَّوَدَّةࣰ لِّلَّذِینَ ءَامَنُوا۟ ٱلَّذِینَ قَالُوۤا۟ إِنَّا نَصَـٰرَىٰۚ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ذَ ٰ⁠لِكَ بِأَنَّ مِنۡهُمۡ قِسِّیسِینَ وَرُهۡبَانࣰا وَأَنَّهُمۡ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَا یَسۡتَكۡبِرُونَ ۝٨٢ وَإِذَا سَمِعُوا۟ مَاۤ أُنزِلَ إِلَى",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلرَّسُولِ تَرَىٰۤ أَعۡیُنَهُمۡ تَفِیضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُوا۟",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَفِيضُ مِنَ ٱلدَّمْعِ",
+          "content": "تمتلئ أعينهم بالدمع فتَصبّه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 22,
+          "tokens": "تَفِيضُ مِنَ ٱلدَّمْعِ",
+          "content": "تمتلئ أعينهم بالدمع فتَصبّه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِنَ ٱلۡحَقِّۖ یَقُولُونَ رَبَّنَاۤ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّـٰهِدِینَ ۝٨٣",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَفِيضُ مِنَ ٱلدَّمْعِ",
+          "content": "تمتلئ أعينهم بالدمع فتَصبّه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 5,
+          "ayahIndex": 83
+        }
+      ]
+    }
+  ]
+}

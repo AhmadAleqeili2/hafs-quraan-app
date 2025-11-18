@@ -1,0 +1,515 @@
+{
+  "pageIndex": 335,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَهُدُوۤا۟ إِلَى ٱلطَّیِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوۤا۟ إِلَىٰ صِرَ ٰ⁠طِ ٱلۡحَمِیدِ ۝٢٤",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صِرَٰطِ ٱلْحَمِيدِ",
+          "content": "الإسلام الذي ارتضاه لعباده دينا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 22,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 20,
+          "tokens": "صِرَٰطِ ٱلْحَمِيدِ",
+          "content": "الإسلام الذي ارتضاه لعباده دينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَیَصُدُّونَ عَن سَبِیلِ ٱللَّهِ وَٱلۡمَسۡجِدِ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "مكة (الحرم)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْعَٰكِفُ فِيهِ",
+          "content": "المقيم فيه الملازم له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَٱلْبَادِ",
+          "content": "الطارئ غير المقيم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بِإِلْحَادٍۭ بِظُلْمٍ",
+          "content": "بميل عن الحق إلى الباطل",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 13,
+          "tokens": "وَٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "مكة (الحرم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحَرَامِ ٱلَّذِی جَعَلۡنَـٰهُ لِلنَّاسِ سَوَاۤءً ٱلۡعَـٰكِفُ فِیهِ وَٱلۡبَادِۚ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "مكة (الحرم)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْعَٰكِفُ فِيهِ",
+          "content": "المقيم فيه الملازم له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَٱلْبَادِ",
+          "content": "الطارئ غير المقيم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بِإِلْحَادٍۭ بِظُلْمٍ",
+          "content": "بميل عن الحق إلى الباطل",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "مكة (الحرم)"
+        },
+        {
+          "start": 51,
+          "length": 17,
+          "tokens": "ٱلْعَٰكِفُ فِيهِ",
+          "content": "المقيم فيه الملازم له"
+        },
+        {
+          "start": 69,
+          "length": 11,
+          "tokens": "وَٱلْبَادِ",
+          "content": "الطارئ غير المقيم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَمَن یُرِدۡ فِیهِ بِإِلۡحَادِۭ بِظُلۡمࣲ نُّذِقۡهُ مِنۡ عَذَابٍ أَلِیمࣲ ۝٢٥",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمَسْجِدِ ٱلْحَرَامِ",
+          "content": "مكة (الحرم)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "ٱلْعَٰكِفُ فِيهِ",
+          "content": "المقيم فيه الملازم له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَٱلْبَادِ",
+          "content": "الطارئ غير المقيم",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بِإِلْحَادٍۭ بِظُلْمٍ",
+          "content": "بميل عن الحق إلى الباطل",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 21,
+          "surahIndex": 22,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 21,
+          "tokens": "بِإِلْحَادٍۭ بِظُلْمٍ",
+          "content": "بميل عن الحق إلى الباطل"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَ ٰ⁠هِیمَ مَكَانَ ٱلۡبَیۡتِ أَن لَّا تُشۡرِكۡ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَوَّأْنَا لِإِبْرَٰهِيمَ",
+          "content": "وطّأنا، أو بيّنا له",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 27,
+          "tokens": "بَوَّأْنَا لِإِبْرَٰهِيمَ",
+          "content": "وطّأنا، أو بيّنا له"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِی شَیۡـࣰٔا وَطَهِّرۡ بَیۡتِیَ لِلطَّاۤىِٕفِینَ وَٱلۡقَاۤىِٕمِینَ وَٱلرُّكَّعِ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَوَّأْنَا لِإِبْرَٰهِيمَ",
+          "content": "وطّأنا، أو بيّنا له",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلسُّجُودِ ۝٢٦ وَأَذِّن فِی ٱلنَّاسِ بِٱلۡحَجِّ یَأۡتُوكَ رِجَالࣰا وَعَلَىٰ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَوَّأْنَا لِإِبْرَٰهِيمَ",
+          "content": "وطّأنا، أو بيّنا له",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "كُلِّ ضَامِرࣲ یَأۡتِینَ مِن كُلِّ فَجٍّ عَمِیقࣲ ۝٢٧ لِّیَشۡهَدُوا۟",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَذِّن فِى ٱلنَّاسِ",
+          "content": "نادِ فيهم وأعلِمهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "رِجَالًا",
+          "content": "مشاة على أرجلهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 22,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "ضَامِرٍ",
+          "content": "بعير مهزول من بُعد الشقّة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 22,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَجٍّ عَمِيقٍ",
+          "content": "طريق بعيد",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 22,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 7,
+          "tokens": "ضَامِرٍ",
+          "content": "بعير مهزول من بُعد الشقّة"
+        },
+        {
+          "start": 34,
+          "length": 13,
+          "tokens": "فَجٍّ عَمِيقٍ",
+          "content": "طريق بعيد"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَنَـٰفِعَ لَهُمۡ وَیَذۡكُرُوا۟ ٱسۡمَ ٱللَّهِ فِیۤ أَیَّامࣲ مَّعۡلُومَـٰتٍ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَهِيمَةِ ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَىٰ مَا رَزَقَهُم مِّنۢ بَهِیمَةِ ٱلۡأَنۡعَـٰمِۖ فَكُلُوا۟ مِنۡهَا",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَهِيمَةِ ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 24,
+          "tokens": "بَهِيمَةِ ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَأَطۡعِمُوا۟ ٱلۡبَاۤىِٕسَ ٱلۡفَقِیرَ ۝٢٨ ثُمَّ لۡیَقۡضُوا۟ تَفَثَهُمۡ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَهِيمَةِ ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 28
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلۡیُوفُوا۟ نُذُورَهُمۡ وَلۡیَطَّوَّفُوا۟ بِٱلۡبَیۡتِ ٱلۡعَتِیقِ ۝٢٩",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ثُمَّ لْيَقْضُوا۟ تَفَثَهُمْ",
+          "content": "ثم ليزيلوا بالتحلل أوساخهم أو ثم ليؤدوا مناسكهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 22,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ذَ ٰ⁠لِكَۖ وَمَن یُعَظِّمۡ حُرُمَـٰتِ ٱللَّهِ فَهُوَ خَیۡرࣱ لَّهُۥ عِندَ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُرُمَٰتِ ٱللَّهِ",
+          "content": "تكاليفه من مناسك الحج وغيرها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "القذر والنجس وهو الأوثان",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "قَوْلَ ٱلزُّورِ",
+          "content": "قول الباطل والكذب القبيح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 18,
+          "tokens": "حُرُمَٰتِ ٱللَّهِ",
+          "content": "تكاليفه من مناسك الحج وغيرها"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَـٰمُ إِلَّا مَا یُتۡلَىٰ عَلَیۡكُمۡۖ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُرُمَٰتِ ٱللَّهِ",
+          "content": "تكاليفه من مناسك الحج وغيرها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "القذر والنجس وهو الأوثان",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "قَوْلَ ٱلزُّورِ",
+          "content": "قول الباطل والكذب القبيح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَٱجۡتَنِبُوا۟ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَـٰنِ وَٱجۡتَنِبُوا۟ قَوۡلَ ٱلزُّورِ ۝٣٠",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حُرُمَٰتِ ٱللَّهِ",
+          "content": "تكاليفه من مناسك الحج وغيرها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ٱلرِّجْسَ",
+          "content": "القذر والنجس وهو الأوثان",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "قَوْلَ ٱلزُّورِ",
+          "content": "قول الباطل والكذب القبيح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 22,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 9,
+          "tokens": "ٱلرِّجْسَ",
+          "content": "القذر والنجس وهو الأوثان"
+        },
+        {
+          "start": 59,
+          "length": 15,
+          "tokens": "قَوْلَ ٱلزُّورِ",
+          "content": "قول الباطل والكذب القبيح"
+        }
+      ]
+    }
+  ]
+}

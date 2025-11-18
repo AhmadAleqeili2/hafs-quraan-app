@@ -1,0 +1,345 @@
+{
+  "pageIndex": 362,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَقَالَ ٱلَّذِینَ لَا یَرۡجُونَ لِقَاۤءَنَا لَوۡلَاۤ أُنزِلَ عَلَیۡنَا ٱلۡمَلَـٰۤىِٕكَةُ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يأملونه لكفرهم بالبعث",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 25,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "عُتُوًّا",
+          "content": "تجاوزوا الحدّ في الطّغيان والظلم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 25,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 25,
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يأملونه لكفرهم بالبعث"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَوۡ نَرَىٰ رَبَّنَاۗ لَقَدِ ٱسۡتَكۡبَرُوا۟ فِیۤ أَنفُسِهِمۡ وَعَتَوۡ عُتُوࣰّا كَبِیرࣰا ۝٢١",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ لِقَآءَنَا",
+          "content": "لا يأملونه لكفرهم بالبعث",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 25,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "عُتُوًّا",
+          "content": "تجاوزوا الحدّ في الطّغيان والظلم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 25,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 8,
+          "tokens": "عُتُوًّا",
+          "content": "تجاوزوا الحدّ في الطّغيان والظلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَوۡمَ یَرَوۡنَ ٱلۡمَلَـٰۤىِٕكَةَ لَا بُشۡرَىٰ یَوۡمَىِٕذࣲ لِّلۡمُجۡرِمِینَ وَیَقُولُونَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حِجْرًا مَّحْجُورًا",
+          "content": "حراما محرّما عليكم البُشرى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 25,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "حِجۡرࣰا مَّحۡجُورࣰا ۝٢٢ وَقَدِمۡنَاۤ إِلَىٰ مَا عَمِلُوا۟ مِنۡ عَمَلࣲ فَجَعَلۡنَـٰهُ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حِجْرًا مَّحْجُورًا",
+          "content": "حراما محرّما عليكم البُشرى",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 25,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "حِجْرًا مَّحْجُورًا",
+          "content": "حراما محرّما عليكم البُشرى"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "هَبَاۤءࣰ مَّنثُورًا ۝٢٣ أَصۡحَـٰبُ ٱلۡجَنَّةِ یَوۡمَىِٕذٍ خَیۡرࣱ مُّسۡتَقَرࣰّا",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَبَآءً",
+          "content": "كالهباء ( ما يُرى في الكُوى مع ضوء الشمس كالغبار)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مَّنثُورًا",
+          "content": "مفرّقا ذاهبا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 25,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "هَبَآءً",
+          "content": "كالهباء ( ما يُرى في الكُوى مع ضوء الشمس كالغبار)"
+        },
+        {
+          "start": 9,
+          "length": 10,
+          "tokens": "مَّنثُورًا",
+          "content": "مفرّقا ذاهبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَأَحۡسَنُ مَقِیلࣰا ۝٢٤ وَیَوۡمَ تَشَقَّقُ ٱلسَّمَاۤءُ بِٱلۡغَمَـٰمِ وَنُزِّلَ ٱلۡمَلَـٰۤىِٕكَةُ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَقِيلًا",
+          "content": "مكان استرواح وتمتّع ظهيرة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 8,
+          "tokens": "مَقِيلًا",
+          "content": "مكان استرواح وتمتّع ظهيرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَنزِیلًا ۝٢٥ ٱلۡمُلۡكُ یَوۡمَىِٕذٍ ٱلۡحَقُّ لِلرَّحۡمَـٰنِۚ وَكَانَ یَوۡمًا عَلَى",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَشَقَّقُ ٱلسَّمَآءُ",
+          "content": "تتفتح السموات",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 25,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "بِٱلْغَمَٰمِ",
+          "content": "بالسّحاب الأبيض الرقيق",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 25,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡكَـٰفِرِینَ عَسِیرࣰا ۝٢٦ وَیَوۡمَ یَعَضُّ ٱلظَّالِمُ عَلَىٰ یَدَیۡهِ یَقُولُ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَـٰلَیۡتَنِی ٱتَّخَذۡتُ مَعَ ٱلرَّسُولِ سَبِیلࣰا ۝٢٧ یَـٰوَیۡلَتَىٰ لَیۡتَنِی لَمۡ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبِيلًا",
+          "content": "طريقا إلى الهدى أو إلى النجاة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 25,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 8,
+          "tokens": "سَبِيلًا",
+          "content": "طريقا إلى الهدى أو إلى النجاة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَتَّخِذۡ فُلَانًا خَلِیلࣰا ۝٢٨ لَّقَدۡ أَضَلَّنِی عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَاۤءَنِیۗ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَكَانَ ٱلشَّیۡطَـٰنُ لِلۡإِنسَـٰنِ خَذُولࣰا ۝٢٩ وَقَالَ ٱلرَّسُولُ یَـٰرَبِّ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِلْإِنسَٰنِ خَذُولًا",
+          "content": "كثير الخذلان لمن يواليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 25,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 22,
+          "tokens": "لِلْإِنسَٰنِ خَذُولًا",
+          "content": "كثير الخذلان لمن يواليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنَّ قَوۡمِی ٱتَّخَذُوا۟ هَـٰذَا ٱلۡقُرۡءَانَ مَهۡجُورࣰا ۝٣٠ وَكَذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَهْجُورًا",
+          "content": "متروكا مهملا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 25,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 10,
+          "tokens": "مَهْجُورًا",
+          "content": "متروكا مهملا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "جَعَلۡنَا لِكُلِّ نَبِیٍّ عَدُوࣰّا مِّنَ ٱلۡمُجۡرِمِینَۗ وَكَفَىٰ بِرَبِّكَ هَادِیࣰا",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَنَصِیرࣰا ۝٣١ وَقَالَ ٱلَّذِینَ كَفَرُوا۟ لَوۡلَا نُزِّلَ عَلَیۡهِ ٱلۡقُرۡءَانُ جُمۡلَةࣰ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَ ٰ⁠حِدَةࣰۚ كَذَ ٰ⁠لِكَ لِنُثَبِّتَ بِهِۦ فُؤَادَكَۖ وَرَتَّلۡنَـٰهُ تَرۡتِیلࣰا ۝٣٢",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَتَّلْنَٰهُ",
+          "content": "فرّقناه آية بعد آية، أو بيّناه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 25,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 54,
+          "length": 15,
+          "tokens": "وَرَتَّلْنَٰهُ",
+          "content": "فرّقناه آية بعد آية، أو بيّناه"
+        }
+      ]
+    }
+  ]
+}

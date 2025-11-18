@@ -1,0 +1,291 @@
+{
+  "pageIndex": 578,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "كَلَّا بَلۡ تُحِبُّونَ ٱلۡعَاجِلَةَ ۝٢٠ وَتَذَرُونَ ٱلۡـَٔاخِرَةَ ۝٢١ وُجُوهࣱ یَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "نَّاضِرَةٌ ۝٢٢ إِلَىٰ رَبِّهَا نَاظِرَةࣱ ۝٢٣ وَوُجُوهࣱ یَوۡمَىِٕذِۭ بَاسِرَةࣱ ۝٢٤ تَظُنُّ أَن یُفۡعَلَ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّاضِرَةٌ",
+          "content": "حَسَنة مُشْرقة مُتهلّلة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 75,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "نَّاضِرَةٌ",
+          "content": "حَسَنة مُشْرقة مُتهلّلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِهَا فَاقِرَةࣱ ۝٢٥ كَلَّاۤ إِذَا بَلَغَتِ ٱلتَّرَاقِیَ ۝٢٦ وَقِیلَ مَنۡۜ رَاقࣲ ۝٢٧ وَظَنَّ أَنَّهُ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاقِرَةٌ",
+          "content": "داهية عظيمة تقْصِم فَقَار الظهْر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 75,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 9,
+          "tokens": "فَاقِرَةٌ",
+          "content": "داهية عظيمة تقْصِم فَقَار الظهْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡفِرَاقُ ۝٢٨ وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ ۝٢٩ إِلَىٰ رَبِّكَ یَوۡمَىِٕذٍ ٱلۡمَسَاقُ ۝٣٠",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ ۝٣١ وَلَـٰكِن كَذَّبَ وَتَوَلَّىٰ ۝٣٢ ثُمَّ ذَهَبَ إِلَىٰۤ أَهۡلِهِۦ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَتَمَطَّىٰۤ ۝٣٣ أَوۡلَىٰ لَكَ فَأَوۡلَىٰ ۝٣٤ ثُمَّ أَوۡلَىٰ لَكَ فَأَوۡلَىٰۤ ۝٣٥ أَیَحۡسَبُ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَمَطَّىٰٓ",
+          "content": "يَتبَختر في مِشيَتِه اخْتِيالا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 75,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "يَتَمَطَّىٰٓ",
+          "content": "يَتبَختر في مِشيَتِه اخْتِيالا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡإِنسَـٰنُ أَن یُتۡرَكَ سُدًى ۝٣٦ أَلَمۡ یَكُ نُطۡفَةࣰ مِّن مَّنِیࣲّ یُمۡنَىٰ ۝٣٧",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُتْرَكَ سُدًى",
+          "content": "مُهْمَلا فلا يُكلّف ولا يُجَازَى",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 75,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 14,
+          "tokens": "يُتْرَكَ سُدًى",
+          "content": "مُهْمَلا فلا يُكلّف ولا يُجَازَى"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ثُمَّ كَانَ عَلَقَةࣰ فَخَلَقَ فَسَوَّىٰ ۝٣٨ فَجَعَلَ مِنۡهُ ٱلزَّوۡجَیۡنِ ٱلذَّكَرَ",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَوَّىٰ",
+          "content": "فعَدّله وكَمّله ونَفَخَ فيه الرّوح",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 75,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 9,
+          "tokens": "فَسَوَّىٰ",
+          "content": "فعَدّله وكَمّله ونَفَخَ فيه الرّوح"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلۡأُنثَىٰۤ ۝٣٩ أَلَیۡسَ ذَ ٰ⁠لِكَ بِقَـٰدِرٍ عَلَىٰۤ أَن یُحۡـِۧیَ ٱلۡمَوۡتَىٰ ۝٤٠",
+      "surahIndexFirst": 75,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11998,
+      "text": "سورة الإنسان",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 11999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "هَلۡ أَتَىٰ عَلَى ٱلۡإِنسَـٰنِ حِینࣱ مِّنَ ٱلدَّهۡرِ لَمۡ یَكُن شَیۡـࣰٔا مَّذۡكُورًا ۝١ إِنَّا خَلَقۡنَا",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡإِنسَـٰنَ مِن نُّطۡفَةٍ أَمۡشَاجࣲ نَّبۡتَلِیهِ فَجَعَلۡنَـٰهُ سَمِیعَۢا بَصِیرًا ۝٢ إِنَّا",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمْشَاجٍ",
+          "content": "أخلاط ممتزجة مُتباينَة الصّفات",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 76,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "نَّبْتَلِيهِ",
+          "content": "مُتبَلين له بالتّكاليف فيما بعد",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 76,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 9,
+          "tokens": "أَمْشَاجٍ",
+          "content": "أخلاط ممتزجة مُتباينَة الصّفات"
+        },
+        {
+          "start": 37,
+          "length": 12,
+          "tokens": "نَّبْتَلِيهِ",
+          "content": "مُتبَلين له بالتّكاليف فيما بعد"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "هَدَیۡنَـٰهُ ٱلسَّبِیلَ إِمَّا شَاكِرࣰا وَإِمَّا كَفُورًا ۝٣ إِنَّاۤ أَعۡتَدۡنَا لِلۡكَـٰفِرِینَ سَلَـٰسِلَا۟",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَدَيْنَٰهُ ٱلسَّبِيلَ",
+          "content": "بيّنا له طريق الهداية والضّلال",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 76,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 23,
+          "tokens": "هَدَيْنَٰهُ ٱلسَّبِيلَ",
+          "content": "بيّنا له طريق الهداية والضّلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَأَغۡلَـٰلࣰا وَسَعِیرًا ۝٤ إِنَّ ٱلۡأَبۡرَارَ یَشۡرَبُونَ مِن كَأۡسࣲ كَانَ مِزَاجُهَا كَافُورًا ۝٥",
+      "surahIndexFirst": 76,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَلَٰسِلَا۟",
+          "content": "بها يُقادون وفي النّار يُسحبون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 76,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَأَغْلَٰلًا",
+          "content": "بها تُجْمَع أيديهم إلى أعناقهم ويُقيّدون",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 76,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَأَغْلَٰلًا",
+          "content": "بها تُجْمَع أيديهم إلى أعناقهم ويُقيّدون"
+        }
+      ]
+    }
+  ]
+}

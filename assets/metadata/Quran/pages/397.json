@@ -1,0 +1,271 @@
+{
+  "pageIndex": 397,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُكَفِّرَنَّ عَنۡهُمۡ سَیِّـَٔاتِهِمۡ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَنَجۡزِیَنَّهُمۡ أَحۡسَنَ ٱلَّذِی كَانُوا۟ یَعۡمَلُونَ ۝٧ وَوَصَّیۡنَا ٱلۡإِنسَـٰنَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِوَ ٰ⁠لِدَیۡهِ حُسۡنࣰاۖ وَإِن جَـٰهَدَاكَ لِتُشۡرِكَ بِی مَا لَیۡسَ لَكَ بِهِۦ عِلۡمࣱ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوَصَّيْنَا ٱلْإِنسَٰنَ",
+          "content": "أمرناه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 29,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "حُسْنًا",
+          "content": "برّا بهما وعطفا عليهما",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 29,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 8,
+          "tokens": "حُسْنًا",
+          "content": "برّا بهما وعطفا عليهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَلَا تُطِعۡهُمَاۤۚ إِلَیَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ ۝٨",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوَصَّيْنَا ٱلْإِنسَٰنَ",
+          "content": "أمرناه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 29,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "حُسْنًا",
+          "content": "برّا بهما وعطفا عليهما",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 29,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُدۡخِلَنَّهُمۡ فِی ٱلصَّـٰلِحِینَ ۝٩",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمِنَ ٱلنَّاسِ مَن یَقُولُ ءَامَنَّا بِٱللَّهِ فَإِذَاۤ أُوذِیَ فِی ٱللَّهِ جَعَلَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةَ ٱلنَّاسِ",
+          "content": "ما يُصيبه من أذاهم وعذابهم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 29,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فِتۡنَةَ ٱلنَّاسِ كَعَذَابِ ٱللَّهِۖ وَلَىِٕن جَاۤءَ نَصۡرࣱ مِّن رَّبِّكَ لَیَقُولُنَّ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةَ ٱلنَّاسِ",
+          "content": "ما يُصيبه من أذاهم وعذابهم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 29,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "فِتْنَةَ ٱلنَّاسِ",
+          "content": "ما يُصيبه من أذاهم وعذابهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِنَّا كُنَّا مَعَكُمۡۚ أَوَلَیۡسَ ٱللَّهُ بِأَعۡلَمَ بِمَا فِی صُدُورِ ٱلۡعَـٰلَمِینَ ۝١٠",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةَ ٱلنَّاسِ",
+          "content": "ما يُصيبه من أذاهم وعذابهم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 29,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَیَعۡلَمَنَّ ٱللَّهُ ٱلَّذِینَ ءَامَنُوا۟ وَلَیَعۡلَمَنَّ ٱلۡمُنَـٰفِقِینَ ۝١١",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَقَالَ ٱلَّذِینَ كَفَرُوا۟ لِلَّذِینَ ءَامَنُوا۟ ٱتَّبِعُوا۟ سَبِیلَنَا",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَطَٰيَٰكُمْ",
+          "content": "أوزاركم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلۡنَحۡمِلۡ خَطَـٰیَـٰكُمۡ وَمَا هُم بِحَـٰمِلِینَ مِنۡ خَطَـٰیَـٰهُم مِّن",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَطَٰيَٰكُمْ",
+          "content": "أوزاركم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 14,
+          "tokens": "خَطَٰيَٰكُمْ",
+          "content": "أوزاركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "شَیۡءٍۖ إِنَّهُمۡ لَكَـٰذِبُونَ ۝١٢ وَلَیَحۡمِلُنَّ أَثۡقَالَهُمۡ وَأَثۡقَالࣰا مَّعَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَطَٰيَٰكُمْ",
+          "content": "أوزاركم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَثۡقَالِهِمۡۖ وَلَیُسۡـَٔلُنَّ یَوۡمَ ٱلۡقِیَـٰمَةِ عَمَّا كَانُوا۟ یَفۡتَرُونَ ۝١٣",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَثْقَالَهُمْ",
+          "content": "خطاياهم الفادحة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 29,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الأباطيل والأكاذيب",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 29,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 11,
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الأباطيل والأكاذيب"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِیهِمۡ أَلۡفَ سَنَةٍ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَّا خَمۡسِینَ عَامࣰا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَـٰلِمُونَ ۝١٤",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

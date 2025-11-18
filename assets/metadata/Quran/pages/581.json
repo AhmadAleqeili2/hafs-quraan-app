@@ -1,0 +1,263 @@
+{
+  "pageIndex": 581,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّاۤءࣲ مَّهِینࣲ ۝٢٠ فَجَعَلۡنَـٰهُ فِی قَرَارࣲ مَّكِینٍ ۝٢١ إِلَىٰ قَدَرࣲ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّآءٍ مَّهِينٍ",
+          "content": "مَنِيّ ضعيف حَقير",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 77,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 16,
+          "tokens": "مَّآءٍ مَّهِينٍ",
+          "content": "مَنِيّ ضعيف حَقير"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مَّعۡلُومࣲ ۝٢٢ فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَـٰدِرُونَ ۝٢٣ وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٢٤",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا ۝٢٥ أَحۡیَاۤءࣰ وَأَمۡوَ ٰ⁠تࣰا ۝٢٦ وَجَعَلۡنَا فِیهَا رَوَ ٰ⁠سِیَ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَرْضَ كِفَاتًا",
+          "content": "وعاءًا تضمّ الأحياء على ظهرها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 77,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "ٱلْأَرْضَ كِفَاتًا",
+          "content": "وعاءًا تضمّ الأحياء على ظهرها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "شَـٰمِخَـٰتࣲ وَأَسۡقَیۡنَـٰكُم مَّاۤءࣰ فُرَاتࣰا ۝٢٧ وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٢٨",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوَٰسِىَ شَٰمِخَٰتٍ",
+          "content": "جِبالا ثوابتَ مُرْتَفِعات",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 77,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "مَّآءً فُرَاتًا",
+          "content": "حُلوًا عَذبًا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 77,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "رَوَٰسِىَ شَٰمِخَٰتٍ",
+          "content": "جِبالا ثوابتَ مُرْتَفِعات"
+        },
+        {
+          "start": 31,
+          "length": 16,
+          "tokens": "مَّآءً فُرَاتًا",
+          "content": "حُلوًا عَذبًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱنطَلِقُوۤا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ ۝٢٩ ٱنطَلِقُوۤا۟ إِلَىٰ ظِلࣲّ ذِی ثَلَـٰثِ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "شُعَبࣲ ۝٣٠ لَّا ظَلِیلࣲ وَلَا یُغۡنِی مِنَ ٱللَّهَبِ ۝٣١ إِنَّهَا تَرۡمِی بِشَرَرࣲ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ظِلٍّ",
+          "content": "هو دُخان جهنّم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 77,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ثَلَٰثِ شُعَبٍ",
+          "content": "فِرَقٍ ثلاث كالذوائب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 77,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "ثَلَٰثِ شُعَبٍ",
+          "content": "فِرَقٍ ثلاث كالذوائب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "كَٱلۡقَصۡرِ ۝٣٢ كَأَنَّهُۥ جِمَـٰلَتࣱ صُفۡرࣱ ۝٣٣ وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٣٤",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَرْمِى بِشَرَرٍ",
+          "content": "هو ما تطايَر من النّار مُتفرّقًا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 77,
+          "ayahIndex": 32
+        },
+        {
+          "tokens": "كَٱلْقَصْرِ",
+          "content": "كلّ شرَرَة كالبناء المُشيّد في العِظم والإرتفاع",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 77,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "كَٱلْقَصْرِ",
+          "content": "كلّ شرَرَة كالبناء المُشيّد في العِظم والإرتفاع"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "هَـٰذَا یَوۡمُ لَا یَنطِقُونَ ۝٣٥ وَلَا یُؤۡذَنُ لَهُمۡ فَیَعۡتَذِرُونَ ۝٣٦ وَیۡلࣱ یَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "لِّلۡمُكَذِّبِینَ ۝٣٧ هَـٰذَا یَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَـٰكُمۡ وَٱلۡأَوَّلِینَ ۝٣٨ فَإِن كَانَ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَكُمۡ كَیۡدࣱ فَكِیدُونِ ۝٣٩ وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٠ إِنَّ ٱلۡمُتَّقِینَ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَكُمْ كَيْدٌ",
+          "content": "حيلة لاتّقاء العذاب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 77,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لَكُمْ كَيْدٌ",
+          "content": "حيلة لاتّقاء العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِی ظِلَـٰلࣲ وَعُیُونࣲ ۝٤١ وَفَوَ ٰ⁠كِهَ مِمَّا یَشۡتَهُونَ ۝٤٢ كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِمَا كُنتُمۡ تَعۡمَلُونَ ۝٤٣ إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ ۝٤٤ وَیۡلࣱ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٥ كُلُوا۟ وَتَمَتَّعُوا۟ قَلِیلًا إِنَّكُم مُّجۡرِمُونَ ۝٤٦ وَیۡلࣱ",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٧ وَإِذَا قِیلَ لَهُمُ ٱرۡكَعُوا۟ لَا یَرۡكَعُونَ ۝٤٨",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝٤٩ فَبِأَیِّ حَدِیثِۭ بَعۡدَهُۥ یُؤۡمِنُونَ ۝٥٠",
+      "surahIndexFirst": 77,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

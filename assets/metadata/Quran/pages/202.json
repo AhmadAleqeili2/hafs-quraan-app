@@ -1,0 +1,309 @@
+{
+  "pageIndex": 202,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَعۡتَذِرُونَ إِلَیۡكُمۡ إِذَا رَجَعۡتُمۡ إِلَیۡهِمۡۚ قُل لَّا تَعۡتَذِرُوا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَن نُّؤۡمِنَ لَكُمۡ قَدۡ نَبَّأَنَا ٱللَّهُ مِنۡ أَخۡبَارِكُمۡۚ وَسَیَرَى",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلۡغَیۡبِ وَٱلشَّهَـٰدَةِ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَیُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ ۝٩٤ سَیَحۡلِفُونَ بِٱللَّهِ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَكُمۡ إِذَا ٱنقَلَبۡتُمۡ إِلَیۡهِمۡ لِتُعۡرِضُوا۟ عَنۡهُمۡۖ فَأَعۡرِضُوا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّهُمْ رِجْسٌ",
+          "content": "قذر باطنا وظاهرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 95
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَنۡهُمۡۖ إِنَّهُمۡ رِجۡسࣱۖ وَمَأۡوَىٰهُمۡ جَهَنَّمُ جَزَاۤءَۢ بِمَا كَانُوا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّهُمْ رِجْسٌ",
+          "content": "قذر باطنا وظاهرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 95
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 17,
+          "tokens": "إِنَّهُمْ رِجْسٌ",
+          "content": "قذر باطنا وظاهرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَكۡسِبُونَ ۝٩٥ یَحۡلِفُونَ لَكُمۡ لِتَرۡضَوۡا۟ عَنۡهُمۡۖ فَإِن",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّهُمْ رِجْسٌ",
+          "content": "قذر باطنا وظاهرا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 95
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَرۡضَوۡا۟ عَنۡهُمۡ فَإِنَّ ٱللَّهَ لَا یَرۡضَىٰ عَنِ ٱلۡقَوۡمِ ٱلۡفَـٰسِقِینَ ۝٩٦",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡأَعۡرَابُ أَشَدُّ كُفۡرࣰا وَنِفَاقࣰا وَأَجۡدَرُ أَلَّا یَعۡلَمُوا۟ حُدُودَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَجْدَرُ",
+          "content": "أحقّ وأحرى",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 97
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 10,
+          "tokens": "وَأَجْدَرُ",
+          "content": "أحقّ وأحرى"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَاۤ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ ۝٩٧ وَمِنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَجْدَرُ",
+          "content": "أحقّ وأحرى",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 9,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡأَعۡرَابِ مَن یَتَّخِذُ مَا یُنفِقُ مَغۡرَمࣰا وَیَتَرَبَّصُ بِكُمُ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْرَمًا",
+          "content": "غرامة وخسرانا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ",
+          "content": "ينتظر بكم مصائب الدّهر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ",
+          "content": "الضّرر والشرّ (دعاءٌ عليهم)",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 9,
+          "tokens": "مَغْرَمًا",
+          "content": "غرامة وخسرانا"
+        },
+        {
+          "start": 49,
+          "length": 20,
+          "tokens": "وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ",
+          "content": "ينتظر بكم مصائب الدّهر"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلدَّوَاۤىِٕرَۚ عَلَیۡهِمۡ دَاۤىِٕرَةُ ٱلسَّوۡءِۗ وَٱللَّهُ سَمِیعٌ عَلِیمࣱ ۝٩٨ وَمِنَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَغْرَمًا",
+          "content": "غرامة وخسرانا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ",
+          "content": "ينتظر بكم مصائب الدّهر",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        },
+        {
+          "tokens": "عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ",
+          "content": "الضّرر والشرّ (دعاءٌ عليهم)",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 9,
+          "ayahIndex": 98
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ",
+          "content": "ينتظر بكم مصائب الدّهر"
+        },
+        {
+          "start": 16,
+          "length": 33,
+          "tokens": "عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ",
+          "content": "الضّرر والشرّ (دعاءٌ عليهم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡأَعۡرَابِ مَن یُؤۡمِنُ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ وَیَتَّخِذُ مَا یُنفِقُ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَصَلَوَٰتِ ٱلرَّسُولِ",
+          "content": "دعواته واستغفاره (للمنفقين)",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 99
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "قُرُبَـٰتٍ عِندَ ٱللَّهِ وَصَلَوَ ٰ⁠تِ ٱلرَّسُولِۚ أَلَاۤ إِنَّهَا قُرۡبَةࣱ لَّهُمۡۚ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَصَلَوَٰتِ ٱلرَّسُولِ",
+          "content": "دعواته واستغفاره (للمنفقين)",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 25,
+          "tokens": "وَصَلَوَٰتِ ٱلرَّسُولِ",
+          "content": "دعواته واستغفاره (للمنفقين)"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "سَیُدۡخِلُهُمُ ٱللَّهُ فِی رَحۡمَتِهِۦۤۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ ۝٩٩",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَصَلَوَٰتِ ٱلرَّسُولِ",
+          "content": "دعواته واستغفاره (للمنفقين)",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 9,
+          "ayahIndex": 99
+        }
+      ]
+    }
+  ]
+}

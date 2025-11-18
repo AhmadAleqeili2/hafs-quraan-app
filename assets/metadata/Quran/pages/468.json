@@ -1,0 +1,293 @@
+{
+  "pageIndex": 468,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "رَبَّنَا وَأَدۡخِلۡهُمۡ جَنَّـٰتِ عَدۡنٍ ٱلَّتِی وَعَدتَّهُمۡ وَمَن صَلَحَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنۡ ءَابَاۤىِٕهِمۡ وَأَزۡوَ ٰ⁠جِهِمۡ وَذُرِّیَّـٰتِهِمۡۚ إِنَّكَ أَنتَ ٱلۡعَزِیزُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحَكِیمُ ۝٨ وَقِهِمُ ٱلسَّیِّـَٔاتِۚ وَمَن تَقِ ٱلسَّیِّـَٔاتِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَوۡمَىِٕذࣲ فَقَدۡ رَحِمۡتَهُۥۚ وَذَ ٰ⁠لِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ ۝٩ إِنَّ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقِهِمُ ٱلسَّيِّـَٔاتِ",
+          "content": "المعاصي أو عقوبَاتها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ یُنَادَوۡنَ لَمَقۡتُ ٱللَّهِ أَكۡبَرُ مِن مَّقۡتِكُمۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَمَقْتُ ٱللَّهِ",
+          "content": "لبغضه الشديد وغَضبه عليكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 16,
+          "tokens": "لَمَقْتُ ٱللَّهِ",
+          "content": "لبغضه الشديد وغَضبه عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَنفُسَكُمۡ إِذۡ تُدۡعَوۡنَ إِلَى ٱلۡإِیمَـٰنِ فَتَكۡفُرُونَ ۝١٠ قَالُوا۟ رَبَّنَاۤ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَمَقْتُ ٱللَّهِ",
+          "content": "لبغضه الشديد وغَضبه عليكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَمَتَّنَا ٱثۡنَتَیۡنِ وَأَحۡیَیۡتَنَا ٱثۡنَتَیۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِلَىٰ خُرُوجࣲ مِّن سَبِیلࣲ ۝١١ ذَ ٰ⁠لِكُم بِأَنَّهُۥۤ إِذَا دُعِیَ ٱللَّهُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَحۡدَهُۥ كَفَرۡتُمۡ وَإِن یُشۡرَكۡ بِهِۦ تُؤۡمِنُوا۟ۚ فَٱلۡحُكۡمُ لِلَّهِ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُؤْمِنُوا۟",
+          "content": "تذعنوا وتقِرّوا بالشرك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 40,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 12,
+          "tokens": "تُؤْمِنُوا۟",
+          "content": "تذعنوا وتقِرّوا بالشرك"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡعَلِیِّ ٱلۡكَبِیرِ ۝١٢ هُوَ ٱلَّذِی یُرِیكُمۡ ءَایَـٰتِهِۦ وَیُنَزِّلُ لَكُم مِّنَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُؤْمِنُوا۟",
+          "content": "تذعنوا وتقِرّوا بالشرك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 40,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلسَّمَاۤءِ رِزۡقࣰاۚ وَمَا یَتَذَكَّرُ إِلَّا مَن یُنِیبُ ۝١٣ فَٱدۡعُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنِيبُ",
+          "content": "يَرْجع إلى التّفكّر في الآيات",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 40,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 7,
+          "tokens": "يُنِيبُ",
+          "content": "يَرْجع إلى التّفكّر في الآيات"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مُخۡلِصِینَ لَهُ ٱلدِّینَ وَلَوۡ كَرِهَ ٱلۡكَـٰفِرُونَ ۝١٤ رَفِیعُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلدَّرَجَـٰتِ ذُو ٱلۡعَرۡشِ یُلۡقِی ٱلرُّوحَ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن یَشَاۤءُ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَفِيعُ ٱلدَّرَجَٰتِ",
+          "content": "رافع السّموات بعضها فوق بعض",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "يُلْقِى ٱلرُّوحَ",
+          "content": "يُنزل الوَحْيَ أو القرآن أو جبريل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "يَوْمَ ٱلتَّلَاقِ",
+          "content": "يوم الإجتماع في المَحشر",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "رَفِيعُ ٱلدَّرَجَٰتِ",
+          "content": "رافع السّموات بعضها فوق بعض"
+        },
+        {
+          "start": 28,
+          "length": 16,
+          "tokens": "يُلْقِى ٱلرُّوحَ",
+          "content": "يُنزل الوَحْيَ أو القرآن أو جبريل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِنۡ عِبَادِهِۦ لِیُنذِرَ یَوۡمَ ٱلتَّلَاقِ ۝١٥ یَوۡمَ هُم بَـٰرِزُونَۖ لَا یَخۡفَىٰ",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَفِيعُ ٱلدَّرَجَٰتِ",
+          "content": "رافع السّموات بعضها فوق بعض",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "يُلْقِى ٱلرُّوحَ",
+          "content": "يُنزل الوَحْيَ أو القرآن أو جبريل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "يَوْمَ ٱلتَّلَاقِ",
+          "content": "يوم الإجتماع في المَحشر",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 40,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 17,
+          "tokens": "يَوْمَ ٱلتَّلَاقِ",
+          "content": "يوم الإجتماع في المَحشر"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "عَلَى ٱللَّهِ مِنۡهُمۡ شَیۡءࣱۚ لِّمَنِ ٱلۡمُلۡكُ ٱلۡیَوۡمَۖ لِلَّهِ ٱلۡوَ ٰ⁠حِدِ ٱلۡقَهَّارِ ۝١٦",
+      "surahIndexFirst": 40,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هُم بَٰرِزُونَ",
+          "content": "خارجون من القبور ظاهرون لا يسْترهمْ شيء",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 40,
+          "ayahIndex": 16
+        }
+      ]
+    }
+  ]
+}

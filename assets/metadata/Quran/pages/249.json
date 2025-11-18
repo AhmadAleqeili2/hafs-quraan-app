@@ -1,0 +1,453 @@
+{
+  "pageIndex": 249,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الرعد",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "الۤمۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِۗ وَٱلَّذِیۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَ ٱلۡحَقُّ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا یُؤۡمِنُونَ ۝١ ٱللَّهُ ٱلَّذِی رَفَعَ ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِغَیۡرِ عَمَدࣲ تَرَوۡنَهَاۖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ عَمَدٍ",
+          "content": "بغير دعائم وأساطين تُقيمُها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "يُدَبِّرُ ٱلْأَمْرَ",
+          "content": "يصرّف العوالم كلها بقدرته وحكمته",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "بِغَيْرِ عَمَدٍ",
+          "content": "بغير دعائم وأساطين تُقيمُها"
+        },
+        {
+          "start": 35,
+          "length": 26,
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "كُلࣱّ یَجۡرِی لِأَجَلࣲ مُّسَمࣰّىۚ یُدَبِّرُ ٱلۡأَمۡرَ یُفَصِّلُ ٱلۡـَٔایَـٰتِ لَعَلَّكُم",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ عَمَدٍ",
+          "content": "بغير دعائم وأساطين تُقيمُها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "يُدَبِّرُ ٱلْأَمْرَ",
+          "content": "يصرّف العوالم كلها بقدرته وحكمته",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 19,
+          "tokens": "يُدَبِّرُ ٱلْأَمْرَ",
+          "content": "يصرّف العوالم كلها بقدرته وحكمته"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِلِقَاۤءِ رَبِّكُمۡ تُوقِنُونَ ۝٢ وَهُوَ ٱلَّذِی مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِیهَا رَوَ ٰ⁠سِیَ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِغَيْرِ عَمَدٍ",
+          "content": "بغير دعائم وأساطين تُقيمُها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "استواءً يليق به سبحانه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "يُدَبِّرُ ٱلْأَمْرَ",
+          "content": "يصرّف العوالم كلها بقدرته وحكمته",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 13,
+          "ayahIndex": 2
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَنۡهَـٰرࣰاۖ وَمِن كُلِّ ٱلثَّمَرَ ٰ⁠تِ جَعَلَ فِیهَا زَوۡجَیۡنِ ٱثۡنَیۡنِۖ یُغۡشِی ٱلَّیۡلَ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَدَّ ٱلْأَرْضَ",
+          "content": "بسطها في رأي العين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "رَوَٰسِىَ",
+          "content": "جبالا ثوابتا كي لا تميد",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "زَوْجَيْنِ",
+          "content": "نوعين وضربين",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُلبس النّهار ظلمة اللّيل أو العكس",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 18,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 10,
+          "tokens": "زَوْجَيْنِ",
+          "content": "نوعين وضربين"
+        },
+        {
+          "start": 78,
+          "length": 16,
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُلبس النّهار ظلمة اللّيل أو العكس"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلنَّهَارَۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَتَفَكَّرُونَ ۝٣ وَفِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَدَّ ٱلْأَرْضَ",
+          "content": "بسطها في رأي العين",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "رَوَٰسِىَ",
+          "content": "جبالا ثوابتا كي لا تميد",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "زَوْجَيْنِ",
+          "content": "نوعين وضربين",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُلبس النّهار ظلمة اللّيل أو العكس",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 18,
+          "surahIndex": 13,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُلبس النّهار ظلمة اللّيل أو العكس"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "قِطَعࣱ مُّتَجَـٰوِرَ ٰ⁠تࣱ وَجَنَّـٰتࣱ مِّنۡ أَعۡنَـٰبࣲ وَزَرۡعࣱ وَنَخِیلࣱ صِنۡوَانࣱ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِطَعٌ",
+          "content": "بقاع مختلفة الطباع والصفات",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَنَخِيلٌ صِنْوَانٌ",
+          "content": "نخلات يجمعها أصل واحد",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "ٱلْأُكُلِ",
+          "content": "ما يُؤكل، وهو الثمر والحب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "قِطَعٌ",
+          "content": "بقاع مختلفة الطباع والصفات"
+        },
+        {
+          "start": 64,
+          "length": 19,
+          "tokens": "وَنَخِيلٌ صِنْوَانٌ",
+          "content": "نخلات يجمعها أصل واحد"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَغَیۡرُ صِنۡوَانࣲ یُسۡقَىٰ بِمَاۤءࣲ وَ ٰ⁠حِدࣲ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضࣲ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِطَعٌ",
+          "content": "بقاع مختلفة الطباع والصفات",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَنَخِيلٌ صِنْوَانٌ",
+          "content": "نخلات يجمعها أصل واحد",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "ٱلْأُكُلِ",
+          "content": "ما يُؤكل، وهو الثمر والحب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فِی ٱلۡأُكُلِۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَعۡقِلُونَ ۝٤ وَإِن تَعۡجَبۡ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِطَعٌ",
+          "content": "بقاع مختلفة الطباع والصفات",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَنَخِيلٌ صِنْوَانٌ",
+          "content": "نخلات يجمعها أصل واحد",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "ٱلْأُكُلِ",
+          "content": "ما يُؤكل، وهو الثمر والحب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 13,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 10,
+          "tokens": "ٱلْأُكُلِ",
+          "content": "ما يُؤكل، وهو الثمر والحب"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَعَجَبࣱ قَوۡلُهُمۡ أَءِذَا كُنَّا تُرَ ٰ⁠بًا أَءِنَّا لَفِی خَلۡقࣲ جَدِیدٍۗ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَغْلَٰلُ",
+          "content": "الأطواق من الحديد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 13,
+          "ayahIndex": 5
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ كَفَرُوا۟ بِرَبِّهِمۡۖ وَأُو۟لَـٰۤىِٕكَ ٱلۡأَغۡلَـٰلُ فِیۤ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَغْلَٰلُ",
+          "content": "الأطواق من الحديد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 13,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 13,
+          "tokens": "ٱلْأَغْلَٰلُ",
+          "content": "الأطواق من الحديد"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَعۡنَاقِهِمۡۖ وَأُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا خَـٰلِدُونَ ۝٥",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَغْلَٰلُ",
+          "content": "الأطواق من الحديد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 13,
+          "ayahIndex": 5
+        }
+      ]
+    }
+  ]
+}

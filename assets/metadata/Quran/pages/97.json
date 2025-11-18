@@ -1,0 +1,413 @@
+{
+  "pageIndex": 97,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَّا خَیۡرَ فِی كَثِیرࣲ مِّن نَّجۡوَىٰهُمۡ إِلَّا مَنۡ أَمَرَ بِصَدَقَةٍ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّجْوَىٰهُمْ",
+          "content": "ما يتناجى به النّاس ويتحدّثون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 114
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 13,
+          "tokens": "نَّجْوَىٰهُمْ",
+          "content": "ما يتناجى به النّاس ويتحدّثون"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَوۡ مَعۡرُوفٍ أَوۡ إِصۡلَـٰحِۭ بَیۡنَ ٱلنَّاسِۚ وَمَن یَفۡعَلۡ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّجْوَىٰهُمْ",
+          "content": "ما يتناجى به النّاس ويتحدّثون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱبۡتِغَاۤءَ مَرۡضَاتِ ٱللَّهِ فَسَوۡفَ نُؤۡتِیهِ أَجۡرًا عَظِیمࣰا ۝١١٤ وَمَن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَّجْوَىٰهُمْ",
+          "content": "ما يتناجى به النّاس ويتحدّثون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یُشَاقِقِ ٱلرَّسُولَ مِنۢ بَعۡدِ مَا تَبَیَّنَ لَهُ ٱلۡهُدَىٰ وَیَتَّبِعۡ غَیۡرَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُشَاقِقِ ٱلرَّسُولَ",
+          "content": "يُخالفه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "نُوَلِّهِۦ مَا تَوَلَّىٰ",
+          "content": "نخلّي بينه وبين ما اختاره لنفسه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَنُصْلِهِۦ جَهَنَّمَ",
+          "content": "نُدخله إياها فيُشوى بها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "يُشَاقِقِ ٱلرَّسُولَ",
+          "content": "يُخالفه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "سَبِیلِ ٱلۡمُؤۡمِنِینَ نُوَلِّهِۦ مَا تَوَلَّىٰ وَنُصۡلِهِۦ جَهَنَّمَۖ وَسَاۤءَتۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُشَاقِقِ ٱلرَّسُولَ",
+          "content": "يُخالفه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "نُوَلِّهِۦ مَا تَوَلَّىٰ",
+          "content": "نخلّي بينه وبين ما اختاره لنفسه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَنُصْلِهِۦ جَهَنَّمَ",
+          "content": "نُدخله إياها فيُشوى بها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 24,
+          "tokens": "نُوَلِّهِۦ مَا تَوَلَّىٰ",
+          "content": "نخلّي بينه وبين ما اختاره لنفسه"
+        },
+        {
+          "start": 48,
+          "length": 22,
+          "tokens": "وَنُصْلِهِۦ جَهَنَّمَ",
+          "content": "نُدخله إياها فيُشوى بها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَصِیرًا ۝١١٥ إِنَّ ٱللَّهَ لَا یَغۡفِرُ أَن یُشۡرَكَ بِهِۦ وَیَغۡفِرُ مَا دُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُشَاقِقِ ٱلرَّسُولَ",
+          "content": "يُخالفه",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "نُوَلِّهِۦ مَا تَوَلَّىٰ",
+          "content": "نخلّي بينه وبين ما اختاره لنفسه",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        },
+        {
+          "tokens": "وَنُصْلِهِۦ جَهَنَّمَ",
+          "content": "نُدخله إياها فيُشوى بها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 4,
+          "ayahIndex": 115
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ذَ ٰ⁠لِكَ لِمَن یَشَاۤءُۚ وَمَن یُشۡرِكۡ بِٱللَّهِ فَقَدۡ ضَلَّ ضَلَـٰلَۢا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "بَعِیدًا ۝١١٦ إِن یَدۡعُونَ مِن دُونِهِۦۤ إِلَّاۤ إِنَـٰثࣰا وَإِن یَدۡعُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَّا شَیۡطَـٰنࣰا مَّرِیدࣰا ۝١١٧ لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَٰثًا",
+          "content": "أصناما يُزيّنونها كالنّساء",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 4,
+          "ayahIndex": 117
+        },
+        {
+          "tokens": "شَيْطَٰنًا مَّرِيدًا",
+          "content": "مُتمرّدا مُتجرّدا من الخير",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 4,
+          "ayahIndex": 117
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 21,
+          "tokens": "شَيْطَٰنًا مَّرِيدًا",
+          "content": "مُتمرّدا مُتجرّدا من الخير"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "عِبَادِكَ نَصِیبࣰا مَّفۡرُوضࣰا ۝١١٨ وَلَأُضِلَّنَّهُمۡ وَلَأُمَنِّیَنَّهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّفْرُوضًا",
+          "content": "مقطوعًا لي به",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 4,
+          "ayahIndex": 118
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "مَّفْرُوضًا",
+          "content": "مقطوعًا لي به"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَـَٔامُرَنَّهُمۡ فَلَیُبَتِّكُنَّ ءَاذَانَ ٱلۡأَنۡعَـٰمِ وَلَـَٔامُرَنَّهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَيُبَتِّكُنَّ",
+          "content": "فليُقطّعُنّ أو فليشقّنّ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        },
+        {
+          "tokens": "خَلْقَ ٱللَّهِ",
+          "content": "فطرت الله وهي دين الإسلام",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 16,
+          "tokens": "فَلَيُبَتِّكُنَّ",
+          "content": "فليُقطّعُنّ أو فليشقّنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَلَیُغَیِّرُنَّ خَلۡقَ ٱللَّهِۚ وَمَن یَتَّخِذِ ٱلشَّیۡطَـٰنَ وَلِیࣰّا مِّن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَيُبَتِّكُنَّ",
+          "content": "فليُقطّعُنّ أو فليشقّنّ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        },
+        {
+          "tokens": "خَلْقَ ٱللَّهِ",
+          "content": "فطرت الله وهي دين الإسلام",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 15,
+          "tokens": "خَلْقَ ٱللَّهِ",
+          "content": "فطرت الله وهي دين الإسلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "دُونِ ٱللَّهِ فَقَدۡ خَسِرَ خُسۡرَانࣰا مُّبِینࣰا ۝١١٩ یَعِدُهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَيُبَتِّكُنَّ",
+          "content": "فليُقطّعُنّ أو فليشقّنّ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        },
+        {
+          "tokens": "خَلْقَ ٱللَّهِ",
+          "content": "فطرت الله وهي دين الإسلام",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 119
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَیُمَنِّیهِمۡۖ وَمَا یَعِدُهُمُ ٱلشَّیۡطَـٰنُ إِلَّا غُرُورًا ۝١٢٠ أُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غُرُورًا",
+          "content": "خداعا وباطلا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 4,
+          "ayahIndex": 120
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 54,
+          "length": 8,
+          "tokens": "غُرُورًا",
+          "content": "خداعا وباطلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَأۡوَىٰهُمۡ جَهَنَّمُ وَلَا یَجِدُونَ عَنۡهَا مَحِیصࣰا ۝١٢١",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 121,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَحِيصًا",
+          "content": "محيدا ومهربا ومعدِلا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 4,
+          "ayahIndex": 121
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 8,
+          "tokens": "مَحِيصًا",
+          "content": "محيدا ومهربا ومعدِلا"
+        }
+      ]
+    }
+  ]
+}

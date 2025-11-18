@@ -1,0 +1,267 @@
+{
+  "pageIndex": 437,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَا یَسۡتَوِی ٱلۡأَعۡمَىٰ وَٱلۡبَصِیرُ ۝١٩ وَلَا ٱلظُّلُمَـٰتُ وَلَا ٱلنُّورُ ۝٢٠",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَا ٱلظِّلُّ وَلَا ٱلۡحَرُورُ ۝٢١ وَمَا یَسۡتَوِی ٱلۡأَحۡیَاۤءُ وَلَا",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْحَرُورُ",
+          "content": "شدّة الحرّ ليلا كالسّموم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 35,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 10,
+          "tokens": "ٱلْحَرُورُ",
+          "content": "شدّة الحرّ ليلا كالسّموم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡأَمۡوَ ٰ⁠تُۚ إِنَّ ٱللَّهَ یُسۡمِعُ مَن یَشَاۤءُۖ وَمَاۤ أَنتَ بِمُسۡمِعࣲ مَّن فِی",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡقُبُورِ ۝٢٢ إِنۡ أَنتَ إِلَّا نَذِیرٌ ۝٢٣ إِنَّاۤ أَرۡسَلۡنَـٰكَ بِٱلۡحَقِّ بَشِیرࣰا",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَنَذِیرࣰاۚ وَإِن مِّنۡ أُمَّةٍ إِلَّا خَلَا فِیهَا نَذِیرࣱ ۝٢٤ وَإِن یُكَذِّبُوكَ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَقَدۡ كَذَّبَ ٱلَّذِینَ مِن قَبۡلِهِمۡ جَاۤءَتۡهُمۡ رُسُلُهُم بِٱلۡبَیِّنَـٰتِ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبِٱلزُّبُرِ",
+          "content": "بالكتب المكتوبة كصحف إبراهيم وموسى عليهما السلام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 35,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَبِٱلزُّبُرِ وَبِٱلۡكِتَـٰبِ ٱلۡمُنِیرِ ۝٢٥ ثُمَّ أَخَذۡتُ ٱلَّذِینَ كَفَرُوا۟ۖ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبِٱلزُّبُرِ",
+          "content": "بالكتب المكتوبة كصحف إبراهيم وموسى عليهما السلام",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 35,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَبِٱلزُّبُرِ",
+          "content": "بالكتب المكتوبة كصحف إبراهيم وموسى عليهما السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَكَیۡفَ كَانَ نَكِیرِ ۝٢٦ أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَاۤءِ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ نَكِيرِ",
+          "content": "إنكاري عليهم بالتدمير",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 35,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 13,
+          "tokens": "كَانَ نَكِيرِ",
+          "content": "إنكاري عليهم بالتدمير"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَاۤءࣰ فَأَخۡرَجۡنَا بِهِۦ ثَمَرَ ٰ⁠تࣲ مُّخۡتَلِفًا أَلۡوَ ٰ⁠نُهَاۚ وَمِنَ ٱلۡجِبَالِ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُدَدٌۢ",
+          "content": "ذات طرائق وخطوط مختلفة الألوان",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 35,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَغَرَابِيبُ سُودٌ",
+          "content": "متناهية في السّواد كالأغربة",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 35,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "جُدَدُۢ بِیضࣱ وَحُمۡرࣱ مُّخۡتَلِفٌ أَلۡوَ ٰ⁠نُهَا وَغَرَابِیبُ سُودࣱ ۝٢٧",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جُدَدٌۢ",
+          "content": "ذات طرائق وخطوط مختلفة الألوان",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 35,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَغَرَابِيبُ سُودٌ",
+          "content": "متناهية في السّواد كالأغربة",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 35,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "جُدَدٌۢ",
+          "content": "ذات طرائق وخطوط مختلفة الألوان"
+        },
+        {
+          "start": 50,
+          "length": 18,
+          "tokens": "وَغَرَابِيبُ سُودٌ",
+          "content": "متناهية في السّواد كالأغربة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَاۤبِّ وَٱلۡأَنۡعَـٰمِ مُخۡتَلِفٌ أَلۡوَ ٰ⁠نُهُۥ كَذَ ٰ⁠لِكَۗ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنَّمَا یَخۡشَى ٱللَّهَ مِنۡ عِبَادِهِ ٱلۡعُلَمَـٰۤؤُا۟ۗ إِنَّ ٱللَّهَ عَزِیزٌ غَفُورٌ ۝٢٨",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنَّ ٱلَّذِینَ یَتۡلُونَ كِتَـٰبَ ٱللَّهِ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّن تَبُورَ",
+          "content": "لم تكسُدَ وتفسُدَ، أوَ لن تهلِك",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 35,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "رَزَقۡنَـٰهُمۡ سِرࣰّا وَعَلَانِیَةࣰ یَرۡجُونَ تِجَـٰرَةࣰ لَّن تَبُورَ ۝٢٩ لِیُوَفِّیَهُمۡ",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّن تَبُورَ",
+          "content": "لم تكسُدَ وتفسُدَ، أوَ لن تهلِك",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 35,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 12,
+          "tokens": "لَّن تَبُورَ",
+          "content": "لم تكسُدَ وتفسُدَ، أوَ لن تهلِك"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أُجُورَهُمۡ وَیَزِیدَهُم مِّن فَضۡلِهِۦۤۚ إِنَّهُۥ غَفُورࣱ شَكُورࣱ ۝٣٠",
+      "surahIndexFirst": 35,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

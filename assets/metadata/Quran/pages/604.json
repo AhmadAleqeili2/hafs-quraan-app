@@ -1,0 +1,347 @@
+{
+  "pageIndex": 604,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الإخلاص",
+      "surahIndexFirst": 112,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 112,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ ۝١ ٱللَّهُ ٱلصَّمَدُ ۝٢ لَمۡ یَلِدۡ وَلَمۡ یُولَدۡ ۝٣",
+      "surahIndexFirst": 112,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَمۡ یَكُن لَّهُۥ كُفُوًا أَحَدُۢ ۝٤",
+      "surahIndexFirst": 112,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كُفُوًا",
+          "content": "مُكافِئًا ومُمَاثِلاً ونظيرا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 112,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 7,
+          "tokens": "كُفُوًا",
+          "content": "مُكافِئًا ومُمَاثِلاً ونظيرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6998,
+      "text": "سورة الفلق",
+      "surahIndexFirst": 113,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتَصِمُ وأسْتجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلْفَلَقِ",
+          "content": "بربّ الصّبْح، أو الخَلْق كلّهمْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 6999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 113,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتَصِمُ وأسْتجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلْفَلَقِ",
+          "content": "بربّ الصّبْح، أو الخَلْق كلّهمْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ ۝١ مِن شَرِّ مَا خَلَقَ ۝٢ وَمِن شَرِّ",
+      "surahIndexFirst": 113,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتَصِمُ وأسْتجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلْفَلَقِ",
+          "content": "بربّ الصّبْح، أو الخَلْق كلّهمْ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 113,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 7,
+          "tokens": "أَعُوذُ",
+          "content": "أعْتَصِمُ وأسْتجير"
+        },
+        {
+          "start": 13,
+          "length": 17,
+          "tokens": "بِرَبِّ ٱلْفَلَقِ",
+          "content": "بربّ الصّبْح، أو الخَلْق كلّهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "غَاسِقٍ إِذَا وَقَبَ ۝٣ وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِی ٱلۡعُقَدِ ۝٤",
+      "surahIndexFirst": 113,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرِّ غَاسِقٍ",
+          "content": "شرّ الليل",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 113,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "وَقَبَ",
+          "content": "دَخَل ظلامه في كلّ شيء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 113,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "شَرِّ غَاسِقٍ",
+          "content": "شرّ الليل"
+        },
+        {
+          "start": 14,
+          "length": 6,
+          "tokens": "وَقَبَ",
+          "content": "دَخَل ظلامه في كلّ شيء"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ ۝٥",
+      "surahIndexFirst": 113,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11998,
+      "text": "سورة الناس",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتصِمُ وأستجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلنَّاسِ",
+          "content": "مُرَبِّيهِمْ ومُدبّر أحوالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 11999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتصِمُ وأستجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلنَّاسِ",
+          "content": "مُرَبِّيهِمْ ومُدبّر أحوالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ ۝١ مَلِكِ ٱلنَّاسِ ۝٢ إِلَـٰهِ",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعُوذُ",
+          "content": "أعْتصِمُ وأستجير",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "بِرَبِّ ٱلنَّاسِ",
+          "content": "مُرَبِّيهِمْ ومُدبّر أحوالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 114,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 7,
+          "tokens": "أَعُوذُ",
+          "content": "أعْتصِمُ وأستجير"
+        },
+        {
+          "start": 13,
+          "length": 16,
+          "tokens": "بِرَبِّ ٱلنَّاسِ",
+          "content": "مُرَبِّيهِمْ ومُدبّر أحوالهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلنَّاسِ ۝٣ مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ ۝٤ ٱلَّذِی",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِلَٰهِ ٱلنَّاسِ",
+          "content": "مَعْبُودِهِم الحقّ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 114,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "إِلَٰهِ ٱلنَّاسِ",
+          "content": "مَعْبُودِهِم الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "یُوَسۡوِسُ فِی صُدُورِ ٱلنَّاسِ ۝٥",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ ۝٦",
+      "surahIndexFirst": 114,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجِنَّةِ",
+          "content": "الجِنّ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 114,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 10,
+          "tokens": "ٱلْجِنَّةِ",
+          "content": "الجِنّ"
+        }
+      ]
+    }
+  ]
+}

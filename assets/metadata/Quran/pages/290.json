@@ -1,0 +1,451 @@
+{
+  "pageIndex": 290,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِن كَادُوا۟ لَیَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِیُخۡرِجُوكَ مِنۡهَاۖ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَسْتَفِزُّونَكَ",
+          "content": "لَيستخفّونك ويُزعِجونك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 18,
+          "tokens": "لَيَسْتَفِزُّونَكَ",
+          "content": "لَيستخفّونك ويُزعِجونك"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِذࣰا لَّا یَلۡبَثُونَ خِلَـٰفَكَ إِلَّا قَلِیلࣰا ۝٧٦ سُنَّةَ مَن قَدۡ أَرۡسَلۡنَا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَسْتَفِزُّونَكَ",
+          "content": "لَيستخفّونك ويُزعِجونك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 76
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَبۡلَكَ مِن رُّسُلِنَاۖ وَلَا تَجِدُ لِسُنَّتِنَا تَحۡوِیلًا ۝٧٧ أَقِمِ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَحْوِيلًا",
+          "content": "تغييرا وتبديلا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 10,
+          "tokens": "تَحْوِيلًا",
+          "content": "تغييرا وتبديلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلصَّلَوٰةَ لِدُلُوكِ ٱلشَّمۡسِ إِلَىٰ غَسَقِ ٱلَّیۡلِ وَقُرۡءَانَ ٱلۡفَجۡرِۖ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِدُلُوكِ ٱلشَّمْسِ",
+          "content": "بعد أو عند زوالها عن كبد السّماء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "غَسَقِ ٱلَّيْلِ",
+          "content": "ظُلمته أو شِدّتِها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "وَقُرْءَانَ ٱلْفَجْرِ",
+          "content": "وأقِم صلاة الصّبح",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 19,
+          "tokens": "لِدُلُوكِ ٱلشَّمْسِ",
+          "content": "بعد أو عند زوالها عن كبد السّماء"
+        },
+        {
+          "start": 39,
+          "length": 15,
+          "tokens": "غَسَقِ ٱلَّيْلِ",
+          "content": "ظُلمته أو شِدّتِها"
+        },
+        {
+          "start": 55,
+          "length": 22,
+          "tokens": "وَقُرْءَانَ ٱلْفَجْرِ",
+          "content": "وأقِم صلاة الصّبح"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِنَّ قُرۡءَانَ ٱلۡفَجۡرِ كَانَ مَشۡهُودࣰا ۝٧٨ وَمِنَ ٱلَّیۡلِ فَتَهَجَّدۡ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِدُلُوكِ ٱلشَّمْسِ",
+          "content": "بعد أو عند زوالها عن كبد السّماء",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "غَسَقِ ٱلَّيْلِ",
+          "content": "ظُلمته أو شِدّتِها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "وَقُرْءَانَ ٱلْفَجْرِ",
+          "content": "وأقِم صلاة الصّبح",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 17,
+          "ayahIndex": 78
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِهِۦ نَافِلَةࣰ لَّكَ عَسَىٰۤ أَن یَبۡعَثَكَ رَبُّكَ مَقَامࣰا مَّحۡمُودࣰا ۝٧٩",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتَهَجَّدْ",
+          "content": "التّهجّد : الصّلاة ليلا بعد الإستيقاظ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 79
+        },
+        {
+          "tokens": "نَافِلَةً لَّكَ",
+          "content": "فريضة زائدة خاصّة بك",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 17,
+          "ayahIndex": 79
+        },
+        {
+          "tokens": "مَقَامًا مَّحْمُودًا",
+          "content": "مقام الشفاعة العُظمى",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 79
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 15,
+          "tokens": "نَافِلَةً لَّكَ",
+          "content": "فريضة زائدة خاصّة بك"
+        },
+        {
+          "start": 53,
+          "length": 20,
+          "tokens": "مَقَامًا مَّحْمُودًا",
+          "content": "مقام الشفاعة العُظمى"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَقُل رَّبِّ أَدۡخِلۡنِی مُدۡخَلَ صِدۡقࣲ وَأَخۡرِجۡنِی مُخۡرَجَ صِدۡقࣲ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُدْخَلَ صِدْقٍ",
+          "content": "إدْخالا مرضيّا جيّدا في أموري",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 80
+        },
+        {
+          "tokens": "سُلْطَٰنًا نَّصِيرًا",
+          "content": "قهرا وعِزّا ننصر به الإسلام",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 17,
+          "ayahIndex": 80
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 15,
+          "tokens": "مُدْخَلَ صِدْقٍ",
+          "content": "إدْخالا مرضيّا جيّدا في أموري"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَٱجۡعَل لِّی مِن لَّدُنكَ سُلۡطَـٰنࣰا نَّصِیرࣰا ۝٨٠ وَقُلۡ جَاۤءَ ٱلۡحَقُّ وَزَهَقَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُدْخَلَ صِدْقٍ",
+          "content": "إدْخالا مرضيّا جيّدا في أموري",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 80
+        },
+        {
+          "tokens": "سُلْطَٰنًا نَّصِيرًا",
+          "content": "قهرا وعِزّا ننصر به الإسلام",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 17,
+          "ayahIndex": 80
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 21,
+          "tokens": "سُلْطَٰنًا نَّصِيرًا",
+          "content": "قهرا وعِزّا ننصر به الإسلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡبَـٰطِلُۚ إِنَّ ٱلۡبَـٰطِلَ كَانَ زَهُوقࣰا ۝٨١ وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَزَهَقَ ٱلْبَٰطِلُ",
+          "content": "زال واضمحلّ الشّرك",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 81
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَزَهَقَ ٱلْبَٰطِلُ",
+          "content": "زال واضمحلّ الشّرك"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "شِفَاۤءࣱ وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ وَلَا یَزِیدُ ٱلظَّـٰلِمِینَ إِلَّا خَسَارࣰا ۝٨٢",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَسَارًا",
+          "content": "هلاكا بسبب كُفرهم به",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 8,
+          "tokens": "خَسَارًا",
+          "content": "هلاكا بسبب كُفرهم به"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَإِذَاۤ أَنۡعَمۡنَا عَلَى ٱلۡإِنسَـٰنِ أَعۡرَضَ وَنَـَٔا بِجَانِبِهِۦ وَإِذَا مَسَّهُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "لوَى عِطفهُ تكبّرا وعِنادا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 83
+        },
+        {
+          "tokens": "كَانَ يَـُٔوسًا",
+          "content": "شديد اليأس والقنوط من رحمتنا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 21,
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "لوَى عِطفهُ تكبّرا وعِنادا"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلشَّرُّ كَانَ یَـُٔوسࣰا ۝٨٣ قُلۡ كُلࣱّ یَعۡمَلُ عَلَىٰ شَاكِلَتِهِۦ فَرَبُّكُمۡ أَعۡلَمُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَـَٔا بِجَانِبِهِۦ",
+          "content": "لوَى عِطفهُ تكبّرا وعِنادا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 83
+        },
+        {
+          "tokens": "كَانَ يَـُٔوسًا",
+          "content": "شديد اليأس والقنوط من رحمتنا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 15,
+          "tokens": "كَانَ يَـُٔوسًا",
+          "content": "شديد اليأس والقنوط من رحمتنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِمَنۡ هُوَ أَهۡدَىٰ سَبِیلࣰا ۝٨٤ وَیَسۡـَٔلُونَكَ عَنِ ٱلرُّوحِۖ قُلِ ٱلرُّوحُ مِنۡ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَاكِلَتِهِۦ",
+          "content": "مذهبِهِ الذي يُشاكلُ حاله",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 84
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَمۡرِ رَبِّی وَمَاۤ أُوتِیتُم مِّنَ ٱلۡعِلۡمِ إِلَّا قَلِیلࣰا ۝٨٥ وَلَىِٕن شِئۡنَا لَنَذۡهَبَنَّ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ ثُمَّ لَا تَجِدُ لَكَ بِهِۦ عَلَیۡنَا وَكِیلًا ۝٨٦",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكِيلًا",
+          "content": "منْ تعهّد يإعادته إليك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 86
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 71,
+          "length": 8,
+          "tokens": "وَكِيلًا",
+          "content": "منْ تعهّد يإعادته إليك"
+        }
+      ]
+    }
+  ]
+}

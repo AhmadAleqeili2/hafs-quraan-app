@@ -1,0 +1,1305 @@
+{
+  "pageIndex": 48,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا تَدَایَنتُم بِدَیۡنٍ إِلَىٰۤ أَجَلࣲ مُّسَمࣰّى",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَٱكۡتُبُوهُۚ وَلۡیَكۡتُب بَّیۡنَكُمۡ كَاتِبُۢ بِٱلۡعَدۡلِۚ وَلَا یَأۡبَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 12,
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "كَاتِبٌ أَن یَكۡتُبَ كَمَا عَلَّمَهُ ٱللَّهُۚ فَلۡیَكۡتُبۡ وَلۡیُمۡلِلِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 12,
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلَّذِی عَلَیۡهِ ٱلۡحَقُّ وَلۡیَتَّقِ ٱللَّهَ رَبَّهُۥ وَلَا یَبۡخَسۡ مِنۡهُ شَیۡـࣰٔاۚ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 21,
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَإِن كَانَ ٱلَّذِی عَلَیۡهِ ٱلۡحَقُّ سَفِیهًا أَوۡ ضَعِیفًا أَوۡ لَا یَسۡتَطِیعُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَن یُمِلَّ هُوَ فَلۡیُمۡلِلۡ وَلِیُّهُۥ بِٱلۡعَدۡلِۚ وَٱسۡتَشۡهِدُوا۟ شَهِیدَیۡنِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِن رِّجَالِكُمۡۖ فَإِن لَّمۡ یَكُونَا رَجُلَیۡنِ فَرَجُلࣱ وَٱمۡرَأَتَانِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مِمَّن تَرۡضَوۡنَ مِنَ ٱلشُّهَدَاۤءِ أَن تَضِلَّ إِحۡدَىٰهُمَا فَتُذَكِّرَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِحۡدَىٰهُمَا ٱلۡأُخۡرَىٰۚ وَلَا یَأۡبَ ٱلشُّهَدَاۤءُ إِذَا مَا دُعُوا۟ۚ وَلَا تَسۡـَٔمُوۤا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 19,
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن تَكۡتُبُوهُ صَغِیرًا أَوۡ كَبِیرًا إِلَىٰۤ أَجَلِهِۦۚ ذَ ٰ⁠لِكُمۡ أَقۡسَطُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 8,
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عِندَ ٱللَّهِ وَأَقۡوَمُ لِلشَّهَـٰدَةِ وَأَدۡنَىٰۤ أَلَّا تَرۡتَابُوۤا۟ إِلَّاۤ أَن تَكُونَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 25,
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها"
+        },
+        {
+          "start": 40,
+          "length": 11,
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تِجَـٰرَةً حَاضِرَةࣰ تُدِیرُونَهَا بَیۡنَكُمۡ فَلَیۡسَ عَلَیۡكُمۡ جُنَاحٌ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَلَّا تَكۡتُبُوهَاۗ وَأَشۡهِدُوۤا۟ إِذَا تَبَایَعۡتُمۡۚ وَلَا یُضَاۤرَّ كَاتِبࣱ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَا شَهِیدࣱۚ وَإِن تَفۡعَلُوا۟ فَإِنَّهُۥ فُسُوقُۢ بِكُمۡۗ وَٱتَّقُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 8,
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهَۖ وَیُعَلِّمُكُمُ ٱللَّهُۗ وَٱللَّهُ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝٢٨٢",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 282,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَأْبَ",
+          "content": "لا يمتنع",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلْيُمْلِلِ",
+          "content": "وليمل وليقرّ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا يَبْخَسْ مِنْهُ",
+          "content": "لا ينقص من الحقّ الذي عليه",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَن يُمِلَّ هُوَ",
+          "content": "أن يملي ويقرّ بنفسه",
+          "tokenFromIndex": 46,
+          "tokenToIndex": 48,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَلَا تَسْـَٔمُوٓا۟",
+          "content": "لا تملّوا لا تضجروا",
+          "tokenFromIndex": 78,
+          "tokenToIndex": 79,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "أَقْسَطُ",
+          "content": "أعدل",
+          "tokenFromIndex": 88,
+          "tokenToIndex": 88,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَقْوَمُ لِلشَّهَٰدَةِ",
+          "content": "أثبت لها وأعون على آدائها",
+          "tokenFromIndex": 91,
+          "tokenToIndex": 92,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "وَأَدْنَىٰٓ",
+          "content": "أقرب",
+          "tokenFromIndex": 93,
+          "tokenToIndex": 93,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        },
+        {
+          "tokens": "فُسُوقٌۢ",
+          "content": "خروج عن الطاعة إلى المعصية",
+          "tokenFromIndex": 119,
+          "tokenToIndex": 119,
+          "surahIndex": 2,
+          "ayahIndex": 282
+        }
+      ]
+    }
+  ]
+}

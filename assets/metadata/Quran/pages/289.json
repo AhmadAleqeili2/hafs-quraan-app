@@ -1,0 +1,373 @@
+{
+  "pageIndex": 289,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا مَسَّكُمُ ٱلضُّرُّ فِی ٱلۡبَحۡرِ ضَلَّ مَن تَدۡعُونَ إِلَّاۤ إِیَّاهُۖ فَلَمَّا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "نَجَّىٰكُمۡ إِلَى ٱلۡبَرِّ أَعۡرَضۡتُمۡۚ وَكَانَ ٱلۡإِنسَـٰنُ كَفُورًا ۝٦٧ أَفَأَمِنتُمۡ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَن یَخۡسِفَ بِكُمۡ جَانِبَ ٱلۡبَرِّ أَوۡ یُرۡسِلَ عَلَیۡكُمۡ حَاصِبࣰا ثُمَّ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَخْسِفَ بِكُمْ",
+          "content": "يُغوّر ويُغيّب بكم تحت الثرى",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "حَاصِبًا",
+          "content": "ريحا شديدة ترميكم بالحصباء",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "أَن يَخْسِفَ بِكُمْ",
+          "content": "يُغوّر ويُغيّب بكم تحت الثرى"
+        },
+        {
+          "start": 62,
+          "length": 8,
+          "tokens": "حَاصِبًا",
+          "content": "ريحا شديدة ترميكم بالحصباء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَا تَجِدُوا۟ لَكُمۡ وَكِیلًا ۝٦٨ أَمۡ أَمِنتُمۡ أَن یُعِیدَكُمۡ فِیهِ تَارَةً",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن يَخْسِفَ بِكُمْ",
+          "content": "يُغوّر ويُغيّب بكم تحت الثرى",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "حَاصِبًا",
+          "content": "ريحا شديدة ترميكم بالحصباء",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أُخۡرَىٰ فَیُرۡسِلَ عَلَیۡكُمۡ قَاصِفࣰا مِّنَ ٱلرِّیحِ فَیُغۡرِقَكُم بِمَا كَفَرۡتُمۡ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَاصِفًا",
+          "content": "عاصفا شديدا مُهلكا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 69
+        },
+        {
+          "tokens": "تَبِيعًا",
+          "content": "نصيرا أو مُطالبا بالثأر منّا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 17,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 8,
+          "tokens": "قَاصِفًا",
+          "content": "عاصفا شديدا مُهلكا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ثُمَّ لَا تَجِدُوا۟ لَكُمۡ عَلَیۡنَا بِهِۦ تَبِیعࣰا ۝٦٩ وَلَقَدۡ كَرَّمۡنَا بَنِیۤ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَاصِفًا",
+          "content": "عاصفا شديدا مُهلكا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 69
+        },
+        {
+          "tokens": "تَبِيعًا",
+          "content": "نصيرا أو مُطالبا بالثأر منّا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 17,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 8,
+          "tokens": "تَبِيعًا",
+          "content": "نصيرا أو مُطالبا بالثأر منّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ءَادَمَ وَحَمَلۡنَـٰهُمۡ فِی ٱلۡبَرِّ وَٱلۡبَحۡرِ وَرَزَقۡنَـٰهُم مِّنَ ٱلطَّیِّبَـٰتِ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَفَضَّلۡنَـٰهُمۡ عَلَىٰ كَثِیرࣲ مِّمَّنۡ خَلَقۡنَا تَفۡضِیلࣰا ۝٧٠ یَوۡمَ نَدۡعُوا۟",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "كُلَّ أُنَاسِۭ بِإِمَـٰمِهِمۡۖ فَمَنۡ أُوتِیَ كِتَـٰبَهُۥ بِیَمِینِهِۦ فَأُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِإِمَٰمِهِمْ",
+          "content": "بمن ائتموا به أو بكتابهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "فَتِيلًا",
+          "content": "قدْر الخيط في شِقّ النواة من الجزاء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 15,
+          "tokens": "بِإِمَٰمِهِمْ",
+          "content": "بمن ائتموا به أو بكتابهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَقۡرَءُونَ كِتَـٰبَهُمۡ وَلَا یُظۡلَمُونَ فَتِیلࣰا ۝٧١ وَمَن كَانَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِإِمَٰمِهِمْ",
+          "content": "بمن ائتموا به أو بكتابهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 17,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "فَتِيلًا",
+          "content": "قدْر الخيط في شِقّ النواة من الجزاء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 8,
+          "tokens": "فَتِيلًا",
+          "content": "قدْر الخيط في شِقّ النواة من الجزاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِی هَـٰذِهِۦۤ أَعۡمَىٰ فَهُوَ فِی ٱلۡـَٔاخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِیلࣰا ۝٧٢ وَإِن",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "كَادُوا۟ لَیَفۡتِنُونَكَ عَنِ ٱلَّذِیۤ أَوۡحَیۡنَاۤ إِلَیۡكَ لِتَفۡتَرِیَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَفْتِنُونَكَ",
+          "content": "ليوقِعونك في الفتنة وليصرفونك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 73
+        },
+        {
+          "tokens": "لِتَفْتَرِىَ عَلَيْنَا",
+          "content": "لتختلق وتتقوّل علينا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 17,
+          "ayahIndex": 73
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 15,
+          "tokens": "لَيَفْتِنُونَكَ",
+          "content": "ليوقِعونك في الفتنة وليصرفونك"
+        },
+        {
+          "start": 61,
+          "length": 12,
+          "tokens": "لِتَفْتَرِىَ عَلَيْنَا",
+          "content": "لتختلق وتتقوّل علينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَلَیۡنَا غَیۡرَهُۥۖ وَإِذࣰا لَّٱتَّخَذُوكَ خَلِیلࣰا ۝٧٣ وَلَوۡلَاۤ أَن ثَبَّتۡنَـٰكَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَيَفْتِنُونَكَ",
+          "content": "ليوقِعونك في الفتنة وليصرفونك",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 73
+        },
+        {
+          "tokens": "لِتَفْتَرِىَ عَلَيْنَا",
+          "content": "لتختلق وتتقوّل علينا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 17,
+          "ayahIndex": 73
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "لِتَفْتَرِىَ عَلَيْنَا",
+          "content": "لتختلق وتتقوّل علينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَقَدۡ كِدتَّ تَرۡكَنُ إِلَیۡهِمۡ شَیۡـࣰٔا قَلِیلًا ۝٧٤ إِذࣰا لَّأَذَقۡنَـٰكَ ضِعۡفَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَرْكَنُ إِلَيْهِمْ",
+          "content": "تميل إليهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 19,
+          "tokens": "تَرْكَنُ إِلَيْهِمْ",
+          "content": "تميل إليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡحَیَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَیۡنَا نَصِیرࣰا ۝٧٥",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضِعْفَ ٱلْحَيَوٰةِ",
+          "content": "عذابا مُضاعفا في الحياة الدّنيا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "ضِعْفَ ٱلْحَيَوٰةِ",
+          "content": "عذابا مُضاعفا في الحياة الدّنيا"
+        }
+      ]
+    }
+  ]
+}

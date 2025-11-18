@@ -1,0 +1,277 @@
+{
+  "pageIndex": 494,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِنَّهُۥ لَعِلۡمࣱ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَـٰذَا صِرَ ٰ⁠طࣱ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ",
+          "content": "يُعلَم قربُها بنزوله (عليه السلام)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 43,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "فَلَا تَمْتَرُنَّ بِهَا",
+          "content": "فلا تشكّنّ في قيَامها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 32,
+          "tokens": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ",
+          "content": "يُعلَم قربُها بنزوله (عليه السلام)"
+        },
+        {
+          "start": 33,
+          "length": 23,
+          "tokens": "فَلَا تَمْتَرُنَّ بِهَا",
+          "content": "فلا تشكّنّ في قيَامها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مُّسۡتَقِیمࣱ ۝٦١ وَلَا یَصُدَّنَّكُمُ ٱلشَّیۡطَـٰنُۖ إِنَّهُۥ لَكُمۡ عَدُوࣱّ مُّبِینࣱ ۝٦٢",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنَّهُۥ لَعِلْمٌ لِّلسَّاعَةِ",
+          "content": "يُعلَم قربُها بنزوله (عليه السلام)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 43,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "فَلَا تَمْتَرُنَّ بِهَا",
+          "content": "فلا تشكّنّ في قيَامها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَمَّا جَاۤءَ عِیسَىٰ بِٱلۡبَیِّنَـٰتِ قَالَ قَدۡ جِئۡتُكُم بِٱلۡحِكۡمَةِ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلِأُبَیِّنَ لَكُم بَعۡضَ ٱلَّذِی تَخۡتَلِفُونَ فِیهِۖ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝٦٣",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِنَّ ٱللَّهَ هُوَ رَبِّی وَرَبُّكُمۡ فَٱعۡبُدُوهُۚ هَـٰذَا صِرَ ٰ⁠طࣱ مُّسۡتَقِیمࣱ ۝٦٤",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَیۡنِهِمۡۖ فَوَیۡلࣱ لِّلَّذِینَ ظَلَمُوا۟",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوَيْلٌ",
+          "content": "هلاك أو حسرة أو شدّة عذاب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 43,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 8,
+          "tokens": "فَوَيْلٌ",
+          "content": "هلاك أو حسرة أو شدّة عذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِنۡ عَذَابِ یَوۡمٍ أَلِیمٍ ۝٦٥ هَلۡ یَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوَيْلٌ",
+          "content": "هلاك أو حسرة أو شدّة عذاب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 43,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَأۡتِیَهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ ۝٦٦ ٱلۡأَخِلَّاۤءُ یَوۡمَىِٕذِۭ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَلْ يَنظُرُونَ",
+          "content": "هل ينتظرون",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 43,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 8,
+          "tokens": "بَغْتَةً",
+          "content": "فجأة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِینَ ۝٦٧ یَـٰعِبَادِ لَا خَوۡفٌ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَخِلَّآءُ",
+          "content": "الأحباء في غير ذات الله",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 43,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَیۡكُمُ ٱلۡیَوۡمَ وَلَاۤ أَنتُمۡ تَحۡزَنُونَ ۝٦٨ ٱلَّذِینَ ءَامَنُوا۟ بِـَٔایَـٰتِنَا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَكَانُوا۟ مُسۡلِمِینَ ۝٦٩ ٱدۡخُلُوا۟ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَ ٰ⁠جُكُمۡ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "تُحۡبَرُونَ ۝٧٠ یُطَافُ عَلَیۡهِم بِصِحَافࣲ مِّن ذَهَبࣲ وَأَكۡوَابࣲۖ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُحْبَرُونَ",
+          "content": "تسرّون سرورا ظاهرَ الأثر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 43,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "تُحْبَرُونَ",
+          "content": "تسرّون سرورا ظاهرَ الأثر"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَفِیهَا مَا تَشۡتَهِیهِ ٱلۡأَنفُسُ وَتَلَذُّ ٱلۡأَعۡیُنُۖ وَأَنتُمۡ فِیهَا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكْوَابٍ",
+          "content": "أقداح لا عُرَى لها ولا خراطيم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "خَـٰلِدُونَ ۝٧١ وَتِلۡكَ ٱلۡجَنَّةُ ٱلَّتِیۤ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَكْوَابٍ",
+          "content": "أقداح لا عُرَى لها ولا خراطيم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَعۡمَلُونَ ۝٧٢ لَكُمۡ فِیهَا فَـٰكِهَةࣱ كَثِیرَةࣱ مِّنۡهَا تَأۡكُلُونَ ۝٧٣",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

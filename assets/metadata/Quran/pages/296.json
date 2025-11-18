@@ -1,0 +1,381 @@
+{
+  "pageIndex": 296,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَكَذَ ٰ⁠لِكَ أَعۡثَرۡنَا عَلَیۡهِمۡ لِیَعۡلَمُوۤا۟ أَنَّ وَعۡدَ ٱللَّهِ حَقࣱّ وَأَنَّ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْثَرْنَا عَلَيْهِمْ",
+          "content": "أطلَعنا النّاس عليهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 18,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 22,
+          "tokens": "أَعْثَرْنَا عَلَيْهِمْ",
+          "content": "أطلَعنا النّاس عليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلسَّاعَةَ لَا رَیۡبَ فِیهَاۤ إِذۡ یَتَنَـٰزَعُونَ بَیۡنَهُمۡ أَمۡرَهُمۡۖ فَقَالُوا۟",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْثَرْنَا عَلَيْهِمْ",
+          "content": "أطلَعنا النّاس عليهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 18,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱبۡنُوا۟ عَلَیۡهِم بُنۡیَـٰنࣰاۖ رَّبُّهُمۡ أَعۡلَمُ بِهِمۡۚ قَالَ ٱلَّذِینَ غَلَبُوا۟ عَلَىٰۤ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْثَرْنَا عَلَيْهِمْ",
+          "content": "أطلَعنا النّاس عليهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 18,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَمۡرِهِمۡ لَنَتَّخِذَنَّ عَلَیۡهِم مَّسۡجِدࣰا ۝٢١ سَیَقُولُونَ ثَلَـٰثَةࣱ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْثَرْنَا عَلَيْهِمْ",
+          "content": "أطلَعنا النّاس عليهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 18,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "رَّابِعُهُمۡ كَلۡبُهُمۡ وَیَقُولُونَ خَمۡسَةࣱ سَادِسُهُمۡ كَلۡبُهُمۡ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَجْمًۢا بِٱلْغَيْبِ",
+          "content": "قذفًا بالظّن غير يقين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "فَلَا تُمَارِ فِيهِمْ",
+          "content": "فلا تُجادل في عدّتهم وشأنهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "رَجۡمَۢا بِٱلۡغَیۡبِۖ وَیَقُولُونَ سَبۡعَةࣱ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ قُل رَّبِّیۤ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَجْمًۢا بِٱلْغَيْبِ",
+          "content": "قذفًا بالظّن غير يقين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "فَلَا تُمَارِ فِيهِمْ",
+          "content": "فلا تُجادل في عدّتهم وشأنهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "رَجْمًۢا بِٱلْغَيْبِ",
+          "content": "قذفًا بالظّن غير يقين"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَعۡلَمُ بِعِدَّتِهِم مَّا یَعۡلَمُهُمۡ إِلَّا قَلِیلࣱۗ فَلَا تُمَارِ فِیهِمۡ إِلَّا مِرَاۤءࣰ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَجْمًۢا بِٱلْغَيْبِ",
+          "content": "قذفًا بالظّن غير يقين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "فَلَا تُمَارِ فِيهِمْ",
+          "content": "فلا تُجادل في عدّتهم وشأنهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 21,
+          "tokens": "فَلَا تُمَارِ فِيهِمْ",
+          "content": "فلا تُجادل في عدّتهم وشأنهم"
+        },
+        {
+          "start": 78,
+          "length": 15,
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ظَـٰهِرࣰا وَلَا تَسۡتَفۡتِ فِیهِم مِّنۡهُمۡ أَحَدࣰا ۝٢٢ وَلَا تَقُولَنَّ لِشَا۟یۡءٍ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَجْمًۢا بِٱلْغَيْبِ",
+          "content": "قذفًا بالظّن غير يقين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "فَلَا تُمَارِ فِيهِمْ",
+          "content": "فلا تُجادل في عدّتهم وشأنهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "إِلَّا مِرَآءً ظَٰهِرًا",
+          "content": "بمجرّد تلاوة ما أوحي إليك في أمرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِنِّی فَاعِلࣱ ذَ ٰ⁠لِكَ غَدًا ۝٢٣ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِذَا نَسِیتَ وَقُلۡ عَسَىٰۤ أَن یَهۡدِیَنِ رَبِّی لِأَقۡرَبَ مِنۡ هَـٰذَا رَشَدࣰا ۝٢٤",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَشَدًا",
+          "content": "هداية وإرشادًا للنّاس",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 18,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 75,
+          "length": 7,
+          "tokens": "رَشَدًا",
+          "content": "هداية وإرشادًا للنّاس"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَبِثُوا۟ فِی كَهۡفِهِمۡ ثَلَـٰثَ مِا۟ئَةࣲ سِنِینَ وَٱزۡدَادُوا۟ تِسۡعࣰا ۝٢٥",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "قُلِ ٱللَّهُ أَعۡلَمُ بِمَا لَبِثُوا۟ۖ لَهُۥ غَیۡبُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَبْصِرْ بِهِۦ",
+          "content": "ما أبصر الله بكلّ موجود",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 18,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَبۡصِرۡ بِهِۦ وَأَسۡمِعۡۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِیࣲّ وَلَا یُشۡرِكُ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَبْصِرْ بِهِۦ",
+          "content": "ما أبصر الله بكلّ موجود",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 18,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "أَبْصِرْ بِهِۦ",
+          "content": "ما أبصر الله بكلّ موجود"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِی حُكۡمِهِۦۤ أَحَدࣰا ۝٢٦ وَٱتۡلُ مَاۤ أُوحِیَ إِلَیۡكَ مِن كِتَابِ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَبْصِرْ بِهِۦ",
+          "content": "ما أبصر الله بكلّ موجود",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 18,
+          "ayahIndex": 26
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَـٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدࣰا ۝٢٧",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُلْتَحَدًا",
+          "content": "مَلجأ ومَوْئلا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 18,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 11,
+          "tokens": "مُلْتَحَدًا",
+          "content": "مَلجأ ومَوْئلا"
+        }
+      ]
+    }
+  ]
+}

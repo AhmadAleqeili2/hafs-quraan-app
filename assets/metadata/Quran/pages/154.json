@@ -1,0 +1,281 @@
+{
+  "pageIndex": 154,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰبَنِیۤ ءَادَمَ خُذُوا۟ زِینَتَكُمۡ عِندَ كُلِّ مَسۡجِدࣲ وَكُلُوا۟ وَٱشۡرَبُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُذُوا۟ زِينَتَكُمْ",
+          "content": "البسوا ثيابكم لستر عوراتكم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 19,
+          "tokens": "خُذُوا۟ زِينَتَكُمْ",
+          "content": "البسوا ثيابكم لستر عوراتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَا تُسۡرِفُوۤا۟ۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُسۡرِفِینَ ۝٣١ قُلۡ مَنۡ حَرَّمَ زِینَةَ ٱللَّهِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُذُوا۟ زِينَتَكُمْ",
+          "content": "البسوا ثيابكم لستر عوراتكم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلَّتِیۤ أَخۡرَجَ لِعِبَادِهِۦ وَٱلطَّیِّبَـٰتِ مِنَ ٱلرِّزۡقِۚ قُلۡ هِیَ لِلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا خَالِصَةࣰ یَوۡمَ ٱلۡقِیَـٰمَةِۗ كَذَ ٰ⁠لِكَ نُفَصِّلُ ٱلۡـَٔایَـٰتِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لِقَوۡمࣲ یَعۡلَمُونَ ۝٣٢ قُلۡ إِنَّمَا حَرَّمَ رَبِّیَ ٱلۡفَوَ ٰ⁠حِشَ مَا ظَهَرَ مِنۡهَا وَمَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡیَ بِغَیۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُوا۟ بِٱللَّهِ مَا لَمۡ یُنَزِّلۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي لمزيد قبحها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَٱلْإِثْمَ",
+          "content": "ما يوجبه من سائر المعاصي",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَٱلْبَغْىَ",
+          "content": "الظلم والإستطالة على الناس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "سُلْطَٰنًا",
+          "content": "حجةً وبرهاناً",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 11,
+          "tokens": "وَٱلْإِثْمَ",
+          "content": "ما يوجبه من سائر المعاصي"
+        },
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "وَٱلْبَغْىَ",
+          "content": "الظلم والإستطالة على الناس"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِهِۦ سُلۡطَـٰنࣰا وَأَن تَقُولُوا۟ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ۝٣٣ وَلِكُلِّ أُمَّةٍ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْفَوَٰحِشَ",
+          "content": "كبائر المعاصي لمزيد قبحها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَٱلْإِثْمَ",
+          "content": "ما يوجبه من سائر المعاصي",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَٱلْبَغْىَ",
+          "content": "الظلم والإستطالة على الناس",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "سُلْطَٰنًا",
+          "content": "حجةً وبرهاناً",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 11,
+          "tokens": "سُلْطَٰنًا",
+          "content": "حجةً وبرهاناً"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَجَلࣱۖ فَإِذَا جَاۤءَ أَجَلُهُمۡ لَا یَسۡتَأۡخِرُونَ سَاعَةࣰ وَلَا یَسۡتَقۡدِمُونَ ۝٣٤",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَـٰبَنِیۤ ءَادَمَ إِمَّا یَأۡتِیَنَّكُمۡ رُسُلࣱ مِّنكُمۡ یَقُصُّونَ عَلَیۡكُمۡ ءَایَـٰتِی فَمَنِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱتَّقَىٰ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝٣٥ وَٱلَّذِینَ كَذَّبُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "بِـَٔایَـٰتِنَا وَٱسۡتَكۡبَرُوا۟ عَنۡهَاۤ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ فِیهَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "خَـٰلِدُونَ ۝٣٦ فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِـَٔایَـٰتِهِۦۤۚ أُو۟لَـٰۤىِٕكَ یَنَالُهُمۡ نَصِیبُهُم مِّنَ ٱلۡكِتَـٰبِۖ حَتَّىٰۤ إِذَا جَاۤءَتۡهُمۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَيْنَ مَا كُنتُمْ",
+          "content": "أين الآلهة الذين كنتم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 37
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "رُسُلُنَا یَتَوَفَّوۡنَهُمۡ قَالُوۤا۟ أَیۡنَ مَا كُنتُمۡ تَدۡعُونَ مِن دُونِ ٱللَّهِۖ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَيْنَ مَا كُنتُمْ",
+          "content": "أين الآلهة الذين كنتم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 18,
+          "tokens": "أَيْنَ مَا كُنتُمْ",
+          "content": "أين الآلهة الذين كنتم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَالُوا۟ ضَلُّوا۟ عَنَّا وَشَهِدُوا۟ عَلَىٰۤ أَنفُسِهِمۡ أَنَّهُمۡ كَانُوا۟ كَـٰفِرِینَ ۝٣٧",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَيْنَ مَا كُنتُمْ",
+          "content": "أين الآلهة الذين كنتم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 7,
+          "ayahIndex": 37
+        }
+      ]
+    }
+  ]
+}

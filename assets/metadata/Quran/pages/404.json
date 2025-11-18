@@ -1,0 +1,283 @@
+{
+  "pageIndex": 404,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَا هَـٰذِهِ ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۤ إِلَّا لَهۡوࣱ وَلَعِبࣱۚ وَإِنَّ ٱلدَّارَ ٱلۡـَٔاخِرَةَ لَهِیَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهْوٌ وَلَعِبٌ",
+          "content": "لذائد مُتصرّمة، وعبث باطل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 29,
+          "ayahIndex": 64
+        },
+        {
+          "tokens": "لَهِىَ ٱلْحَيَوَانُ",
+          "content": "لَهِيَ دار الحياة الدّائمة الخالدة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 29,
+          "ayahIndex": 64
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 16,
+          "tokens": "لَهْوٌ وَلَعِبٌ",
+          "content": "لذائد مُتصرّمة، وعبث باطل"
+        },
+        {
+          "start": 94,
+          "length": 6,
+          "tokens": "لَهِىَ ٱلْحَيَوَانُ",
+          "content": "لَهِيَ دار الحياة الدّائمة الخالدة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡحَیَوَانُۚ لَوۡ كَانُوا۟ یَعۡلَمُونَ ۝٦٤ فَإِذَا رَكِبُوا۟ فِی ٱلۡفُلۡكِ دَعَوُا۟ ٱللَّهَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهْوٌ وَلَعِبٌ",
+          "content": "لذائد مُتصرّمة، وعبث باطل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 29,
+          "ayahIndex": 64
+        },
+        {
+          "tokens": "لَهِىَ ٱلْحَيَوَانُ",
+          "content": "لَهِيَ دار الحياة الدّائمة الخالدة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 29,
+          "ayahIndex": 64
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لَهِىَ ٱلْحَيَوَانُ",
+          "content": "لَهِيَ دار الحياة الدّائمة الخالدة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مُخۡلِصِینَ لَهُ ٱلدِّینَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ إِذَا هُمۡ یُشۡرِكُونَ ۝٦٥",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلدِّينَ",
+          "content": "العبادة والطّاعة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 8,
+          "tokens": "ٱلدِّينَ",
+          "content": "العبادة والطّاعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لِیَكۡفُرُوا۟ بِمَاۤ ءَاتَیۡنَـٰهُمۡ وَلِیَتَمَتَّعُوا۟ۚ فَسَوۡفَ یَعۡلَمُونَ ۝٦٦",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَوَلَمۡ یَرَوۡا۟ أَنَّا جَعَلۡنَا حَرَمًا ءَامِنࣰا وَیُتَخَطَّفُ ٱلنَّاسُ مِنۡ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُتَخَطَّفُ ٱلنَّاسُ",
+          "content": "يُسلبون قتْلا وأسرا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 22,
+          "tokens": "وَيُتَخَطَّفُ ٱلنَّاسُ",
+          "content": "يُسلبون قتْلا وأسرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "حَوۡلِهِمۡۚ أَفَبِٱلۡبَـٰطِلِ یُؤۡمِنُونَ وَبِنِعۡمَةِ ٱللَّهِ یَكۡفُرُونَ ۝٦٧",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُتَخَطَّفُ ٱلنَّاسُ",
+          "content": "يُسلبون قتْلا وأسرا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِٱلۡحَقِّ لَمَّا جَاۤءَهُۥۤۚ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مكانٌ يَثْوُون فيه ويقيمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 29,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَلَیۡسَ فِی جَهَنَّمَ مَثۡوࣰى لِّلۡكَـٰفِرِینَ ۝٦٨ وَٱلَّذِینَ جَـٰهَدُوا۟",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مكانٌ يَثْوُون فيه ويقيمون",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 29,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 24,
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مكانٌ يَثْوُون فيه ويقيمون"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فِینَا لَنَهۡدِیَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِینَ ۝٦٩",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11998,
+      "text": "سورة الروم",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 11999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "الۤمۤ ۝١ غُلِبَتِ ٱلرُّومُ ۝٢ فِیۤ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "بَعۡدِ غَلَبِهِمۡ سَیَغۡلِبُونَ ۝٣ فِی بِضۡعِ سِنِینَۗ لِلَّهِ ٱلۡأَمۡرُ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَدْنَى ٱلْأَرْضِ",
+          "content": "أقرب أرض الرّوم إلى فارس",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 30,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "غَلَبِهِمْ",
+          "content": "كونهم مغلوبين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 30,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 10,
+          "tokens": "غَلَبِهِمْ",
+          "content": "كونهم مغلوبين"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَیَوۡمَىِٕذࣲ یَفۡرَحُ ٱلۡمُؤۡمِنُونَ ۝٤",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِنَصۡرِ ٱللَّهِۚ یَنصُرُ مَن یَشَاۤءُۖ وَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝٥",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

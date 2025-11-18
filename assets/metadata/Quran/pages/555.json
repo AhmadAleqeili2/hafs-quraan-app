@@ -1,0 +1,385 @@
+{
+  "pageIndex": 555,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا قِیلَ لَهُمۡ تَعَالَوۡا۟ یَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡا۟",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوَّوْا۟ رُءُوسَهُمْ",
+          "content": "عَطفوها إعرَاضا واستهزاءً",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 63,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 69,
+          "length": 9,
+          "tokens": "لَوَّوْا۟ رُءُوسَهُمْ",
+          "content": "عَطفوها إعرَاضا واستهزاءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رُءُوسَهُمۡ وَرَأَیۡتَهُمۡ یَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ ۝٥",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوَّوْا۟ رُءُوسَهُمْ",
+          "content": "عَطفوها إعرَاضا واستهزاءً",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 63,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "لَوَّوْا۟ رُءُوسَهُمْ",
+          "content": "عَطفوها إعرَاضا واستهزاءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "سَوَاۤءٌ عَلَیۡهِمۡ أَسۡتَغۡفَرۡتَ لَهُمۡ أَمۡ لَمۡ تَسۡتَغۡفِرۡ لَهُمۡ لَن",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَغۡفِرَ ٱللَّهُ لَهُمۡۚ إِنَّ ٱللَّهَ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلۡفَـٰسِقِینَ ۝٦",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "هُمُ ٱلَّذِینَ یَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنۡ عِندَ رَسُولِ ٱللَّهِ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَتَّىٰ يَنفَضُّوا۟",
+          "content": "كيْ يَتفرقوا عنه صلى الله عليه وسلم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 63,
+          "ayahIndex": 7
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "حَتَّىٰ یَنفَضُّوا۟ۗ وَلِلَّهِ خَزَاۤىِٕنُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَلَـٰكِنَّ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَتَّىٰ يَنفَضُّوا۟",
+          "content": "كيْ يَتفرقوا عنه صلى الله عليه وسلم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 63,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "حَتَّىٰ يَنفَضُّوا۟",
+          "content": "كيْ يَتفرقوا عنه صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡمُنَـٰفِقِینَ لَا یَفۡقَهُونَ ۝٧ یَقُولُونَ لَىِٕن رَّجَعۡنَاۤ إِلَى",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَتَّىٰ يَنفَضُّوا۟",
+          "content": "كيْ يَتفرقوا عنه صلى الله عليه وسلم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 63,
+          "ayahIndex": 7
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡمَدِینَةِ لَیُخۡرِجَنَّ ٱلۡأَعَزُّ مِنۡهَا ٱلۡأَذَلَّۚ وَلِلَّهِ ٱلۡعِزَّةُ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَّجَعْنَآ",
+          "content": "من غزوة بني المصطلق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "لَيُخْرِجَنَّ ٱلْأَعَزُّ",
+          "content": "الأشد والأقوى يَعنون أنفسهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "ٱلْأَذَلَّ",
+          "content": "الأضعف والأهون، يعنون الرسول والمؤمنين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "وَلِلَّهِ ٱلْعِزَّةُ",
+          "content": "الغَلبة والقهْر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 24,
+          "tokens": "لَيُخْرِجَنَّ ٱلْأَعَزُّ",
+          "content": "الأشد والأقوى يَعنون أنفسهم"
+        },
+        {
+          "start": 46,
+          "length": 11,
+          "tokens": "ٱلْأَذَلَّ",
+          "content": "الأضعف والأهون، يعنون الرسول والمؤمنين"
+        },
+        {
+          "start": 58,
+          "length": 20,
+          "tokens": "وَلِلَّهِ ٱلْعِزَّةُ",
+          "content": "الغَلبة والقهْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلِرَسُولِهِۦ وَلِلۡمُؤۡمِنِینَ وَلَـٰكِنَّ ٱلۡمُنَـٰفِقِینَ لَا یَعۡلَمُونَ ۝٨",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَّجَعْنَآ",
+          "content": "من غزوة بني المصطلق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "لَيُخْرِجَنَّ ٱلْأَعَزُّ",
+          "content": "الأشد والأقوى يَعنون أنفسهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "ٱلْأَذَلَّ",
+          "content": "الأضعف والأهون، يعنون الرسول والمؤمنين",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "وَلِلَّهِ ٱلْعِزَّةُ",
+          "content": "الغَلبة والقهْر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 63,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تُلۡهِكُمۡ أَمۡوَ ٰ⁠لُكُمۡ وَلَاۤ أَوۡلَـٰدُكُمۡ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تُلْهِكُمْ",
+          "content": "لا تشغَلْكم وتصْرفكمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ذِكْرِ ٱللَّهِ",
+          "content": "عِبادَته وطاعته ومراقبته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 14,
+          "tokens": "لَا تُلْهِكُمْ",
+          "content": "لا تشغَلْكم وتصْرفكمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَن ذِكۡرِ ٱللَّهِۚ وَمَن یَفۡعَلۡ ذَ ٰ⁠لِكَ فَأُو۟لَـٰۤىِٕكَ هُمُ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تُلْهِكُمْ",
+          "content": "لا تشغَلْكم وتصْرفكمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ذِكْرِ ٱللَّهِ",
+          "content": "عِبادَته وطاعته ومراقبته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 15,
+          "tokens": "ذِكْرِ ٱللَّهِ",
+          "content": "عِبادَته وطاعته ومراقبته"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡخَـٰسِرُونَ ۝٩ وَأَنفِقُوا۟ مِن مَّا رَزَقۡنَـٰكُم مِّن قَبۡلِ أَن",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تُلْهِكُمْ",
+          "content": "لا تشغَلْكم وتصْرفكمْ",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ذِكْرِ ٱللَّهِ",
+          "content": "عِبادَته وطاعته ومراقبته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 63,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَأۡتِیَ أَحَدَكُمُ ٱلۡمَوۡتُ فَیَقُولَ رَبِّ لَوۡلَاۤ أَخَّرۡتَنِیۤ إِلَىٰۤ أَجَلࣲ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوْلَآ أَخَّرْتَنِىٓ",
+          "content": "هلاّ أمهلتني وأخّرت أجَلي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 63,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 22,
+          "tokens": "لَوْلَآ أَخَّرْتَنِىٓ",
+          "content": "هلاّ أمهلتني وأخّرت أجَلي"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "قَرِیبࣲ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِینَ ۝١٠ وَلَن یُؤَخِّرَ",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَوْلَآ أَخَّرْتَنِىٓ",
+          "content": "هلاّ أمهلتني وأخّرت أجَلي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 63,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهُ نَفۡسًا إِذَا جَاۤءَ أَجَلُهَاۚ وَٱللَّهُ خَبِیرُۢ بِمَا تَعۡمَلُونَ ۝١١",
+      "surahIndexFirst": 63,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

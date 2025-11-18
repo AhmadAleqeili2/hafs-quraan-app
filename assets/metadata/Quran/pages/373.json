@@ -1,0 +1,179 @@
+{
+  "pageIndex": 373,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنۡ هَـٰذَاۤ إِلَّا خُلُقُ ٱلۡأَوَّلِینَ ۝١٣٧ وَمَا نَحۡنُ بِمُعَذَّبِینَ ۝١٣٨ فَكَذَّبُوهُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خُلُقُ ٱلْأَوَّلِينَ",
+          "content": "عادتهم في اعتقاد أن لا بعث",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 26,
+          "ayahIndex": 137
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 20,
+          "tokens": "خُلُقُ ٱلْأَوَّلِينَ",
+          "content": "عادتهم في اعتقاد أن لا بعث"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَأَهۡلَكۡنَـٰهُمۡۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ ۝١٣٩",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 139,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝١٤٠ كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِینَ ۝١٤١ إِذۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "قَالَ لَهُمۡ أَخُوهُمۡ صَـٰلِحٌ أَلَا تَتَّقُونَ ۝١٤٢ إِنِّی لَكُمۡ رَسُولٌ أَمِینࣱ ۝١٤٣",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 142,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٤٤ وَمَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِیَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِلَّا عَلَىٰ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٤٥ أَتُتۡرَكُونَ فِی مَا هَـٰهُنَاۤ ءَامِنِینَ ۝١٤٦",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 145,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "فِی جَنَّـٰتࣲ وَعُیُونࣲ ۝١٤٧ وَزُرُوعࣲ وَنَخۡلࣲ طَلۡعُهَا هَضِیمࣱ ۝١٤٨",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُیُوتࣰا فَـٰرِهِینَ ۝١٤٩ فَٱتَّقُوا۟ ٱللَّهَ وَأَطِیعُونِ ۝١٥٠",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٰرِهِينَ",
+          "content": "حاذقين بِنحتها أو متجبّرين",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 26,
+          "ayahIndex": 149
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 11,
+          "tokens": "فَٰرِهِينَ",
+          "content": "حاذقين بِنحتها أو متجبّرين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَا تُطِیعُوۤا۟ أَمۡرَ ٱلۡمُسۡرِفِینَ ۝١٥١ ٱلَّذِینَ یُفۡسِدُونَ فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَا یُصۡلِحُونَ ۝١٥٢ قَالُوۤا۟ إِنَّمَاۤ أَنتَ مِنَ ٱلۡمُسَحَّرِینَ ۝١٥٣ مَاۤ أَنتَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 152,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِلَّا بَشَرࣱ مِّثۡلُنَا فَأۡتِ بِـَٔایَةٍ إِن كُنتَ مِنَ ٱلصَّـٰدِقِینَ ۝١٥٤ قَالَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "هَـٰذِهِۦ نَاقَةࣱ لَّهَا شِرۡبࣱ وَلَكُمۡ شِرۡبُ یَوۡمࣲ مَّعۡلُومࣲ ۝١٥٥ وَلَا تَمَسُّوهَا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 155,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّهَا شِرْبٌ",
+          "content": "نصيب مشروب من الماء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 26,
+          "ayahIndex": 155
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 13,
+          "tokens": "لَّهَا شِرْبٌ",
+          "content": "نصيب مشروب من الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِسُوۤءࣲ فَیَأۡخُذَكُمۡ عَذَابُ یَوۡمٍ عَظِیمࣲ ۝١٥٦ فَعَقَرُوهَا فَأَصۡبَحُوا۟",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 156,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "نَـٰدِمِینَ ۝١٥٧ فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 157,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَكۡثَرُهُم مُّؤۡمِنِینَ ۝١٥٨ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ ٱلرَّحِیمُ ۝١٥٩",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 158,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

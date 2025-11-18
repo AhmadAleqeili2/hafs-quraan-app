@@ -1,0 +1,247 @@
+{
+  "pageIndex": 451,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَكَذَّبُوهُ فَإِنَّهُمۡ لَمُحۡضَرُونَ ۝١٢٧ إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِینَ ۝١٢٨",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَمُحْضَرُونَ",
+          "content": "تُحضرهم الزّبانية في النّار",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 37,
+          "ayahIndex": 127
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 13,
+          "tokens": "لَمُحْضَرُونَ",
+          "content": "تُحضرهم الزّبانية في النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَتَرَكۡنَا عَلَیۡهِ فِی ٱلۡـَٔاخِرِینَ ۝١٢٩ سَلَـٰمٌ عَلَىٰۤ إِلۡ یَاسِینَ ۝١٣٠ إِنَّا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 129,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ ۝١٣١ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ ۝١٣٢",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 131,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَإِنَّ لُوطࣰا لَّمِنَ ٱلۡمُرۡسَلِینَ ۝١٣٣ إِذۡ نَجَّیۡنَـٰهُ وَأَهۡلَهُۥۤ أَجۡمَعِینَ ۝١٣٤",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 133,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِلَّا عَجُوزࣰا فِی ٱلۡغَـٰبِرِینَ ۝١٣٥ ثُمَّ دَمَّرۡنَا ٱلۡـَٔاخَرِینَ ۝١٣٦ وَإِنَّكُمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْغَٰبِرِينَ",
+          "content": "في الباقين في العذاب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 135
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "فِى ٱلْغَٰبِرِينَ",
+          "content": "في الباقين في العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَتَمُرُّونَ عَلَیۡهِم مُّصۡبِحِینَ ۝١٣٧ وَبِٱلَّیۡلِۚ أَفَلَا تَعۡقِلُونَ ۝١٣٨ وَإِنَّ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّصْبِحِينَ",
+          "content": "داخلين في وقت الصّباح",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 137
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 12,
+          "tokens": "مُّصْبِحِينَ",
+          "content": "داخلين في وقت الصّباح"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یُونُسَ لَمِنَ ٱلۡمُرۡسَلِینَ ۝١٣٩ إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ ۝١٤٠",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 139,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَسَاهَمَ فَكَانَ مِنَ ٱلۡمُدۡحَضِینَ ۝١٤١ فَٱلۡتَقَمَهُ ٱلۡحُوتُ وَهُوَ مُلِیمࣱ ۝١٤٢",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 141,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَاهَمَ",
+          "content": "فقارع من في الفلك",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 37,
+          "ayahIndex": 141
+        },
+        {
+          "tokens": "ٱلْمُدْحَضِينَ",
+          "content": "المغلوبين بالقرعة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 141
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "فَسَاهَمَ",
+          "content": "فقارع من في الفلك"
+        },
+        {
+          "start": 23,
+          "length": 14,
+          "tokens": "ٱلْمُدْحَضِينَ",
+          "content": "المغلوبين بالقرعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَلَوۡلَاۤ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِینَ ۝١٤٣ لَلَبِثَ فِی بَطۡنِهِۦۤ إِلَىٰ یَوۡمِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 143,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُسَبِّحِينَ",
+          "content": "الذاكرين الله كثيرا بالتسبيح",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 37,
+          "ayahIndex": 143
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 15,
+          "tokens": "ٱلْمُسَبِّحِينَ",
+          "content": "الذاكرين الله كثيرا بالتسبيح"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یُبۡعَثُونَ ۝١٤٤ فَنَبَذۡنَـٰهُ بِٱلۡعَرَاۤءِ وَهُوَ سَقِیمࣱ ۝١٤٥ وَأَنۢبَتۡنَا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 144,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَلَیۡهِ شَجَرَةࣰ مِّن یَقۡطِینࣲ ۝١٤٦ وَأَرۡسَلۡنَـٰهُ إِلَىٰ مِا۟ئَةِ أَلۡفٍ أَوۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 146,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَقْطِينٍ",
+          "content": "هو القرع المعروف وقيل غيره",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 37,
+          "ayahIndex": 146
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 9,
+          "tokens": "يَقْطِينٍ",
+          "content": "هو القرع المعروف وقيل غيره"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "یَزِیدُونَ ۝١٤٧ فَـَٔامَنُوا۟ فَمَتَّعۡنَـٰهُمۡ إِلَىٰ حِینࣲ ۝١٤٨ فَٱسۡتَفۡتِهِمۡ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ ۝١٤٩ أَمۡ خَلَقۡنَا ٱلۡمَلَـٰۤىِٕكَةَ إِنَـٰثࣰا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَهُمۡ شَـٰهِدُونَ ۝١٥٠ أَلَاۤ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَیَقُولُونَ ۝١٥١ وَلَدَ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهُ وَإِنَّهُمۡ لَكَـٰذِبُونَ ۝١٥٢ أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِینَ ۝١٥٣",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 152,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

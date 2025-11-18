@@ -1,0 +1,385 @@
+{
+  "pageIndex": 226,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَیۡهِ مَلَأࣱ مِّن قَوۡمِهِۦ سَخِرُوا۟ مِنۡهُۚ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَالَ إِن تَسۡخَرُوا۟ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ ۝٣٨",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَسَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَیَحِلُّ عَلَیۡهِ عَذَابࣱ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخْزِيهِ",
+          "content": "يذلّه ويُهينه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "وَيَحِلُّ عَلَيْهِ",
+          "content": "يجب عليه وينزل به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 9,
+          "tokens": "يُخْزِيهِ",
+          "content": "يذلّه ويُهينه"
+        },
+        {
+          "start": 53,
+          "length": 18,
+          "tokens": "وَيَحِلُّ عَلَيْهِ",
+          "content": "يجب عليه وينزل به"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مُّقِیمٌ ۝٣٩ حَتَّىٰۤ إِذَا جَاۤءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِیهَا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخْزِيهِ",
+          "content": "يذلّه ويُهينه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "وَيَحِلُّ عَلَيْهِ",
+          "content": "يجب عليه وينزل به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 39
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِن كُلࣲّ زَوۡجَیۡنِ ٱثۡنَیۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَیۡهِ ٱلۡقَوۡلُ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء وجاش بشدّة من تنّور الخبز المعروف",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَنۡ ءَامَنَۚ وَمَاۤ ءَامَنَ مَعَهُۥۤ إِلَّا قَلِیلࣱ ۝٤٠ وَقَالَ ٱرۡكَبُوا۟ فِیهَا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء وجاش بشدّة من تنّور الخبز المعروف",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِسۡمِ ٱللَّهِ مَجۡرٜىٰهَا وَمُرۡسَىٰهَاۤۚ إِنَّ رَبِّی لَغَفُورࣱ رَّحِیمࣱ ۝٤١",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَجْر۪ىٰهَا",
+          "content": "وقت إجرائها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "وَمُرْسَىٰهَآ",
+          "content": "وقت إرسائها",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 11,
+          "tokens": "مَجْر۪ىٰهَا",
+          "content": "وقت إجرائها"
+        },
+        {
+          "start": 27,
+          "length": 15,
+          "tokens": "وَمُرْسَىٰهَآ",
+          "content": "وقت إرسائها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَهِیَ تَجۡرِی بِهِمۡ فِی مَوۡجࣲ كَٱلۡجِبَالِ وَنَادَىٰ نُوحٌ ٱبۡنَهُۥ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَكَانَ فِی مَعۡزِلࣲ یَـٰبُنَیَّ ٱرۡكَب مَّعَنَا وَلَا تَكُن مَّعَ ٱلۡكَـٰفِرِینَ ۝٤٢",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "قَالَ سَـَٔاوِیۤ إِلَىٰ جَبَلࣲ یَعۡصِمُنِی مِنَ ٱلۡمَاۤءِۚ قَالَ لَا عَاصِمَ ٱلۡیَوۡمَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَـَٔاوِىٓ",
+          "content": "سألتجئُ وأستندُ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَا عَاصِمَ",
+          "content": "لا مانع ولا حافظ",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 10,
+          "tokens": "سَـَٔاوِىٓ",
+          "content": "سألتجئُ وأستندُ"
+        },
+        {
+          "start": 65,
+          "length": 11,
+          "tokens": "لَا عَاصِمَ",
+          "content": "لا مانع ولا حافظ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَیۡنَهُمَا ٱلۡمَوۡجُ فَكَانَ مِنَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَـَٔاوِىٓ",
+          "content": "سألتجئُ وأستندُ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَا عَاصِمَ",
+          "content": "لا مانع ولا حافظ",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡمُغۡرَقِینَ ۝٤٣ وَقِیلَ یَـٰۤأَرۡضُ ٱبۡلَعِی مَاۤءَكِ وَیَـٰسَمَاۤءُ أَقۡلِعِی",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَـَٔاوِىٓ",
+          "content": "سألتجئُ وأستندُ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        },
+        {
+          "tokens": "لَا عَاصِمَ",
+          "content": "لا مانع ولا حافظ",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَغِیضَ ٱلۡمَاۤءُ وَقُضِیَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِیِّۖ وَقِیلَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْلِعِى",
+          "content": "أمسكي عن إنزال المطر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "وَغِيضَ ٱلْمَآءُ",
+          "content": "نقص وذهب في الأرض",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ",
+          "content": "استقرّت على جبل بقُرب الموصل",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "بُعْدًا",
+          "content": "هلاكا وسُحقا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَغِيضَ ٱلْمَآءُ",
+          "content": "نقص وذهب في الأرض"
+        },
+        {
+          "start": 37,
+          "length": 30,
+          "tokens": "وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ",
+          "content": "استقرّت على جبل بقُرب الموصل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "بُعۡدࣰا لِّلۡقَوۡمِ ٱلظَّـٰلِمِینَ ۝٤٤ وَنَادَىٰ نُوحࣱ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبۡنِی",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْلِعِى",
+          "content": "أمسكي عن إنزال المطر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "وَغِيضَ ٱلْمَآءُ",
+          "content": "نقص وذهب في الأرض",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "وَٱسْتَوَتْ عَلَى ٱلْجُودِىِّ",
+          "content": "استقرّت على جبل بقُرب الموصل",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "بُعْدًا",
+          "content": "هلاكا وسُحقا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 11,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "بُعْدًا",
+          "content": "هلاكا وسُحقا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِنۡ أَهۡلِی وَإِنَّ وَعۡدَكَ ٱلۡحَقُّ وَأَنتَ أَحۡكَمُ ٱلۡحَـٰكِمِینَ ۝٤٥",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

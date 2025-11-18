@@ -1,0 +1,193 @@
+{
+  "pageIndex": 23,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱلَّذِینَ ءَاتَیۡنَـٰهُمُ ٱلۡكِتَـٰبَ یَعۡرِفُونَهُۥ كَمَا یَعۡرِفُونَ أَبۡنَاۤءَهُمۡۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 146,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِنَّ فَرِیقࣰا مِّنۡهُمۡ لَیَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ یَعۡلَمُونَ ۝١٤٦ ٱلۡحَقُّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 146,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِینَ ۝١٤٧ وَلِكُلࣲّ وِجۡهَةٌ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 147,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشّاكّين في كتمانهم الحقّ مع العلم به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 147
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 14,
+          "tokens": "ٱلْمُمْتَرِينَ",
+          "content": "الشّاكّين في كتمانهم الحقّ مع العلم به"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "هُوَ مُوَلِّیهَاۖ فَٱسۡتَبِقُوا۟ ٱلۡخَیۡرَ ٰ⁠تِۚ أَیۡنَ مَا تَكُونُوا۟ یَأۡتِ بِكُمُ ٱللَّهُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "جَمِیعًاۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرࣱ ۝١٤٨ وَمِنۡ حَیۡثُ خَرَجۡتَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۖ وَإِنَّهُۥ لَلۡحَقُّ مِن رَّبِّكَۗ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَا ٱللَّهُ بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ ۝١٤٩ وَمِنۡ حَیۡثُ خَرَجۡتَ فَوَلِّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَحَیۡثُ مَا كُنتُمۡ فَوَلُّوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وُجُوهَكُمۡ شَطۡرَهُۥ لِئَلَّا یَكُونَ لِلنَّاسِ عَلَیۡكُمۡ حُجَّةٌ إِلَّا ٱلَّذِینَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ظَلَمُوا۟ مِنۡهُمۡ فَلَا تَخۡشَوۡهُمۡ وَٱخۡشَوۡنِی وَلِأُتِمَّ نِعۡمَتِی عَلَیۡكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَعَلَّكُمۡ تَهۡتَدُونَ ۝١٥٠ كَمَاۤ أَرۡسَلۡنَا فِیكُمۡ رَسُولࣰا مِّنكُمۡ یَتۡلُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَلَیۡكُمۡ ءَایَـٰتِنَا وَیُزَكِّیكُمۡ وَیُعَلِّمُكُمُ ٱلۡكِتَـٰبَ وَٱلۡحِكۡمَةَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُزَكِّيكُمْ",
+          "content": "يُطهّرهم من الشّرك والمعاصي",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْكِتَٰبَ وَٱلْحِكْمَةَ",
+          "content": "القرآن والسّنن والفقه في الدّين",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 151
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 14,
+          "tokens": "وَيُزَكِّيكُمْ",
+          "content": "يُطهّرهم من الشّرك والمعاصي"
+        },
+        {
+          "start": 55,
+          "length": 25,
+          "tokens": "ٱلْكِتَٰبَ وَٱلْحِكْمَةَ",
+          "content": "القرآن والسّنن والفقه في الدّين"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَیُعَلِّمُكُم مَّا لَمۡ تَكُونُوا۟ تَعۡلَمُونَ ۝١٥١ فَٱذۡكُرُونِیۤ أَذۡكُرۡكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيُزَكِّيكُمْ",
+          "content": "يُطهّرهم من الشّرك والمعاصي",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 151
+        },
+        {
+          "tokens": "ٱلْكِتَٰبَ وَٱلْحِكْمَةَ",
+          "content": "القرآن والسّنن والفقه في الدّين",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 151
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱشۡكُرُوا۟ لِی وَلَا تَكۡفُرُونِ ۝١٥٢ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 152,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱسۡتَعِینُوا۟ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِینَ ۝١٥٣",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 153,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

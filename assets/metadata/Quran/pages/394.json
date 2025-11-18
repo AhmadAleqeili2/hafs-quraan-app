@@ -1,0 +1,309 @@
+{
+  "pageIndex": 394,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قُلۡ أَرَءَیۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَیۡكُمُ ٱلَّیۡلَ سَرۡمَدًا إِلَىٰ یَوۡمِ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 28,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "سَرْمَدًا",
+          "content": "دائما مُطّردا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 12,
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني"
+        },
+        {
+          "start": 57,
+          "length": 9,
+          "tokens": "سَرْمَدًا",
+          "content": "دائما مُطّردا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡقِیَـٰمَةِ مَنۡ إِلَـٰهٌ غَیۡرُ ٱللَّهِ یَأۡتِیكُم بِضِیَاۤءٍۚ أَفَلَا تَسۡمَعُونَ ۝٧١",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 28,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "سَرْمَدًا",
+          "content": "دائما مُطّردا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قُلۡ أَرَءَیۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَیۡكُمُ ٱلنَّهَارَ سَرۡمَدًا إِلَىٰ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَوۡمِ ٱلۡقِیَـٰمَةِ مَنۡ إِلَـٰهٌ غَیۡرُ ٱللَّهِ یَأۡتِیكُم بِلَیۡلࣲ تَسۡكُنُونَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "فِیهِۚ أَفَلَا تُبۡصِرُونَ ۝٧٢ وَمِن رَّحۡمَتِهِۦ جَعَلَ لَكُمُ ٱلَّیۡلَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱلنَّهَارَ لِتَسۡكُنُوا۟ فِیهِ وَلِتَبۡتَغُوا۟ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَشۡكُرُونَ ۝٧٣ وَیَوۡمَ یُنَادِیهِمۡ فَیَقُولُ أَیۡنَ شُرَكَاۤءِیَ ٱلَّذِینَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "كُنتُمۡ تَزۡعُمُونَ ۝٧٤ وَنَزَعۡنَا مِن كُلِّ أُمَّةࣲ شَهِیدࣰا فَقُلۡنَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "هَاتُوا۟ بُرۡهَـٰنَكُمۡ فَعَلِمُوۤا۟ أَنَّ ٱلۡحَقَّ لِلَّهِ وَضَلَّ عَنۡهُم",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الباطل في الدّنيا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 28,
+          "ayahIndex": 75
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَّا كَانُوا۟ یَفۡتَرُونَ ۝٧٥ إِنَّ قَـٰرُونَ كَانَ مِن قَوۡمِ مُوسَىٰ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الباطل في الدّنيا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 28,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 11,
+          "tokens": "يَفْتَرُونَ",
+          "content": "يختلقونه من الباطل في الدّنيا"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَبَغَىٰ عَلَیۡهِمۡۖ وَءَاتَیۡنَـٰهُ مِنَ ٱلۡكُنُوزِ مَاۤ إِنَّ مَفَاتِحَهُۥ لَتَنُوۤأُ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبَغَىٰ عَلَيْهِمْ",
+          "content": "ظَلَمَهُم، أو تكبّرَ عليهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَتَنُوٓأُ بِٱلْعُصْبَةِ",
+          "content": "لتُثقل الجماعة الكثيرة وتميل بهم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَا تَفْرَحْ",
+          "content": "لا تبْطَرْ ولا تأشَرْ بكُثرَةِ المال",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "فَبَغَىٰ عَلَيْهِمْ",
+          "content": "ظَلَمَهُم، أو تكبّرَ عليهم"
+        },
+        {
+          "start": 77,
+          "length": 10,
+          "tokens": "لَتَنُوٓأُ بِٱلْعُصْبَةِ",
+          "content": "لتُثقل الجماعة الكثيرة وتميل بهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِٱلۡعُصۡبَةِ أُو۟لِی ٱلۡقُوَّةِ إِذۡ قَالَ لَهُۥ قَوۡمُهُۥ لَا تَفۡرَحۡۖ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبَغَىٰ عَلَيْهِمْ",
+          "content": "ظَلَمَهُم، أو تكبّرَ عليهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَتَنُوٓأُ بِٱلْعُصْبَةِ",
+          "content": "لتُثقل الجماعة الكثيرة وتميل بهم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَا تَفْرَحْ",
+          "content": "لا تبْطَرْ ولا تأشَرْ بكُثرَةِ المال",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لَتَنُوٓأُ بِٱلْعُصْبَةِ",
+          "content": "لتُثقل الجماعة الكثيرة وتميل بهم"
+        },
+        {
+          "start": 60,
+          "length": 13,
+          "tokens": "لَا تَفْرَحْ",
+          "content": "لا تبْطَرْ ولا تأشَرْ بكُثرَةِ المال"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَا یُحِبُّ ٱلۡفَرِحِینَ ۝٧٦ وَٱبۡتَغِ فِیمَاۤ ءَاتَىٰكَ ٱللَّهُ ٱلدَّارَ ٱلۡـَٔاخِرَةَۖ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَبَغَىٰ عَلَيْهِمْ",
+          "content": "ظَلَمَهُم، أو تكبّرَ عليهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَتَنُوٓأُ بِٱلْعُصْبَةِ",
+          "content": "لتُثقل الجماعة الكثيرة وتميل بهم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        },
+        {
+          "tokens": "لَا تَفْرَحْ",
+          "content": "لا تبْطَرْ ولا تأشَرْ بكُثرَةِ المال",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 76
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَا تَنسَ نَصِیبَكَ مِنَ ٱلدُّنۡیَاۖ وَأَحۡسِن كَمَاۤ أَحۡسَنَ ٱللَّهُ إِلَیۡكَۖ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَا تَبۡغِ ٱلۡفَسَادَ فِی ٱلۡأَرۡضِۖ إِنَّ ٱللَّهَ لَا یُحِبُّ ٱلۡمُفۡسِدِینَ ۝٧٧",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

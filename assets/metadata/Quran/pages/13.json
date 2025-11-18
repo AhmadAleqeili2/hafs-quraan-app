@@ -1,0 +1,513 @@
+{
+  "pageIndex": 13,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذۡ أَخَذۡنَا مِیثَـٰقَكُمۡ لَا تَسۡفِكُونَ دِمَاۤءَكُمۡ وَلَا تُخۡرِجُونَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَنفُسَكُم مِّن دِیَـٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ ۝٨٤",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ثُمَّ أَنتُمۡ هَـٰۤؤُلَاۤءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِیقࣰا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِّنكُم مِّن دِیَـٰرِهِمۡ تَظَـٰهَرُونَ عَلَیۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَ ٰ⁠نِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 23,
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَإِن یَأۡتُوكُمۡ أُسَـٰرَىٰ تُفَـٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَیۡكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 10,
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين"
+        },
+        {
+          "start": 29,
+          "length": 13,
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَـٰبِ وَتَكۡفُرُونَ بِبَعۡضࣲۚ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَمَا جَزَاۤءُ مَن یَفۡعَلُ ذَ ٰ⁠لِكَ مِنكُمۡ إِلَّا خِزۡیࣱ فِی ٱلۡحَیَوٰةِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 6,
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلدُّنۡیَاۖ وَیَوۡمَ ٱلۡقِیَـٰمَةِ یُرَدُّونَ إِلَىٰۤ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ ۝٨٥ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ ٱشۡتَرَوُا۟ ٱلۡحَیَوٰةَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَظَٰهَرُونَ عَلَيْهِم",
+          "content": "تتعاونون عليهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "أُسَٰرَىٰ",
+          "content": "مأسورين",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "تُفَٰدُوهُمْ",
+          "content": "تخرجوهم من الأسر بإعطاء الفدية",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        },
+        {
+          "tokens": "خِزْىٌ",
+          "content": "هوان وفضيحة وعقوبة",
+          "tokenFromIndex": 35,
+          "tokenToIndex": 35,
+          "surahIndex": 2,
+          "ayahIndex": 85
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلدُّنۡیَا بِٱلۡـَٔاخِرَةِۖ فَلَا یُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ یُنصَرُونَ ۝٨٦",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَقَدۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَقَفَّیۡنَا مِنۢ بَعۡدِهِۦ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 27,
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِٱلرُّسُلِۖ وَءَاتَیۡنَا عِیسَى ٱبۡنَ مَرۡیَمَ ٱلۡبَیِّنَـٰتِ وَأَیَّدۡنَـٰهُ بِرُوحِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته"
+        },
+        {
+          "start": 79,
+          "length": 7,
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡقُدُسِۗ أَفَكُلَّمَا جَاۤءَكُمۡ رَسُولُۢ بِمَا لَا تَهۡوَىٰۤ أَنفُسُكُمُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱسۡتَكۡبَرۡتُمۡ فَفَرِیقࣰا كَذَّبۡتُمۡ وَفَرِیقࣰا تَقۡتُلُونَ ۝٨٧ وَقَالُوا۟ قُلُوبُنَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَفَّيْنَا مِنۢ بَعْدِهِۦ بِٱلرُّسُلِ",
+          "content": "أتبعنا على أثره الرّسل على منهاجه يحكمون بشريعته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "بِرُوحِ ٱلْقُدُسِ",
+          "content": "بالروح المطهّر جبريل عليه السلام",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 87
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِیلࣰا مَّا یُؤۡمِنُونَ ۝٨٨",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُلُوبُنَا غُلْفٌۢ",
+          "content": "عليها أغشية وأغطية خِلقيّة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 88
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "قُلُوبُنَا غُلْفٌۢ",
+          "content": "عليها أغشية وأغطية خِلقيّة"
+        }
+      ]
+    }
+  ]
+}

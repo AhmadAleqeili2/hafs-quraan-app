@@ -1,0 +1,285 @@
+{
+  "pageIndex": 338,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن یُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ یَوۡمًا",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "عِندَ رَبِّكَ كَأَلۡفِ سَنَةࣲ مِّمَّا تَعُدُّونَ ۝٤٧ وَكَأَیِّن مِّن قَرۡیَةٍ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَمۡلَیۡتُ لَهَا وَهِیَ ظَالِمَةࣱ ثُمَّ أَخَذۡتُهَا وَإِلَیَّ ٱلۡمَصِیرُ ۝٤٨",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمْلَيْتُ لَهَا",
+          "content": "أمْهَلتُها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "أَمْلَيْتُ لَهَا",
+          "content": "أمْهَلتُها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "قُلۡ یَـٰۤأَیُّهَا ٱلنَّاسُ إِنَّمَاۤ أَنَا۠ لَكُمۡ نَذِیرࣱ مُّبِینࣱ ۝٤٩ فَٱلَّذِینَ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُم مَّغۡفِرَةࣱ وَرِزۡقࣱ كَرِیمࣱ ۝٥٠",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱلَّذِینَ سَعَوۡا۟ فِیۤ ءَایَـٰتِنَا مُعَـٰجِزِینَ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "ظانين أنهم يُعجزوننا ويفُوتوننا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 13,
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "ظانين أنهم يُعجزوننا ويفُوتوننا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡجَحِیمِ ۝٥١ وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولࣲ وَلَا نَبِیٍّ إِلَّاۤ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعَٰجِزِينَ",
+          "content": "ظانين أنهم يُعجزوننا ويفُوتوننا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 22,
+          "ayahIndex": 51
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِذَا تَمَنَّىٰۤ أَلۡقَى ٱلشَّیۡطَـٰنُ فِیۤ أُمۡنِیَّتِهِۦ فَیَنسَخُ ٱللَّهُ مَا یُلۡقِی",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَمَنَّىٰٓ",
+          "content": "قرأ الآيات المنزلة عليه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 22,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "أَلْقَى ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ",
+          "content": "ألقى في قلوب أوليائه الشُبَهَ فيما يقرؤه للفتنه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 10,
+          "tokens": "تَمَنَّىٰٓ",
+          "content": "قرأ الآيات المنزلة عليه"
+        },
+        {
+          "start": 17,
+          "length": 41,
+          "tokens": "أَلْقَى ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ",
+          "content": "ألقى في قلوب أوليائه الشُبَهَ فيما يقرؤه للفتنه"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلشَّیۡطَـٰنُ ثُمَّ یُحۡكِمُ ٱللَّهُ ءَایَـٰتِهِۦۗ وَٱللَّهُ عَلِیمٌ حَكِیمࣱ ۝٥٢ لِّیَجۡعَلَ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَمَنَّىٰٓ",
+          "content": "قرأ الآيات المنزلة عليه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 22,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "أَلْقَى ٱلشَّيْطَٰنُ فِىٓ أُمْنِيَّتِهِۦ",
+          "content": "ألقى في قلوب أوليائه الشُبَهَ فيما يقرؤه للفتنه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 15,
+          "surahIndex": 22,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَا یُلۡقِی ٱلشَّیۡطَـٰنُ فِتۡنَةࣰ لِّلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ وَٱلۡقَاسِیَةِ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "قُلُوبُهُمۡۗ وَإِنَّ ٱلظَّـٰلِمِینَ لَفِی شِقَاقِۭ بَعِیدࣲ ۝٥٣ وَلِیَعۡلَمَ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلَّذِینَ أُوتُوا۟ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَیُؤۡمِنُوا۟ بِهِۦ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتُخْبِتَ لَهُۥ",
+          "content": "فتطمئن وتسْكن للقرآن",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 22,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِینَ ءَامَنُوۤا۟ إِلَىٰ صِرَ ٰ⁠طࣲ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتُخْبِتَ لَهُۥ",
+          "content": "فتطمئن وتسْكن للقرآن",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 22,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "فَتُخْبِتَ لَهُۥ",
+          "content": "فتطمئن وتسْكن للقرآن"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مُّسۡتَقِیمࣲ ۝٥٤ وَلَا یَزَالُ ٱلَّذِینَ كَفَرُوا۟ فِی مِرۡیَةࣲ مِّنۡهُ حَتَّىٰ",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَتُخْبِتَ لَهُۥ",
+          "content": "فتطمئن وتسْكن للقرآن",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 22,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَأۡتِیَهُمُ ٱلسَّاعَةُ بَغۡتَةً أَوۡ یَأۡتِیَهُمۡ عَذَابُ یَوۡمٍ عَقِیمٍ ۝٥٥",
+      "surahIndexFirst": 22,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِرْيَةٍ مِّنْهُ",
+          "content": "شك وقلق من القرآن",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 22,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "يَوْمٍ عَقِيمٍ",
+          "content": "لا يوم بعده ( يوم القيامة )",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 22,
+          "ayahIndex": 55
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 14,
+          "tokens": "يَوْمٍ عَقِيمٍ",
+          "content": "لا يوم بعده ( يوم القيامة )"
+        }
+      ]
+    }
+  ]
+}

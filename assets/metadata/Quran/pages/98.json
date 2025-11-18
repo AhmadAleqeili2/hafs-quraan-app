@@ -1,0 +1,291 @@
+{
+  "pageIndex": 98,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَنُدۡخِلُهُمۡ جَنَّـٰتࣲ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 122,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِيلًا",
+          "content": "قولا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 122
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "تَجۡرِی مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۤ أَبَدࣰاۖ وَعۡدَ ٱللَّهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 122,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِيلًا",
+          "content": "قولا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 122
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "حَقࣰّاۚ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ قِیلࣰا ۝١٢٢ لَّیۡسَ بِأَمَانِیِّكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 122,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قِيلًا",
+          "content": "قولا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 122
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 6,
+          "tokens": "قِيلًا",
+          "content": "قولا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَلَاۤ أَمَانِیِّ أَهۡلِ ٱلۡكِتَـٰبِۗ مَن یَعۡمَلۡ سُوۤءࣰا یُجۡزَ بِهِۦ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَلَا یَجِدۡ لَهُۥ مِن دُونِ ٱللَّهِ وَلِیࣰّا وَلَا نَصِیرࣰا ۝١٢٣ وَمَن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَعۡمَلۡ مِنَ ٱلصَّـٰلِحَـٰتِ مِن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنࣱ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَقِيرًا",
+          "content": "قدْر النُقرة في ظهر النّواة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 4,
+          "ayahIndex": 124
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَأُو۟لَـٰۤىِٕكَ یَدۡخُلُونَ ٱلۡجَنَّةَ وَلَا یُظۡلَمُونَ نَقِیرࣰا ۝١٢٤ وَمَنۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَقِيرًا",
+          "content": "قدْر النُقرة في ظهر النّواة",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 4,
+          "ayahIndex": 124
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 8,
+          "tokens": "نَقِيرًا",
+          "content": "قدْر النُقرة في ظهر النّواة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَحۡسَنُ دِینࣰا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنࣱ وَٱتَّبَعَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسْلَمَ وَجْهَهُۥ لِلَّهِ",
+          "content": "أخلص نفسه أو توجّهه وعبادته لله",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 4,
+          "ayahIndex": 125
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الباطل إلى الدّين الحقّ",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 4,
+          "ayahIndex": 125
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 26,
+          "tokens": "أَسْلَمَ وَجْهَهُۥ لِلَّهِ",
+          "content": "أخلص نفسه أو توجّهه وعبادته لله"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِلَّةَ إِبۡرَ ٰ⁠هِیمَ حَنِیفࣰاۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَ ٰ⁠هِیمَ خَلِیلࣰا ۝١٢٥ وَلِلَّهِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسْلَمَ وَجْهَهُۥ لِلَّهِ",
+          "content": "أخلص نفسه أو توجّهه وعبادته لله",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 4,
+          "ayahIndex": 125
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الباطل إلى الدّين الحقّ",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 4,
+          "ayahIndex": 125
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 9,
+          "tokens": "حَنِيفًا",
+          "content": "مائلا عن الباطل إلى الدّين الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ وَكَانَ ٱللَّهُ بِكُلِّ شَیۡءࣲ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مُّحِیطࣰا ۝١٢٦ وَیَسۡتَفۡتُونَكَ فِی ٱلنِّسَاۤءِۖ قُلِ ٱللَّهُ یُفۡتِیكُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 126,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "فِیهِنَّ وَمَا یُتۡلَىٰ عَلَیۡكُمۡ فِی ٱلۡكِتَـٰبِ فِی یَتَـٰمَى ٱلنِّسَاۤءِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل في الميراث والأموال",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 127
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّـٰتِی لَا تُؤۡتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرۡغَبُونَ أَن تَنكِحُوهُنَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل في الميراث والأموال",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 127
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡمُسۡتَضۡعَفِینَ مِنَ ٱلۡوِلۡدَ ٰ⁠نِ وَأَن تَقُومُوا۟ لِلۡیَتَـٰمَىٰ بِٱلۡقِسۡطِۚ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل في الميراث والأموال",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 127
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 73,
+          "length": 12,
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل في الميراث والأموال"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَمَا تَفۡعَلُوا۟ مِنۡ خَیۡرࣲ فَإِنَّ ٱللَّهَ كَانَ بِهِۦ عَلِیمࣰا ۝١٢٧",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 127,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْقِسْطِ",
+          "content": "بالعدل في الميراث والأموال",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 127
+        }
+      ]
+    }
+  ]
+}

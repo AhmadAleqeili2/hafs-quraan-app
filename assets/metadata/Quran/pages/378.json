@@ -1,0 +1,291 @@
+{
+  "pageIndex": 378,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَجَحَدُوا۟ بِهَا وَٱسۡتَیۡقَنَتۡهَاۤ أَنفُسُهُمۡ ظُلۡمࣰا وَعُلُوࣰّاۚ فَٱنظُرۡ كَیۡفَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَعُلُوًّا",
+          "content": "ترفّعا واستكبارا عن الإيمان بها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 11,
+          "tokens": "وَعُلُوًّا",
+          "content": "ترفّعا واستكبارا عن الإيمان بها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "كَانَ عَـٰقِبَةُ ٱلۡمُفۡسِدِینَ ۝١٤ وَلَقَدۡ ءَاتَیۡنَا دَاوُۥدَ وَسُلَیۡمَـٰنَ عِلۡمࣰاۖ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَعُلُوًّا",
+          "content": "ترفّعا واستكبارا عن الإيمان بها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَقَالَا ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی فَضَّلَنَا عَلَىٰ كَثِیرࣲ مِّنۡ عِبَادِهِ ٱلۡمُؤۡمِنِینَ ۝١٥",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَوَرِثَ سُلَیۡمَـٰنُ دَاوُۥدَۖ وَقَالَ یَـٰۤأَیُّهَا ٱلنَّاسُ عُلِّمۡنَا مَنطِقَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَنطِقَ ٱلطَّيْرِ",
+          "content": "فهم أغراضه كلّها من أصواته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 74,
+          "length": 7,
+          "tokens": "مَنطِقَ ٱلطَّيْرِ",
+          "content": "فهم أغراضه كلّها من أصواته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلطَّیۡرِ وَأُوتِینَا مِن كُلِّ شَیۡءٍۖ إِنَّ هَـٰذَا لَهُوَ ٱلۡفَضۡلُ ٱلۡمُبِینُ ۝١٦",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَنطِقَ ٱلطَّيْرِ",
+          "content": "فهم أغراضه كلّها من أصواته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "مَنطِقَ ٱلطَّيْرِ",
+          "content": "فهم أغراضه كلّها من أصواته"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَحُشِرَ لِسُلَیۡمَـٰنَ جُنُودُهُۥ مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ وَٱلطَّیۡرِ فَهُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يوقف أوائلهم لتلحقهم أواخرهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 72,
+          "length": 6,
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يوقف أوائلهم لتلحقهم أواخرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یُوزَعُونَ ۝١٧ حَتَّىٰۤ إِذَاۤ أَتَوۡا۟ عَلَىٰ وَادِ ٱلنَّمۡلِ قَالَتۡ نَمۡلَةࣱ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يوقف أوائلهم لتلحقهم أواخرهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يوقف أوائلهم لتلحقهم أواخرهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلنَّمۡلُ ٱدۡخُلُوا۟ مَسَـٰكِنَكُمۡ لَا یَحۡطِمَنَّكُمۡ سُلَیۡمَـٰنُ وَجُنُودُهُۥ وَهُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَحْطِمَنَّكُمْ",
+          "content": "لا يكسرنّكم ويُهلِكنّكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 27,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 19,
+          "tokens": "لَا يَحْطِمَنَّكُمْ",
+          "content": "لا يكسرنّكم ويُهلِكنّكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَا یَشۡعُرُونَ ۝١٨ فَتَبَسَّمَ ضَاحِكࣰا مِّن قَوۡلِهَا وَقَالَ رَبِّ أَوۡزِعۡنِیۤ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَحْطِمَنَّكُمْ",
+          "content": "لا يكسرنّكم ويُهلِكنّكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 27,
+          "ayahIndex": 18
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَنۡ أَشۡكُرَ نِعۡمَتَكَ ٱلَّتِیۤ أَنۡعَمۡتَ عَلَیَّ وَعَلَىٰ وَ ٰ⁠لِدَیَّ وَأَنۡ أَعۡمَلَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْزِعْنِىٓ",
+          "content": "ألهمني وحرّضني واجعلني",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 19
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "صَـٰلِحࣰا تَرۡضَىٰهُ وَأَدۡخِلۡنِی بِرَحۡمَتِكَ فِی عِبَادِكَ ٱلصَّـٰلِحِینَ ۝١٩",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْزِعْنِىٓ",
+          "content": "ألهمني وحرّضني واجعلني",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 19
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَتَفَقَّدَ ٱلطَّیۡرَ فَقَالَ مَا لِیَ لَاۤ أَرَى ٱلۡهُدۡهُدَ أَمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "كَانَ مِنَ ۝٢٠ لَأُعَذِّبَنَّهُۥ عَذَابࣰا شَدِیدًا أَوۡ لَأَا۟ذۡبَحَنَّهُۥۤ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَوۡ لَیَأۡتِیَنِّی بِسُلۡطَـٰنࣲ مُّبِینࣲ ۝٢١ فَمَكَثَ غَیۡرَ بَعِیدࣲ فَقَالَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِسُلْطَٰنٍ مُّبِينٍ",
+          "content": "بحجّة تبيّن عُذره في غيبته",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 21,
+          "tokens": "بِسُلْطَٰنٍ مُّبِينٍ",
+          "content": "بحجّة تبيّن عُذره في غيبته"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَحَطتُ بِمَا لَمۡ تُحِطۡ بِهِۦ وَجِئۡتُكَ مِن سَبَإِۭ بِنَبَإࣲ یَقِینٍ ۝٢٢",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

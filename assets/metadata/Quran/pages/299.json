@@ -1,0 +1,441 @@
+{
+  "pageIndex": 299,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱلۡمَالُ وَٱلۡبَنُونَ زِینَةُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَاۖ وَٱلۡبَـٰقِیَـٰتُ ٱلصَّـٰلِحَـٰتُ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "خَیۡرٌ عِندَ رَبِّكَ ثَوَابࣰا وَخَیۡرٌ أَمَلࣰا ۝٤٦ وَیَوۡمَ نُسَیِّرُ ٱلۡجِبَالَ وَتَرَى",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡأَرۡضَ بَارِزَةࣰ وَحَشَرۡنَـٰهُمۡ فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدࣰا ۝٤٧ وَعُرِضُوا۟",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَارِزَةً",
+          "content": "ظاهرة لا يسترها شيء",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 18,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 9,
+          "tokens": "بَارِزَةً",
+          "content": "ظاهرة لا يسترها شيء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَلَىٰ رَبِّكَ صَفࣰّا لَّقَدۡ جِئۡتُمُونَا كَمَا خَلَقۡنَـٰكُمۡ أَوَّلَ مَرَّةِۭۚ بَلۡ زَعَمۡتُمۡ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوْعِدًا",
+          "content": "وقتا لإنجازنا الوعد بالبعث والجزاء",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 18,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَلَّن نَّجۡعَلَ لَكُم مَّوۡعِدࣰا ۝٤٨ وَوُضِعَ ٱلۡكِتَـٰبُ فَتَرَى ٱلۡمُجۡرِمِینَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوْعِدًا",
+          "content": "وقتا لإنجازنا الوعد بالبعث والجزاء",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 18,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 10,
+          "tokens": "مَّوْعِدًا",
+          "content": "وقتا لإنجازنا الوعد بالبعث والجزاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مُشۡفِقِینَ مِمَّا فِیهِ وَیَقُولُونَ یَـٰوَیۡلَتَنَا مَالِ هَـٰذَا ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "صُحُف الأعمال في أيدي أصحابها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "مُشْفِقِينَ",
+          "content": "خائفين وَجلين",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "يَٰوَيْلَتَنَا",
+          "content": "يا هلاكنا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "لَا يُغَادِرُ",
+          "content": "لا يترُك ولا يُبقي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "أَحْصَىٰهَا",
+          "content": "عدّها وضبطها وأثبتها",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مُشْفِقِينَ",
+          "content": "خائفين وَجلين"
+        },
+        {
+          "start": 38,
+          "length": 15,
+          "tokens": "يَٰوَيْلَتَنَا",
+          "content": "يا هلاكنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَا یُغَادِرُ صَغِیرَةࣰ وَلَا كَبِیرَةً إِلَّاۤ أَحۡصَىٰهَاۚ وَوَجَدُوا۟ مَا عَمِلُوا۟",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "صُحُف الأعمال في أيدي أصحابها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "مُشْفِقِينَ",
+          "content": "خائفين وَجلين",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "يَٰوَيْلَتَنَا",
+          "content": "يا هلاكنا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "لَا يُغَادِرُ",
+          "content": "لا يترُك ولا يُبقي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "أَحْصَىٰهَا",
+          "content": "عدّها وضبطها وأثبتها",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "لَا يُغَادِرُ",
+          "content": "لا يترُك ولا يُبقي"
+        },
+        {
+          "start": 48,
+          "length": 12,
+          "tokens": "أَحْصَىٰهَا",
+          "content": "عدّها وضبطها وأثبتها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "حَاضِرࣰاۗ وَلَا یَظۡلِمُ رَبُّكَ أَحَدࣰا ۝٤٩ وَإِذۡ قُلۡنَا لِلۡمَلَـٰۤىِٕكَةِ ٱسۡجُدُوا۟",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "صُحُف الأعمال في أيدي أصحابها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "مُشْفِقِينَ",
+          "content": "خائفين وَجلين",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "يَٰوَيْلَتَنَا",
+          "content": "يا هلاكنا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "لَا يُغَادِرُ",
+          "content": "لا يترُك ولا يُبقي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "أَحْصَىٰهَا",
+          "content": "عدّها وضبطها وأثبتها",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لِـَٔادَمَ فَسَجَدُوۤا۟ إِلَّاۤ إِبۡلِیسَ كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦۤۗ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْجُدُوا۟ لِءَادَمَ",
+          "content": "سجود تحية وتعظيم لا عبادة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ٱسْجُدُوا۟ لِءَادَمَ",
+          "content": "سجود تحية وتعظيم لا عبادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَفَتَتَّخِذُونَهُۥ وَذُرِّیَّتَهُۥۤ أَوۡلِیَاۤءَ مِن دُونِی وَهُمۡ لَكُمۡ عَدُوُّۢۚ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْجُدُوا۟ لِءَادَمَ",
+          "content": "سجود تحية وتعظيم لا عبادة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بِئۡسَ لِلظَّـٰلِمِینَ بَدَلࣰا ۝٥٠ مَّاۤ أَشۡهَدتُّهُمۡ خَلۡقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْجُدُوا۟ لِءَادَمَ",
+          "content": "سجود تحية وتعظيم لا عبادة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلَا خَلۡقَ أَنفُسِهِمۡ وَمَا كُنتُ مُتَّخِذَ ٱلۡمُضِلِّینَ عَضُدࣰا ۝٥١",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَضُدًا",
+          "content": "أعوانا وأنصارا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 18,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 7,
+          "tokens": "عَضُدًا",
+          "content": "أعوانا وأنصارا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَیَوۡمَ یَقُولُ نَادُوا۟ شُرَكَاۤءِیَ ٱلَّذِینَ زَعَمۡتُمۡ فَدَعَوۡهُمۡ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوْبِقًا",
+          "content": "مهلِكا يشتركون فيه وهو النّار",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 18,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَلَمۡ یَسۡتَجِیبُوا۟ لَهُمۡ وَجَعَلۡنَا بَیۡنَهُم مَّوۡبِقࣰا ۝٥٢ وَرَءَا ٱلۡمُجۡرِمُونَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّوْبِقًا",
+          "content": "مهلِكا يشتركون فيه وهو النّار",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 18,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 10,
+          "tokens": "مَّوْبِقًا",
+          "content": "مهلِكا يشتركون فيه وهو النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلنَّارَ فَظَنُّوۤا۟ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ یَجِدُوا۟ عَنۡهَا مَصۡرِفࣰا ۝٥٣",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّوَاقِعُوهَا",
+          "content": "واقعون فيها أو داخلون فيها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 18,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "مَصْرِفًا",
+          "content": "معدلا ومكانا ينصرفون إليه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 14,
+          "tokens": "مُّوَاقِعُوهَا",
+          "content": "واقعون فيها أو داخلون فيها"
+        },
+        {
+          "start": 70,
+          "length": 9,
+          "tokens": "مَصْرِفًا",
+          "content": "معدلا ومكانا ينصرفون إليه"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "pageIndex": 489,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَكَذَ ٰ⁠لِكَ أَوۡحَیۡنَاۤ إِلَیۡكَ رُوحࣰا مِّنۡ أَمۡرِنَاۚ مَا كُنتَ تَدۡرِی مَا ٱلۡكِتَـٰبُ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُوحًا",
+          "content": "قرآناً، أو نبُوّة أو جبريل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْإِيمَٰنُ",
+          "content": "الشّرائع التّفصيليّة التي لا تُعْلَم إلا بالوَحْي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "صِرَٰطٍ مُّسْتَقِيمٍ",
+          "content": "دينٍ قويم (دين الإسلام)",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 6,
+          "tokens": "رُوحًا",
+          "content": "قرآناً، أو نبُوّة أو جبريل"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَا ٱلۡإِیمَـٰنُ وَلَـٰكِن جَعَلۡنَـٰهُ نُورࣰا نَّهۡدِی بِهِۦ مَن نَّشَاۤءُ مِنۡ عِبَادِنَاۚ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُوحًا",
+          "content": "قرآناً، أو نبُوّة أو جبريل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْإِيمَٰنُ",
+          "content": "الشّرائع التّفصيليّة التي لا تُعْلَم إلا بالوَحْي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "صِرَٰطٍ مُّسْتَقِيمٍ",
+          "content": "دينٍ قويم (دين الإسلام)",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 12,
+          "tokens": "ٱلْإِيمَٰنُ",
+          "content": "الشّرائع التّفصيليّة التي لا تُعْلَم إلا بالوَحْي"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَإِنَّكَ لَتَهۡدِیۤ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝٥٢ صِرَ ٰ⁠طِ ٱللَّهِ ٱلَّذِی لَهُۥ",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُوحًا",
+          "content": "قرآناً، أو نبُوّة أو جبريل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "ٱلْإِيمَٰنُ",
+          "content": "الشّرائع التّفصيليّة التي لا تُعْلَم إلا بالوَحْي",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "صِرَٰطٍ مُّسْتَقِيمٍ",
+          "content": "دينٍ قويم (دين الإسلام)",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 42,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 22,
+          "tokens": "صِرَٰطٍ مُّسْتَقِيمٍ",
+          "content": "دينٍ قويم (دين الإسلام)"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۗ أَلَاۤ إِلَى ٱللَّهِ تَصِیرُ ٱلۡأُمُورُ ۝٥٣",
+      "surahIndexFirst": 42,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6998,
+      "text": "سورة الزخرف",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 6999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "حمۤ ۝١ وَٱلۡكِتَـٰبِ ٱلۡمُبِینِ ۝٢ إِنَّا جَعَلۡنَـٰهُ قُرۡءَ ٰ⁠ نًا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَرَبِیࣰّا لَّعَلَّكُمۡ ۝٣ وَإِنَّهُۥ فِیۤ أُمِّ ٱلۡكِتَـٰبِ لَدَیۡنَا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَعَلِیٌّ حَكِیمٌ ۝٤ أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمِّ ٱلْكِتَٰبِ",
+          "content": "اللّوح المحفوظ، أو العلم الأزليّ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 43,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن كُنتُمۡ قَوۡمࣰا مُّسۡرِفِینَ ۝٥ وَكَمۡ أَرۡسَلۡنَا مِن نَّبِیࣲّ فِی",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَنَضْرِبُ عَنكُمُ ٱلذِّكْرَ",
+          "content": "أفنترك تذكيركم وإلزامكم الحجّة بإنزال القرآن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 43,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "صَفْحًا",
+          "content": "إعراضا أو مُعرضين عنكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 43,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+          "content": "لكونكم مُفرطين في الجهالة والضّلالة ؟ لا نتركه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 43,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 32,
+          "tokens": "أَن كُنتُمْ قَوْمًا مُّسْرِفِينَ",
+          "content": "لكونكم مُفرطين في الجهالة والضّلالة ؟ لا نتركه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡأَوَّلِینَ ۝٦ وَمَا یَأۡتِیهِم مِّن نَّبِیٍّ إِلَّا كَانُوا۟ بِهِۦ یَسۡتَهۡزِءُونَ ۝٧",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَمْ أَرْسَلْنَا",
+          "content": "كثيرا أرسلنا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 43,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "فِى ٱلْأَوَّلِينَ",
+          "content": "في الأمم السّابقة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 43,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "فِى ٱلْأَوَّلِينَ",
+          "content": "في الأمم السّابقة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَأَهۡلَكۡنَاۤ أَشَدَّ مِنۡهُم بَطۡشࣰا وَمَضَىٰ مَثَلُ ٱلۡأَوَّلِینَ ۝٨",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَطْشًا",
+          "content": "قوة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 43,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "مَثَلُ ٱلْأَوَّلِينَ",
+          "content": "صفتهم أو قصّتهم العجيبة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 43,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 7,
+          "tokens": "بَطْشًا",
+          "content": "قوة"
+        },
+        {
+          "start": 48,
+          "length": 20,
+          "tokens": "مَثَلُ ٱلْأَوَّلِينَ",
+          "content": "صفتهم أو قصّتهم العجيبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَلَىِٕن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ لَیَقُولُنَّ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "خَلَقَهُنَّ ٱلۡعَزِیزُ ٱلۡعَلِیمُ ۝٩ ٱلَّذِی جَعَلَ لَكُمُ ٱلۡأَرۡضَ",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَهۡدࣰا وَجَعَلَ لَكُمۡ فِیهَا سُبُلࣰا لَّعَلَّكُمۡ تَهۡتَدُونَ ۝١٠",
+      "surahIndexFirst": 43,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَرْضَ مَهْدًا",
+          "content": "فِراشا ممهّدا للاستقرار عليها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 43,
+          "ayahIndex": 10
+        },
+        {
+          "tokens": "سُبُلًا",
+          "content": "طُرُقا تسلكونها، أو معايش",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 43,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "ٱلْأَرْضَ مَهْدًا",
+          "content": "فِراشا ممهّدا للاستقرار عليها"
+        },
+        {
+          "start": 31,
+          "length": 7,
+          "tokens": "سُبُلًا",
+          "content": "طُرُقا تسلكونها، أو معايش"
+        }
+      ]
+    }
+  ]
+}

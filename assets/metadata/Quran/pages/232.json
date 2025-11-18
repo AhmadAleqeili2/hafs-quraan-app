@@ -1,0 +1,377 @@
+{
+  "pageIndex": 232,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَـٰقَوۡمِ لَا یَجۡرِمَنَّكُمۡ شِقَاقِیۤ أَن یُصِیبَكُم مِّثۡلُ مَاۤ أَصَابَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَجْرِمَنَّكُمْ",
+          "content": "لا يكسبنّكم أو لا يحملنّكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 89
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 19,
+          "tokens": "لَا يَجْرِمَنَّكُمْ",
+          "content": "لا يكسبنّكم أو لا يحملنّكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَوۡمَ نُوحٍ أَوۡ قَوۡمَ هُودٍ أَوۡ قَوۡمَ صَـٰلِحࣲۚ وَمَا قَوۡمُ لُوطࣲ مِّنكُم",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَجْرِمَنَّكُمْ",
+          "content": "لا يكسبنّكم أو لا يحملنّكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 89
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِبَعِیدࣲ ۝٨٩ وَٱسۡتَغۡفِرُوا۟ رَبَّكُمۡ ثُمَّ تُوبُوۤا۟ إِلَیۡهِۚ إِنَّ رَبِّی",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَجْرِمَنَّكُمْ",
+          "content": "لا يكسبنّكم أو لا يحملنّكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 89
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "رَحِیمࣱ وَدُودࣱ ۝٩٠ قَالُوا۟ یَـٰشُعَیۡبُ مَا نَفۡقَهُ كَثِیرࣰا مِّمَّا تَقُولُ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَإِنَّا لَنَرَىٰكَ فِینَا ضَعِیفࣰاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَـٰكَۖ وَمَاۤ أَنتَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَهْطُكَ",
+          "content": "جماعتك وعشيرتك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 11,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 8,
+          "tokens": "رَهْطُكَ",
+          "content": "جماعتك وعشيرتك"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلَیۡنَا بِعَزِیزࣲ ۝٩١ قَالَ یَـٰقَوۡمِ أَرَهۡطِیۤ أَعَزُّ عَلَیۡكُم مِّنَ ٱللَّهِ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَهْطُكَ",
+          "content": "جماعتك وعشيرتك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 11,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱتَّخَذۡتُمُوهُ وَرَاۤءَكُمۡ ظِهۡرِیًّاۖ إِنَّ رَبِّی بِمَا تَعۡمَلُونَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَآءَكُمْ ظِهْرِيًّا",
+          "content": "منبوذا وراء ظهوركم منسيّا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 24,
+          "tokens": "وَرَآءَكُمْ ظِهْرِيًّا",
+          "content": "منبوذا وراء ظهوركم منسيّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مُحِیطࣱ ۝٩٢ وَیَـٰقَوۡمِ ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَـٰمِلࣱۖ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَرَآءَكُمْ ظِهْرِيًّا",
+          "content": "منبوذا وراء ظهوركم منسيّا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 92
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "سَوۡفَ تَعۡلَمُونَ مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَمَنۡ هُوَ كَـٰذِبࣱۖ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم من أمركم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "وَٱرْتَقِبُوٓا۟",
+          "content": "انتظروا العاقبة والمآل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 11,
+          "ayahIndex": 93
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱرۡتَقِبُوۤا۟ إِنِّی مَعَكُمۡ رَقِیبࣱ ۝٩٣ وَلَمَّا جَاۤءَ أَمۡرُنَا نَجَّیۡنَا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم من أمركم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 93
+        },
+        {
+          "tokens": "وَٱرْتَقِبُوٓا۟",
+          "content": "انتظروا العاقبة والمآل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 11,
+          "ayahIndex": 93
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَٱرْتَقِبُوٓا۟",
+          "content": "انتظروا العاقبة والمآل"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "شُعَیۡبࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَأَخَذَتِ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلصَّيْحَةُ",
+          "content": "صوت من السّماء مُهلكٌ مُرجفٌ",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 11,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "جَٰثِمِينَ",
+          "content": "هامدين ميّتين لا يتحرّكون",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 11,
+          "ayahIndex": 94
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلَّذِینَ ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ ۝٩٤",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلصَّيْحَةُ",
+          "content": "صوت من السّماء مُهلكٌ مُرجفٌ",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 11,
+          "ayahIndex": 94
+        },
+        {
+          "tokens": "جَٰثِمِينَ",
+          "content": "هامدين ميّتين لا يتحرّكون",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 11,
+          "ayahIndex": 94
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 11,
+          "tokens": "ٱلصَّيْحَةُ",
+          "content": "صوت من السّماء مُهلكٌ مُرجفٌ"
+        },
+        {
+          "start": 63,
+          "length": 11,
+          "tokens": "جَٰثِمِينَ",
+          "content": "هامدين ميّتين لا يتحرّكون"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَا بُعۡدࣰا لِّمَدۡیَنَ كَمَا بَعِدَتۡ ثَمُودُ ۝٩٥",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّمْ يَغْنَوْا۟ فِيهَآ",
+          "content": "لن يُقيموا فيها طويلا في رغد",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 95
+        },
+        {
+          "tokens": "بُعْدًا لِّمَدْيَنَ",
+          "content": "هلاكا وسُحقا لهم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 95
+        },
+        {
+          "tokens": "بَعِدَتْ ثَمُودُ",
+          "content": "هلكت من قبل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 95
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 25,
+          "tokens": "لَّمْ يَغْنَوْا۟ فِيهَآ",
+          "content": "لن يُقيموا فيها طويلا في رغد"
+        },
+        {
+          "start": 38,
+          "length": 19,
+          "tokens": "بُعْدًا لِّمَدْيَنَ",
+          "content": "هلاكا وسُحقا لهم"
+        },
+        {
+          "start": 64,
+          "length": 16,
+          "tokens": "بَعِدَتْ ثَمُودُ",
+          "content": "هلكت من قبل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔایَـٰتِنَا وَسُلۡطَـٰنࣲ مُّبِینٍ ۝٩٦ إِلَىٰ فِرۡعَوۡنَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَسُلْطَٰنٍ مُّبِينٍ",
+          "content": "بُرهان بيّن على صدق رسالته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 21,
+          "tokens": "وَسُلْطَٰنٍ مُّبِينٍ",
+          "content": "بُرهان بيّن على صدق رسالته"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَمَلَإِی۟هِۦ فَٱتَّبَعُوۤا۟ أَمۡرَ فِرۡعَوۡنَۖ وَمَاۤ أَمۡرُ فِرۡعَوۡنَ بِرَشِیدࣲ ۝٩٧",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

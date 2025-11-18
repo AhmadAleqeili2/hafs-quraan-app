@@ -1,0 +1,399 @@
+{
+  "pageIndex": 388,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَمَّا تَوَجَّهَ تِلۡقَاۤءَ مَدۡیَنَ قَالَ عَسَىٰ رَبِّیۤ أَن یَهۡدِیَنِی سَوَاۤءَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تِلْقَآءَ مَدْيَنَ",
+          "content": "جهتِها ونحْوها (قرية شعيب)",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 28,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "الطريق الوسط الذي فيه النّجاة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 19,
+          "tokens": "تِلْقَآءَ مَدْيَنَ",
+          "content": "جهتِها ونحْوها (قرية شعيب)"
+        },
+        {
+          "start": 76,
+          "length": 8,
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "الطريق الوسط الذي فيه النّجاة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلسَّبِیلِ ۝٢٢ وَلَمَّا وَرَدَ مَاۤءَ مَدۡیَنَ وَجَدَ عَلَیۡهِ أُمَّةࣰ مِّنَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تِلْقَآءَ مَدْيَنَ",
+          "content": "جهتِها ونحْوها (قرية شعيب)",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 28,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "الطريق الوسط الذي فيه النّجاة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "سَوَآءَ ٱلسَّبِيلِ",
+          "content": "الطريق الوسط الذي فيه النّجاة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلنَّاسِ یَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَیۡنِ تَذُودَانِۖ قَالَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً مِّنَ ٱلنَّاسِ",
+          "content": "جماعة كثيرة منهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "تَذُودَانِ",
+          "content": "تمنعان أغنامهما عن الماء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مَا خَطْبُكُمَا",
+          "content": "ما شأنكما ؟ ما مطلوبكما؟",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "يُصْدِرَ ٱلرِّعَآءُ",
+          "content": "يصرف الرعاة مواشيَهم عن الماء",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "أُمَّةً مِّنَ ٱلنَّاسِ",
+          "content": "جماعة كثيرة منهم"
+        },
+        {
+          "start": 56,
+          "length": 11,
+          "tokens": "تَذُودَانِ",
+          "content": "تمنعان أغنامهما عن الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِی حَتَّىٰ یُصۡدِرَ ٱلرِّعَاۤءُۖ وَأَبُونَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً مِّنَ ٱلنَّاسِ",
+          "content": "جماعة كثيرة منهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "تَذُودَانِ",
+          "content": "تمنعان أغنامهما عن الماء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مَا خَطْبُكُمَا",
+          "content": "ما شأنكما ؟ ما مطلوبكما؟",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "يُصْدِرَ ٱلرِّعَآءُ",
+          "content": "يصرف الرعاة مواشيَهم عن الماء",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "مَا خَطْبُكُمَا",
+          "content": "ما شأنكما ؟ ما مطلوبكما؟"
+        },
+        {
+          "start": 46,
+          "length": 21,
+          "tokens": "يُصْدِرَ ٱلرِّعَآءُ",
+          "content": "يصرف الرعاة مواشيَهم عن الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "شَیۡخࣱ كَبِیرࣱ ۝٢٣ فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰۤ إِلَى ٱلظِّلِّ فَقَالَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمَّةً مِّنَ ٱلنَّاسِ",
+          "content": "جماعة كثيرة منهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "تَذُودَانِ",
+          "content": "تمنعان أغنامهما عن الماء",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "مَا خَطْبُكُمَا",
+          "content": "ما شأنكما ؟ ما مطلوبكما؟",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "يُصْدِرَ ٱلرِّعَآءُ",
+          "content": "يصرف الرعاة مواشيَهم عن الماء",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 28,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "رَبِّ إِنِّی لِمَاۤ أَنزَلۡتَ إِلَیَّ مِنۡ خَیۡرࣲ فَقِیرࣱ ۝٢٤ فَجَاۤءَتۡهُ إِحۡدَىٰهُمَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَمۡشِی عَلَى ٱسۡتِحۡیَاۤءࣲ قَالَتۡ إِنَّ أَبِی یَدۡعُوكَ لِیَجۡزِیَكَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَجۡرَ مَا سَقَیۡتَ لَنَاۚ فَلَمَّا جَاۤءَهُۥ وَقَصَّ عَلَیۡهِ ٱلۡقَصَصَ قَالَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَا تَخَفۡۖ نَجَوۡتَ مِنَ ٱلۡقَوۡمِ ٱلظَّـٰلِمِینَ ۝٢٥ قَالَتۡ إِحۡدَىٰهُمَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَـٰۤأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَیۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ ٱلۡقَوِیُّ ٱلۡأَمِینُ ۝٢٦",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "قَالَ إِنِّیۤ أُرِیدُ أَنۡ أُنكِحَكَ إِحۡدَى ٱبۡنَتَیَّ هَـٰتَیۡنِ عَلَىٰۤ أَن",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْجُرَنِى",
+          "content": "تكون لي أجيرا في رعي الغنم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "حِجَجٍ",
+          "content": "سنين",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَأۡجُرَنِی ثَمَـٰنِیَ حِجَجࣲۖ فَإِنۡ أَتۡمَمۡتَ عَشۡرࣰا فَمِنۡ عِندِكَۖ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْجُرَنِى",
+          "content": "تكون لي أجيرا في رعي الغنم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "حِجَجٍ",
+          "content": "سنين",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "تَأْجُرَنِى",
+          "content": "تكون لي أجيرا في رعي الغنم"
+        },
+        {
+          "start": 23,
+          "length": 7,
+          "tokens": "حِجَجٍ",
+          "content": "سنين"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَاۤ أُرِیدُ أَنۡ أَشُقَّ عَلَیۡكَۚ سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ مِنَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْجُرَنِى",
+          "content": "تكون لي أجيرا في رعي الغنم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "حِجَجٍ",
+          "content": "سنين",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلصَّـٰلِحِینَ ۝٢٧ قَالَ ذَ ٰ⁠لِكَ بَیۡنِی وَبَیۡنَكَۖ أَیَّمَا ٱلۡأَجَلَیۡنِ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْجُرَنِى",
+          "content": "تكون لي أجيرا في رعي الغنم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "حِجَجٍ",
+          "content": "سنين",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 28,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَضَیۡتُ فَلَا عُدۡوَ ٰ⁠نَ عَلَیَّۖ وَٱللَّهُ عَلَىٰ مَا نَقُولُ وَكِیلࣱ ۝٢٨",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

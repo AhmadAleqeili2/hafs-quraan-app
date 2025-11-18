@@ -1,0 +1,331 @@
+{
+  "pageIndex": 586,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "تَرۡهَقُهَا قَتَرَةٌ ۝٤١ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡكَفَرَةُ ٱلۡفَجَرَةُ ۝٤٢",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَرْهَقُهَا قَتَرَةٌ",
+          "content": "تَغْشاها ظُلْمَة وسواد",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "تَرْهَقُهَا قَتَرَةٌ",
+          "content": "تَغْشاها ظُلْمَة وسواد"
+        }
+      ]
+    },
+    {
+      "sortKey": 3998,
+      "text": "سورة التكوير",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "ٱلشَّمْسُ كُوِّرَتْ",
+          "content": "أزيل ضِياؤها أو لُفّت وطُويَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلشَّمْسُ كُوِّرَتْ",
+          "content": "أزيل ضِياؤها أو لُفّت وطُويَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ ۝١ وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ ۝٢ وَإِذَا ٱلۡجِبَالُ",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلشَّمْسُ كُوِّرَتْ",
+          "content": "أزيل ضِياؤها أو لُفّت وطُويَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 19,
+          "tokens": "ٱلشَّمْسُ كُوِّرَتْ",
+          "content": "أزيل ضِياؤها أو لُفّت وطُويَتْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "سُیِّرَتۡ ۝٣ وَإِذَا ٱلۡعِشَارُ عُطِّلَتۡ ۝٤ وَإِذَا ٱلۡوُحُوشُ حُشِرَتۡ ۝٥",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجِبَالُ سُيِّرَتْ",
+          "content": "أزيلتْ عن مَوَاضعها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "ٱلْجِبَالُ سُيِّرَتْ",
+          "content": "أزيلتْ عن مَوَاضعها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَإِذَا ٱلۡبِحَارُ سُجِّرَتۡ ۝٦ وَإِذَا ٱلنُّفُوسُ زُوِّجَتۡ ۝٧ وَإِذَا ٱلۡمَوۡءُۥدَةُ",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبِحَارُ سُجِّرَتْ",
+          "content": "أوقِدَتْ فصَارتْ نارًا تَضْطرم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 20,
+          "tokens": "ٱلْبِحَارُ سُجِّرَتْ",
+          "content": "أوقِدَتْ فصَارتْ نارًا تَضْطرم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "سُىِٕلَتۡ ۝٨ بِأَیِّ ذَنۢبࣲ قُتِلَتۡ ۝٩ وَإِذَا ٱلصُّحُفُ نُشِرَتۡ ۝١٠",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَوْءُۥدَةُ",
+          "content": "البنْت التي تُدْفن حَيّة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 81,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَإِذَا ٱلسَّمَاۤءُ كُشِطَتۡ ۝١١ وَإِذَا ٱلۡجَحِیمُ سُعِّرَتۡ ۝١٢ وَإِذَا ٱلۡجَنَّةُ",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّمَآءُ كُشِطَتْ",
+          "content": "قُلِعَتْ كما يُقْلع السّقف",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 20,
+          "tokens": "ٱلسَّمَآءُ كُشِطَتْ",
+          "content": "قُلِعَتْ كما يُقْلع السّقف"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أُزۡلِفَتۡ ۝١٣ عَلِمَتۡ نَفۡسࣱ مَّاۤ أَحۡضَرَتۡ ۝١٤ فَلَاۤ أُقۡسِمُ بِٱلۡخُنَّسِ ۝١٥",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجَنَّةُ أُزْلِفَتْ",
+          "content": "قُرّبَتْ وأدْنِيَتْ من المتّقين",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ٱلْجَنَّةُ أُزْلِفَتْ",
+          "content": "قُرّبَتْ وأدْنِيَتْ من المتّقين"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡجَوَارِ ٱلۡكُنَّسِ ۝١٦ وَٱلَّیۡلِ إِذَا عَسۡعَسَ ۝١٧ وَٱلصُّبۡحِ إِذَا تَنَفَّسَ ۝١٨",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+          "content": "بالكواكب السّيّارة تخْنُس نهارا وتخْتفي عن البَصر وهي فوق الأفق، وتظهر ليلا ثم تكنس وتستتر في مغيبها تحت الأفق",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 81,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+          "content": "بالكواكب السّيّارة تخْنُس نهارا وتخْتفي عن البَصر وهي فوق الأفق، وتظهر ليلا ثم تكنس وتستتر في مغيبها تحت الأفق"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِنَّهُۥ لَقَوۡلُ رَسُولࣲ كَرِیمࣲ ۝١٩ ذِی قُوَّةٍ عِندَ ذِی ٱلۡعَرۡشِ مَكِینࣲ ۝٢٠ مُّطَاعࣲ ثَمَّ",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّهُۥ لَقَوْلُ رَسُولٍ",
+          "content": "جبريل عن الله ( جواب القسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 81,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "إِنَّهُۥ لَقَوْلُ رَسُولٍ",
+          "content": "جبريل عن الله ( جواب القسم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَمِینࣲ ۝٢١ وَمَا صَاحِبُكُم بِمَجۡنُونࣲ ۝٢٢ وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِینِ ۝٢٣",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَا هُوَ عَلَى ٱلۡغَیۡبِ بِضَنِینࣲ ۝٢٤ وَمَا هُوَ بِقَوۡلِ شَیۡطَـٰنࣲ رَّجِیمࣲ ۝٢٥",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَيْبِ",
+          "content": "الوَحْي وخبَر السّماء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 81,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "بِضَنِينٍ",
+          "content": "ِببَخيل فيُقصّر في تبليغه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 81,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 9,
+          "tokens": "ٱلْغَيْبِ",
+          "content": "الوَحْي وخبَر السّماء"
+        },
+        {
+          "start": 27,
+          "length": 9,
+          "tokens": "بِضَنِينٍ",
+          "content": "ِببَخيل فيُقصّر في تبليغه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَأَیۡنَ تَذۡهَبُونَ ۝٢٦ إِنۡ هُوَ إِلَّا ذِكۡرࣱ لِّلۡعَـٰلَمِینَ ۝٢٧ لِمَن شَاۤءَ مِنكُمۡ أَن",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَسۡتَقِیمَ ۝٢٨ وَمَا تَشَاۤءُونَ إِلَّاۤ أَن یَشَاۤءَ ٱللَّهُ رَبُّ ٱلۡعَـٰلَمِینَ ۝٢٩",
+      "surahIndexFirst": 81,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

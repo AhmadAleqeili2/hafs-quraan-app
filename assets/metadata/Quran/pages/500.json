@@ -1,0 +1,275 @@
+{
+  "pageIndex": 500,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قُل لِّلَّذِینَ ءَامَنُوا۟ یَغۡفِرُوا۟ لِلَّذِینَ لَا یَرۡجُونَ أَیَّامَ ٱللَّهِ لِیَجۡزِیَ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ أَيَّامَ ٱللَّهِ",
+          "content": "لا يتوقعون وقائعه بأعدائه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 9,
+          "surahIndex": 45,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 30,
+          "tokens": "لَا يَرْجُونَ أَيَّامَ ٱللَّهِ",
+          "content": "لا يتوقعون وقائعه بأعدائه"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَوۡمَۢا بِمَا كَانُوا۟ یَكۡسِبُونَ ۝١٤ مَنۡ عَمِلَ صَـٰلِحࣰا فَلِنَفۡسِهِۦۖ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَرْجُونَ أَيَّامَ ٱللَّهِ",
+          "content": "لا يتوقعون وقائعه بأعدائه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 9,
+          "surahIndex": 45,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَمَنۡ أَسَاۤءَ فَعَلَیۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ ۝١٥ وَلَقَدۡ ءَاتَیۡنَا",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ٱلۡكِتَـٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَـٰهُم مِّنَ ٱلطَّیِّبَـٰتِ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَفَضَّلۡنَـٰهُمۡ عَلَى ٱلۡعَـٰلَمِینَ ۝١٦ وَءَاتَیۡنَـٰهُم بَیِّنَـٰتࣲ مِّنَ ٱلۡأَمۡرِۖ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَمَا ٱخۡتَلَفُوۤا۟ إِلَّا مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡعِلۡمُ بَغۡیَۢا بَیۡنَهُمۡۚ إِنَّ رَبَّكَ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "حسدا وعداوة بينهم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 45,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 64,
+          "length": 20,
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "حسدا وعداوة بينهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَقۡضِی بَیۡنَهُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ فِیمَا كَانُوا۟ فِیهِ یَخۡتَلِفُونَ ۝١٧",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغْيًۢا بَيْنَهُمْ",
+          "content": "حسدا وعداوة بينهم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 45,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ثُمَّ جَعَلۡنَـٰكَ عَلَىٰ شَرِیعَةࣲ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا تَتَّبِعۡ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرِيعَةٍ مِّنَ ٱلْأَمْرِ",
+          "content": "طريقة ومنهاج من أمر الدين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 45,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 25,
+          "tokens": "شَرِيعَةٍ مِّنَ ٱلْأَمْرِ",
+          "content": "طريقة ومنهاج من أمر الدين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَهۡوَاۤءَ ٱلَّذِینَ لَا یَعۡلَمُونَ ۝١٨ إِنَّهُمۡ لَن یُغۡنُوا۟ عَنكَ مِنَ ٱللَّهِ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَرِيعَةٍ مِّنَ ٱلْأَمْرِ",
+          "content": "طريقة ومنهاج من أمر الدين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 45,
+          "ayahIndex": 18
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "شَیۡـࣰٔاۚ وَإِنَّ ٱلظَّـٰلِمِینَ بَعۡضُهُمۡ أَوۡلِیَاۤءُ بَعۡضࣲۖ وَٱللَّهُ وَلِیُّ ٱلۡمُتَّقِینَ ۝١٩",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَن يُغْنُوا۟ عَنكَ",
+          "content": "لن يدفعوا عنك",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 45,
+          "ayahIndex": 19
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "هَـٰذَا بَصَـٰۤىِٕرُ لِلنَّاسِ وَهُدࣰى وَرَحۡمَةࣱ لِّقَوۡمࣲ یُوقِنُونَ ۝٢٠",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَصَٰٓئِرُ لِلنَّاسِ",
+          "content": "بيّنات تبصّرُهم سبيل الفلاح",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 45,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 22,
+          "tokens": "بَصَٰٓئِرُ لِلنَّاسِ",
+          "content": "بيّنات تبصّرُهم سبيل الفلاح"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَمۡ حَسِبَ ٱلَّذِینَ ٱجۡتَرَحُوا۟ ٱلسَّیِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِینَ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ",
+          "content": "اكتسبوا المعاصي والكفر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 45,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 27,
+          "tokens": "ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ",
+          "content": "اكتسبوا المعاصي والكفر"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ سَوَاۤءࣰ مَّحۡیَاهُمۡ وَمَمَاتُهُمۡۚ سَاۤءَ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ",
+          "content": "اكتسبوا المعاصي والكفر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 45,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَا یَحۡكُمُونَ ۝٢١ وَخَلَقَ ٱللَّهُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ بِٱلۡحَقِّ",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱجْتَرَحُوا۟ ٱلسَّيِّـَٔاتِ",
+          "content": "اكتسبوا المعاصي والكفر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 45,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ وَهُمۡ لَا یُظۡلَمُونَ ۝٢٢",
+      "surahIndexFirst": 45,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

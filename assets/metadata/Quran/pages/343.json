@@ -1,0 +1,411 @@
+{
+  "pageIndex": 343,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَنزَلۡنَا مِنَ ٱلسَّمَاۤءِ مَاۤءَۢ بِقَدَرࣲ فَأَسۡكَنَّـٰهُ فِی ٱلۡأَرۡضِۖ وَإِنَّا عَلَىٰ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِقَدَرٍ",
+          "content": "بمقدار الحاجة والمصلحة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 8,
+          "tokens": "بِقَدَرٍ",
+          "content": "بمقدار الحاجة والمصلحة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ذَهَابِۭ بِهِۦ لَقَـٰدِرُونَ ۝١٨ فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّـٰتࣲ مِّن نَّخِیلࣲ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِقَدَرٍ",
+          "content": "بمقدار الحاجة والمصلحة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 18
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَأَعۡنَـٰبࣲ لَّكُمۡ فِیهَا فَوَ ٰ⁠كِهُ كَثِیرَةࣱ وَمِنۡهَا تَأۡكُلُونَ ۝١٩ وَشَجَرَةࣰ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَخۡرُجُ مِن طُورِ سَیۡنَاۤءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغࣲ لِّلۡـَٔاكِلِینَ ۝٢٠",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَشَجَرَةً",
+          "content": "هي شجرة الزيتون",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 23,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "بِٱلدُّهْنِ",
+          "content": "مُلتبسًا ثمرها بالزيت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 23,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "وَصِبْغٍ لِّلْءَاكِلِينَ",
+          "content": "إدام لهم يغمس فيه الخبز",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 23,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 11,
+          "tokens": "بِٱلدُّهْنِ",
+          "content": "مُلتبسًا ثمرها بالزيت"
+        },
+        {
+          "start": 51,
+          "length": 25,
+          "tokens": "وَصِبْغٍ لِّلْءَاكِلِينَ",
+          "content": "إدام لهم يغمس فيه الخبز"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَإِنَّ لَكُمۡ فِی ٱلۡأَنۡعَـٰمِ لَعِبۡرَةࣰۖ نُّسۡقِیكُم مِّمَّا فِی بُطُونِهَا وَلَكُمۡ فِیهَا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 23,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة وآية على القدْرَة والرّحمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 13,
+          "tokens": "ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز"
+        },
+        {
+          "start": 33,
+          "length": 11,
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة وآية على القدْرَة والرّحمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَنَـٰفِعُ كَثِیرَةࣱ وَمِنۡهَا تَأۡكُلُونَ ۝٢١ وَعَلَیۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ ۝٢٢",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَنْعَٰمِ",
+          "content": "الإبل والبقر والضأن والمعز",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 23,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "لَعِبْرَةً",
+          "content": "لعظة وآية على القدْرَة والرّحمة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ یَـٰقَوۡمِ ٱعۡبُدُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَا لَكُم مِّنۡ إِلَـٰهٍ غَیۡرُهُۥۤۚ أَفَلَا تَتَّقُونَ ۝٢٣ فَقَالَ ٱلۡمَلَؤُا۟ ٱلَّذِینَ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَفَرُوا۟ مِن قَوۡمِهِۦ مَا هَـٰذَاۤ إِلَّا بَشَرࣱ مِّثۡلُكُمۡ یُرِیدُ أَن یَتَفَضَّلَ عَلَیۡكُمۡ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَلَؤُا۟",
+          "content": "وُجوه القوْم وسَادَتهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "يَتَفَضَّلَ عَلَيْكُمْ",
+          "content": "يترأس ويَشْرُف عليكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 75,
+          "length": 22,
+          "tokens": "يَتَفَضَّلَ عَلَيْكُمْ",
+          "content": "يترأس ويَشْرُف عليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَوۡ شَاۤءَ ٱللَّهُ لَأَنزَلَ مَلَـٰۤىِٕكَةࣰ مَّا سَمِعۡنَا بِهَـٰذَا فِیۤ ءَابَاۤىِٕنَا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَلَؤُا۟",
+          "content": "وُجوه القوْم وسَادَتهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "يَتَفَضَّلَ عَلَيْكُمْ",
+          "content": "يترأس ويَشْرُف عليكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡأَوَّلِینَ ۝٢٤ إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةࣱ فَتَرَبَّصُوا۟ بِهِۦ حَتَّىٰ حِینࣲ ۝٢٥",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَلَؤُا۟",
+          "content": "وُجوه القوْم وسَادَتهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "يَتَفَضَّلَ عَلَيْكُمْ",
+          "content": "يترأس ويَشْرُف عليكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 23,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قَالَ رَبِّ ٱنصُرۡنِی بِمَا كَذَّبُونِ ۝٢٦ فَأَوۡحَیۡنَاۤ إِلَیۡهِ أَنِ ٱصۡنَعِ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡفُلۡكَ بِأَعۡیُنِنَا وَوَحۡیِنَا فَإِذَا جَاۤءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِأَعْيُنِنَا",
+          "content": "برعايتنا وكلاءَتِنا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء من التنور المعروف",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَٱسْلُكْ فِيهَا",
+          "content": "فأدخل في الفلك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 13,
+          "tokens": "بِأَعْيُنِنَا",
+          "content": "برعايتنا وكلاءَتِنا"
+        },
+        {
+          "start": 61,
+          "length": 19,
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء من التنور المعروف"
+        },
+        {
+          "start": 81,
+          "length": 9,
+          "tokens": "فَٱسْلُكْ فِيهَا",
+          "content": "فأدخل في الفلك"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِیهَا مِن كُلࣲّ زَوۡجَیۡنِ ٱثۡنَیۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَیۡهِ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِأَعْيُنِنَا",
+          "content": "برعايتنا وكلاءَتِنا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء من التنور المعروف",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَٱسْلُكْ فِيهَا",
+          "content": "فأدخل في الفلك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "فَٱسْلُكْ فِيهَا",
+          "content": "فأدخل في الفلك"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَـٰطِبۡنِی فِی ٱلَّذِینَ ظَلَمُوۤا۟ إِنَّهُم مُّغۡرَقُونَ ۝٢٧",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِأَعْيُنِنَا",
+          "content": "برعايتنا وكلاءَتِنا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "وَفَارَ ٱلتَّنُّورُ",
+          "content": "نبع الماء من التنور المعروف",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        },
+        {
+          "tokens": "فَٱسْلُكْ فِيهَا",
+          "content": "فأدخل في الفلك",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 23,
+          "ayahIndex": 27
+        }
+      ]
+    }
+  ]
+}

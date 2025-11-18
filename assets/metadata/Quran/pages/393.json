@@ -1,0 +1,245 @@
+{
+  "pageIndex": 393,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَاۤ أُوتِیتُم مِّن شَیۡءࣲ فَمَتَـٰعُ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَزِینَتُهَاۚ وَمَا عِندَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱللَّهِ خَیۡرࣱ وَأَبۡقَىٰۤۚ أَفَلَا تَعۡقِلُونَ ۝٦٠ أَفَمَن وَعَدۡنَـٰهُ وَعۡدًا حَسَنࣰا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَهُوَ لَـٰقِیهِ كَمَن مَّتَّعۡنَـٰهُ مَتَـٰعَ ٱلۡحَیَوٰةِ ٱلدُّنۡیَا ثُمَّ هُوَ یَوۡمَ ٱلۡقِیَـٰمَةِ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْمُحْضَرِينَ",
+          "content": "ممّن أحضروا للنّار",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 28,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِنَ ٱلۡمُحۡضَرِینَ ۝٦١ وَیَوۡمَ یُنَادِیهِمۡ فَیَقُولُ أَیۡنَ شُرَكَاۤءِیَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْمُحْضَرِينَ",
+          "content": "ممّن أحضروا للنّار",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 28,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "مِنَ ٱلْمُحْضَرِينَ",
+          "content": "ممّن أحضروا للنّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلَّذِینَ كُنتُمۡ تَزۡعُمُونَ ۝٦٢ قَالَ ٱلَّذِینَ حَقَّ عَلَیۡهِمُ ٱلۡقَوۡلُ رَبَّنَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "هَـٰۤؤُلَاۤءِ ٱلَّذِینَ أَغۡوَیۡنَاۤ أَغۡوَیۡنَـٰهُمۡ كَمَا غَوَیۡنَاۖ تَبَرَّأۡنَاۤ إِلَیۡكَۖ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَغْوَيْنَآ",
+          "content": "دعَوْناهم إلى الغيّ فاتّبعونا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 12,
+          "tokens": "أَغْوَيْنَآ",
+          "content": "دعَوْناهم إلى الغيّ فاتّبعونا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مَا كَانُوۤا۟ إِیَّانَا یَعۡبُدُونَ ۝٦٣ وَقِیلَ ٱدۡعُوا۟ شُرَكَاۤءَكُمۡ فَدَعَوۡهُمۡ فَلَمۡ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَغْوَيْنَآ",
+          "content": "دعَوْناهم إلى الغيّ فاتّبعونا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَسۡتَجِیبُوا۟ لَهُمۡ وَرَأَوُا۟ ٱلۡعَذَابَۚ لَوۡ أَنَّهُمۡ كَانُوا۟ یَهۡتَدُونَ ۝٦٤",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَیَوۡمَ یُنَادِیهِمۡ فَیَقُولُ مَاذَاۤ أَجَبۡتُمُ ٱلۡمُرۡسَلِینَ ۝٦٥ فَعَمِیَتۡ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَیۡهِمُ ٱلۡأَنۢبَاۤءُ یَوۡمَىِٕذࣲ فَهُمۡ لَا یَتَسَاۤءَلُونَ ۝٦٦ فَأَمَّا مَن تَابَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ",
+          "content": "خَفِيَتْ واشتبَهَتْ عليهم الحجج",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 28,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "فَعَمِيَتْ عَلَيْهِمُ ٱلْأَنۢبَآءُ",
+          "content": "خَفِيَتْ واشتبَهَتْ عليهم الحجج"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَءَامَنَ وَعَمِلَ صَـٰلِحࣰا فَعَسَىٰۤ أَن یَكُونَ مِنَ ٱلۡمُفۡلِحِینَ ۝٦٧",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَرَبُّكَ یَخۡلُقُ مَا یَشَاۤءُ وَیَخۡتَارُۗ مَا كَانَ لَهُمُ ٱلۡخِیَرَةُۚ سُبۡحَـٰنَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخِيَرَةُ",
+          "content": "الاختيار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 62,
+          "length": 12,
+          "tokens": "ٱلْخِيَرَةُ",
+          "content": "الاختيار"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱللَّهِ وَتَعَـٰلَىٰ عَمَّا یُشۡرِكُونَ ۝٦٨ وَرَبُّكَ یَعۡلَمُ مَا تُكِنُّ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخِيَرَةُ",
+          "content": "الاختيار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 28,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "صُدُورُهُمۡ وَمَا یُعۡلِنُونَ ۝٦٩ وَهُوَ ٱللَّهُ لَاۤ إِلَـٰهَ إِلَّا هُوَۖ لَهُ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا تُكِنُّ صُدُورُهُمْ",
+          "content": "ما تُضمر من الباطل والعداوة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مَا تُكِنُّ صُدُورُهُمْ",
+          "content": "ما تُضمر من الباطل والعداوة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡحَمۡدُ فِی ٱلۡأُولَىٰ وَٱلۡـَٔاخِرَةِۖ وَلَهُ ٱلۡحُكۡمُ وَإِلَیۡهِ تُرۡجَعُونَ ۝٧٠",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

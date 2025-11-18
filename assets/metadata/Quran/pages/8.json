@@ -1,0 +1,461 @@
+{
+  "pageIndex": 8,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذۡ نَجَّیۡنَـٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ یَسُومُونَكُمۡ سُوۤءَ ٱلۡعَذَابِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَسُومُونَكُمْ",
+          "content": "يكلِّفونكم ويذيقونكم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "وَيَسْتَحْيُونَ نِسَآءَكُمْ",
+          "content": "يستَبقون بناتكم للخدمة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "بَلَآءٌ",
+          "content": "اختبار وامتحان بالنعم والنقمِ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 14,
+          "tokens": "يَسُومُونَكُمْ",
+          "content": "يكلِّفونكم ويذيقونكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "یُذَبِّحُونَ أَبۡنَاۤءَكُمۡ وَیَسۡتَحۡیُونَ نِسَاۤءَكُمۡۚ وَفِی ذَ ٰ⁠لِكُم بَلَاۤءࣱ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَسُومُونَكُمْ",
+          "content": "يكلِّفونكم ويذيقونكم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "وَيَسْتَحْيُونَ نِسَآءَكُمْ",
+          "content": "يستَبقون بناتكم للخدمة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "بَلَآءٌ",
+          "content": "اختبار وامتحان بالنعم والنقمِ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 29,
+          "tokens": "وَيَسْتَحْيُونَ نِسَآءَكُمْ",
+          "content": "يستَبقون بناتكم للخدمة"
+        },
+        {
+          "start": 75,
+          "length": 8,
+          "tokens": "بَلَآءٌ",
+          "content": "اختبار وامتحان بالنعم والنقمِ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِّن رَّبِّكُمۡ عَظِیمࣱ ۝٤٩ وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَیۡنَـٰكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَسُومُونَكُمْ",
+          "content": "يكلِّفونكم ويذيقونكم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "وَيَسْتَحْيُونَ نِسَآءَكُمْ",
+          "content": "يستَبقون بناتكم للخدمة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "بَلَآءٌ",
+          "content": "اختبار وامتحان بالنعم والنقمِ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَأَغۡرَقۡنَاۤ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ ۝٥٠ وَإِذۡ وَ ٰ⁠عَدۡنَا مُوسَىٰۤ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَرَقْنَا",
+          "content": "فصلنا وشققنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَرۡبَعِینَ لَیۡلَةࣰ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَـٰلِمُونَ ۝٥١",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱتَّخَذْتُمُ ٱلْعِجْلَ",
+          "content": "جعلتموه إلهاً معبوداً",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 2,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 22,
+          "tokens": "ٱتَّخَذْتُمُ ٱلْعِجْلَ",
+          "content": "جعلتموه إلهاً معبوداً"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَ ٰ⁠لِكَ لَعَلَّكُمۡ تَشۡكُرُونَ ۝٥٢",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَإِذۡ ءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ ۝٥٣",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْفُرْقَانَ",
+          "content": "الشرع الفارقَ بين الحلال والحرام",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 14,
+          "tokens": "وَٱلْفُرْقَانَ",
+          "content": "الشرع الفارقَ بين الحلال والحرام"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ یَـٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَارِئِكُمْ",
+          "content": "مبدعكم ومحدثكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "فَٱقْتُلُوٓا۟ أَنفُسَكُمْ",
+          "content": "فليقتل البريء منكم المجرم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡعِجۡلَ فَتُوبُوۤا۟ إِلَىٰ بَارِىِٕكُمۡ فَٱقۡتُلُوۤا۟ أَنفُسَكُمۡ ذَ ٰ⁠لِكُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَارِئِكُمْ",
+          "content": "مبدعكم ومحدثكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "فَٱقْتُلُوٓا۟ أَنفُسَكُمْ",
+          "content": "فليقتل البريء منكم المجرم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 12,
+          "tokens": "بَارِئِكُمْ",
+          "content": "مبدعكم ومحدثكم"
+        },
+        {
+          "start": 42,
+          "length": 25,
+          "tokens": "فَٱقْتُلُوٓا۟ أَنفُسَكُمْ",
+          "content": "فليقتل البريء منكم المجرم"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "خَیۡرࣱ لَّكُمۡ عِندَ بَارِىِٕكُمۡ فَتَابَ عَلَیۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَارِئِكُمْ",
+          "content": "مبدعكم ومحدثكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "فَٱقْتُلُوٓا۟ أَنفُسَكُمْ",
+          "content": "فليقتل البريء منكم المجرم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلرَّحِیمُ ۝٥٤ وَإِذۡ قُلۡتُمۡ یَـٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَارِئِكُمْ",
+          "content": "مبدعكم ومحدثكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "فَٱقْتُلُوٓا۟ أَنفُسَكُمْ",
+          "content": "فليقتل البريء منكم المجرم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 2,
+          "ayahIndex": 54
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "جَهۡرَةࣰ فَأَخَذَتۡكُمُ ٱلصَّـٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ ۝٥٥ ثُمَّ بَعَثۡنَـٰكُم",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْرَةً",
+          "content": "عيانا بالبصر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السماء أو صيحةٌ منها",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 55
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "جَهْرَةً",
+          "content": "عيانا بالبصر"
+        },
+        {
+          "start": 24,
+          "length": 13,
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السماء أو صيحةٌ منها"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِّنۢ بَعۡدِ مَوۡتِكُمۡ لَعَلَّكُمۡ تَشۡكُرُونَ ۝٥٦ وَظَلَّلۡنَا عَلَیۡكُمُ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡغَمَامَ وَأَنزَلۡنَا عَلَیۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰۖ كُلُوا۟ مِن طَیِّبَـٰتِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَمَامَ",
+          "content": "السحاب الأبيض الرقيق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادة صمغية حلوة كالعسل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطائر المعروف بالسّماني",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ٱلْغَمَامَ",
+          "content": "السحاب الأبيض الرقيق"
+        },
+        {
+          "start": 35,
+          "length": 8,
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادة صمغية حلوة كالعسل"
+        },
+        {
+          "start": 44,
+          "length": 14,
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطائر المعروف بالسّماني"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَا رَزَقۡنَـٰكُمۡۚ وَمَا ظَلَمُونَا وَلَـٰكِن كَانُوۤا۟ أَنفُسَهُمۡ یَظۡلِمُونَ ۝٥٧",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْغَمَامَ",
+          "content": "السحاب الأبيض الرقيق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "ٱلْمَنَّ",
+          "content": "مادة صمغية حلوة كالعسل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "وَٱلسَّلْوَىٰ",
+          "content": "الطائر المعروف بالسّماني",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 57
+        }
+      ]
+    }
+  ]
+}

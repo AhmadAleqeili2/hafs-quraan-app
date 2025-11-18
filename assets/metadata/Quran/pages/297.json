@@ -1,0 +1,643 @@
+{
+  "pageIndex": 297,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱصۡبِرۡ نَفۡسَكَ مَعَ ٱلَّذِینَ یَدۡعُونَ رَبَّهُم بِٱلۡغَدَوٰةِ وَٱلۡعَشِیِّ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱصْبِرْ نَفْسَكَ",
+          "content": "احبسْها وثبّتها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ",
+          "content": "لا تصرف عيناك النّظر عنهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "أَغْفَلْنَا قَلْبَهُۥ",
+          "content": "جعلناه غافلا ساهيًا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "فُرُطًا",
+          "content": "إسرافًا، أو تضْييعا وهلاكا",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "وَٱصْبِرْ نَفْسَكَ",
+          "content": "احبسْها وثبّتها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "یُرِیدُونَ وَجۡهَهُۥۖ وَلَا تَعۡدُ عَیۡنَاكَ عَنۡهُمۡ تُرِیدُ زِینَةَ ٱلۡحَیَوٰةِ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱصْبِرْ نَفْسَكَ",
+          "content": "احبسْها وثبّتها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ",
+          "content": "لا تصرف عيناك النّظر عنهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "أَغْفَلْنَا قَلْبَهُۥ",
+          "content": "جعلناه غافلا ساهيًا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "فُرُطًا",
+          "content": "إسرافًا، أو تضْييعا وهلاكا",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 31,
+          "tokens": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ",
+          "content": "لا تصرف عيناك النّظر عنهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلدُّنۡیَاۖ وَلَا تُطِعۡ مَنۡ أَغۡفَلۡنَا قَلۡبَهُۥ عَن ذِكۡرِنَا وَٱتَّبَعَ هَوَىٰهُ وَكَانَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱصْبِرْ نَفْسَكَ",
+          "content": "احبسْها وثبّتها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ",
+          "content": "لا تصرف عيناك النّظر عنهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "أَغْفَلْنَا قَلْبَهُۥ",
+          "content": "جعلناه غافلا ساهيًا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "فُرُطًا",
+          "content": "إسرافًا، أو تضْييعا وهلاكا",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 21,
+          "tokens": "أَغْفَلْنَا قَلْبَهُۥ",
+          "content": "جعلناه غافلا ساهيًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَمۡرُهُۥ فُرُطࣰا ۝٢٨ وَقُلِ ٱلۡحَقُّ مِن رَّبِّكُمۡۖ فَمَن شَاۤءَ فَلۡیُؤۡمِن وَمَن",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱصْبِرْ نَفْسَكَ",
+          "content": "احبسْها وثبّتها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ",
+          "content": "لا تصرف عيناك النّظر عنهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 14,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "أَغْفَلْنَا قَلْبَهُۥ",
+          "content": "جعلناه غافلا ساهيًا",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        },
+        {
+          "tokens": "فُرُطًا",
+          "content": "إسرافًا، أو تضْييعا وهلاكا",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 18,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 7,
+          "tokens": "فُرُطًا",
+          "content": "إسرافًا، أو تضْييعا وهلاكا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "شَاۤءَ فَلۡیَكۡفُرۡۚ إِنَّاۤ أَعۡتَدۡنَا لِلظَّـٰلِمِینَ نَارًا أَحَاطَ بِهِمۡ سُرَادِقُهَاۚ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُرَادِقُهَا",
+          "content": "فُسْطاطُها، أو لهبُها ودُخانها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "كَٱلْمُهْلِ",
+          "content": "كدُرديّ الزّيت أو كالمُذاب من المعادن",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "وَسَآءَتْ مُرْتَفَقًا",
+          "content": "متّكأ أو مقرّا (النّار)",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 79,
+          "length": 13,
+          "tokens": "سُرَادِقُهَا",
+          "content": "فُسْطاطُها، أو لهبُها ودُخانها"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَإِن یَسۡتَغِیثُوا۟ یُغَاثُوا۟ بِمَاۤءࣲ كَٱلۡمُهۡلِ یَشۡوِی ٱلۡوُجُوهَۚ بِئۡسَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُرَادِقُهَا",
+          "content": "فُسْطاطُها، أو لهبُها ودُخانها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "كَٱلْمُهْلِ",
+          "content": "كدُرديّ الزّيت أو كالمُذاب من المعادن",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "وَسَآءَتْ مُرْتَفَقًا",
+          "content": "متّكأ أو مقرّا (النّار)",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 11,
+          "tokens": "كَٱلْمُهْلِ",
+          "content": "كدُرديّ الزّيت أو كالمُذاب من المعادن"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلشَّرَابُ وَسَاۤءَتۡ مُرۡتَفَقًا ۝٢٩ إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُرَادِقُهَا",
+          "content": "فُسْطاطُها، أو لهبُها ودُخانها",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "كَٱلْمُهْلِ",
+          "content": "كدُرديّ الزّيت أو كالمُذاب من المعادن",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        },
+        {
+          "tokens": "وَسَآءَتْ مُرْتَفَقًا",
+          "content": "متّكأ أو مقرّا (النّار)",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 28,
+          "surahIndex": 18,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 22,
+          "tokens": "وَسَآءَتْ مُرْتَفَقًا",
+          "content": "متّكأ أو مقرّا (النّار)"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلصَّـٰلِحَـٰتِ إِنَّا لَا نُضِیعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا ۝٣٠ أُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَهُمۡ جَنَّـٰتُ عَدۡنࣲ تَجۡرِی مِن تَحۡتِهِمُ ٱلۡأَنۡهَـٰرُ یُحَلَّوۡنَ فِیهَا مِنۡ أَسَاوِرَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَنَّٰتُ عَدْنٍ",
+          "content": "جنات إقامة وإستقرار",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سُندُسٍ",
+          "content": "رقيق الدّيباج (الحرير)",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَإِسْتَبْرَقٍ",
+          "content": "غليظ الدّيباج",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرُر في الحجال (جمع حجلة محركة – بيت يزين بالثياب والأسرّة والستور)",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 16,
+          "tokens": "جَنَّٰتُ عَدْنٍ",
+          "content": "جنات إقامة وإستقرار"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مِن ذَهَبࣲ وَیَلۡبَسُونَ ثِیَابًا خُضۡرࣰا مِّن سُندُسࣲ وَإِسۡتَبۡرَقࣲ مُّتَّكِـِٔینَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَنَّٰتُ عَدْنٍ",
+          "content": "جنات إقامة وإستقرار",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سُندُسٍ",
+          "content": "رقيق الدّيباج (الحرير)",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَإِسْتَبْرَقٍ",
+          "content": "غليظ الدّيباج",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرُر في الحجال (جمع حجلة محركة – بيت يزين بالثياب والأسرّة والستور)",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 7,
+          "tokens": "سُندُسٍ",
+          "content": "رقيق الدّيباج (الحرير)"
+        },
+        {
+          "start": 55,
+          "length": 14,
+          "tokens": "وَإِسْتَبْرَقٍ",
+          "content": "غليظ الدّيباج"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فِیهَا عَلَى ٱلۡأَرَاۤىِٕكِۚ نِعۡمَ ٱلثَّوَابُ وَحَسُنَتۡ مُرۡتَفَقࣰا ۝٣١ وَٱضۡرِبۡ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَنَّٰتُ عَدْنٍ",
+          "content": "جنات إقامة وإستقرار",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "سُندُسٍ",
+          "content": "رقيق الدّيباج (الحرير)",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "وَإِسْتَبْرَقٍ",
+          "content": "غليظ الدّيباج",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        },
+        {
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرُر في الحجال (جمع حجلة محركة – بيت يزين بالثياب والأسرّة والستور)",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 18,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 15,
+          "tokens": "ٱلْأَرَآئِكِ",
+          "content": "السّرُر في الحجال (جمع حجلة محركة – بيت يزين بالثياب والأسرّة والستور)"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَهُم مَّثَلࣰا رَّجُلَیۡنِ جَعَلۡنَا لِأَحَدِهِمَا جَنَّتَیۡنِ مِنۡ أَعۡنَـٰبࣲ وَحَفَفۡنَـٰهُمَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَنَّتَيْنِ",
+          "content": "بُستانين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 18,
+          "ayahIndex": 32
+        },
+        {
+          "tokens": "وَحَفَفْنَٰهُمَا",
+          "content": "أحطناهما وأطفناهما",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 11,
+          "tokens": "جَنَّتَيْنِ",
+          "content": "بُستانين"
+        },
+        {
+          "start": 79,
+          "length": 17,
+          "tokens": "وَحَفَفْنَٰهُمَا",
+          "content": "أحطناهما وأطفناهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِنَخۡلࣲ وَجَعَلۡنَا بَیۡنَهُمَا زَرۡعࣰا ۝٣٢ كِلۡتَا ٱلۡجَنَّتَیۡنِ ءَاتَتۡ أُكُلَهَا وَلَمۡ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَنَّتَيْنِ",
+          "content": "بُستانين",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 18,
+          "ayahIndex": 32
+        },
+        {
+          "tokens": "وَحَفَفْنَٰهُمَا",
+          "content": "أحطناهما وأطفناهما",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 32
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "تَظۡلِم مِّنۡهُ شَیۡـࣰٔاۚ وَفَجَّرۡنَا خِلَـٰلَهُمَا نَهَرࣰا ۝٣٣ وَكَانَ لَهُۥ ثَمَرࣱ فَقَالَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُكُلَهَا",
+          "content": "ثمرها الذي يُؤكل",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَلَمْ تَظْلِم مِّنْهُ",
+          "content": "لم تنقص من أُكُلها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 18,
+          "ayahIndex": 33
+        },
+        {
+          "tokens": "وَفَجَّرْنَا خِلَٰلَهُمَا",
+          "content": "شقَقْنا وأجْرَينا وسَطهما",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَلَمْ تَظْلِم مِّنْهُ",
+          "content": "لم تنقص من أُكُلها"
+        },
+        {
+          "start": 26,
+          "length": 26,
+          "tokens": "وَفَجَّرْنَا خِلَٰلَهُمَا",
+          "content": "شقَقْنا وأجْرَينا وسَطهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لِصَـٰحِبِهِۦ وَهُوَ یُحَاوِرُهُۥۤ أَنَا۠ أَكۡثَرُ مِنكَ مَالࣰا وَأَعَزُّ نَفَرࣰا ۝٣٤",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ثَمَرٌ",
+          "content": "أموالٌ كثيرة مُثمّرة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 18,
+          "ayahIndex": 34
+        },
+        {
+          "tokens": "وَأَعَزُّ نَفَرًا",
+          "content": "أقوى أعوانا أو عشيرة",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 18,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 64,
+          "length": 17,
+          "tokens": "وَأَعَزُّ نَفَرًا",
+          "content": "أقوى أعوانا أو عشيرة"
+        }
+      ]
+    }
+  ]
+}

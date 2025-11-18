@@ -1,0 +1,377 @@
+{
+  "pageIndex": 395,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ إِنَّمَاۤ أُوتِیتُهُۥ عَلَىٰ عِلۡمٍ عِندِیۤۚ أَوَلَمۡ یَعۡلَمۡ أَنَّ ٱللَّهَ قَدۡ أَهۡلَكَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْقُرُونِ",
+          "content": "من الأمم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "وَلَا يُسْـَٔلُ",
+          "content": "سؤال استعلام بل سؤال توبيخ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِن قَبۡلِهِۦ مِنَ ٱلۡقُرُونِ مَنۡ هُوَ أَشَدُّ مِنۡهُ قُوَّةࣰ وَأَكۡثَرُ جَمۡعࣰاۚ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْقُرُونِ",
+          "content": "من الأمم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "وَلَا يُسْـَٔلُ",
+          "content": "سؤال استعلام بل سؤال توبيخ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 15,
+          "tokens": "مِنَ ٱلْقُرُونِ",
+          "content": "من الأمم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَا یُسۡـَٔلُ عَن ذُنُوبِهِمُ ٱلۡمُجۡرِمُونَ ۝٧٨ فَخَرَجَ عَلَىٰ قَوۡمِهِۦ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِنَ ٱلْقُرُونِ",
+          "content": "من الأمم",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "وَلَا يُسْـَٔلُ",
+          "content": "سؤال استعلام بل سؤال توبيخ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 78
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَلَا يُسْـَٔلُ",
+          "content": "سؤال استعلام بل سؤال توبيخ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی زِینَتِهِۦۖ قَالَ ٱلَّذِینَ یُرِیدُونَ ٱلۡحَیَوٰةَ ٱلدُّنۡیَا یَـٰلَیۡتَ لَنَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى زِينَتِهِۦ",
+          "content": "في مظاهر غِناه وتَرفِه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 79
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "فِى زِينَتِهِۦ",
+          "content": "في مظاهر غِناه وتَرفِه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِثۡلَ مَاۤ أُوتِیَ قَـٰرُونُ إِنَّهُۥ لَذُو حَظٍّ عَظِیمࣲ ۝٧٩ وَقَالَ ٱلَّذِینَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى زِينَتِهِۦ",
+          "content": "في مظاهر غِناه وتَرفِه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 79
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أُوتُوا۟ ٱلۡعِلۡمَ وَیۡلَكُمۡ ثَوَابُ ٱللَّهِ خَیۡرࣱ لِّمَنۡ ءَامَنَ وَعَمِلَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْلَكُمْ",
+          "content": "زجْرٌ لهم عن هذا التّمنّي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 80
+        },
+        {
+          "tokens": "وَلَا يُلَقَّىٰهَآ",
+          "content": "لا يُوفّق للعمل للمَثوبة",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 28,
+          "ayahIndex": 80
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 10,
+          "tokens": "وَيْلَكُمْ",
+          "content": "زجْرٌ لهم عن هذا التّمنّي"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "صَـٰلِحࣰاۚ وَلَا یُلَقَّىٰهَاۤ إِلَّا ٱلصَّـٰبِرُونَ ۝٨٠ فَخَسَفۡنَا بِهِۦ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْلَكُمْ",
+          "content": "زجْرٌ لهم عن هذا التّمنّي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 28,
+          "ayahIndex": 80
+        },
+        {
+          "tokens": "وَلَا يُلَقَّىٰهَآ",
+          "content": "لا يُوفّق للعمل للمَثوبة",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 28,
+          "ayahIndex": 80
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 19,
+          "tokens": "وَلَا يُلَقَّىٰهَآ",
+          "content": "لا يُوفّق للعمل للمَثوبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَبِدَارِهِ ٱلۡأَرۡضَ فَمَا كَانَ لَهُۥ مِن فِئَةࣲ یَنصُرُونَهُۥ مِن دُونِ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱللَّهِ وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِینَ ۝٨١ وَأَصۡبَحَ ٱلَّذِینَ تَمَنَّوۡا۟",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَكَانَهُۥ بِٱلۡأَمۡسِ یَقُولُونَ وَیۡكَأَنَّ ٱللَّهَ یَبۡسُطُ ٱلرِّزۡقَ لِمَن",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْكَأَنَّ ٱللَّهَ",
+          "content": "ألَمْ تَرَ الله",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّق على من يشاء لحكمة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيْكَأَنَّهُۥ لَا يُفْلِحُ",
+          "content": "ألَم ترَ الشأن لا يُفلح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 19,
+          "tokens": "وَيْكَأَنَّ ٱللَّهَ",
+          "content": "ألَمْ تَرَ الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَشَاۤءُ مِنۡ عِبَادِهِۦ وَیَقۡدِرُۖ لَوۡلَاۤ أَن مَّنَّ ٱللَّهُ عَلَیۡنَا لَخَسَفَ بِنَاۖ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْكَأَنَّ ٱللَّهَ",
+          "content": "ألَمْ تَرَ الله",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّق على من يشاء لحكمة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيْكَأَنَّهُۥ لَا يُفْلِحُ",
+          "content": "ألَم ترَ الشأن لا يُفلح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 11,
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّق على من يشاء لحكمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَیۡكَأَنَّهُۥ لَا یُفۡلِحُ ٱلۡكَـٰفِرُونَ ۝٨٢ تِلۡكَ ٱلدَّارُ ٱلۡـَٔاخِرَةُ نَجۡعَلُهَا لِلَّذِینَ",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيْكَأَنَّ ٱللَّهَ",
+          "content": "ألَمْ تَرَ الله",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّق على من يشاء لحكمة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "وَيْكَأَنَّهُۥ لَا يُفْلِحُ",
+          "content": "ألَم ترَ الشأن لا يُفلح",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 25,
+          "surahIndex": 28,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 27,
+          "tokens": "وَيْكَأَنَّهُۥ لَا يُفْلِحُ",
+          "content": "ألَم ترَ الشأن لا يُفلح"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَا یُرِیدُونَ عُلُوࣰّا فِی ٱلۡأَرۡضِ وَلَا فَسَادࣰاۚ وَٱلۡعَـٰقِبَةُ لِلۡمُتَّقِینَ ۝٨٣",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَن جَاۤءَ بِٱلۡحَسَنَةِ فَلَهُۥ خَیۡرࣱ مِّنۡهَاۖ وَمَن جَاۤءَ بِٱلسَّیِّئَةِ فَلَا",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یُجۡزَى ٱلَّذِینَ عَمِلُوا۟ ٱلسَّیِّـَٔاتِ إِلَّا مَا كَانُوا۟ یَعۡمَلُونَ ۝٨٤",
+      "surahIndexFirst": 28,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

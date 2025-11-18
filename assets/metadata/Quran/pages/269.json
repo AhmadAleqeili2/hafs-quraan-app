@@ -1,0 +1,277 @@
+{
+  "pageIndex": 269,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَلۡقَىٰ فِی ٱلۡأَرۡضِ رَوَ ٰ⁠سِیَ أَن تَمِیدَ بِكُمۡ وَأَنۡهَـٰرࣰا وَسُبُلࣰا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوَٰسِىَ",
+          "content": "جبالا ثوابت",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "أَن تَمِيدَ بِكُمْ",
+          "content": "لئلا تتحرّك وتضطرب بكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 11,
+          "tokens": "رَوَٰسِىَ",
+          "content": "جبالا ثوابت"
+        },
+        {
+          "start": 37,
+          "length": 18,
+          "tokens": "أَن تَمِيدَ بِكُمْ",
+          "content": "لئلا تتحرّك وتضطرب بكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَّعَلَّكُمۡ تَهۡتَدُونَ ۝١٥ وَعَلَـٰمَـٰتࣲۚ وَبِٱلنَّجۡمِ هُمۡ یَهۡتَدُونَ ۝١٦",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَوَٰسِىَ",
+          "content": "جبالا ثوابت",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "أَن تَمِيدَ بِكُمْ",
+          "content": "لئلا تتحرّك وتضطرب بكم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَفَمَن یَخۡلُقُ كَمَن لَّا یَخۡلُقُۚ أَفَلَا تَذَكَّرُونَ ۝١٧ وَإِن",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "تَعُدُّوا۟ نِعۡمَةَ ٱللَّهِ لَا تُحۡصُوهَاۤۗ إِنَّ ٱللَّهَ لَغَفُورࣱ رَّحِیمࣱ ۝١٨",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تُحْصُوهَآ",
+          "content": "لا تطيقوا حصرها لعدم تناهيها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 16,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 16,
+          "tokens": "لَا تُحْصُوهَآ",
+          "content": "لا تطيقوا حصرها لعدم تناهيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱللَّهُ یَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ ۝١٩ وَٱلَّذِینَ یَدۡعُونَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِن دُونِ ٱللَّهِ لَا یَخۡلُقُونَ شَیۡـࣰٔا وَهُمۡ یُخۡلَقُونَ ۝٢٠ أَمۡوَ ٰ⁠تٌ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "غَیۡرُ أَحۡیَاۤءࣲۖ وَمَا یَشۡعُرُونَ أَیَّانَ یُبۡعَثُونَ ۝٢١ إِلَـٰهُكُمۡ إِلَـٰهࣱ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَ ٰ⁠حِدࣱۚ فَٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ قُلُوبُهُم مُّنكِرَةࣱ وَهُم",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "مُّسۡتَكۡبِرُونَ ۝٢٢ لَا جَرَمَ أَنَّ ٱللَّهَ یَعۡلَمُ مَا یُسِرُّونَ وَمَا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "یُعۡلِنُونَۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُسۡتَكۡبِرِینَ ۝٢٣ وَإِذَا قِیلَ لَهُم",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا جَرَمَ",
+          "content": "حقّ وثبت، أو لا محالة أو حقّاً",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 16,
+          "ayahIndex": 23
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَّاذَاۤ أَنزَلَ رَبُّكُمۡ قَالُوۤا۟ أَسَـٰطِیرُ ٱلۡأَوَّلِینَ ۝٢٤ لِیَحۡمِلُوۤا۟",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أباطيلهم المسطّرة في كتبهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 25,
+          "tokens": "أَسَٰطِيرُ ٱلْأَوَّلِينَ",
+          "content": "أباطيلهم المسطّرة في كتبهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَوۡزَارَهُمۡ كَامِلَةࣰ یَوۡمَ ٱلۡقِیَـٰمَةِ وَمِنۡ أَوۡزَارِ ٱلَّذِینَ یُضِلُّونَهُم",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "آثامهم وذنوبهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 16,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "آثامهم وذنوبهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِغَیۡرِ عِلۡمٍۗ أَلَا سَاۤءَ مَا یَزِرُونَ ۝٢٥ قَدۡ مَكَرَ ٱلَّذِینَ مِن قَبۡلِهِمۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْزَارَهُمْ",
+          "content": "آثامهم وذنوبهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 16,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَأَتَى ٱللَّهُ بُنۡیَـٰنَهُم مِّنَ ٱلۡقَوَاعِدِ فَخَرَّ عَلَیۡهِمُ ٱلسَّقۡفُ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقَوَاعِدِ",
+          "content": "الدعائم والعمد، أو الأساس",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 12,
+          "tokens": "ٱلْقَوَاعِدِ",
+          "content": "الدعائم والعمد، أو الأساس"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِن فَوۡقِهِمۡ وَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَیۡثُ لَا یَشۡعُرُونَ ۝٢٦",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقَوَاعِدِ",
+          "content": "الدعائم والعمد، أو الأساس",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 26
+        }
+      ]
+    }
+  ]
+}

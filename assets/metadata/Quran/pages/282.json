@@ -1,0 +1,587 @@
+{
+  "pageIndex": 282,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الإسراء",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "سُبۡحَـٰنَ ٱلَّذِیۤ أَسۡرَىٰ بِعَبۡدِهِۦ لَیۡلࣰا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته"
+        },
+        {
+          "start": 20,
+          "length": 20,
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِی بَـٰرَكۡنَا حَوۡلَهُۥ لِنُرِیَهُۥ مِنۡ ءَایَـٰتِنَاۤۚ إِنَّهُۥ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 11,
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "هُوَ ٱلسَّمِیعُ ٱلۡبَصِیرُ ۝١ وَءَاتَیۡنَا مُوسَى ٱلۡكِتَـٰبَ وَجَعَلۡنَـٰهُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَ ٱلَّذِىٓ",
+          "content": "تنزيها لله وتعجيبا من قدرته",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَسْرَىٰ بِعَبْدِهِۦ",
+          "content": "جعَلَ البراق يسري به صلى الله عليه وسلم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "لِنُرِيَهُۥ",
+          "content": "لِنرفعه إلى السّماء فنُريه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 17,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "هُدࣰى لِّبَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ أَلَّا تَتَّخِذُوا۟ مِن دُونِی وَكِیلࣰا ۝٢",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكِيلًا",
+          "content": "ربّا تكلون إليه أموركم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 63,
+          "length": 8,
+          "tokens": "وَكِيلًا",
+          "content": "ربّا تكلون إليه أموركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ذُرِّیَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدࣰا شَكُورࣰا ۝٣",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذُرِّيَّةَ",
+          "content": "أخصُّ ذرّية أو يا ذرّية",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 17,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ذُرِّيَّةَ",
+          "content": "أخصُّ ذرّية أو يا ذرّية"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَقَضَیۡنَاۤ إِلَىٰ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ فِی ٱلۡكِتَـٰبِ لَتُفۡسِدُنَّ فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ",
+          "content": "أوحينا إليهم وأعلمناهم بما سيقع منهم من الإفساد مرّتين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَلَتَعْلُنَّ",
+          "content": "لَتفرطُنّ في الظلم والعدوان",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 42,
+          "tokens": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ",
+          "content": "أوحينا إليهم وأعلمناهم بما سيقع منهم من الإفساد مرّتين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَرَّتَیۡنِ وَلَتَعۡلُنَّ عُلُوࣰّا كَبِیرࣰا ۝٤ فَإِذَا جَاۤءَ وَعۡدُ أُولَىٰهُمَا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَضَيْنَآ إِلَىٰ بَنِىٓ إِسْرَٰٓءِيلَ",
+          "content": "أوحينا إليهم وأعلمناهم بما سيقع منهم من الإفساد مرّتين",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَلَتَعْلُنَّ",
+          "content": "لَتفرطُنّ في الظلم والعدوان",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 13,
+          "tokens": "وَلَتَعْلُنَّ",
+          "content": "لَتفرطُنّ في الظلم والعدوان"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بَعَثۡنَا عَلَیۡكُمۡ عِبَادࣰا لَّنَاۤ أُو۟لِی بَأۡسࣲ شَدِیدࣲ فَجَاسُوا۟ خِلَـٰلَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَعْدُ أُولَىٰهُمَا",
+          "content": "العقاب الموعود على أولاهما",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أُو۟لِى بَأْسٍ",
+          "content": "ذوي قوّة وبطش في الحروب",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "فَجَاسُوا۟",
+          "content": "تردّدوا لطلبكم باستقصاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "خِلَٰلَ ٱلدِّيَارِ",
+          "content": "وسطها",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 14,
+          "tokens": "أُو۟لِى بَأْسٍ",
+          "content": "ذوي قوّة وبطش في الحروب"
+        },
+        {
+          "start": 61,
+          "length": 10,
+          "tokens": "فَجَاسُوا۟",
+          "content": "تردّدوا لطلبكم باستقصاء"
+        },
+        {
+          "start": 72,
+          "length": 8,
+          "tokens": "خِلَٰلَ ٱلدِّيَارِ",
+          "content": "وسطها"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلدِّیَارِۚ وَكَانَ وَعۡدࣰا مَّفۡعُولࣰا ۝٥ ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَعْدُ أُولَىٰهُمَا",
+          "content": "العقاب الموعود على أولاهما",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أُو۟لِى بَأْسٍ",
+          "content": "ذوي قوّة وبطش في الحروب",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "فَجَاسُوا۟",
+          "content": "تردّدوا لطلبكم باستقصاء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "خِلَٰلَ ٱلدِّيَارِ",
+          "content": "وسطها",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 17,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "خِلَٰلَ ٱلدِّيَارِ",
+          "content": "وسطها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَلَیۡهِمۡ وَأَمۡدَدۡنَـٰكُم بِأَمۡوَ ٰ⁠لࣲ وَبَنِینَ وَجَعَلۡنَـٰكُمۡ أَكۡثَرَ نَفِیرًا ۝٦",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْكَرَّةَ",
+          "content": "الدّولة والغَلَبَة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "أَكْثَرَ نَفِيرًا",
+          "content": "أكثر عددا أو عشيرة من أعدائكم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 70,
+          "length": 17,
+          "tokens": "أَكْثَرَ نَفِيرًا",
+          "content": "أكثر عددا أو عشيرة من أعدائكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ",
+          "content": "ليُحزنوكم حزنا يبدو في وجوهكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "وَلِيُتَبِّرُوا۟",
+          "content": "ليُهلكوا ويُدمّروا",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "مَا عَلَوْا۟",
+          "content": "ما استولوا عليه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "جَاۤءَ وَعۡدُ ٱلۡـَٔاخِرَةِ لِیَسُـࣳۤـُٔوا۟ وُجُوهَكُمۡ وَلِیَدۡخُلُوا۟ ٱلۡمَسۡجِدَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ",
+          "content": "ليُحزنوكم حزنا يبدو في وجوهكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "وَلِيُتَبِّرُوا۟",
+          "content": "ليُهلكوا ويُدمّروا",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "مَا عَلَوْا۟",
+          "content": "ما استولوا عليه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 27,
+          "tokens": "لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ",
+          "content": "ليُحزنوكم حزنا يبدو في وجوهكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَمَا دَخَلُوهُ أَوَّلَ مَرَّةࣲ وَلِیُتَبِّرُوا۟ مَا عَلَوۡا۟ تَتۡبِیرًا ۝٧",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَسُۥٓـُٔوا۟ وُجُوهَكُمْ",
+          "content": "ليُحزنوكم حزنا يبدو في وجوهكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "وَلِيُتَبِّرُوا۟",
+          "content": "ليُهلكوا ويُدمّروا",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "مَا عَلَوْا۟",
+          "content": "ما استولوا عليه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 17,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 16,
+          "tokens": "وَلِيُتَبِّرُوا۟",
+          "content": "ليُهلكوا ويُدمّروا"
+        },
+        {
+          "start": 49,
+          "length": 12,
+          "tokens": "مَا عَلَوْا۟",
+          "content": "ما استولوا عليه"
+        }
+      ]
+    }
+  ]
+}

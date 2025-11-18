@@ -1,0 +1,381 @@
+{
+  "pageIndex": 365,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَاۤ أَرۡسَلۡنَـٰكَ إِلَّا مُبَشِّرࣰا وَنَذِیرࣰا ۝٥٦ قُلۡ مَاۤ أَسۡـَٔلُكُمۡ عَلَیۡهِ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنۡ أَجۡرٍ إِلَّا مَن شَاۤءَ أَن یَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِیلࣰا ۝٥٧ وَتَوَكَّلۡ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "عَلَى ٱلۡحَیِّ ٱلَّذِی لَا یَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ وَكَفَىٰ بِهِۦ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَسَبِّحْ",
+          "content": "نزّه تعالى عن جميع النقائص",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 58
+        },
+        {
+          "tokens": "بِحَمْدِهِۦ",
+          "content": "مُثنيا عليه بأوصاف الكمال",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 58
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 9,
+          "tokens": "وَسَبِّحْ",
+          "content": "نزّه تعالى عن جميع النقائص"
+        },
+        {
+          "start": 45,
+          "length": 12,
+          "tokens": "بِحَمْدِهِۦ",
+          "content": "مُثنيا عليه بأوصاف الكمال"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِذُنُوبِ عِبَادِهِۦ خَبِیرًا ۝٥٨ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَسَبِّحْ",
+          "content": "نزّه تعالى عن جميع النقائص",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 58
+        },
+        {
+          "tokens": "بِحَمْدِهِۦ",
+          "content": "مُثنيا عليه بأوصاف الكمال",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 25,
+          "ayahIndex": 58
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَمَا بَیۡنَهُمَا فِی سِتَّةِ أَیَّامࣲ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ ٱلرَّحۡمَـٰنُ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواء يليق بكماله تعالى",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 25,
+          "ayahIndex": 59
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 26,
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواء يليق بكماله تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَسۡـَٔلۡ بِهِۦ خَبِیرࣰا ۝٥٩ وَإِذَا قِیلَ لَهُمُ ٱسۡجُدُوا۟ لِلرَّحۡمَـٰنِ قَالُوا۟",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواء يليق بكماله تعالى",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 25,
+          "ayahIndex": 59
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَا ٱلرَّحۡمَـٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورࣰا ۝٦٠ تَبَارَكَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَزَادَهُمْ نُفُورًا",
+          "content": "تباعدا عن الإيمان",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 25,
+          "ayahIndex": 60
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 20,
+          "tokens": "وَزَادَهُمْ نُفُورًا",
+          "content": "تباعدا عن الإيمان"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلَّذِی جَعَلَ فِی ٱلسَّمَاۤءِ بُرُوجࣰا وَجَعَلَ فِیهَا سِرَ ٰ⁠جࣰا وَقَمَرࣰا",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَارَكَ ٱلَّذِى",
+          "content": "تعالى وتمجّد أو تكاثر خيره",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 25,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "بُرُوجًا",
+          "content": "منازل للكواكب السّيارة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 25,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "تَبَارَكَ ٱلَّذِى",
+          "content": "تعالى وتمجّد أو تكاثر خيره"
+        },
+        {
+          "start": 31,
+          "length": 8,
+          "tokens": "بُرُوجًا",
+          "content": "منازل للكواكب السّيارة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مُّنِیرࣰا ۝٦١ وَهُوَ ٱلَّذِی جَعَلَ ٱلَّیۡلَ وَٱلنَّهَارَ خِلۡفَةࣰ لِّمَنۡ أَرَادَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَبَارَكَ ٱلَّذِى",
+          "content": "تعالى وتمجّد أو تكاثر خيره",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 25,
+          "ayahIndex": 61
+        },
+        {
+          "tokens": "بُرُوجًا",
+          "content": "منازل للكواكب السّيارة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 25,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن یَذَّكَّرَ أَوۡ أَرَادَ شُكُورࣰا ۝٦٢ وَعِبَادُ ٱلرَّحۡمَـٰنِ ٱلَّذِینَ یَمۡشُونَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خِلْفَةً",
+          "content": "يخلُف أحدهما الآخر ويتعاقبان",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 25,
+          "ayahIndex": 62
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَلَى ٱلۡأَرۡضِ هَوۡنࣰا وَإِذَا خَاطَبَهُمُ ٱلۡجَـٰهِلُونَ قَالُوا۟ سَلَـٰمࣰا ۝٦٣",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَوْنًا",
+          "content": "بسكينة ووقار وتواضع",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "قَالُوا۟ سَلَٰمًا",
+          "content": "قولا سديدا يسلمون به من الأذى",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 25,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 7,
+          "tokens": "هَوْنًا",
+          "content": "بسكينة ووقار وتواضع"
+        },
+        {
+          "start": 59,
+          "length": 18,
+          "tokens": "قَالُوا۟ سَلَٰمًا",
+          "content": "قولا سديدا يسلمون به من الأذى"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَٱلَّذِینَ یَبِیتُونَ لِرَبِّهِمۡ سُجَّدࣰا وَقِیَـٰمࣰا ۝٦٤ وَٱلَّذِینَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ عَذَابَهَا كَانَ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ غَرَامًا",
+          "content": "لازما أو ممتدّا، كلزوم الغريم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 25,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 71,
+          "length": 5,
+          "tokens": "كَانَ غَرَامًا",
+          "content": "لازما أو ممتدّا، كلزوم الغريم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "غَرَامًا ۝٦٥ إِنَّهَا سَاۤءَتۡ مُسۡتَقَرࣰّا وَمُقَامࣰا ۝٦٦ وَٱلَّذِینَ إِذَاۤ",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَانَ غَرَامًا",
+          "content": "لازما أو ممتدّا، كلزوم الغريم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 25,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "كَانَ غَرَامًا",
+          "content": "لازما أو ممتدّا، كلزوم الغريم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَنفَقُوا۟ لَمۡ یُسۡرِفُوا۟ وَلَمۡ یَقۡتُرُوا۟ وَكَانَ بَیۡنَ ذَ ٰ⁠لِكَ قَوَامࣰا ۝٦٧",
+      "surahIndexFirst": 25,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَمْ يَقْتُرُوا۟",
+          "content": "لم يُضيّقوا تضييق الأشحّاء",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 25,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "قَوَامًا",
+          "content": "عدلا وسطا بين الطّرفين",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 25,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 18,
+          "tokens": "وَلَمْ يَقْتُرُوا۟",
+          "content": "لم يُضيّقوا تضييق الأشحّاء"
+        },
+        {
+          "start": 72,
+          "length": 8,
+          "tokens": "قَوَامًا",
+          "content": "عدلا وسطا بين الطّرفين"
+        }
+      ]
+    }
+  ]
+}

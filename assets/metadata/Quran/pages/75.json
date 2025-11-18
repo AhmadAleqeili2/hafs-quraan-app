@@ -1,0 +1,343 @@
+{
+  "pageIndex": 75,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذۡ أَخَذَ ٱللَّهُ مِیثَـٰقَ ٱلَّذِینَ أُوتُوا۟ ٱلۡكِتَـٰبَ لَتُبَیِّنُنَّهُۥ لِلنَّاسِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 187,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَنَبَذُوهُ",
+          "content": "طرحوه ولم يُراعوه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 187
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَا تَكۡتُمُونَهُۥ فَنَبَذُوهُ وَرَاۤءَ ظُهُورِهِمۡ وَٱشۡتَرَوۡا۟ بِهِۦ ثَمَنࣰا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 187,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَنَبَذُوهُ",
+          "content": "طرحوه ولم يُراعوه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 187
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 11,
+          "tokens": "فَنَبَذُوهُ",
+          "content": "طرحوه ولم يُراعوه"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَلِیلࣰاۖ فَبِئۡسَ مَا یَشۡتَرُونَ ۝١٨٧ لَا تَحۡسَبَنَّ ٱلَّذِینَ یَفۡرَحُونَ بِمَاۤ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 187,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَنَبَذُوهُ",
+          "content": "طرحوه ولم يُراعوه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 187
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَتَوا۟ وَّیُحِبُّونَ أَن یُحۡمَدُوا۟ بِمَا لَمۡ یَفۡعَلُوا۟ فَلَا تَحۡسَبَنَّهُم",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 188,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمَفَازَةٍ",
+          "content": "بفوز ومنجاةٍ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 188
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِمَفَازَةࣲ مِّنَ ٱلۡعَذَابِۖ وَلَهُمۡ عَذَابٌ أَلِیمࣱ ۝١٨٨ وَلِلَّهِ مُلۡكُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 188,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِمَفَازَةٍ",
+          "content": "بفوز ومنجاةٍ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 3,
+          "ayahIndex": 188
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "بِمَفَازَةٍ",
+          "content": "بفوز ومنجاةٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ ۝١٨٩ إِنَّ فِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 189,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "خَلۡقِ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفِ ٱلَّیۡلِ وَٱلنَّهَارِ لَـَٔایَـٰتࣲ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 190,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "لِّأُو۟لِی ٱلۡأَلۡبَـٰبِ ۝١٩٠ ٱلَّذِینَ یَذۡكُرُونَ ٱللَّهَ قِیَـٰمࣰا وَقُعُودࣰا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 190,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَعَلَىٰ جُنُوبِهِمۡ وَیَتَفَكَّرُونَ فِی خَلۡقِ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 191,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَٰطِلًا",
+          "content": "عبثا عاريا عن الحكمة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 3,
+          "ayahIndex": 191
+        },
+        {
+          "tokens": "فَقِنَا عَذَابَ ٱلنَّارِ",
+          "content": "فاحفظنا من عذابها",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 3,
+          "ayahIndex": 191
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "رَبَّنَا مَا خَلَقۡتَ هَـٰذَا بَـٰطِلࣰا سُبۡحَـٰنَكَ فَقِنَا عَذَابَ ٱلنَّارِ ۝١٩١",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 191,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَٰطِلًا",
+          "content": "عبثا عاريا عن الحكمة",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 3,
+          "ayahIndex": 191
+        },
+        {
+          "tokens": "فَقِنَا عَذَابَ ٱلنَّارِ",
+          "content": "فاحفظنا من عذابها",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 3,
+          "ayahIndex": 191
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 9,
+          "tokens": "بَٰطِلًا",
+          "content": "عبثا عاريا عن الحكمة"
+        },
+        {
+          "start": 53,
+          "length": 24,
+          "tokens": "فَقِنَا عَذَابَ ٱلنَّارِ",
+          "content": "فاحفظنا من عذابها"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "رَبَّنَاۤ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَیۡتَهُۥۖ وَمَا لِلظَّـٰلِمِینَ مِنۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 192,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخْزَيْتَهُۥ",
+          "content": "فضحته أو أهنته أو أهلكته",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 192
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 14,
+          "tokens": "أَخْزَيْتَهُۥ",
+          "content": "فضحته أو أهنته أو أهلكته"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَنصَارࣲ ۝١٩٢ رَّبَّنَاۤ إِنَّنَا سَمِعۡنَا مُنَادِیࣰا یُنَادِی لِلۡإِیمَـٰنِ أَنۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 192,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخْزَيْتَهُۥ",
+          "content": "فضحته أو أهنته أو أهلكته",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 192
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ءَامِنُوا۟ بِرَبِّكُمۡ فَـَٔامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 193,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُنَادِيًا",
+          "content": "الرسول أو القرآن",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        },
+        {
+          "tokens": "ذُنُوبَنَا",
+          "content": "الكبائر",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        },
+        {
+          "tokens": "وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا",
+          "content": "أزِل عنّا صغائر ذنوبنا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 62,
+          "length": 10,
+          "tokens": "ذُنُوبَنَا",
+          "content": "الكبائر"
+        },
+        {
+          "start": 73,
+          "length": 16,
+          "tokens": "وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا",
+          "content": "أزِل عنّا صغائر ذنوبنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "سَیِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ ۝١٩٣ رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 193,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُنَادِيًا",
+          "content": "الرسول أو القرآن",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        },
+        {
+          "tokens": "ذُنُوبَنَا",
+          "content": "الكبائر",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        },
+        {
+          "tokens": "وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا",
+          "content": "أزِل عنّا صغائر ذنوبنا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 3,
+          "ayahIndex": 193
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "وَكَفِّرْ عَنَّا سَيِّـَٔاتِنَا",
+          "content": "أزِل عنّا صغائر ذنوبنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "رُسُلِكَ وَلَا تُخۡزِنَا یَوۡمَ ٱلۡقِیَـٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِیعَادَ ۝١٩٤",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 194,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

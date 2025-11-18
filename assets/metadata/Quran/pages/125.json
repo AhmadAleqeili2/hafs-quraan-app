@@ -1,0 +1,327 @@
+{
+  "pageIndex": 125,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا قِیلَ لَهُمۡ تَعَالَوۡا۟ إِلَىٰ مَاۤ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ قَالُوا۟ حَسۡبُنَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبُنَا",
+          "content": "كافينا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 104
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 89,
+          "length": 9,
+          "tokens": "حَسْبُنَا",
+          "content": "كافينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مَا وَجَدۡنَا عَلَیۡهِ ءَابَاۤءَنَاۤۚ أَوَلَوۡ كَانَ ءَابَاۤؤُهُمۡ لَا یَعۡلَمُونَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبُنَا",
+          "content": "كافينا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 104
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "شَیۡـࣰٔا وَلَا یَهۡتَدُونَ ۝١٠٤ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ عَلَیۡكُمۡ أَنفُسَكُمۡۖ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسْبُنَا",
+          "content": "كافينا",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 5,
+          "ayahIndex": 104
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَا یَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَیۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِیعࣰا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَيْكُمْ أَنفُسَكُمْ",
+          "content": "الزموها واحفظوها من المعاصي",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 105
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَیُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ ۝١٠٥ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ شَهَـٰدَةُ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَيْكُمْ أَنفُسَكُمْ",
+          "content": "الزموها واحفظوها من المعاصي",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 5,
+          "ayahIndex": 105
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَیۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ حِینَ ٱلۡوَصِیَّةِ ٱثۡنَانِ ذَوَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 39,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَدۡلࣲ مِّنكُمۡ أَوۡ ءَاخَرَانِ مِنۡ غَیۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 39,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 61,
+          "length": 24,
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَأَصَـٰبَتۡكُم مُّصِیبَةُ ٱلۡمَوۡتِۚ تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 39,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَیُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ لَا نَشۡتَرِی بِهِۦ ثَمَنࣰا وَلَوۡ كَانَ ذَا",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 39,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 27,
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "قُرۡبَىٰ وَلَا نَكۡتُمُ شَهَـٰدَةَ ٱللَّهِ إِنَّاۤ إِذࣰا لَّمِنَ ٱلۡـَٔاثِمِینَ ۝١٠٦ فَإِنۡ عُثِرَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبْتُمْ فِى ٱلْأَرْضِ",
+          "content": "سافرتم فيها",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        },
+        {
+          "tokens": "لَا نَشْتَرِى بِهِۦ ثَمَنًا",
+          "content": "لا نأخذ بقسَمنا كذبا عرضا دنيويا",
+          "tokenFromIndex": 36,
+          "tokenToIndex": 39,
+          "surahIndex": 5,
+          "ayahIndex": 106
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَلَىٰۤ أَنَّهُمَا ٱسۡتَحَقَّاۤ إِثۡمࣰا فَـَٔاخَرَانِ یَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِینَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَوْلَيَٰنِ",
+          "content": "الأقربان إلى الميت الوارثان له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 5,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱسۡتَحَقَّ عَلَیۡهِمُ ٱلۡأَوۡلَیَـٰنِ فَیُقۡسِمَانِ بِٱللَّهِ لَشَهَـٰدَتُنَاۤ أَحَقُّ مِن",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَوْلَيَٰنِ",
+          "content": "الأقربان إلى الميت الوارثان له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 5,
+          "ayahIndex": 107
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 15,
+          "tokens": "ٱلْأَوْلَيَٰنِ",
+          "content": "الأقربان إلى الميت الوارثان له"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "شَهَـٰدَتِهِمَا وَمَا ٱعۡتَدَیۡنَاۤ إِنَّاۤ إِذࣰا لَّمِنَ ٱلظَّـٰلِمِینَ ۝١٠٧ ذَ ٰ⁠لِكَ أَدۡنَىٰۤ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَوْلَيَٰنِ",
+          "content": "الأقربان إلى الميت الوارثان له",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 5,
+          "ayahIndex": 107
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَن یَأۡتُوا۟ بِٱلشَّهَـٰدَةِ عَلَىٰ وَجۡهِهَاۤ أَوۡ یَخَافُوۤا۟ أَن تُرَدَّ أَیۡمَـٰنُۢ بَعۡدَ",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَیۡمَـٰنِهِمۡۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱسۡمَعُوا۟ۗ وَٱللَّهُ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلۡفَـٰسِقِینَ ۝١٠٨",
+      "surahIndexFirst": 5,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

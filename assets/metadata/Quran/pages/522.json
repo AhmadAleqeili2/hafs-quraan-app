@@ -1,0 +1,267 @@
+{
+  "pageIndex": 522,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ فَمَا خَطۡبُكُمۡ أَیُّهَا ٱلۡمُرۡسَلُونَ ۝٣١ قَالُوۤا۟ إِنَّاۤ أُرۡسِلۡنَاۤ إِلَىٰ قَوۡمࣲ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَمَا خَطْبُكُمْ",
+          "content": "فما شأنكم الخطير ؟",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 51,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 16,
+          "tokens": "فَمَا خَطْبُكُمْ",
+          "content": "فما شأنكم الخطير ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مُّجۡرِمِینَ ۝٣٢ لِنُرۡسِلَ عَلَیۡهِمۡ حِجَارَةࣰ مِّن طِینࣲ ۝٣٣ مُّسَوَّمَةً عِندَ رَبِّكَ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "لِلۡمُسۡرِفِینَ ۝٣٤ فَأَخۡرَجۡنَا مَن كَانَ فِیهَا مِنَ ٱلۡمُؤۡمِنِینَ ۝٣٥ فَمَا وَجَدۡنَا",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّسَوَّمَةً",
+          "content": "مُعْلَمَة بأنّها حجارة عذاب",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 51,
+          "ayahIndex": 34
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِیهَا غَیۡرَ بَیۡتࣲ مِّنَ ٱلۡمُسۡلِمِینَ ۝٣٦ وَتَرَكۡنَا فِیهَاۤ ءَایَةࣰ لِّلَّذِینَ یَخَافُونَ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡعَذَابَ ٱلۡأَلِیمَ ۝٣٧ وَفِی مُوسَىٰۤ إِذۡ أَرۡسَلۡنَـٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَـٰنࣲ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مُّبِینࣲ ۝٣٨ فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَـٰحِرٌ أَوۡ مَجۡنُونࣱ ۝٣٩ فَأَخَذۡنَـٰهُ وَجُنُودَهُۥ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَفِى مُوسَىٰٓ",
+          "content": "وجعلنا في قصّة موسى آية",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 51,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَنَبَذۡنَـٰهُمۡ فِی ٱلۡیَمِّ وَهُوَ مُلِیمࣱ ۝٤٠ وَفِی عَادٍ إِذۡ أَرۡسَلۡنَا عَلَیۡهِمُ ٱلرِّیحَ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَهُوَ مُلِيمٌ",
+          "content": "آتٍ بما يُلام عليه من الكُفْر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 51,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 30,
+          "length": 14,
+          "tokens": "وَهُوَ مُلِيمٌ",
+          "content": "آتٍ بما يُلام عليه من الكُفْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡعَقِیمَ ۝٤١ مَا تَذَرُ مِن شَیۡءٍ أَتَتۡ عَلَیۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِیمِ ۝٤٢",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلرِّيحَ ٱلْعَقِيمَ",
+          "content": "المُهلكة لهمْ، القاطعة لنَسْلهمْ",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 51,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ٱلرِّيحَ ٱلْعَقِيمَ",
+          "content": "المُهلكة لهمْ، القاطعة لنَسْلهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَفِی ثَمُودَ إِذۡ قِیلَ لَهُمۡ تَمَتَّعُوا۟ حَتَّىٰ حِینࣲ ۝٤٣ فَعَتَوۡا۟ عَنۡ أَمۡرِ رَبِّهِمۡ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ وَهُمۡ یَنظُرُونَ ۝٤٤ فَمَا ٱسۡتَطَـٰعُوا۟ مِن قِیَامࣲ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَعَتَوْا۟",
+          "content": "فاستكبروا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 51,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ",
+          "content": "فأهلكتهم صيحة أو نارٌ من السماء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 51,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 28,
+          "tokens": "فَأَخَذَتْهُمُ ٱلصَّٰعِقَةُ",
+          "content": "فأهلكتهم صيحة أو نارٌ من السماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَمَا كَانُوا۟ مُنتَصِرِینَ ۝٤٥ وَقَوۡمَ نُوحࣲ مِّن قَبۡلُۖ إِنَّهُمۡ كَانُوا۟ قَوۡمࣰا",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَـٰسِقِینَ ۝٤٦ وَٱلسَّمَاۤءَ بَنَیۡنَـٰهَا بِأَیۡی۟دࣲ وَإِنَّا لَمُوسِعُونَ ۝٤٧ وَٱلۡأَرۡضَ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَرَشۡنَـٰهَا فَنِعۡمَ ٱلۡمَـٰهِدُونَ ۝٤٨ وَمِن كُلِّ شَیۡءٍ خَلَقۡنَا زَوۡجَیۡنِ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَرْضَ فَرَشْنَٰهَا",
+          "content": "مهّدناها وبَسَطناها كالفراش للاستقرار عليها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 51,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "فَنِعْمَ ٱلْمَٰهِدُونَ",
+          "content": "المسَوّون المُصلحون",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 51,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَٱلْأَرْضَ فَرَشْنَٰهَا",
+          "content": "مهّدناها وبَسَطناها كالفراش للاستقرار عليها"
+        },
+        {
+          "start": 14,
+          "length": 23,
+          "tokens": "فَنِعْمَ ٱلْمَٰهِدُونَ",
+          "content": "المسَوّون المُصلحون"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَعَلَّكُمۡ تَذَكَّرُونَ ۝٤٩ فَفِرُّوۤا۟ إِلَى ٱللَّهِۖ إِنِّی لَكُم مِّنۡهُ نَذِیرࣱ مُّبِینࣱ ۝٥٠",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَقْنَا زَوْجَيْنِ",
+          "content": "صِنفَيْن ونوعين مختلفين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 51,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَا تَجۡعَلُوا۟ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَۖ إِنِّی لَكُم مِّنۡهُ نَذِیرࣱ مُّبِینࣱ ۝٥١",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

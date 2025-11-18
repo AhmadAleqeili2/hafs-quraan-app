@@ -1,0 +1,213 @@
+{
+  "pageIndex": 76,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَٱسۡتَجَابَ لَهُمۡ رَبُّهُمۡ أَنِّی لَاۤ أُضِیعُ عَمَلَ عَـٰمِلࣲ مِّنكُم مِّن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ذَكَرٍ أَوۡ أُنثَىٰۖ بَعۡضُكُم مِّنۢ بَعۡضࣲۖ فَٱلَّذِینَ هَاجَرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَأُخۡرِجُوا۟ مِن دِیَـٰرِهِمۡ وَأُوذُوا۟ فِی سَبِیلِی وَقَـٰتَلُوا۟ وَقُتِلُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَأُكَفِّرَنَّ عَنۡهُمۡ سَیِّـَٔاتِهِمۡ وَلَأُدۡخِلَنَّهُمۡ جَنَّـٰتࣲ تَجۡرِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ ثَوَابࣰا مِّنۡ عِندِ ٱللَّهِۚ وَٱللَّهُ عِندَهُۥ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "حُسۡنُ ٱلثَّوَابِ ۝١٩٥ لَا یَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِینَ كَفَرُوا۟ فِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 195,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡبِلَـٰدِ ۝١٩٦ مَتَـٰعࣱ قَلِیلࣱ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ ۝١٩٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 196,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا يَغُرَّنَّكَ",
+          "content": "لا يخدعنّك عن الحقيقة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 3,
+          "ayahIndex": 196
+        },
+        {
+          "tokens": "تَقَلُّبُ",
+          "content": "تصرّف",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 196
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "لَـٰكِنِ ٱلَّذِینَ ٱتَّقَوۡا۟ رَبَّهُمۡ لَهُمۡ جَنَّـٰتࣱ تَجۡرِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 198,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُزُلًا",
+          "content": "ضِيافة وتكرِمة وجزاءً",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 198
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَا نُزُلࣰا مِّنۡ عِندِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 198,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُزُلًا",
+          "content": "ضِيافة وتكرِمة وجزاءً",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 198
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 7,
+          "tokens": "نُزُلًا",
+          "content": "ضِيافة وتكرِمة وجزاءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱللَّهِۗ وَمَا عِندَ ٱللَّهِ خَیۡرࣱ لِّلۡأَبۡرَارِ ۝١٩٨ وَإِنَّ مِنۡ أَهۡلِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 198,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نُزُلًا",
+          "content": "ضِيافة وتكرِمة وجزاءً",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 198
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡكِتَـٰبِ لَمَن یُؤۡمِنُ بِٱللَّهِ وَمَاۤ أُنزِلَ إِلَیۡكُمۡ وَمَاۤ أُنزِلَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 199,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِلَیۡهِمۡ خَـٰشِعِینَ لِلَّهِ لَا یَشۡتَرُونَ بِـَٔایَـٰتِ ٱللَّهِ ثَمَنࣰا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 199,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "قَلِیلًاۚ أُو۟لَـٰۤىِٕكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 199,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "سَرِیعُ ٱلۡحِسَابِ ۝١٩٩ یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱصۡبِرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 199,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَصَابِرُوا۟ وَرَابِطُوا۟ وَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ ۝٢٠٠",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 200,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَصَابِرُوا۟",
+          "content": "غالبوا الأعداء في الصبر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 3,
+          "ayahIndex": 200
+        },
+        {
+          "tokens": "وَرَابِطُوا۟",
+          "content": "أقيموا بالحدود مُتأهّبين للجهاد",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 200
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَصَابِرُوا۟",
+          "content": "غالبوا الأعداء في الصبر"
+        },
+        {
+          "start": 13,
+          "length": 12,
+          "tokens": "وَرَابِطُوا۟",
+          "content": "أقيموا بالحدود مُتأهّبين للجهاد"
+        }
+      ]
+    }
+  ]
+}

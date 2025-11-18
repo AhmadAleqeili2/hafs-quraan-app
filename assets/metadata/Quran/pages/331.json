@@ -1,0 +1,365 @@
+{
+  "pageIndex": 331,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَا یَسۡمَعُونَ حَسِیسَهَاۖ وَهُمۡ فِی مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسِيسَهَا",
+          "content": "صوت حركة تلهّبها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 102
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 11,
+          "tokens": "حَسِيسَهَا",
+          "content": "صوت حركة تلهّبها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "خَـٰلِدُونَ ۝١٠٢ لَا یَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَسِيسَهَا",
+          "content": "صوت حركة تلهّبها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 102
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡمَلَـٰۤىِٕكَةُ هَـٰذَا یَوۡمُكُمُ ٱلَّذِی كُنتُمۡ تُوعَدُونَ ۝١٠٣",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْفَزَعُ ٱلْأَكْبَرُ",
+          "content": "حين نفخة البعث",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 103
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَوۡمَ نَطۡوِی ٱلسَّمَاۤءَ كَطَیِّ ٱلسِّجِلِّ لِلۡكُتُبِۚ كَمَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسِّجِلِّ",
+          "content": "الصّحيفة التي يُكتب فيها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        },
+        {
+          "tokens": "لِلْكُتُبِ",
+          "content": "على ما كُتِب في السّجل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 10,
+          "tokens": "ٱلسِّجِلِّ",
+          "content": "الصّحيفة التي يُكتب فيها"
+        },
+        {
+          "start": 46,
+          "length": 11,
+          "tokens": "لِلْكُتُبِ",
+          "content": "على ما كُتِب في السّجل"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بَدَأۡنَاۤ أَوَّلَ خَلۡقࣲ نُّعِیدُهُۥۚ وَعۡدًا عَلَیۡنَاۤۚ إِنَّا كُنَّا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسِّجِلِّ",
+          "content": "الصّحيفة التي يُكتب فيها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        },
+        {
+          "tokens": "لِلْكُتُبِ",
+          "content": "على ما كُتِب في السّجل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَـٰعِلِینَ ۝١٠٤ وَلَقَدۡ كَتَبۡنَا فِی ٱلزَّبُورِ مِنۢ بَعۡدِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسِّجِلِّ",
+          "content": "الصّحيفة التي يُكتب فيها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        },
+        {
+          "tokens": "لِلْكُتُبِ",
+          "content": "على ما كُتِب في السّجل",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 104
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ یَرِثُهَا عِبَادِیَ ٱلصَّـٰلِحُونَ ۝١٠٥",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلزَّبُورِ",
+          "content": "الكُتب المنزّلة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 105
+        },
+        {
+          "tokens": "ٱلذِّكْرِ",
+          "content": "اللّوح المحفوظ",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 105
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "ٱلذِّكْرِ",
+          "content": "اللّوح المحفوظ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِنَّ فِی هَـٰذَا لَبَلَـٰغࣰا لِّقَوۡمٍ عَـٰبِدِینَ ۝١٠٦ وَمَاۤ أَرۡسَلۡنَـٰكَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَبَلَٰغًا",
+          "content": "كِفاية، أو وُصولا إلى البُغية",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 106
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 11,
+          "tokens": "لَبَلَٰغًا",
+          "content": "كِفاية، أو وُصولا إلى البُغية"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِلَّا رَحۡمَةࣰ لِّلۡعَـٰلَمِینَ ۝١٠٧ قُلۡ إِنَّمَا یُوحَىٰۤ إِلَیَّ أَنَّمَاۤ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَـٰهُكُمۡ إِلَـٰهࣱ وَ ٰ⁠حِدࣱۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ ۝١٠٨",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَإِن تَوَلَّوۡا۟ فَقُلۡ ءَاذَنتُكُمۡ عَلَىٰ سَوَاۤءࣲۖ وَإِنۡ أَدۡرِیۤ أَقَرِیبٌ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاذَنتُكُمْ",
+          "content": "أعلمتكم ما أمرت به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "عَلَىٰ سَوَآءٍ",
+          "content": "مُستوين جميعا في الإعلام به",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "وَإِنْ أَدْرِىٓ",
+          "content": "وما أدري وما أعلم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 12,
+          "tokens": "ءَاذَنتُكُمْ",
+          "content": "أعلمتكم ما أمرت به"
+        },
+        {
+          "start": 38,
+          "length": 16,
+          "tokens": "عَلَىٰ سَوَآءٍ",
+          "content": "مُستوين جميعا في الإعلام به"
+        },
+        {
+          "start": 55,
+          "length": 15,
+          "tokens": "وَإِنْ أَدْرِىٓ",
+          "content": "وما أدري وما أعلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَم بَعِیدࣱ مَّا تُوعَدُونَ ۝١٠٩ إِنَّهُۥ یَعۡلَمُ ٱلۡجَهۡرَ مِنَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 109,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاذَنتُكُمْ",
+          "content": "أعلمتكم ما أمرت به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "عَلَىٰ سَوَآءٍ",
+          "content": "مُستوين جميعا في الإعلام به",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        },
+        {
+          "tokens": "وَإِنْ أَدْرِىٓ",
+          "content": "وما أدري وما أعلم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 21,
+          "ayahIndex": 109
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡقَوۡلِ وَیَعۡلَمُ مَا تَكۡتُمُونَ ۝١١٠ وَإِنۡ أَدۡرِی لَعَلَّهُۥ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِتۡنَةࣱ لَّكُمۡ وَمَتَـٰعٌ إِلَىٰ حِینࣲ ۝١١١ قَـٰلَ رَبِّ ٱحۡكُم",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 111,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِتْنَةٌ لَّكُمْ",
+          "content": "امتحان لكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 111
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "فِتْنَةٌ لَّكُمْ",
+          "content": "امتحان لكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَـٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ ۝١١٢",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

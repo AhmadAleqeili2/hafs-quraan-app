@@ -1,0 +1,419 @@
+{
+  "pageIndex": 407,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمِنۡ ءَایَـٰتِهِۦۤ أَن تَقُومَ ٱلسَّمَاۤءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "دَعۡوَةࣰ مِّنَ ٱلۡأَرۡضِ إِذَاۤ أَنتُمۡ تَخۡرُجُونَ ۝٢٥ وَلَهُۥ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلۡأَرۡضِۖ كُلࣱّ لَّهُۥ قَـٰنِتُونَ ۝٢٦ وَهُوَ ٱلَّذِی یَبۡدَؤُا۟ ٱلۡخَلۡقَ ثُمَّ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّهُۥ قَٰنِتُونَ",
+          "content": "مُطيعون مُنقادون لإرادته",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 30,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 18,
+          "tokens": "لَّهُۥ قَٰنِتُونَ",
+          "content": "مُطيعون مُنقادون لإرادته"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "یُعِیدُهُۥ وَهُوَ أَهۡوَنُ عَلَیۡهِۚ وَلَهُ ٱلۡمَثَلُ ٱلۡأَعۡلَىٰ فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ",
+          "content": "الوصف الأعلى في الكمال والجلال",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 30,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 28,
+          "tokens": "وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ",
+          "content": "الوصف الأعلى في الكمال والجلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱلۡأَرۡضِۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝٢٧ ضَرَبَ لَكُم مَّثَلࣰا",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَهُ ٱلْمَثَلُ ٱلْأَعْلَىٰ",
+          "content": "الوصف الأعلى في الكمال والجلال",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 30,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِّنۡ أَنفُسِكُمۡۖ هَل لَّكُم مِّن مَّا مَلَكَتۡ أَیۡمَـٰنُكُم مِّن",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "شُرَكَاۤءَ فِی مَا رَزَقۡنَـٰكُمۡ فَأَنتُمۡ فِیهِ سَوَاۤءࣱ تَخَافُونَهُمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "كَخِیفَتِكُمۡ أَنفُسَكُمۡۚ كَذَ ٰ⁠لِكَ نُفَصِّلُ ٱلۡـَٔایَـٰتِ لِقَوۡمࣲ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَعۡقِلُونَ ۝٢٨ بَلِ ٱتَّبَعَ ٱلَّذِینَ ظَلَمُوۤا۟ أَهۡوَاۤءَهُم بِغَیۡرِ عِلۡمࣲۖ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَمَن یَهۡدِی مَنۡ أَضَلَّ ٱللَّهُۖ وَمَا لَهُم مِّن نَّـٰصِرِینَ ۝٢٩ فَأَقِمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَجۡهَكَ لِلدِّینِ حَنِیفࣰاۚ فِطۡرَتَ ٱللَّهِ ٱلَّتِی فَطَرَ ٱلنَّاسَ عَلَیۡهَاۚ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَقِمْ وَجْهَكَ",
+          "content": "قوّمْهُ وعدّلْهُ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِلدِّينِ",
+          "content": "دين التوحيد والإسلام",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا إليه مُستقيما عليه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فِطْرَتَ ٱللَّهِ",
+          "content": "الزموها وهي دين الإسلام",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فَطَرَ ٱلنَّاسَ عَلَيْهَا",
+          "content": "جبَلهم وطَبَعهم عليها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِخَلْقِ ٱللَّهِ",
+          "content": "لدينه الذي فطرهم عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم الذي لا عِوَج فيه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "فَأَقِمْ وَجْهَكَ",
+          "content": "قوّمْهُ وعدّلْهُ"
+        },
+        {
+          "start": 9,
+          "length": 9,
+          "tokens": "لِلدِّينِ",
+          "content": "دين التوحيد والإسلام"
+        },
+        {
+          "start": 19,
+          "length": 9,
+          "tokens": "حَنِيفًا",
+          "content": "مائلا إليه مُستقيما عليه"
+        },
+        {
+          "start": 29,
+          "length": 16,
+          "tokens": "فِطْرَتَ ٱللَّهِ",
+          "content": "الزموها وهي دين الإسلام"
+        },
+        {
+          "start": 54,
+          "length": 26,
+          "tokens": "فَطَرَ ٱلنَّاسَ عَلَيْهَا",
+          "content": "جبَلهم وطَبَعهم عليها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَا تَبۡدِیلَ لِخَلۡقِ ٱللَّهِۚ ذَ ٰ⁠لِكَ ٱلدِّینُ ٱلۡقَیِّمُ وَلَـٰكِنَّ أَكۡثَرَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَقِمْ وَجْهَكَ",
+          "content": "قوّمْهُ وعدّلْهُ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِلدِّينِ",
+          "content": "دين التوحيد والإسلام",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا إليه مُستقيما عليه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فِطْرَتَ ٱللَّهِ",
+          "content": "الزموها وهي دين الإسلام",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فَطَرَ ٱلنَّاسَ عَلَيْهَا",
+          "content": "جبَلهم وطَبَعهم عليها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِخَلْقِ ٱللَّهِ",
+          "content": "لدينه الذي فطرهم عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم الذي لا عِوَج فيه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 17,
+          "tokens": "لِخَلْقِ ٱللَّهِ",
+          "content": "لدينه الذي فطرهم عليه"
+        },
+        {
+          "start": 32,
+          "length": 29,
+          "tokens": "ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم الذي لا عِوَج فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلنَّاسِ لَا یَعۡلَمُونَ ۝٣٠ مُنِیبِینَ إِلَیۡهِ وَٱتَّقُوهُ وَأَقِیمُوا۟",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَقِمْ وَجْهَكَ",
+          "content": "قوّمْهُ وعدّلْهُ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِلدِّينِ",
+          "content": "دين التوحيد والإسلام",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "حَنِيفًا",
+          "content": "مائلا إليه مُستقيما عليه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فِطْرَتَ ٱللَّهِ",
+          "content": "الزموها وهي دين الإسلام",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "فَطَرَ ٱلنَّاسَ عَلَيْهَا",
+          "content": "جبَلهم وطَبَعهم عليها",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "لِخَلْقِ ٱللَّهِ",
+          "content": "لدينه الذي فطرهم عليه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        },
+        {
+          "tokens": "ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ",
+          "content": "المُستقيم الذي لا عِوَج فيه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 30,
+          "ayahIndex": 30
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلصَّلَوٰةَ وَلَا تَكُونُوا۟ مِنَ ٱلۡمُشۡرِكِینَ ۝٣١ مِنَ ٱلَّذِینَ فَرَّقُوا۟",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُنِيبِينَ إِلَيْهِ",
+          "content": "راجعين إليه بالتّوبة والإخلاص",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 30,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "دِینَهُمۡ وَكَانُوا۟ شِیَعࣰاۖ كُلُّ حِزۡبِۭ بِمَا لَدَیۡهِمۡ فَرِحُونَ ۝٣٢",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَانُوا۟ شِيَعًا",
+          "content": "فِرقا مُختلفة الأهواء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 30,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 19,
+          "tokens": "وَكَانُوا۟ شِيَعًا",
+          "content": "فِرقا مُختلفة الأهواء"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "pageIndex": 572,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الجن",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قُلۡ أُوحِیَ إِلَیَّ أَنَّهُ ٱسۡتَمَعَ نَفَرࣱ مِّنَ ٱلۡجِنِّ فَقَالُوۤا۟ إِنَّا سَمِعۡنَا قُرۡءَانًا",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 90,
+          "length": 10,
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَجَبࣰا ۝١ یَهۡدِیۤ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَاۤ أَحَدࣰا ۝٢",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "قُرْءَانًا عَجَبًا",
+          "content": "عجبًا بديعا في بلاغته وفصاحته"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأَنَّهُۥ تَعَـٰلَىٰ جَدُّ رَبِّنَا مَا ٱتَّخَذَ صَـٰحِبَةࣰ وَلَا وَلَدࣰا ۝٣ وَأَنَّهُۥ كَانَ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَعَٰلَىٰ",
+          "content": "ارتفعَ وعَُظمَ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 72,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "جَدُّ رَبِّنَا",
+          "content": "جلاله، أو سلطانه، أو غِنَاه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 72,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 10,
+          "tokens": "تَعَٰلَىٰ",
+          "content": "ارتفعَ وعَُظمَ"
+        },
+        {
+          "start": 22,
+          "length": 14,
+          "tokens": "جَدُّ رَبِّنَا",
+          "content": "جلاله، أو سلطانه، أو غِنَاه"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَقُولُ سَفِیهُنَا عَلَى ٱللَّهِ شَطَطࣰا ۝٤ وَأَنَّا ظَنَنَّاۤ أَن لَّن تَقُولَ ٱلۡإِنسُ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَقُولُ سَفِيهُنَا",
+          "content": "جَاهِلنا (إبليس اللعين)",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 72,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "شَطَطًا",
+          "content": "قوْلاً مُفرطًا في الكذب والضّلال",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 72,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "يَقُولُ سَفِيهُنَا",
+          "content": "جَاهِلنا (إبليس اللعين)"
+        },
+        {
+          "start": 33,
+          "length": 7,
+          "tokens": "شَطَطًا",
+          "content": "قوْلاً مُفرطًا في الكذب والضّلال"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبࣰا ۝٥ وَأَنَّهُۥ كَانَ رِجَالࣱ مِّنَ ٱلۡإِنسِ یَعُوذُونَ بِرِجَالࣲ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقࣰا ۝٦ وَأَنَّهُمۡ ظَنُّوا۟ كَمَا ظَنَنتُمۡ أَن لَّن یَبۡعَثَ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَعُوذُونَ",
+          "content": "يَسْتعيذون ويَتحيّرون",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 72,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "فَزَادُوهُمْ رَهَقًا",
+          "content": "إثما، أو طغيانا وسَفَها",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 72,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 20,
+          "tokens": "فَزَادُوهُمْ رَهَقًا",
+          "content": "إثما، أو طغيانا وسَفَها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱللَّهُ أَحَدࣰا ۝٧ وَأَنَّا لَمَسۡنَا ٱلسَّمَاۤءَ فَوَجَدۡنَـٰهَا مُلِئَتۡ حَرَسࣰا",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "شَدِیدࣰا وَشُهُبࣰا ۝٨ وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَـٰعِدَ لِلسَّمۡعِۖ فَمَن",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَرَسًا شَدِيدًا",
+          "content": "حُرّاسا أقوياء من الملائكة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 72,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "وَشُهُبًا",
+          "content": "شُعل نار تَنْقَضّ كالكواكب",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 72,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "حَرَسًا شَدِيدًا",
+          "content": "حُرّاسا أقوياء من الملائكة"
+        },
+        {
+          "start": 9,
+          "length": 9,
+          "tokens": "وَشُهُبًا",
+          "content": "شُعل نار تَنْقَضّ كالكواكب"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَسۡتَمِعِ ٱلۡـَٔانَ یَجِدۡ لَهُۥ شِهَابࣰا رَّصَدࣰا ۝٩ وَأَنَّا لَا نَدۡرِیۤ أَشَرٌّ أُرِیدَ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شِهَابًا رَّصَدًا",
+          "content": "راصِدًا، مُترقّبا يَرْجُمه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 34,
+          "length": 17,
+          "tokens": "شِهَابًا رَّصَدًا",
+          "content": "راصِدًا، مُترقّبا يَرْجُمه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِمَن فِی ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدࣰا ۝١٠ وَأَنَّا مِنَّا ٱلصَّـٰلِحُونَ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَشَدًا",
+          "content": "خَيْرًا وصَلاحًا ورحمة",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 72,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 7,
+          "tokens": "رَشَدًا",
+          "content": "خَيْرًا وصَلاحًا ورحمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمِنَّا دُونَ ذَ ٰ⁠لِكَۖ كُنَّا طَرَاۤىِٕقَ قِدَدࣰا ۝١١ وَأَنَّا ظَنَنَّاۤ أَن لَّن نُّعۡجِزَ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَرَآئِقَ قِدَدًا",
+          "content": "ذوي مذاهب مُتفرقة مُختلِفة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 72,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 19,
+          "tokens": "طَرَآئِقَ قِدَدًا",
+          "content": "ذوي مذاهب مُتفرقة مُختلِفة"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهَ فِی ٱلۡأَرۡضِ وَلَن نُّعۡجِزَهُۥ هَرَبࣰا ۝١٢ وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰۤ",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ظَنَنَّآ",
+          "content": "عَلِمْنا وأيقنّا الآن",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 72,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ءَامَنَّا بِهِۦۖ فَمَن یُؤۡمِنۢ بِرَبِّهِۦ فَلَا یَخَافُ بَخۡسࣰا وَلَا رَهَقࣰا ۝١٣",
+      "surahIndexFirst": 72,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَلَا يَخَافُ بَخْسًا",
+          "content": "فلا يَخشى نَقْصًا منْ ثوَابه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 72,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "وَلَا رَهَقًا",
+          "content": "غَشَيَان ذِلّة له",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 72,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 21,
+          "tokens": "فَلَا يَخَافُ بَخْسًا",
+          "content": "فلا يَخشى نَقْصًا منْ ثوَابه"
+        },
+        {
+          "start": 65,
+          "length": 13,
+          "tokens": "وَلَا رَهَقًا",
+          "content": "غَشَيَان ذِلّة له"
+        }
+      ]
+    }
+  ]
+}

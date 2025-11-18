@@ -1,0 +1,347 @@
+{
+  "pageIndex": 318,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَأَخۡرَجَ لَهُمۡ عِجۡلࣰا جَسَدࣰا لَّهُۥ خُوَارࣱ فَقَالُوا۟ هَـٰذَاۤ إِلَـٰهُكُمۡ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِجْلًا جَسَدًا",
+          "content": "مُجسّدا : أي أحمر من ذهب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 20,
+          "ayahIndex": 88
+        },
+        {
+          "tokens": "لَّهُۥ خُوَارٌ",
+          "content": "صوت كصوت البقر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 20,
+          "ayahIndex": 88
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 15,
+          "tokens": "عِجْلًا جَسَدًا",
+          "content": "مُجسّدا : أي أحمر من ذهب"
+        },
+        {
+          "start": 34,
+          "length": 14,
+          "tokens": "لَّهُۥ خُوَارٌ",
+          "content": "صوت كصوت البقر"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِلَـٰهُ مُوسَىٰ فَنَسِیَ ۝٨٨ أَفَلَا یَرَوۡنَ أَلَّا یَرۡجِعُ إِلَیۡهِمۡ قَوۡلࣰا",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عِجْلًا جَسَدًا",
+          "content": "مُجسّدا : أي أحمر من ذهب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 20,
+          "ayahIndex": 88
+        },
+        {
+          "tokens": "لَّهُۥ خُوَارٌ",
+          "content": "صوت كصوت البقر",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 20,
+          "ayahIndex": 88
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَلَا یَمۡلِكُ لَهُمۡ ضَرࣰّا وَلَا نَفۡعࣰا ۝٨٩ وَلَقَدۡ قَالَ لَهُمۡ هَـٰرُونُ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِن قَبۡلُ یَـٰقَوۡمِ إِنَّمَا فُتِنتُم بِهِۦۖ وَإِنَّ رَبَّكُمُ ٱلرَّحۡمَـٰنُ فَٱتَّبِعُونِی",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأَطِیعُوۤا۟ أَمۡرِی ۝٩٠ قَالُوا۟ لَن نَّبۡرَحَ عَلَیۡهِ عَـٰكِفِینَ حَتَّىٰ یَرۡجِعَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِلَیۡنَا مُوسَىٰ ۝٩١ قَالَ یَـٰهَـٰرُونُ مَا مَنَعَكَ إِذۡ رَأَیۡتَهُمۡ ضَلُّوۤا۟ ۝٩٢",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَلَّا تَتَّبِعَنِۖ أَفَعَصَیۡتَ أَمۡرِی ۝٩٣ قَالَ یَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡیَتِی",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلَا بِرَأۡسِیۤۖ إِنِّی خَشِیتُ أَن تَقُولَ فَرَّقۡتَ بَیۡنَ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلَمۡ تَرۡقُبۡ قَوۡلِی ۝٩٤ قَالَ فَمَا خَطۡبُكَ یَـٰسَـٰمِرِیُّ ۝٩٥ قَالَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 94,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بَصُرۡتُ بِمَا لَمۡ یَبۡصُرُوا۟ بِهِۦ فَقَبَضۡتُ قَبۡضَةࣰ مِّنۡ أَثَرِ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَصُرْتُ",
+          "content": "علِمتُ بالبصيرة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "أَثَرِ ٱلرَّسُولِ",
+          "content": "أثر فرس جبريل عليه السلام",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "فَنَبَذْتُهَا",
+          "content": "ألقيتُها في الحليّ المُذاب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "سَوَّلَتْ",
+          "content": "زيّنت وحسّنت",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "بَصُرْتُ",
+          "content": "علِمتُ بالبصيرة"
+        },
+        {
+          "start": 64,
+          "length": 6,
+          "tokens": "أَثَرِ ٱلرَّسُولِ",
+          "content": "أثر فرس جبريل عليه السلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَ ٰ⁠لِكَ سَوَّلَتۡ لِی نَفۡسِی ۝٩٦ قَالَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَصُرْتُ",
+          "content": "علِمتُ بالبصيرة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "أَثَرِ ٱلرَّسُولِ",
+          "content": "أثر فرس جبريل عليه السلام",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "فَنَبَذْتُهَا",
+          "content": "ألقيتُها في الحليّ المُذاب",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        },
+        {
+          "tokens": "سَوَّلَتْ",
+          "content": "زيّنت وحسّنت",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 20,
+          "ayahIndex": 96
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "أَثَرِ ٱلرَّسُولِ",
+          "content": "أثر فرس جبريل عليه السلام"
+        },
+        {
+          "start": 11,
+          "length": 13,
+          "tokens": "فَنَبَذْتُهَا",
+          "content": "ألقيتُها في الحليّ المُذاب"
+        },
+        {
+          "start": 39,
+          "length": 9,
+          "tokens": "سَوَّلَتْ",
+          "content": "زيّنت وحسّنت"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَٱذۡهَبۡ فَإِنَّ لَكَ فِی ٱلۡحَیَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا مِسَاسَ",
+          "content": "لا تمسّني ولا أمسّك",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "لَنَنسِفَنَّهُۥ",
+          "content": "لَنُذرّينّه",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 12,
+          "tokens": "لَا مِسَاسَ",
+          "content": "لا تمسّني ولا أمسّك"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَوۡعِدࣰا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰۤ إِلَـٰهِكَ ٱلَّذِی ظَلۡتَ عَلَیۡهِ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا مِسَاسَ",
+          "content": "لا تمسّني ولا أمسّك",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "لَنَنسِفَنَّهُۥ",
+          "content": "لَنُذرّينّه",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "عَاكِفࣰاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِی ٱلۡیَمِّ نَسۡفًا ۝٩٧ إِنَّمَاۤ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا مِسَاسَ",
+          "content": "لا تمسّني ولا أمسّك",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        },
+        {
+          "tokens": "لَنَنسِفَنَّهُۥ",
+          "content": "لَنُذرّينّه",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 20,
+          "ayahIndex": 97
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 15,
+          "tokens": "لَنَنسِفَنَّهُۥ",
+          "content": "لَنُذرّينّه"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَـٰهُكُمُ ٱللَّهُ ٱلَّذِی لَاۤ إِلَـٰهَ إِلَّا هُوَۚ وَسِعَ كُلَّ شَیۡءٍ عِلۡمࣰا ۝٩٨",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

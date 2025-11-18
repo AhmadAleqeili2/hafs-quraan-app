@@ -1,0 +1,185 @@
+{
+  "pageIndex": 450,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَمَّاۤ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِینِ ۝١٠٣ وَنَـٰدَیۡنَـٰهُ أَن یَـٰۤإِبۡرَ ٰ⁠هِیمُ ۝١٠٤",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَسْلَمَا",
+          "content": "استسلما وانقادا لأمره تعالى",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "وَتَلَّهُۥ لِلْجَبِينِ",
+          "content": "أضجعه على جبينه على الأرض",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 37,
+          "ayahIndex": 103
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 9,
+          "tokens": "أَسْلَمَا",
+          "content": "استسلما وانقادا لأمره تعالى"
+        },
+        {
+          "start": 20,
+          "length": 22,
+          "tokens": "وَتَلَّهُۥ لِلْجَبِينِ",
+          "content": "أضجعه على جبينه على الأرض"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَدۡ صَدَّقۡتَ ٱلرُّءۡیَاۤۚ إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ ۝١٠٥ إِنَّ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "هَـٰذَا لَهُوَ ٱلۡبَلَـٰۤؤُا۟ ٱلۡمُبِینُ ۝١٠٦ وَفَدَیۡنَـٰهُ بِذِبۡحٍ عَظِیمࣲ ۝١٠٧ وَتَرَكۡنَا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+          "content": "الإختبار البيّن، أو المحنة البيّنة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 37,
+          "ayahIndex": 106
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 25,
+          "tokens": "ٱلْبَلَٰٓؤُا۟ ٱلْمُبِينُ",
+          "content": "الإختبار البيّن، أو المحنة البيّنة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَلَیۡهِ فِی ٱلۡـَٔاخِرِینَ ۝١٠٨ سَلَـٰمٌ عَلَىٰۤ إِبۡرَ ٰ⁠هِیمَ ۝١٠٩ كَذَ ٰ⁠لِكَ نَجۡزِی",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡمُحۡسِنِینَ ۝١١٠ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ ۝١١١ وَبَشَّرۡنَـٰهُ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 110,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِإِسۡحَـٰقَ نَبِیࣰّا مِّنَ ٱلصَّـٰلِحِینَ ۝١١٢ وَبَـٰرَكۡنَا عَلَیۡهِ وَعَلَىٰۤ إِسۡحَـٰقَۚ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمِن ذُرِّیَّتِهِمَا مُحۡسِنࣱ وَظَالِمࣱ لِّنَفۡسِهِۦ مُبِینࣱ ۝١١٣ وَلَقَدۡ مَنَنَّا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَلَىٰ مُوسَىٰ وَهَـٰرُونَ ۝١١٤ وَنَجَّیۡنَـٰهُمَا وَقَوۡمَهُمَا مِنَ ٱلۡكَرۡبِ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡعَظِیمِ ۝١١٥ وَنَصَرۡنَـٰهُمۡ فَكَانُوا۟ هُمُ ٱلۡغَـٰلِبِینَ ۝١١٦ وَءَاتَیۡنَـٰهُمَا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلۡكِتَـٰبَ ٱلۡمُسۡتَبِینَ ۝١١٧ وَهَدَیۡنَـٰهُمَا ٱلصِّرَ ٰ⁠طَ ٱلۡمُسۡتَقِیمَ ۝١١٨",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَتَرَكۡنَا عَلَیۡهِمَا فِی ٱلۡـَٔاخِرِینَ ۝١١٩ سَلَـٰمٌ عَلَىٰ مُوسَىٰ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَهَـٰرُونَ ۝١٢٠ إِنَّا كَذَ ٰ⁠لِكَ نَجۡزِی ٱلۡمُحۡسِنِینَ ۝١٢١ إِنَّهُمَا",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِینَ ۝١٢٢ وَإِنَّ إِلۡیَاسَ لَمِنَ ٱلۡمُرۡسَلِینَ ۝١٢٣",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 122,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِذۡ قَالَ لِقَوۡمِهِۦۤ أَلَا تَتَّقُونَ ۝١٢٤ أَتَدۡعُونَ بَعۡلࣰا وَتَذَرُونَ أَحۡسَنَ",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 124,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡخَـٰلِقِینَ ۝١٢٥ ٱللَّهَ رَبَّكُمۡ وَرَبَّ ءَابَاۤىِٕكُمُ ٱلۡأَوَّلِینَ ۝١٢٦",
+      "surahIndexFirst": 37,
+      "ayahIndexFirst": 125,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَتَدْعُونَ بَعْلًا",
+          "content": "أتعبدون الصّنم المسمّى بعلا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 37,
+          "ayahIndex": 125
+        }
+      ]
+    }
+  ]
+}

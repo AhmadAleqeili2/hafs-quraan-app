@@ -1,0 +1,503 @@
+{
+  "pageIndex": 454,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱصۡبِرۡ عَلَىٰ مَا یَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَیۡدِۖ إِنَّهُۥۤ أَوَّابٌ ۝١٧ إِنَّا",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَا ٱلْأَيْدِ",
+          "content": "ذا القوّة في الدين والعبادة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 38,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "إِنَّهُۥٓ أَوَّابٌ",
+          "content": "رجّاع إلى الله تعالى وطاعته",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 38,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 14,
+          "tokens": "ذَا ٱلْأَيْدِ",
+          "content": "ذا القوّة في الدين والعبادة"
+        },
+        {
+          "start": 74,
+          "length": 18,
+          "tokens": "إِنَّهُۥٓ أَوَّابٌ",
+          "content": "رجّاع إلى الله تعالى وطاعته"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ یُسَبِّحۡنَ بِٱلۡعَشِیِّ وَٱلۡإِشۡرَاقِ ۝١٨ وَٱلطَّیۡرَ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+          "content": "من الزّوال للغروب، ووقت الضّحى",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 38,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 27,
+          "tokens": "بِٱلْعَشِىِّ وَٱلْإِشْرَاقِ",
+          "content": "من الزّوال للغروب، ووقت الضّحى"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَحۡشُورَةࣰۖ كُلࣱّ لَّهُۥۤ أَوَّابࣱ ۝١٩ وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَیۡنَـٰهُ ٱلۡحِكۡمَةَ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَفَصۡلَ ٱلۡخِطَابِ ۝٢٠ وَهَلۡ أَتَىٰكَ نَبَؤُا۟ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُوا۟",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَشَدَدْنَا مُلْكَهُۥ",
+          "content": "قوّيناه بأسباب القوّة كلّها",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 38,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "وَءَاتَيْنَٰهُ ٱلْحِكْمَةَ",
+          "content": "النبوّة وكمال العلم واتقان العمل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 38,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "وَفَصْلَ ٱلْخِطَابِ",
+          "content": "علم فصل الخصومات",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 38,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "وَفَصْلَ ٱلْخِطَابِ",
+          "content": "علم فصل الخصومات"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡمِحۡرَابَ ۝٢١ إِذۡ دَخَلُوا۟ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُوا۟ لَا تَخَفۡۖ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخَصْمِ",
+          "content": "ملكين في صورة إنسانين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 38,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+          "content": "علوْ سور مصلاّه ونزلوا إليه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 38,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "تَسَوَّرُوا۟ ٱلْمِحْرَابَ",
+          "content": "علوْ سور مصلاّه ونزلوا إليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضࣲ فَٱحۡكُم بَیۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغَىٰ بَعْضُنَا",
+          "content": "تعدّى وظلم وجار",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "وَلَا تُشْطِطْ",
+          "content": "لا تجر في حكمك",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "سَوَآءِ ٱلصِّرَٰطِ",
+          "content": "وسط الطريق وهو عين الحقّ",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 16,
+          "tokens": "بَغَىٰ بَعْضُنَا",
+          "content": "تعدّى وظلم وجار"
+        },
+        {
+          "start": 71,
+          "length": 14,
+          "tokens": "وَلَا تُشْطِطْ",
+          "content": "لا تجر في حكمك"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱهۡدِنَاۤ إِلَىٰ سَوَاۤءِ ٱلصِّرَ ٰ⁠طِ ۝٢٢ إِنَّ هَـٰذَاۤ أَخِی لَهُۥ تِسۡعࣱ وَتِسۡعُونَ نَعۡجَةࣰ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَغَىٰ بَعْضُنَا",
+          "content": "تعدّى وظلم وجار",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "وَلَا تُشْطِطْ",
+          "content": "لا تجر في حكمك",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "سَوَآءِ ٱلصِّرَٰطِ",
+          "content": "وسط الطريق وهو عين الحقّ",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 38,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 21,
+          "tokens": "سَوَآءِ ٱلصِّرَٰطِ",
+          "content": "وسط الطريق وهو عين الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلِیَ نَعۡجَةࣱ وَ ٰ⁠حِدَةࣱ فَقَالَ أَكۡفِلۡنِیهَا وَعَزَّنِی فِی ٱلۡخِطَابِ ۝٢٣ قَالَ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَكْفِلْنِيهَا",
+          "content": "انزلْ لي عنها حتى أكفلها",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 38,
+          "ayahIndex": 23
+        },
+        {
+          "tokens": "وَعَزَّنِى فِى ٱلْخِطَابِ",
+          "content": "غلبني وقهرني في المُحاجّة",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 38,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 14,
+          "tokens": "أَكْفِلْنِيهَا",
+          "content": "انزلْ لي عنها حتى أكفلها"
+        },
+        {
+          "start": 51,
+          "length": 25,
+          "tokens": "وَعَزَّنِى فِى ٱلْخِطَابِ",
+          "content": "غلبني وقهرني في المُحاجّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ كَثِیرࣰا مِّنَ ٱلۡخُلَطَاۤءِ لَیَبۡغِی",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخُلَطَآءِ",
+          "content": "الشركاء",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "فَتَنَّٰهُ",
+          "content": "ابتليناه وامتحنّاه",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَخَرَّ رَاكِعًا",
+          "content": "ساجدا لله تعالى",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَأَنَابَ",
+          "content": "رجع إلى الله بالتّوبة",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 79,
+          "length": 13,
+          "tokens": "ٱلْخُلَطَآءِ",
+          "content": "الشركاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَقَلِیلࣱ مَّا هُمۡۗ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخُلَطَآءِ",
+          "content": "الشركاء",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "فَتَنَّٰهُ",
+          "content": "ابتليناه وامتحنّاه",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَخَرَّ رَاكِعًا",
+          "content": "ساجدا لله تعالى",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَأَنَابَ",
+          "content": "رجع إلى الله بالتّوبة",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّـٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَخَرَّ رَاكِعࣰا وَأَنَابَ ۝٢٤",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْخُلَطَآءِ",
+          "content": "الشركاء",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "فَتَنَّٰهُ",
+          "content": "ابتليناه وامتحنّاه",
+          "tokenFromIndex": 27,
+          "tokenToIndex": 27,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَخَرَّ رَاكِعًا",
+          "content": "ساجدا لله تعالى",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 31,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        },
+        {
+          "tokens": "وَأَنَابَ",
+          "content": "رجع إلى الله بالتّوبة",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 32,
+          "surahIndex": 38,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 11,
+          "tokens": "فَتَنَّٰهُ",
+          "content": "ابتليناه وامتحنّاه"
+        },
+        {
+          "start": 61,
+          "length": 16,
+          "tokens": "وَخَرَّ رَاكِعًا",
+          "content": "ساجدا لله تعالى"
+        },
+        {
+          "start": 78,
+          "length": 9,
+          "tokens": "وَأَنَابَ",
+          "content": "رجع إلى الله بالتّوبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَغَفَرۡنَا لَهُۥ ذَ ٰ⁠لِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابࣲ ۝٢٥",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَزُلْفَىٰ",
+          "content": "لقُربَة ومكانة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 38,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَحُسْنَ مَـَٔابٍ",
+          "content": "حسن مرجع في الآخرة (الجنّة)",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 38,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 52,
+          "length": 10,
+          "tokens": "لَزُلْفَىٰ",
+          "content": "لقُربَة ومكانة"
+        },
+        {
+          "start": 63,
+          "length": 17,
+          "tokens": "وَحُسْنَ مَـَٔابٍ",
+          "content": "حسن مرجع في الآخرة (الجنّة)"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَـٰدَاوُۥدُ إِنَّا جَعَلۡنَـٰكَ خَلِیفَةࣰ فِی ٱلۡأَرۡضِ فَٱحۡكُم بَیۡنَ ٱلنَّاسِ بِٱلۡحَقِّ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَیُضِلَّكَ عَن سَبِیلِ ٱللَّهِۚ إِنَّ ٱلَّذِینَ یَضِلُّونَ",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "عَن سَبِیلِ ٱللَّهِ لَهُمۡ عَذَابࣱ شَدِیدُۢ بِمَا نَسُوا۟ یَوۡمَ ٱلۡحِسَابِ ۝٢٦",
+      "surahIndexFirst": 38,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "pageIndex": 216,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَلَاۤ إِنَّ أَوۡلِیَاۤءَ ٱللَّهِ لَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝٦٢",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلَّذِینَ ءَامَنُوا۟ وَكَانُوا۟ یَتَّقُونَ ۝٦٣ لَهُمُ ٱلۡبُشۡرَىٰ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَفِی ٱلۡـَٔاخِرَةِۚ لَا تَبۡدِیلَ لِكَلِمَـٰتِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱللَّهِۚ ذَ ٰ⁠لِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِیمُ ۝٦٤ وَلَا یَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡعِزَّةَ لِلَّهِ جَمِیعًاۚ هُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ ۝٦٥ أَلَاۤ إِنَّ لِلَّهِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّ ٱلْعِزَّةَ لِلَّهِ",
+          "content": "إن القهر والغلبة له تعالى في مُلكه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 6,
+          "surahIndex": 10,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "إِنَّ ٱلْعِزَّةَ لِلَّهِ",
+          "content": "إن القهر والغلبة له تعالى في مُلكه"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَن فِی ٱلۡأَرۡضِۗ وَمَا یَتَّبِعُ ٱلَّذِینَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيها ينسبونه إليه تعالى",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 10,
+          "ayahIndex": 66
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَدۡعُونَ مِن دُونِ ٱللَّهِ شُرَكَاۤءَۚ إِن یَتَّبِعُونَ إِلَّا ٱلظَّنَّ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيها ينسبونه إليه تعالى",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 10,
+          "ayahIndex": 66
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَإِنۡ هُمۡ إِلَّا یَخۡرُصُونَ ۝٦٦ هُوَ ٱلَّذِی جَعَلَ لَكُمُ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيها ينسبونه إليه تعالى",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 10,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "يَخْرُصُونَ",
+          "content": "يكذبون فيها ينسبونه إليه تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلَّیۡلَ لِتَسۡكُنُوا۟ فِیهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِی ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَسۡمَعُونَ ۝٦٧ قَالُوا۟ ٱتَّخَذَ ٱللَّهُ وَلَدࣰاۗ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "سُبۡحَـٰنَهُۥۖ هُوَ ٱلۡغَنِیُّۖ لَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۚ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَهُۥ",
+          "content": "تنزيها له تعالى عما نسبوه إليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "سُلْطَٰنٍۭ",
+          "content": "حجّة وبرهان",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "سُبْحَٰنَهُۥ",
+          "content": "تنزيها له تعالى عما نسبوه إليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنۡ عِندَكُم مِّن سُلۡطَـٰنِۭ بِهَـٰذَاۤۚ أَتَقُولُونَ عَلَى ٱللَّهِ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَهُۥ",
+          "content": "تنزيها له تعالى عما نسبوه إليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "سُلْطَٰنٍۭ",
+          "content": "حجّة وبرهان",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "سُلْطَٰنٍۭ",
+          "content": "حجّة وبرهان"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَا لَا تَعۡلَمُونَ ۝٦٨ قُلۡ إِنَّ ٱلَّذِینَ یَفۡتَرُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُبْحَٰنَهُۥ",
+          "content": "تنزيها له تعالى عما نسبوه إليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "سُلْطَٰنٍۭ",
+          "content": "حجّة وبرهان",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 10,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَا یُفۡلِحُونَ ۝٦٩ مَتَـٰعࣱ فِی ٱلدُّنۡیَا ثُمَّ إِلَیۡنَا مَرۡجِعُهُمۡ ثُمَّ",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "نُذِیقُهُمُ ٱلۡعَذَابَ ٱلشَّدِیدَ بِمَا كَانُوا۟ یَكۡفُرُونَ ۝٧٠",
+      "surahIndexFirst": 10,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "pageIndex": 567,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَجَاۤءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَـٰتُ بِٱلۡخَاطِئَةِ ۝٩ فَعَصَوۡا۟ رَسُولَ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْمُؤْتَفِكَٰتُ",
+          "content": "قرى قوم لوط (أهلها)",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 69,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "بِٱلْخَاطِئَةِ",
+          "content": "بالفَعَلات ذات الخَطَأ الجَسيم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 69,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 19,
+          "tokens": "وَٱلْمُؤْتَفِكَٰتُ",
+          "content": "قرى قوم لوط (أهلها)"
+        },
+        {
+          "start": 56,
+          "length": 14,
+          "tokens": "بِٱلْخَاطِئَةِ",
+          "content": "بالفَعَلات ذات الخَطَأ الجَسيم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةࣰ رَّابِیَةً ۝١٠ إِنَّا لَمَّا طَغَا ٱلۡمَاۤءُ حَمَلۡنَـٰكُمۡ فِی",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَخْذَةً رَّابِيَةً",
+          "content": "زَائدة في الشدّة على الأخذات",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 69,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 23,
+          "length": 19,
+          "tokens": "أَخْذَةً رَّابِيَةً",
+          "content": "زَائدة في الشدّة على الأخذات"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡجَارِیَةِ ۝١١ لِنَجۡعَلَهَا لَكُمۡ تَذۡكِرَةࣰ وَتَعِیَهَاۤ أُذُنࣱ وَ ٰ⁠عِیَةࣱ ۝١٢ فَإِذَا نُفِخَ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْجَارِيَةِ",
+          "content": "سَفينة نوح عليه السّلام",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 69,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "ٱلْجَارِيَةِ",
+          "content": "سَفينة نوح عليه السّلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی ٱلصُّورِ نَفۡخَةࣱ وَ ٰ⁠حِدَةࣱ ۝١٣ وَحُمِلَتِ ٱلۡأَرۡضُ وَٱلۡجِبَالُ فَدُكَّتَا دَكَّةࣰ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَفْخَةٌ وَٰحِدَةٌ",
+          "content": "النّفخة الأولى لخراب العالم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 69,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 20,
+          "tokens": "نَفْخَةٌ وَٰحِدَةٌ",
+          "content": "النّفخة الأولى لخراب العالم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَ ٰ⁠حِدَةࣰ ۝١٤ فَیَوۡمَىِٕذࣲ وَقَعَتِ ٱلۡوَاقِعَةُ ۝١٥ وَٱنشَقَّتِ ٱلسَّمَاۤءُ فَهِیَ یَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحُمِلَتِ ٱلْأَرْضُ",
+          "content": "رُفِعَت من أماكنها بأمْرنا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 69,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "فَدُكَّتَا",
+          "content": "فدقّتا وكُسِرَتا، أو فسُوِّيتا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 69,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَاهِیَةࣱ ۝١٦ وَٱلۡمَلَكُ عَلَىٰۤ أَرۡجَاۤىِٕهَاۚ وَیَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ یَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱنشَقَّتِ ٱلسَّمَآءُ",
+          "content": "تفَّطرَتْْ وتَصدّعَتْ من الهَوْل",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 69,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "وَاهِيَةٌ",
+          "content": "ضعيفة مُتداعِيَة بعد الإحْكام",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 69,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "وَاهِيَةٌ",
+          "content": "ضعيفة مُتداعِيَة بعد الإحْكام"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ثَمَـٰنِیَةࣱ ۝١٧ یَوۡمَىِٕذࣲ تُعۡرَضُونَ لَا تَخۡفَىٰ مِنكُمۡ خَافِیَةࣱ ۝١٨ فَأَمَّا مَنۡ أُوتِیَ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰٓ أَرْجَآئِهَا",
+          "content": "جَوانبها وأطرافها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 69,
+          "ayahIndex": 17
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "كِتَـٰبَهُۥ بِیَمِینِهِۦ فَیَقُولُ هَاۤؤُمُ ٱقۡرَءُوا۟ كِتَـٰبِیَهۡ ۝١٩ إِنِّی ظَنَنتُ أَنِّی مُلَـٰقٍ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَآؤُمُ",
+          "content": "خُذوا أو تعالَوْا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 69,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "كِتَٰبِيَهْ",
+          "content": "كتابي، والهاء للسّكت",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 69,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 8,
+          "tokens": "هَآؤُمُ",
+          "content": "خُذوا أو تعالَوْا"
+        },
+        {
+          "start": 55,
+          "length": 12,
+          "tokens": "كِتَٰبِيَهْ",
+          "content": "كتابي، والهاء للسّكت"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "حِسَابِیَهۡ ۝٢٠ فَهُوَ فِی عِیشَةࣲ رَّاضِیَةࣲ ۝٢١ فِی جَنَّةٍ عَالِیَةࣲ ۝٢٢ قُطُوفُهَا",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "دَانِیَةࣱ ۝٢٣ كُلُوا۟ وَٱشۡرَبُوا۟ هَنِیۤـَٔۢا بِمَاۤ أَسۡلَفۡتُمۡ فِی ٱلۡأَیَّامِ ٱلۡخَالِیَةِ ۝٢٤",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُطُوفُهَا دَانِيَةٌ",
+          "content": "ثمارها قريبة التّناول إذ تُجْنى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 69,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "قُطُوفُهَا دَانِيَةٌ",
+          "content": "ثمارها قريبة التّناول إذ تُجْنى"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَأَمَّا مَنۡ أُوتِیَ كِتَـٰبَهُۥ بِشِمَالِهِۦ فَیَقُولُ یَـٰلَیۡتَنِی لَمۡ أُوتَ كِتَـٰبِیَهۡ ۝٢٥ وَلَمۡ أَدۡرِ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مَا حِسَابِیَهۡ ۝٢٦ یَـٰلَیۡتَهَا كَانَتِ ٱلۡقَاضِیَةَ ۝٢٧ مَاۤ أَغۡنَىٰ عَنِّی مَالِیَهۡۜ ۝٢٨ هَلَكَ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَنِّی سُلۡطَـٰنِیَهۡ ۝٢٩ خُذُوهُ فَغُلُّوهُ ۝٣٠ ثُمَّ ٱلۡجَحِیمَ صَلُّوهُ ۝٣١ ثُمَّ فِی سِلۡسِلَةࣲ",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُلْطَٰنِيَهْ",
+          "content": "حُجّتِي أو تسلّطي وقوّتي",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 69,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 14,
+          "tokens": "سُلْطَٰنِيَهْ",
+          "content": "حُجّتِي أو تسلّطي وقوّتي"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ذَرۡعُهَا سَبۡعُونَ ذِرَاعࣰا فَٱسۡلُكُوهُ ۝٣٢ إِنَّهُۥ كَانَ لَا یُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِیمِ ۝٣٣",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱسْلُكُوهُ",
+          "content": "فأدخِلوا فيها",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 69,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 12,
+          "tokens": "فَٱسْلُكُوهُ",
+          "content": "فأدخِلوا فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَلَا یَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِینِ ۝٣٤ فَلَیۡسَ لَهُ ٱلۡیَوۡمَ هَـٰهُنَا حَمِیمࣱ ۝٣٥",
+      "surahIndexFirst": 69,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا يَحُضُّ",
+          "content": "لا يَحُثّ ولا يُحَرّض",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 69,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "وَلَا يَحُضُّ",
+          "content": "لا يَحُثّ ولا يُحَرّض"
+        }
+      ]
+    }
+  ]
+}

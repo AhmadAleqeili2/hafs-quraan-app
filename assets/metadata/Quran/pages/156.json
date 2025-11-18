@@ -1,0 +1,363 @@
+{
+  "pageIndex": 156,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَنَادَىٰۤ أَصۡحَـٰبُ ٱلۡجَنَّةِ أَصۡحَـٰبَ ٱلنَّارِ أَن قَدۡ وَجَدۡنَا مَا وَعَدَنَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَذَّنَ مُؤَذِّنٌۢ",
+          "content": "أعلم معلمٌ ونادى منادٍ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 44
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رَبُّنَا حَقࣰّا فَهَلۡ وَجَدتُّم مَّا وَعَدَ رَبُّكُمۡ حَقࣰّاۖ قَالُوا۟ نَعَمۡۚ فَأَذَّنَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَذَّنَ مُؤَذِّنٌۢ",
+          "content": "أعلم معلمٌ ونادى منادٍ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 80,
+          "length": 9,
+          "tokens": "فَأَذَّنَ مُؤَذِّنٌۢ",
+          "content": "أعلم معلمٌ ونادى منادٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "مُؤَذِّنُۢ بَیۡنَهُمۡ أَن لَّعۡنَةُ ٱللَّهِ عَلَى ٱلظَّـٰلِمِینَ ۝٤٤ ٱلَّذِینَ یَصُدُّونَ عَن",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَذَّنَ مُؤَذِّنٌۢ",
+          "content": "أعلم معلمٌ ونادى منادٍ",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 44
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "فَأَذَّنَ مُؤَذِّنٌۢ",
+          "content": "أعلم معلمٌ ونادى منادٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "سَبِیلِ ٱللَّهِ وَیَبۡغُونَهَا عِوَجࣰا وَهُم بِٱلۡـَٔاخِرَةِ كَـٰفِرُونَ ۝٤٥ وَبَیۡنَهُمَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَبْغُونَهَا عِوَجًا",
+          "content": "يطلوبنها معوجّة أو ذات إعوجاج",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 22,
+          "tokens": "وَيَبْغُونَهَا عِوَجًا",
+          "content": "يطلوبنها معوجّة أو ذات إعوجاج"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "حِجَابࣱۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالࣱ یَعۡرِفُونَ كُلَّۢا بِسِیمَىٰهُمۡۚ وَنَادَوۡا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَيْنَهُمَا حِجَابٌ",
+          "content": "حاجزٌ، وهو سور بينهما",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        },
+        {
+          "tokens": "ٱلْأَعْرَافِ",
+          "content": "أعالي هذا السور وشرفاته",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        },
+        {
+          "tokens": "بِسِيمَىٰهُمْ",
+          "content": "بعلامتهم المميزة لهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "وَبَيْنَهُمَا حِجَابٌ",
+          "content": "حاجزٌ، وهو سور بينهما"
+        },
+        {
+          "start": 17,
+          "length": 12,
+          "tokens": "ٱلْأَعْرَافِ",
+          "content": "أعالي هذا السور وشرفاته"
+        },
+        {
+          "start": 58,
+          "length": 14,
+          "tokens": "بِسِيمَىٰهُمْ",
+          "content": "بعلامتهم المميزة لهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "أَصۡحَـٰبَ ٱلۡجَنَّةِ أَن سَلَـٰمٌ عَلَیۡكُمۡۚ لَمۡ یَدۡخُلُوهَا وَهُمۡ یَطۡمَعُونَ ۝٤٦",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَبَيْنَهُمَا حِجَابٌ",
+          "content": "حاجزٌ، وهو سور بينهما",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        },
+        {
+          "tokens": "ٱلْأَعْرَافِ",
+          "content": "أعالي هذا السور وشرفاته",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        },
+        {
+          "tokens": "بِسِيمَىٰهُمْ",
+          "content": "بعلامتهم المميزة لهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 46
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَإِذَا صُرِفَتۡ أَبۡصَـٰرُهُمۡ تِلۡقَاۤءَ أَصۡحَـٰبِ ٱلنَّارِ قَالُوا۟ رَبَّنَا لَا تَجۡعَلۡنَا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَعَ ٱلۡقَوۡمِ ٱلظَّـٰلِمِینَ ۝٤٧ وَنَادَىٰۤ أَصۡحَـٰبُ ٱلۡأَعۡرَافِ رِجَالࣰا یَعۡرِفُونَهُم",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِسِیمَىٰهُمۡ قَالُوا۟ مَاۤ أَغۡنَىٰ عَنكُمۡ جَمۡعُكُمۡ وَمَا كُنتُمۡ تَسۡتَكۡبِرُونَ ۝٤٨",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَهَـٰۤؤُلَاۤءِ ٱلَّذِینَ أَقۡسَمۡتُمۡ لَا یَنَالُهُمُ ٱللَّهُ بِرَحۡمَةٍۚ ٱدۡخُلُوا۟ ٱلۡجَنَّةَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "لَا خَوۡفٌ عَلَیۡكُمۡ وَلَاۤ أَنتُمۡ تَحۡزَنُونَ ۝٤٩ وَنَادَىٰۤ أَصۡحَـٰبُ ٱلنَّارِ أَصۡحَـٰبَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡجَنَّةِ أَنۡ أَفِیضُوا۟ عَلَیۡنَا مِنَ ٱلۡمَاۤءِ أَوۡ مِمَّا رَزَقَكُمُ ٱللَّهُۚ قَالُوۤا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفِيضُوا۟ عَلَيْنَا",
+          "content": "صُبوا أو ألقوا علينا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 20,
+          "tokens": "أَفِيضُوا۟ عَلَيْنَا",
+          "content": "صُبوا أو ألقوا علينا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنَّ ٱللَّهَ حَرَّمَهُمَا عَلَى ٱلۡكَـٰفِرِینَ ۝٥٠ ٱلَّذِینَ ٱتَّخَذُوا۟ دِینَهُمۡ لَهۡوࣰا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفِيضُوا۟ عَلَيْنَا",
+          "content": "صُبوا أو ألقوا علينا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَعِبࣰا وَغَرَّتۡهُمُ ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۚ فَٱلۡیَوۡمَ نَنسَىٰهُمۡ كَمَا نَسُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا",
+          "content": "خدعتهم بزخارفها وزينتها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "نَنسَىٰهُمْ",
+          "content": "نتركهم في العذاب كالمنسيين",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَمَا كَانُوا۟",
+          "content": "وكما كانوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 37,
+          "tokens": "وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا",
+          "content": "خدعتهم بزخارفها وزينتها"
+        },
+        {
+          "start": 60,
+          "length": 11,
+          "tokens": "نَنسَىٰهُمْ",
+          "content": "نتركهم في العذاب كالمنسيين"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لِقَاۤءَ یَوۡمِهِمۡ هَـٰذَا وَمَا كَانُوا۟ بِـَٔایَـٰتِنَا یَجۡحَدُونَ ۝٥١",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا",
+          "content": "خدعتهم بزخارفها وزينتها",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "نَنسَىٰهُمْ",
+          "content": "نتركهم في العذاب كالمنسيين",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        },
+        {
+          "tokens": "وَمَا كَانُوا۟",
+          "content": "وكما كانوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 14,
+          "tokens": "وَمَا كَانُوا۟",
+          "content": "وكما كانوا"
+        }
+      ]
+    }
+  ]
+}

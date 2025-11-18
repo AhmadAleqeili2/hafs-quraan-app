@@ -1,0 +1,421 @@
+{
+  "pageIndex": 551,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَیُّهَا ٱلنَّبِیُّ إِذَا جَاۤءَكَ ٱلۡمُؤۡمِنَـٰتُ یُبَایِعۡنَكَ عَلَىٰۤ أَن لَّا یُشۡرِكۡنَ بِٱللَّهِ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِبُهْتَٰنٍ",
+          "content": "بإلصاق اللّقطاء بالأزواج",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "يَفْتَرِينَهُۥ",
+          "content": "يَختَلِقنه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "شَیۡـࣰٔا وَلَا یَسۡرِقۡنَ وَلَا یَزۡنِینَ وَلَا یَقۡتُلۡنَ أَوۡلَـٰدَهُنَّ وَلَا یَأۡتِینَ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِبُهْتَٰنٍ",
+          "content": "بإلصاق اللّقطاء بالأزواج",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "يَفْتَرِينَهُۥ",
+          "content": "يَختَلِقنه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِبُهۡتَـٰنࣲ یَفۡتَرِینَهُۥ بَیۡنَ أَیۡدِیهِنَّ وَأَرۡجُلِهِنَّ وَلَا یَعۡصِینَكَ فِی",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِبُهْتَٰنٍ",
+          "content": "بإلصاق اللّقطاء بالأزواج",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "يَفْتَرِينَهُۥ",
+          "content": "يَختَلِقنه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "بِبُهْتَٰنٍ",
+          "content": "بإلصاق اللّقطاء بالأزواج"
+        },
+        {
+          "start": 13,
+          "length": 14,
+          "tokens": "يَفْتَرِينَهُۥ",
+          "content": "يَختَلِقنه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَعۡرُوفࣲ فَبَایِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمࣱ ۝١٢",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِبُهْتَٰنٍ",
+          "content": "بإلصاق اللّقطاء بالأزواج",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "يَفْتَرِينَهُۥ",
+          "content": "يَختَلِقنه",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 60,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَتَوَلَّوۡا۟ قَوۡمًا غَضِبَ ٱللَّهُ عَلَیۡهِمۡ قَدۡ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَتَوَلَّوْا۟",
+          "content": "لا تتخذوا أولياء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "قَوْمًا",
+          "content": "هم اليَهود، أو الكفار عامّة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 60,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 17,
+          "tokens": "لَا تَتَوَلَّوْا۟",
+          "content": "لا تتخذوا أولياء"
+        },
+        {
+          "start": 53,
+          "length": 7,
+          "tokens": "قَوْمًا",
+          "content": "هم اليَهود، أو الكفار عامّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَىِٕسُوا۟ مِنَ ٱلۡـَٔاخِرَةِ كَمَا یَىِٕسَ ٱلۡكُفَّارُ مِنۡ أَصۡحَـٰبِ ٱلۡقُبُورِ ۝١٣",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَتَوَلَّوْا۟",
+          "content": "لا تتخذوا أولياء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 13
+        },
+        {
+          "tokens": "قَوْمًا",
+          "content": "هم اليَهود، أو الكفار عامّة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 60,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 8998,
+      "text": "سورة الصف",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نَزّهَه ومَجّده تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 61,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 8999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نَزّهَه ومَجّده تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 61,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "سَبَّحَ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝١",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نَزّهَه ومَجّده تعالى ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 61,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نَزّهَه ومَجّده تعالى ودلّ عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ ۝٢",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "كَبُرَ مَقۡتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفۡعَلُونَ ۝٣ إِنَّ",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَبُرَ مَقْتًا",
+          "content": "عَظم بغضا بالغ الغاية",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 61,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "كَبُرَ مَقْتًا",
+          "content": "عَظم بغضا بالغ الغاية"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱللَّهَ یُحِبُّ ٱلَّذِینَ یُقَـٰتِلُونَ فِی سَبِیلِهِۦ صَفࣰّا كَأَنَّهُم",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَفًّا",
+          "content": "صافّين أنفسهم أو مصفوفين",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 61,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُنْيَٰنٌ مَّرْصُوصٌ",
+          "content": "متلاصق مُحكم لا فرجة فيه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 61,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 55,
+          "length": 6,
+          "tokens": "صَفًّا",
+          "content": "صافّين أنفسهم أو مصفوفين"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بُنۡیَـٰنࣱ مَّرۡصُوصࣱ ۝٤ وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ یَـٰقَوۡمِ لِمَ",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَفًّا",
+          "content": "صافّين أنفسهم أو مصفوفين",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 61,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُنْيَٰنٌ مَّرْصُوصٌ",
+          "content": "متلاصق مُحكم لا فرجة فيه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 61,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "بُنْيَٰنٌ مَّرْصُوصٌ",
+          "content": "متلاصق مُحكم لا فرجة فيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "تُؤۡذُونَنِی وَقَد تَّعۡلَمُونَ أَنِّی رَسُولُ ٱللَّهِ إِلَیۡكُمۡۖ فَلَمَّا زَاغُوۤا۟",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَاغُوٓا۟",
+          "content": "مالوا باختيارهم عن الحقّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 61,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَزَاغَ ٱللَّهُ قُلُوبَهُمْ",
+          "content": "حَرَمَهم التوفيق لاتّباع الحقّ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 18,
+          "surahIndex": 61,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 76,
+          "length": 9,
+          "tokens": "زَاغُوٓا۟",
+          "content": "مالوا باختيارهم عن الحقّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَزَاغَ ٱللَّهُ قُلُوبَهُمۡۚ وَٱللَّهُ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلۡفَـٰسِقِینَ ۝٥",
+      "surahIndexFirst": 61,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زَاغُوٓا۟",
+          "content": "مالوا باختيارهم عن الحقّ",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 61,
+          "ayahIndex": 5
+        },
+        {
+          "tokens": "أَزَاغَ ٱللَّهُ قُلُوبَهُمْ",
+          "content": "حَرَمَهم التوفيق لاتّباع الحقّ",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 18,
+          "surahIndex": 61,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 28,
+          "tokens": "أَزَاغَ ٱللَّهُ قُلُوبَهُمْ",
+          "content": "حَرَمَهم التوفيق لاتّباع الحقّ"
+        }
+      ]
+    }
+  ]
+}

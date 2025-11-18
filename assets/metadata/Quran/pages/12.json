@@ -1,0 +1,239 @@
+{
+  "pageIndex": 12,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَوَلَا یَعۡلَمُونَ أَنَّ ٱللَّهَ یَعۡلَمُ مَا یُسِرُّونَ وَمَا یُعۡلِنُونَ ۝٧٧",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَمِنۡهُمۡ أُمِّیُّونَ لَا یَعۡلَمُونَ ٱلۡكِتَـٰبَ إِلَّاۤ أَمَانِیَّ وَإِنۡ هُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمِّيُّونَ",
+          "content": "جهلة بكتابهم (التوراة)",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "أَمَانِىَّ",
+          "content": "أكاذيب تلقّوها عن أحبارهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 78
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 11,
+          "tokens": "أُمِّيُّونَ",
+          "content": "جهلة بكتابهم (التوراة)"
+        },
+        {
+          "start": 59,
+          "length": 10,
+          "tokens": "أَمَانِىَّ",
+          "content": "أكاذيب تلقّوها عن أحبارهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِلَّا یَظُنُّونَ ۝٧٨ فَوَیۡلࣱ لِّلَّذِینَ یَكۡتُبُونَ ٱلۡكِتَـٰبَ بِأَیۡدِیهِمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُمِّيُّونَ",
+          "content": "جهلة بكتابهم (التوراة)",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 78
+        },
+        {
+          "tokens": "أَمَانِىَّ",
+          "content": "أكاذيب تلقّوها عن أحبارهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 78
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ثُمَّ یَقُولُونَ هَـٰذَا مِنۡ عِندِ ٱللَّهِ لِیَشۡتَرُوا۟ بِهِۦ ثَمَنࣰا قَلِیلࣰاۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوَيْلٌ",
+          "content": "هلكة أو حسرة أو شدّة عذاب أو وادٍ عميق في جهنّم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 2,
+          "ayahIndex": 79
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "فَوَیۡلࣱ لَّهُم مِّمَّا كَتَبَتۡ أَیۡدِیهِمۡ وَوَیۡلࣱ لَّهُم مِّمَّا یَكۡسِبُونَ ۝٧٩",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوَيْلٌ",
+          "content": "هلكة أو حسرة أو شدّة عذاب أو وادٍ عميق في جهنّم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 2,
+          "ayahIndex": 79
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَقَالُوا۟ لَن تَمَسَّنَا ٱلنَّارُ إِلَّاۤ أَیَّامࣰا مَّعۡدُودَةࣰۚ قُلۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَتَّخَذۡتُمۡ عِندَ ٱللَّهِ عَهۡدࣰا فَلَن یُخۡلِفَ ٱللَّهُ عَهۡدَهُۥۤۖ أَمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ ۝٨٠ بَلَىٰۚ مَن كَسَبَ سَیِّئَةࣰ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَأَحَـٰطَتۡ بِهِۦ خَطِیۤـَٔتُهُۥ فَأُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلنَّارِۖ هُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَسَبَ سَيِّئَةً",
+          "content": "هي هنا الكفر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 81
+        },
+        {
+          "tokens": "وَأَحَٰطَتْ بِهِۦ",
+          "content": "أحدقت به واستولت عليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 81
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "وَأَحَٰطَتْ بِهِۦ",
+          "content": "أحدقت به واستولت عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فِیهَا خَـٰلِدُونَ ۝٨١ وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَسَبَ سَيِّئَةً",
+          "content": "هي هنا الكفر",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 81
+        },
+        {
+          "tokens": "وَأَحَٰطَتْ بِهِۦ",
+          "content": "أحدقت به واستولت عليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 81
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَنَّةِۖ هُمۡ فِیهَا خَـٰلِدُونَ ۝٨٢ وَإِذۡ أَخَذۡنَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "مِیثَـٰقَ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَ ٰ⁠لِدَیۡنِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِحۡسَانࣰا وَذِی ٱلۡقُرۡبَىٰ وَٱلۡیَتَـٰمَىٰ وَٱلۡمَسَـٰكِینِ وَقُولُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "لِلنَّاسِ حُسۡنࣰا وَأَقِیمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ ثُمَّ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "تَوَلَّیۡتُمۡ إِلَّا قَلِیلࣰا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ ۝٨٣",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

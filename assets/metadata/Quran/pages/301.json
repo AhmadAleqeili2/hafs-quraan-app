@@ -1,0 +1,353 @@
+{
+  "pageIndex": 301,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَمَّا جَاوَزَا قَالَ لِفَتَىٰهُ ءَاتِنَا غَدَاۤءَنَا لَقَدۡ لَقِینَا مِن سَفَرِنَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَصَبًا",
+          "content": "تعبا وشدّة وإعياءً",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 18,
+          "ayahIndex": 62
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "هَـٰذَا نَصَبࣰا ۝٦٢ قَالَ أَرَءَیۡتَ إِذۡ أَوَیۡنَاۤ إِلَى ٱلصَّخۡرَةِ فَإِنِّی نَسِیتُ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَصَبًا",
+          "content": "تعبا وشدّة وإعياءً",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 18,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 7,
+          "tokens": "نَصَبًا",
+          "content": "تعبا وشدّة وإعياءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحُوتَ وَمَاۤ أَنسَىٰنِیهُ إِلَّا ٱلشَّیۡطَـٰنُ أَنۡ أَذۡكُرَهُۥۚ وَٱتَّخَذَ سَبِیلَهُۥ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتَ",
+          "content": "أخبرني، أو تنبّه وتذكّرْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "أَوَيْنَآ",
+          "content": "إلتجأنا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "عَجَبًا",
+          "content": "سبيلا أو اتّخاذا يُتعجّب منه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فِی ٱلۡبَحۡرِ عَجَبࣰا ۝٦٣ قَالَ ذَ ٰ⁠لِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰۤ ءَاثَارِهِمَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتَ",
+          "content": "أخبرني، أو تنبّه وتذكّرْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "أَوَيْنَآ",
+          "content": "إلتجأنا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "عَجَبًا",
+          "content": "سبيلا أو اتّخاذا يُتعجّب منه",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 20,
+          "surahIndex": 18,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 7,
+          "tokens": "عَجَبًا",
+          "content": "سبيلا أو اتّخاذا يُتعجّب منه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "قَصَصࣰا ۝٦٤ فَوَجَدَا عَبۡدࣰا مِّنۡ عِبَادِنَاۤ ءَاتَیۡنَـٰهُ رَحۡمَةࣰ مِّنۡ عِندِنَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَا كُنَّا نَبْغِ",
+          "content": "الذي كنّا نطلُبُه ونَلتمسه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 18,
+          "ayahIndex": 64
+        },
+        {
+          "tokens": "فَٱرْتَدَّا عَلَىٰٓ ءَاثَارِهِمَا",
+          "content": "رجعا على طريقهما الذي جاءا منه",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 8,
+          "surahIndex": 18,
+          "ayahIndex": 64
+        },
+        {
+          "tokens": "قَصَصًا",
+          "content": "يقصّان آثارهما ويتّبعانها اتّباعا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 18,
+          "ayahIndex": 64
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "قَصَصًا",
+          "content": "يقصّان آثارهما ويتّبعانها اتّباعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَعَلَّمۡنَـٰهُ مِن لَّدُنَّا عِلۡمࣰا ۝٦٥ قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰۤ أَن",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَبْدًا",
+          "content": "الخضر عليه السّلام",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 18,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدࣰا ۝٦٦ قَالَ إِنَّكَ لَن تَسۡتَطِیعَ مَعِیَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رُشْدًا",
+          "content": "صوابا، أو إصابة خيْر",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 18,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 7,
+          "tokens": "رُشْدًا",
+          "content": "صوابا، أو إصابة خيْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "صَبۡرࣰا ۝٦٧ وَكَیۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرࣰا ۝٦٨ قَالَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "سَتَجِدُنِیۤ إِن شَاۤءَ ٱللَّهُ صَابِرࣰا وَلَاۤ أَعۡصِی لَكَ أَمۡرࣰا ۝٦٩ قَالَ فَإِنِ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱتَّبَعۡتَنِی فَلَا تَسۡـَٔلۡنِی عَن شَیۡءٍ حَتَّىٰۤ أُحۡدِثَ لَكَ مِنۡهُ ذِكۡرࣰا ۝٧٠",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَٱنطَلَقَا حَتَّىٰۤ إِذَا رَكِبَا فِی ٱلسَّفِینَةِ خَرَقَهَاۖ قَالَ أَخَرَقۡتَهَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَيْـًٔا إِمْرًا",
+          "content": "أمرا عظيما مُنكرا أو عجبا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 18,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَیۡـًٔا إِمۡرࣰا ۝٧١ قَالَ أَلَمۡ أَقُلۡ إِنَّكَ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَيْـًٔا إِمْرًا",
+          "content": "أمرا عظيما مُنكرا أو عجبا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 18,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 16,
+          "tokens": "شَيْـًٔا إِمْرًا",
+          "content": "أمرا عظيما مُنكرا أو عجبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَن تَسۡتَطِیعَ مَعِیَ صَبۡرࣰا ۝٧٢ قَالَ لَا تُؤَاخِذۡنِی بِمَا نَسِیتُ وَلَا",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "تُرۡهِقۡنِی مِنۡ أَمۡرِی عُسۡرࣰا ۝٧٣ فَٱنطَلَقَا حَتَّىٰۤ إِذَا لَقِیَا غُلَـٰمࣰا فَقَتَلَهُۥ",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تُرْهِقْنِى",
+          "content": "لا تغشني ولا تُحمّلني",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 18,
+          "ayahIndex": 73
+        },
+        {
+          "tokens": "عُسْرًا",
+          "content": "صُعوبة ومشقّة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 18,
+          "ayahIndex": 73
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَلَا تُرْهِقْنِى",
+          "content": "لا تغشني ولا تُحمّلني"
+        },
+        {
+          "start": 25,
+          "length": 7,
+          "tokens": "عُسْرًا",
+          "content": "صُعوبة ومشقّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَالَ أَقَتَلۡتَ نَفۡسࣰا زَكِیَّةَۢ بِغَیۡرِ نَفۡسࣲ لَّقَدۡ جِئۡتَ شَیۡـࣰٔا نُّكۡرࣰا ۝٧٤",
+      "surahIndexFirst": 18,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَيْـًٔا نُّكْرًا",
+          "content": "مُنكرا فظيعا جدّا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 18,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 67,
+          "length": 17,
+          "tokens": "شَيْـًٔا نُّكْرًا",
+          "content": "مُنكرا فظيعا جدّا"
+        }
+      ]
+    }
+  ]
+}

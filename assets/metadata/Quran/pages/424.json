@@ -1,0 +1,305 @@
+{
+  "pageIndex": 424,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "تَحِیَّتُهُمۡ یَوۡمَ یَلۡقَوۡنَهُۥ سَلَـٰمࣱۚ وَأَعَدَّ لَهُمۡ أَجۡرࣰا كَرِیمࣰا ۝٤٤ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلنَّبِیُّ إِنَّاۤ أَرۡسَلۡنَـٰكَ شَـٰهِدࣰا وَمُبَشِّرࣰا وَنَذِیرࣰا ۝٤٥ وَدَاعِیًا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "إِلَى ٱللَّهِ بِإِذۡنِهِۦ وَسِرَاجࣰا مُّنِیرࣰا ۝٤٦ وَبَشِّرِ ٱلۡمُؤۡمِنِینَ بِأَنَّ لَهُم",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِّنَ ٱللَّهِ فَضۡلࣰا كَبِیرࣰا ۝٤٧ وَلَا تُطِعِ ٱلۡكَـٰفِرِینَ وَٱلۡمُنَـٰفِقِینَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَدَعۡ أَذَىٰهُمۡ وَتَوَكَّلۡ عَلَى ٱللَّهِۚ وَكَفَىٰ بِٱللَّهِ وَكِیلࣰا ۝٤٨",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوۤا۟ إِذَا نَكَحۡتُمُ ٱلۡمُؤۡمِنَـٰتِ ثُمَّ طَلَّقۡتُمُوهُنَّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَرَاحًا جَمِيلًا",
+          "content": "عاريا عن أذى ومنع واجب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 33,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِن قَبۡلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمۡ عَلَیۡهِنَّ مِنۡ عِدَّةࣲ تَعۡتَدُّونَهَاۖ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَرَاحًا جَمِيلًا",
+          "content": "عاريا عن أذى ومنع واجب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 33,
+          "ayahIndex": 49
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحࣰا جَمِیلࣰا ۝٤٩ یَـٰۤأَیُّهَا ٱلنَّبِیُّ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَرَاحًا جَمِيلًا",
+          "content": "عاريا عن أذى ومنع واجب",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 33,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 17,
+          "tokens": "سَرَاحًا جَمِيلًا",
+          "content": "عاريا عن أذى ومنع واجب"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِنَّاۤ أَحۡلَلۡنَا لَكَ أَزۡوَ ٰ⁠جَكَ ٱلَّـٰتِیۤ ءَاتَیۡتَ أُجُورَهُنَّ وَمَا مَلَكَتۡ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 22,
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَمِینُكَ مِمَّاۤ أَفَاۤءَ ٱللَّهُ عَلَیۡكَ وَبَنَاتِ عَمِّكَ وَبَنَاتِ عَمَّـٰتِكَ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 25,
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَبَنَاتِ خَالِكَ وَبَنَاتِ خَـٰلَـٰتِكَ ٱلَّـٰتِی هَاجَرۡنَ مَعَكَ وَٱمۡرَأَةࣰ",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "مُّؤۡمِنَةً إِن وَهَبَتۡ نَفۡسَهَا لِلنَّبِیِّ إِنۡ أَرَادَ ٱلنَّبِیُّ أَن یَسۡتَنكِحَهَا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "خَالِصَةࣰ لَّكَ مِن دُونِ ٱلۡمُؤۡمِنِینَۗ قَدۡ عَلِمۡنَا مَا فَرَضۡنَا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "عَلَیۡهِمۡ فِیۤ أَزۡوَ ٰ⁠جِهِمۡ وَمَا مَلَكَتۡ أَیۡمَـٰنُهُمۡ لِكَیۡلَا",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَكُونَ عَلَیۡكَ حَرَجࣱۗ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا ۝٥٠",
+      "surahIndexFirst": 33,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاتَيْتَ أُجُورَهُنَّ",
+          "content": "أعطيتهنّ مهورهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "أَفَآءَ ٱللَّهُ عَلَيْكَ",
+          "content": "رجعه إليك من الغنيمة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 33,
+          "ayahIndex": 50
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "pageIndex": 381,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَقَدۡ أَرۡسَلۡنَاۤ إِلَىٰ ثَمُودَ أَخَاهُمۡ صَـٰلِحًا أَنِ ٱعۡبُدُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَإِذَا هُمۡ فَرِیقَانِ یَخۡتَصِمُونَ ۝٤٥ قَالَ یَـٰقَوۡمِ لِمَ تَسۡتَعۡجِلُونَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِٱلسَّیِّئَةِ قَبۡلَ ٱلۡحَسَنَةِۖ لَوۡلَا تَسۡتَغۡفِرُونَ ٱللَّهَ لَعَلَّكُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "تُرۡحَمُونَ ۝٤٦ قَالُوا۟ ٱطَّیَّرۡنَا بِكَ وَبِمَن مَّعَكَۚ قَالَ طَـٰۤىِٕرُكُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "عِندَ ٱللَّهِۖ بَلۡ أَنتُمۡ قَوۡمࣱ تُفۡتَنُونَ ۝٤٧ وَكَانَ فِی ٱلۡمَدِینَةِ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱطَّيَّرْنَا",
+          "content": "تشاءمنا حيث أصبنا بالشّداد",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 27,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "طَٰٓئِرُكُمْ عِندَ ٱللَّهِ",
+          "content": "شؤمكم عملكم المكتوب عليكم عنده تعالى",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 27,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "قَوْمٌ تُفْتَنُونَ",
+          "content": "يفتنكم الشّيطان بوسوسته",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 27,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "طَٰٓئِرُكُمْ عِندَ ٱللَّهِ",
+          "content": "شؤمكم عملكم المكتوب عليكم عنده تعالى"
+        },
+        {
+          "start": 28,
+          "length": 18,
+          "tokens": "قَوْمٌ تُفْتَنُونَ",
+          "content": "يفتنكم الشّيطان بوسوسته"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "تِسۡعَةُ رَهۡطࣲ یُفۡسِدُونَ فِی ٱلۡأَرۡضِ وَلَا یُصۡلِحُونَ ۝٤٨",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تِسْعَةُ رَهْطٍ",
+          "content": "أشخاص من الرّؤساء مع كلّ رهط",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "تِسْعَةُ رَهْطٍ",
+          "content": "أشخاص من الرّؤساء مع كلّ رهط"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "قَالُوا۟ تَقَاسَمُوا۟ بِٱللَّهِ لَنُبَیِّتَنَّهُۥ وَأَهۡلَهُۥ ثُمَّ لَنَقُولَنَّ لِوَلِیِّهِۦ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَقَاسَمُوا۟ بِٱللَّهِ",
+          "content": "تحالفوا بالله، أو احلِفوا به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ",
+          "content": "لنقتلنّهم ليلا بغتة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "مَهْلِكَ أَهْلِهِۦ",
+          "content": "هلاكهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 22,
+          "tokens": "تَقَاسَمُوا۟ بِٱللَّهِ",
+          "content": "تحالفوا بالله، أو احلِفوا به"
+        },
+        {
+          "start": 32,
+          "length": 29,
+          "tokens": "لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ",
+          "content": "لنقتلنّهم ليلا بغتة"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَا شَهِدۡنَا مَهۡلِكَ أَهۡلِهِۦ وَإِنَّا لَصَـٰدِقُونَ ۝٤٩ وَمَكَرُوا۟",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَقَاسَمُوا۟ بِٱللَّهِ",
+          "content": "تحالفوا بالله، أو احلِفوا به",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "لَنُبَيِّتَنَّهُۥ وَأَهْلَهُۥ",
+          "content": "لنقتلنّهم ليلا بغتة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        },
+        {
+          "tokens": "مَهْلِكَ أَهْلِهِۦ",
+          "content": "هلاكهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 27,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 18,
+          "tokens": "مَهْلِكَ أَهْلِهِۦ",
+          "content": "هلاكهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مَكۡرࣰا وَمَكَرۡنَا مَكۡرࣰا وَهُمۡ لَا یَشۡعُرُونَ ۝٥٠ فَٱنظُرۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "كَیۡفَ كَانَ عَـٰقِبَةُ مَكۡرِهِمۡ أَنَّا دَمَّرۡنَـٰهُمۡ وَقَوۡمَهُمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَمَّرْنَٰهُمْ",
+          "content": "أهلكناهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 51
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 15,
+          "tokens": "دَمَّرْنَٰهُمْ",
+          "content": "أهلكناهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَجۡمَعِینَ ۝٥١ فَتِلۡكَ بُیُوتُهُمۡ خَاوِیَةَۢ بِمَا ظَلَمُوۤا۟ۚ إِنَّ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "دَمَّرْنَٰهُمْ",
+          "content": "أهلكناهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 51
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰ لِّقَوۡمࣲ یَعۡلَمُونَ ۝٥٢ وَأَنجَیۡنَا ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَاوِيَةًۢ",
+          "content": "خالية خربَة أو ساقطة متهدّمة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَكَانُوا۟ یَتَّقُونَ ۝٥٣ وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦۤ أَتَأۡتُونَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡفَـٰحِشَةَ وَأَنتُمۡ تُبۡصِرُونَ ۝٥٤ أَىِٕنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَنتُمْ تُبْصِرُونَ",
+          "content": "لا تبالون إظهارها مَجَانَة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 27,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 14,
+          "length": 21,
+          "tokens": "وَأَنتُمْ تُبْصِرُونَ",
+          "content": "لا تبالون إظهارها مَجَانَة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "شَهۡوَةࣰ مِّن دُونِ ٱلنِّسَاۤءِۚ بَلۡ أَنتُمۡ قَوۡمࣱ تَجۡهَلُونَ ۝٥٥",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

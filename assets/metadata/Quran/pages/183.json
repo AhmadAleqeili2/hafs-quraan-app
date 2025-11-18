@@ -1,0 +1,311 @@
+{
+  "pageIndex": 183,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَطِیعُوا۟ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَـٰزَعُوا۟ فَتَفۡشَلُوا۟ وَتَذۡهَبَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَذْهَبَ رِيحُكُمْ",
+          "content": "تتلاشى قوّتكم أو دولتكم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 8,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 10,
+          "tokens": "وَتَذْهَبَ رِيحُكُمْ",
+          "content": "تتلاشى قوّتكم أو دولتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رِیحُكُمۡۖ وَٱصۡبِرُوۤا۟ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّـٰبِرِینَ ۝٤٦ وَلَا تَكُونُوا۟",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَذْهَبَ رِيحُكُمْ",
+          "content": "تتلاشى قوّتكم أو دولتكم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 8,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَتَذْهَبَ رِيحُكُمْ",
+          "content": "تتلاشى قوّتكم أو دولتكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "كَٱلَّذِینَ خَرَجُوا۟ مِن دِیَـٰرِهِم بَطَرࣰا وَرِئَاۤءَ ٱلنَّاسِ وَیَصُدُّونَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَطَرًا",
+          "content": "طغيانًا أو فخرا وأشرّا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 7,
+          "tokens": "بَطَرًا",
+          "content": "طغيانًا أو فخرا وأشرّا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَن سَبِیلِ ٱللَّهِۚ وَٱللَّهُ بِمَا یَعۡمَلُونَ مُحِیطࣱ ۝٤٧ وَإِذۡ زَیَّنَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَطَرًا",
+          "content": "طغيانًا أو فخرا وأشرّا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 8,
+          "ayahIndex": 47
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَهُمُ ٱلشَّیۡطَـٰنُ أَعۡمَـٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡیَوۡمَ مِنَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنِّى جَارٌ لَّكُمْ",
+          "content": "مُجير ومُعين وناصر لكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلنَّاسِ وَإِنِّی جَارࣱ لَّكُمۡۖ فَلَمَّا تَرَاۤءَتِ ٱلۡفِئَتَانِ نَكَصَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنِّى جَارٌ لَّكُمْ",
+          "content": "مُجير ومُعين وناصر لكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 23,
+          "tokens": "وَإِنِّى جَارٌ لَّكُمْ",
+          "content": "مُجير ومُعين وناصر لكم"
+        },
+        {
+          "start": 66,
+          "length": 6,
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَلَىٰ عَقِبَیۡهِ وَقَالَ إِنِّی بَرِیۤءࣱ مِّنكُمۡ إِنِّیۤ أَرَىٰ مَا لَا",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنِّى جَارٌ لَّكُمْ",
+          "content": "مُجير ومُعين وناصر لكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَرَوۡنَ إِنِّیۤ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِیدُ ٱلۡعِقَابِ ۝٤٨ إِذۡ یَقُولُ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَإِنِّى جَارٌ لَّكُمْ",
+          "content": "مُجير ومُعين وناصر لكم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 15,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "نَكَصَ عَلَىٰ عَقِبَيْهِ",
+          "content": "رجع القهقري وولّى مُدبرا",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 21,
+          "surahIndex": 8,
+          "ayahIndex": 48
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡمُنَـٰفِقُونَ وَٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ غَرَّ هَـٰۤؤُلَاۤءِ دِینُهُمۡۗ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَمَن یَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِیزٌ حَكِیمࣱ ۝٤٩ وَلَوۡ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "تَرَىٰۤ إِذۡ یَتَوَفَّى ٱلَّذِینَ كَفَرُوا۟ ٱلۡمَلَـٰۤىِٕكَةُ یَضۡرِبُونَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وُجُوهَهُمۡ وَأَدۡبَـٰرَهُمۡ وَذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ ۝٥٠ ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ ۝٥١",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِینَ مِن قَبۡلِهِمۡۚ كَفَرُوا۟ بِـَٔایَـٰتِ ٱللَّهِ",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَدَأْبِ",
+          "content": "كعادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 8,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "كَدَأْبِ",
+          "content": "كعادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِیࣱّ شَدِیدُ ٱلۡعِقَابِ ۝٥٢",
+      "surahIndexFirst": 8,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَدَأْبِ",
+          "content": "كعادة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 8,
+          "ayahIndex": 52
+        }
+      ]
+    }
+  ]
+}

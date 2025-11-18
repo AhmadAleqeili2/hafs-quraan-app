@@ -1,0 +1,261 @@
+{
+  "pageIndex": 102,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَّا یُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوۤءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱللَّهُ سَمِیعًا عَلِیمًا ۝١٤٨ إِن تُبۡدُوا۟ خَیۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُوا۟ عَن",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 148,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "سُوۤءࣲ فَإِنَّ ٱللَّهَ كَانَ عَفُوࣰّا قَدِیرًا ۝١٤٩ إِنَّ ٱلَّذِینَ یَكۡفُرُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 149,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِٱللَّهِ وَرُسُلِهِۦ وَیُرِیدُونَ أَن یُفَرِّقُوا۟ بَیۡنَ ٱللَّهِ وَرُسُلِهِۦ وَیَقُولُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "نُؤۡمِنُ بِبَعۡضࣲ وَنَكۡفُرُ بِبَعۡضࣲ وَیُرِیدُونَ أَن یَتَّخِذُوا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "بَیۡنَ ذَ ٰ⁠لِكَ سَبِیلًا ۝١٥٠ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡكَـٰفِرُونَ حَقࣰّاۚ وَأَعۡتَدۡنَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 150,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لِلۡكَـٰفِرِینَ عَذَابࣰا مُّهِینࣰا ۝١٥١ وَٱلَّذِینَ ءَامَنُوا۟ بِٱللَّهِ وَرُسُلِهِۦ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 151,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلَمۡ یُفَرِّقُوا۟ بَیۡنَ أَحَدࣲ مِّنۡهُمۡ أُو۟لَـٰۤىِٕكَ سَوۡفَ یُؤۡتِیهِمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 152,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أُجُورَهُمۡۚ وَكَانَ ٱللَّهُ غَفُورࣰا رَّحِیمࣰا ۝١٥٢ یَسۡـَٔلُكَ أَهۡلُ ٱلۡكِتَـٰبِ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 152,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَن تُنَزِّلَ عَلَیۡهِمۡ كِتَـٰبࣰا مِّنَ ٱلسَّمَاۤءِۚ فَقَدۡ سَأَلُوا۟ مُوسَىٰۤ أَكۡبَرَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 153,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْرَةً",
+          "content": "عيانًا بالبصر",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        },
+        {
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السّماء أو صيحة منها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِن ذَ ٰ⁠لِكَ فَقَالُوۤا۟ أَرِنَا ٱللَّهَ جَهۡرَةࣰ فَأَخَذَتۡهُمُ ٱلصَّـٰعِقَةُ بِظُلۡمِهِمۡۚ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 153,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْرَةً",
+          "content": "عيانًا بالبصر",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        },
+        {
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السّماء أو صيحة منها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 42,
+          "length": 8,
+          "tokens": "جَهْرَةً",
+          "content": "عيانًا بالبصر"
+        },
+        {
+          "start": 66,
+          "length": 13,
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السّماء أو صيحة منها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ثُمَّ ٱتَّخَذُوا۟ ٱلۡعِجۡلَ مِنۢ بَعۡدِ مَا جَاۤءَتۡهُمُ ٱلۡبَیِّنَـٰتُ فَعَفَوۡنَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 153,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْرَةً",
+          "content": "عيانًا بالبصر",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        },
+        {
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السّماء أو صيحة منها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عَن ذَ ٰ⁠لِكَۚ وَءَاتَیۡنَا مُوسَىٰ سُلۡطَـٰنࣰا مُّبِینࣰا ۝١٥٣ وَرَفَعۡنَا فَوۡقَهُمُ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 153,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَهْرَةً",
+          "content": "عيانًا بالبصر",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        },
+        {
+          "tokens": "ٱلصَّٰعِقَةُ",
+          "content": "نارٌ من السّماء أو صيحة منها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 4,
+          "ayahIndex": 153
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلطُّورَ بِمِیثَـٰقِهِمۡ وَقُلۡنَا لَهُمُ ٱدۡخُلُوا۟ ٱلۡبَابَ سُجَّدࣰا وَقُلۡنَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَعْدُوا۟ فِى ٱلسَّبْتِ",
+          "content": "لا تعتدوا باصطياد الحيتان فيه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مِّيثَٰقًا غَلِيظًا",
+          "content": "عهدًا وثيقا بطاعة الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَهُمۡ لَا تَعۡدُوا۟ فِی ٱلسَّبۡتِ وَأَخَذۡنَا مِنۡهُم مِّیثَـٰقًا غَلِیظࣰا ۝١٥٤",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَعْدُوا۟ فِى ٱلسَّبْتِ",
+          "content": "لا تعتدوا باصطياد الحيتان فيه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 15,
+          "surahIndex": 4,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مِّيثَٰقًا غَلِيظًا",
+          "content": "عهدًا وثيقا بطاعة الله",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 4,
+          "ayahIndex": 154
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 27,
+          "tokens": "لَا تَعْدُوا۟ فِى ٱلسَّبْتِ",
+          "content": "لا تعتدوا باصطياد الحيتان فيه"
+        },
+        {
+          "start": 55,
+          "length": 20,
+          "tokens": "مِّيثَٰقًا غَلِيظًا",
+          "content": "عهدًا وثيقا بطاعة الله"
+        }
+      ]
+    }
+  ]
+}

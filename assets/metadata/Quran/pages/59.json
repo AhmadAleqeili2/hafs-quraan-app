@@ -1,0 +1,365 @@
+{
+  "pageIndex": 59,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَهۡلَ ٱلۡكِتَـٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَـٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَلْبِسُونَ",
+          "content": "تخلِطون أو تستُرون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 11,
+          "tokens": "تَلْبِسُونَ",
+          "content": "تخلِطون أو تستُرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَأَنتُمۡ تَعۡلَمُونَ ۝٧١ وَقَالَت طَّاۤىِٕفَةࣱ مِّنۡ أَهۡلِ ٱلۡكِتَـٰبِ ءَامِنُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَلْبِسُونَ",
+          "content": "تخلِطون أو تستُرون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "بِٱلَّذِیۤ أُنزِلَ عَلَى ٱلَّذِینَ ءَامَنُوا۟ وَجۡهَ ٱلنَّهَارِ وَٱكۡفُرُوۤا۟ ءَاخِرَهُۥ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَعَلَّهُمۡ یَرۡجِعُونَ ۝٧٢ وَلَا تُؤۡمِنُوۤا۟ إِلَّا لِمَن تَبِعَ دِینَكُمۡ قُلۡ إِنَّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡهُدَىٰ هُدَى ٱللَّهِ أَن یُؤۡتَىٰۤ أَحَدࣱ مِّثۡلَ مَاۤ أُوتِیتُمۡ أَوۡ یُحَاۤجُّوكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "عِندَ رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِیَدِ ٱللَّهِ یُؤۡتِیهِ مَن یَشَاۤءُۗ وَٱللَّهُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَ ٰ⁠سِعٌ عَلِیمࣱ ۝٧٣ یَخۡتَصُّ بِرَحۡمَتِهِۦ مَن یَشَاۤءُۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡعَظِیمِ ۝٧٤ وَمِنۡ أَهۡلِ ٱلۡكِتَـٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارࣲ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "یُؤَدِّهِۦۤ إِلَیۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِینَارࣲ لَّا یُؤَدِّهِۦۤ إِلَیۡكَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَيْهِ قَآئِمًا",
+          "content": "ملازما له تطالبهُ وتُقاضيه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "فِى ٱلْأُمِّيِّۦنَ",
+          "content": "فيما أصبنا من أمول العرب",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "سَبِيلٌ",
+          "content": "عِتاب وذمٌّ أو إثمٌ وحرجٌ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِلَّا مَا دُمۡتَ عَلَیۡهِ قَاۤىِٕمࣰاۗ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَالُوا۟ لَیۡسَ عَلَیۡنَا فِی",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَيْهِ قَآئِمًا",
+          "content": "ملازما له تطالبهُ وتُقاضيه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "فِى ٱلْأُمِّيِّۦنَ",
+          "content": "فيما أصبنا من أمول العرب",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "سَبِيلٌ",
+          "content": "عِتاب وذمٌّ أو إثمٌ وحرجٌ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 20,
+          "tokens": "عَلَيْهِ قَآئِمًا",
+          "content": "ملازما له تطالبهُ وتُقاضيه"
+        },
+        {
+          "start": 87,
+          "length": 3,
+          "tokens": "فِى ٱلْأُمِّيِّۦنَ",
+          "content": "فيما أصبنا من أمول العرب"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡأُمِّیِّـۧنَ سَبِیلࣱ وَیَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ یَعۡلَمُونَ ۝٧٥",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 75,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَيْهِ قَآئِمًا",
+          "content": "ملازما له تطالبهُ وتُقاضيه",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "فِى ٱلْأُمِّيِّۦنَ",
+          "content": "فيما أصبنا من أمول العرب",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 29,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        },
+        {
+          "tokens": "سَبِيلٌ",
+          "content": "عِتاب وذمٌّ أو إثمٌ وحرجٌ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 3,
+          "ayahIndex": 75
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "فِى ٱلْأُمِّيِّۦنَ",
+          "content": "فيما أصبنا من أمول العرب"
+        },
+        {
+          "start": 16,
+          "length": 7,
+          "tokens": "سَبِيلٌ",
+          "content": "عِتاب وذمٌّ أو إثمٌ وحرجٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ یُحِبُّ ٱلۡمُتَّقِینَ ۝٧٦",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 76,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِنَّ ٱلَّذِینَ یَشۡتَرُونَ بِعَهۡدِ ٱللَّهِ وَأَیۡمَـٰنِهِمۡ ثَمَنࣰا قَلِیلًا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا خَلَٰقَ لَهُمْ",
+          "content": "لا نصيب من الخير أو لا قدْر لهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يَنظُرُ إِلَيْهِمْ",
+          "content": "لا يُحسن إليهم ولا يرحمهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يُزَكِّيهِمْ",
+          "content": "لا يطهِّرُهم أو لا يُثني عليهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أُو۟لَـٰۤىِٕكَ لَا خَلَـٰقَ لَهُمۡ فِی ٱلۡـَٔاخِرَةِ وَلَا یُكَلِّمُهُمُ ٱللَّهُ وَلَا یَنظُرُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا خَلَٰقَ لَهُمْ",
+          "content": "لا نصيب من الخير أو لا قدْر لهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يَنظُرُ إِلَيْهِمْ",
+          "content": "لا يُحسن إليهم ولا يرحمهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يُزَكِّيهِمْ",
+          "content": "لا يطهِّرُهم أو لا يُثني عليهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 19,
+          "tokens": "لَا خَلَٰقَ لَهُمْ",
+          "content": "لا نصيب من الخير أو لا قدْر لهم"
+        },
+        {
+          "start": 81,
+          "length": 13,
+          "tokens": "وَلَا يَنظُرُ إِلَيْهِمْ",
+          "content": "لا يُحسن إليهم ولا يرحمهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِلَیۡهِمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ وَلَا یُزَكِّیهِمۡ وَلَهُمۡ عَذَابٌ أَلِیمࣱ ۝٧٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا خَلَٰقَ لَهُمْ",
+          "content": "لا نصيب من الخير أو لا قدْر لهم",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يَنظُرُ إِلَيْهِمْ",
+          "content": "لا يُحسن إليهم ولا يرحمهم",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        },
+        {
+          "tokens": "وَلَا يُزَكِّيهِمْ",
+          "content": "لا يطهِّرُهم أو لا يُثني عليهم",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 3,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَلَا يَنظُرُ إِلَيْهِمْ",
+          "content": "لا يُحسن إليهم ولا يرحمهم"
+        },
+        {
+          "start": 32,
+          "length": 18,
+          "tokens": "وَلَا يُزَكِّيهِمْ",
+          "content": "لا يطهِّرُهم أو لا يُثني عليهم"
+        }
+      ]
+    }
+  ]
+}

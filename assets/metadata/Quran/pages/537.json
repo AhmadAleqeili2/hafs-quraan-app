@@ -1,0 +1,375 @@
+{
+  "pageIndex": 537,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّهُۥ لَقُرۡءَانࣱ كَرِیمࣱ ۝٧٧ فِی كِتَـٰبࣲ مَّكۡنُونࣲ ۝٧٨ لَّا یَمَسُّهُۥۤ إِلَّا",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+          "content": "نفّاعٌ جمّ المنافع، أو رفيع القدْر",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 56,
+          "ayahIndex": 77
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 28,
+          "tokens": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+          "content": "نفّاعٌ جمّ المنافع، أو رفيع القدْر"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلۡمُطَهَّرُونَ ۝٧٩ تَنزِیلࣱ مِّن رَّبِّ ٱلۡعَـٰلَمِینَ ۝٨٠ أَفَبِهَـٰذَا ٱلۡحَدِیثِ",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+          "content": "صفة أخرى للقرآن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 4,
+          "surahIndex": 56,
+          "ayahIndex": 79
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+          "content": "صفة أخرى للقرآن"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَنتُم مُّدۡهِنُونَ ۝٨١ وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ ۝٨٢ فَلَوۡلَاۤ",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنتُم مُّدْهِنُونَ",
+          "content": "مُتهاونون أو مكذبون",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 56,
+          "ayahIndex": 81
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "أَنتُم مُّدْهِنُونَ",
+          "content": "مُتهاونون أو مكذبون"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ ۝٨٣ وَأَنتُمۡ حِینَىِٕذࣲ تَنظُرُونَ ۝٨٤ وَنَحۡنُ أَقۡرَبُ",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَلَغَتِ ٱلْحُلْقُومَ",
+          "content": "بلغت الرّوح الحلقوم عند المَوْت",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 56,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 21,
+          "tokens": "بَلَغَتِ ٱلْحُلْقُومَ",
+          "content": "بلغت الرّوح الحلقوم عند المَوْت"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِلَیۡهِ مِنكُمۡ وَلَـٰكِن لَّا تُبۡصِرُونَ ۝٨٥ فَلَوۡلَاۤ إِن كُنتُمۡ غَیۡرَ مَدِینِینَ ۝٨٦",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَنَحْنُ أَقْرَبُ إِلَيْهِ",
+          "content": "بعِلمِنا وقدْرَتنا",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 56,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "وَنَحْنُ أَقْرَبُ إِلَيْهِ",
+          "content": "بعِلمِنا وقدْرَتنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "تَرۡجِعُونَهَاۤ إِن كُنتُمۡ صَـٰدِقِینَ ۝٨٧ فَأَمَّاۤ إِن كَانَ مِنَ ٱلۡمُقَرَّبِینَ ۝٨٨",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "فَرَوۡحࣱ وَرَیۡحَانࣱ وَجَنَّتُ نَعِیمࣲ ۝٨٩ وَأَمَّاۤ إِن كَانَ مِنۡ أَصۡحَـٰبِ",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَرَوْحٌ",
+          "content": "فله استراحة أو رحمة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 56,
+          "ayahIndex": 89
+        },
+        {
+          "tokens": "وَرَيْحَانٌ",
+          "content": "رزق حسن",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 56,
+          "ayahIndex": 89
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "فَرَوْحٌ",
+          "content": "فله استراحة أو رحمة"
+        },
+        {
+          "start": 9,
+          "length": 11,
+          "tokens": "وَرَيْحَانٌ",
+          "content": "رزق حسن"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلۡیَمِینِ ۝٩٠ فَسَلَـٰمࣱ لَّكَ مِنۡ أَصۡحَـٰبِ ٱلۡیَمِینِ ۝٩١ وَأَمَّاۤ إِن كَانَ مِنَ",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡمُكَذِّبِینَ ٱلضَّاۤلِّینَ ۝٩٢ فَنُزُلࣱ مِّنۡ حَمِیمࣲ ۝٩٣ وَتَصۡلِیَةُ جَحِیمٍ ۝٩٤",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلۡیَقِینِ ۝٩٥ فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِیمِ ۝٩٦",
+      "surahIndexFirst": 56,
+      "ayahIndexFirst": 95,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12998,
+      "text": "سورة الحديد",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزه الله ومجده ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ٱلْعَزِيزُ",
+          "content": "القادر الغالب على كل شيء",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزه الله ومجده ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ٱلْعَزِيزُ",
+          "content": "القادر الغالب على كل شيء",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "سَبَّحَ لِلَّهِ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝١ لَهُۥ مُلۡكُ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزه الله ومجده ودلّ عليه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "ٱلْعَزِيزُ",
+          "content": "القادر الغالب على كل شيء",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 57,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "سَبَّحَ لِلَّهِ",
+          "content": "نزه الله ومجده ودلّ عليه"
+        },
+        {
+          "start": 61,
+          "length": 10,
+          "tokens": "ٱلْعَزِيزُ",
+          "content": "القادر الغالب على كل شيء"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ یُحۡیِۦ وَیُمِیتُۖ وَهُوَ عَلَىٰ كُلِّ شَیۡءࣲ قَدِیرٌ ۝٢ هُوَ",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلۡأَوَّلُ وَٱلۡـَٔاخِرُ وَٱلظَّـٰهِرُ وَٱلۡبَاطِنُۖ وَهُوَ بِكُلِّ شَیۡءٍ عَلِیمٌ ۝٣",
+      "surahIndexFirst": 57,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْأَوَّلُ",
+          "content": "السابق على جميع الموجودات",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 57,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "وَٱلْءَاخِرُ",
+          "content": "الباقي بعد فَنائِها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 57,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "وَٱلظَّٰهِرُ",
+          "content": "بوجوده ومصنوعاته وتدبيره",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 57,
+          "ayahIndex": 3
+        },
+        {
+          "tokens": "وَٱلْبَاطِنُ",
+          "content": "بكُنه ذاته عن العقول",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 57,
+          "ayahIndex": 3
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "ٱلْأَوَّلُ",
+          "content": "السابق على جميع الموجودات"
+        },
+        {
+          "start": 11,
+          "length": 13,
+          "tokens": "وَٱلْءَاخِرُ",
+          "content": "الباقي بعد فَنائِها"
+        },
+        {
+          "start": 25,
+          "length": 13,
+          "tokens": "وَٱلظَّٰهِرُ",
+          "content": "بوجوده ومصنوعاته وتدبيره"
+        },
+        {
+          "start": 39,
+          "length": 13,
+          "tokens": "وَٱلْبَاطِنُ",
+          "content": "بكُنه ذاته عن العقول"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "pageIndex": 3,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱلَّذِینَ كَفَرُوا۟ سَوَاۤءٌ عَلَیۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لَا یُؤۡمِنُونَ ۝٦ خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمۡ وَعَلَىٰ سَمۡعِهِمۡۖ وَعَلَىٰۤ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "أَبۡصَـٰرِهِمۡ غِشَـٰوَةࣱۖ وَلَهُمۡ عَذَابٌ عَظِیمࣱ ۝٧ وَمِنَ ٱلنَّاسِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَتَمَ ٱللَّهُ",
+          "content": "طبع الله",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "غِشَٰوَةٌ",
+          "content": "غطاء وستر",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 2,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 11,
+          "tokens": "غِشَٰوَةٌ",
+          "content": "غطاء وستر"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَن یَقُولُ ءَامَنَّا بِٱللَّهِ وَبِٱلۡیَوۡمِ ٱلۡـَٔاخِرِ وَمَا هُم بِمُؤۡمِنِینَ ۝٨",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "یُخَـٰدِعُونَ ٱللَّهَ وَٱلَّذِینَ ءَامَنُوا۟ وَمَا یَخۡدَعُونَ إِلَّاۤ أَنفُسَهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخَٰدِعُونَ",
+          "content": "يعملون عمل المخادع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 2,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "يُخَٰدِعُونَ",
+          "content": "يعملون عمل المخادع"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَا یَشۡعُرُونَ ۝٩ فِی قُلُوبِهِم مَّرَضࣱ فَزَادَهُمُ ٱللَّهُ مَرَضࣰاۖ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخَٰدِعُونَ",
+          "content": "يعملون عمل المخادع",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 2,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلَهُمۡ عَذَابٌ أَلِیمُۢ بِمَا كَانُوا۟ یَكۡذِبُونَ ۝١٠ وَإِذَا قِیلَ لَهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّرَضٌ",
+          "content": "شك ونفاق أو تكذيب وجَحْد",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "لَا تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ قَالُوۤا۟ إِنَّمَا نَحۡنُ مُصۡلِحُونَ ۝١١ أَلَاۤ إِنَّهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "هُمُ ٱلۡمُفۡسِدُونَ وَلَـٰكِن لَّا یَشۡعُرُونَ ۝١٢ وَإِذَا قِیلَ لَهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ءَامِنُوا۟ كَمَاۤ ءَامَنَ ٱلنَّاسُ قَالُوۤا۟ أَنُؤۡمِنُ كَمَاۤ ءَامَنَ ٱلسُّفَهَاۤءُۗ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَلَاۤ إِنَّهُمۡ هُمُ ٱلسُّفَهَاۤءُ وَلَـٰكِن لَّا یَعۡلَمُونَ ۝١٣ وَإِذَا لَقُوا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلَّذِینَ ءَامَنُوا۟ قَالُوۤا۟ ءَامَنَّا وَإِذَا خَلَوۡا۟ إِلَىٰ شَیَـٰطِینِهِمۡ قَالُوۤا۟ إِنَّا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ",
+          "content": "انصرفوا إليهم أو انفردوا معهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 31,
+          "tokens": "خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ",
+          "content": "انصرفوا إليهم أو انفردوا معهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ ۝١٤ ٱللَّهُ یَسۡتَهۡزِئُ بِهِمۡ وَیَمُدُّهُمۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلَوْا۟ إِلَىٰ شَيَٰطِينِهِمْ",
+          "content": "انصرفوا إليهم أو انفردوا معهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 2,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فِی طُغۡیَـٰنِهِمۡ یَعۡمَهُونَ ۝١٥ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ ٱشۡتَرَوُا۟ ٱلضَّلَـٰلَةَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَمُدُّهُمْ",
+          "content": "يزيدهم أو يمهلهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 2,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "طُغْيَٰنِهِمْ",
+          "content": "مجاوزتهم الحدّ وغلوّهم في الكفر",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 15
+        },
+        {
+          "tokens": "يَعْمَهُونَ",
+          "content": "يعمَونَ عن الرُّشد أو يتحيّرون",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 14,
+          "tokens": "طُغْيَٰنِهِمْ",
+          "content": "مجاوزتهم الحدّ وغلوّهم في الكفر"
+        },
+        {
+          "start": 19,
+          "length": 11,
+          "tokens": "يَعْمَهُونَ",
+          "content": "يعمَونَ عن الرُّشد أو يتحيّرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَـٰرَتُهُمۡ وَمَا كَانُوا۟ مُهۡتَدِینَ ۝١٦",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

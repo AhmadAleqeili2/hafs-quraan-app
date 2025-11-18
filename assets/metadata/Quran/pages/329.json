@@ -1,0 +1,361 @@
+{
+  "pageIndex": 329,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمِنَ ٱلشَّیَـٰطِینِ مَن یَغُوصُونَ لَهُۥ وَیَعۡمَلُونَ عَمَلࣰا دُونَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغُوصُونَ لَهُۥ",
+          "content": "في البحار لاستخراج نفائسها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "لَهُمْ حَٰفِظِينَ",
+          "content": "من الزّيغ عن أمره أو الإفساد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 21,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 16,
+          "tokens": "يَغُوصُونَ لَهُۥ",
+          "content": "في البحار لاستخراج نفائسها"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ذَ ٰ⁠لِكَۖ وَكُنَّا لَهُمۡ حَـٰفِظِینَ ۝٨٢ وَأَیُّوبَ إِذۡ نَادَىٰ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغُوصُونَ لَهُۥ",
+          "content": "في البحار لاستخراج نفائسها",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "لَهُمْ حَٰفِظِينَ",
+          "content": "من الزّيغ عن أمره أو الإفساد",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 21,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 18,
+          "tokens": "لَهُمْ حَٰفِظِينَ",
+          "content": "من الزّيغ عن أمره أو الإفساد"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "رَبَّهُۥۤ أَنِّی مَسَّنِیَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ ۝٨٣",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرࣲّۖ وَءَاتَیۡنَـٰهُ أَهۡلَهُۥ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةࣰ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَـٰبِدِینَ ۝٨٤",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَإِسۡمَـٰعِیلَ وَإِدۡرِیسَ وَذَا ٱلۡكِفۡلِۖ كُلࣱّ مِّنَ ٱلصَّـٰبِرِینَ ۝٨٥",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَذَا ٱلْكِفْلِ",
+          "content": "قيل هو إلياس عليه السّلام",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 21,
+          "ayahIndex": 85
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 16,
+          "tokens": "وَذَا ٱلْكِفْلِ",
+          "content": "قيل هو إلياس عليه السّلام"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَأَدۡخَلۡنَـٰهُمۡ فِی رَحۡمَتِنَاۤۖ إِنَّهُم مِّنَ ٱلصَّـٰلِحِینَ ۝٨٦",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَـٰضِبࣰا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَیۡهِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَذَا ٱلنُّونِ",
+          "content": "صاحب الحوت يونس عليه السّلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "مُغَٰضِبًا",
+          "content": "غضبان على قومه لكُفرهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "لَّن نَّقْدِرَ عَلَيْهِ",
+          "content": "لن نضيّق عليه بحبس ونحوه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "وَذَا ٱلنُّونِ",
+          "content": "صاحب الحوت يونس عليه السّلام"
+        },
+        {
+          "start": 27,
+          "length": 11,
+          "tokens": "مُغَٰضِبًا",
+          "content": "غضبان على قومه لكُفرهم"
+        },
+        {
+          "start": 51,
+          "length": 23,
+          "tokens": "لَّن نَّقْدِرَ عَلَيْهِ",
+          "content": "لن نضيّق عليه بحبس ونحوه"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَنَادَىٰ فِی ٱلظُّلُمَـٰتِ أَن لَّاۤ إِلَـٰهَ إِلَّاۤ أَنتَ سُبۡحَـٰنَكَ إِنِّی",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَذَا ٱلنُّونِ",
+          "content": "صاحب الحوت يونس عليه السّلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "مُغَٰضِبًا",
+          "content": "غضبان على قومه لكُفرهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "لَّن نَّقْدِرَ عَلَيْهِ",
+          "content": "لن نضيّق عليه بحبس ونحوه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "كُنتُ مِنَ ٱلظَّـٰلِمِینَ ۝٨٧ فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّیۡنَـٰهُ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَذَا ٱلنُّونِ",
+          "content": "صاحب الحوت يونس عليه السّلام",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "مُغَٰضِبًا",
+          "content": "غضبان على قومه لكُفرهم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "لَّن نَّقْدِرَ عَلَيْهِ",
+          "content": "لن نضيّق عليه بحبس ونحوه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 21,
+          "ayahIndex": 87
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِنَ ٱلۡغَمِّۚ وَكَذَ ٰ⁠لِكَ نُـۨجِی ٱلۡمُؤۡمِنِینَ ۝٨٨ وَزَكَرِیَّاۤ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِی فَرۡدࣰا وَأَنتَ خَیۡرُ ٱلۡوَ ٰ⁠رِثِینَ ۝٨٩",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَٱسۡتَجَبۡنَا لَهُۥ وَوَهَبۡنَا لَهُۥ یَحۡیَىٰ وَأَصۡلَحۡنَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَبًا وَرَهَبًا",
+          "content": "رجاءً في الثّواب وخوفا من العِقاب",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "خَٰشِعِينَ",
+          "content": "متذلّلين خاضعين",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَهُۥ زَوۡجَهُۥۤۚ إِنَّهُمۡ كَانُوا۟ یُسَـٰرِعُونَ فِی ٱلۡخَیۡرَ ٰ⁠تِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَبًا وَرَهَبًا",
+          "content": "رجاءً في الثّواب وخوفا من العِقاب",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "خَٰشِعِينَ",
+          "content": "متذلّلين خاضعين",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَیَدۡعُونَنَا رَغَبࣰا وَرَهَبࣰاۖ وَكَانُوا۟ لَنَا خَـٰشِعِینَ ۝٩٠",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَغَبًا وَرَهَبًا",
+          "content": "رجاءً في الثّواب وخوفا من العِقاب",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "خَٰشِعِينَ",
+          "content": "متذلّلين خاضعين",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 21,
+          "ayahIndex": 90
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 18,
+          "tokens": "رَغَبًا وَرَهَبًا",
+          "content": "رجاءً في الثّواب وخوفا من العِقاب"
+        },
+        {
+          "start": 51,
+          "length": 11,
+          "tokens": "خَٰشِعِينَ",
+          "content": "متذلّلين خاضعين"
+        }
+      ]
+    }
+  ]
+}

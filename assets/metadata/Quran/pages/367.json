@@ -1,0 +1,153 @@
+{
+  "pageIndex": 367,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الشعراء",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "طسۤمۤ ۝١ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ ۝٢ لَعَلَّكَ بَـٰخِعࣱ نَّفۡسَكَ أَلَّا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "یَكُونُوا۟ مُؤۡمِنِینَ ۝٣ إِن نَّشَأۡ نُنَزِّلۡ عَلَیۡهِم مِّنَ ٱلسَّمَاۤءِ ءَایَةࣰ فَظَلَّتۡ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بَٰخِعٌ نَّفْسَكَ",
+          "content": "مُهلِكُها حسرة وحُزنا",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 26,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَعۡنَـٰقُهُمۡ لَهَا خَـٰضِعِینَ ۝٤ وَمَا یَأۡتِیهِم مِّن ذِكۡرࣲ مِّنَ ٱلرَّحۡمَـٰنِ مُحۡدَثٍ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَعْنَٰقُهُمْ",
+          "content": "جماعاتهم أو رؤساؤهم ومقدّموهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 26,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "أَعْنَٰقُهُمْ",
+          "content": "جماعاتهم أو رؤساؤهم ومقدّموهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِلَّا كَانُوا۟ عَنۡهُ مُعۡرِضِینَ ۝٥ فَقَدۡ كَذَّبُوا۟ فَسَیَأۡتِیهِمۡ أَنۢبَـٰۤؤُا۟ مَا كَانُوا۟ بِهِۦ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَسۡتَهۡزِءُونَ ۝٦ أَوَلَمۡ یَرَوۡا۟ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِیهَا مِن كُلِّ زَوۡجࣲ كَرِیمٍ ۝٧",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَةࣰۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِینَ ۝٨ وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِیزُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلرَّحِیمُ ۝٩ وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰۤ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ ۝١٠ قَوۡمَ فِرۡعَوۡنَۚ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "أَلَا یَتَّقُونَ ۝١١ قَالَ رَبِّ إِنِّیۤ أَخَافُ أَن یُكَذِّبُونِ ۝١٢ وَیَضِیقُ صَدۡرِی",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَا یَنطَلِقُ لِسَانِی فَأَرۡسِلۡ إِلَىٰ هَـٰرُونَ ۝١٣ وَلَهُمۡ عَلَیَّ ذَنۢبࣱ فَأَخَافُ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "أَن یَقۡتُلُونِ ۝١٤ قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔایَـٰتِنَاۤۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ ۝١٥",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَأۡتِیَا فِرۡعَوۡنَ فَقُولَاۤ إِنَّا رَسُولُ رَبِّ ٱلۡعَـٰلَمِینَ ۝١٦ أَنۡ أَرۡسِلۡ مَعَنَا",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ ۝١٧ قَالَ أَلَمۡ نُرَبِّكَ فِینَا وَلِیدࣰا وَلَبِثۡتَ فِینَا مِنۡ عُمُرِكَ",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "سِنِینَ ۝١٨ وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِی فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَـٰفِرِینَ ۝١٩",
+      "surahIndexFirst": 26,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

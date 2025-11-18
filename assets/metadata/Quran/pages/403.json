@@ -1,0 +1,293 @@
+{
+  "pageIndex": 403,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَوۡلَاۤ أَجَلࣱ مُّسَمࣰّى لَّجَاۤءَهُمُ ٱلۡعَذَابُۚ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَجَلٌ مُّسَمًّى",
+          "content": "هُو يوم القيامة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 16,
+          "tokens": "أَجَلٌ مُّسَمًّى",
+          "content": "هُو يوم القيامة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَلَیَأۡتِیَنَّهُم بَغۡتَةࣰ وَهُمۡ لَا یَشۡعُرُونَ ۝٥٣ یَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَجَلٌ مُّسَمًّى",
+          "content": "هُو يوم القيامة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "بَغْتَةً",
+          "content": "فجأة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 8,
+          "tokens": "بَغْتَةً",
+          "content": "فجأة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَإِنَّ جَهَنَّمَ لَمُحِیطَةُۢ بِٱلۡكَـٰفِرِینَ ۝٥٤ یَوۡمَ یَغۡشَىٰهُمُ ٱلۡعَذَابُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۡ وَیَقُولُ ذُوقُوا۟ مَا كُنتُمۡ تَعۡمَلُونَ ۝٥٥",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغْشَىٰهُمُ ٱلْعَذَابُ",
+          "content": "يُجلّلهم ويُحيط بهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 29,
+          "ayahIndex": 55
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَـٰعِبَادِیَ ٱلَّذِینَ ءَامَنُوۤا۟ إِنَّ أَرۡضِی وَ ٰ⁠سِعَةࣱ فَإِیَّـٰیَ فَٱعۡبُدُونِ ۝٥٦",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "كُلُّ نَفۡسࣲ ذَاۤىِٕقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَیۡنَا تُرۡجَعُونَ ۝٥٧ وَٱلَّذِینَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَنُبَوِّئَنَّهُم مِّنَ ٱلۡجَنَّةِ غُرَفࣰا تَجۡرِی",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَنُبَوِّئَنَّهُم",
+          "content": "لنُنزلنّهم على وجه الإقامة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 58
+        },
+        {
+          "tokens": "غُرَفًا",
+          "content": "منازل رفيعة عالية",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 58
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 17,
+          "tokens": "لَنُبَوِّئَنَّهُم",
+          "content": "لنُنزلنّهم على وجه الإقامة"
+        },
+        {
+          "start": 74,
+          "length": 7,
+          "tokens": "غُرَفًا",
+          "content": "منازل رفيعة عالية"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مِن تَحۡتِهَا ٱلۡأَنۡهَـٰرُ خَـٰلِدِینَ فِیهَاۚ نِعۡمَ أَجۡرُ ٱلۡعَـٰمِلِینَ ۝٥٨ ٱلَّذِینَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 58,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَنُبَوِّئَنَّهُم",
+          "content": "لنُنزلنّهم على وجه الإقامة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 29,
+          "ayahIndex": 58
+        },
+        {
+          "tokens": "غُرَفًا",
+          "content": "منازل رفيعة عالية",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 29,
+          "ayahIndex": 58
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "صَبَرُوا۟ وَعَلَىٰ رَبِّهِمۡ یَتَوَكَّلُونَ ۝٥٩ وَكَأَیِّن مِّن دَاۤبَّةࣲ لَّا تَحۡمِلُ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "رِزۡقَهَا ٱللَّهُ یَرۡزُقُهَا وَإِیَّاكُمۡۚ وَهُوَ ٱلسَّمِیعُ ٱلۡعَلِیمُ ۝٦٠ وَلَىِٕن",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 60,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأَيِّن مِّن دَآبَّةٍ",
+          "content": "كثيرٌ من الدّواب",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 29,
+          "ayahIndex": 60
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَنَّىٰ يُؤْفَكُونَ",
+          "content": "فكيف يُصرفون عن توحيده ؟",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 29,
+          "ayahIndex": 61
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَیَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ یُؤۡفَكُونَ ۝٦١ ٱللَّهُ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ مِنۡ",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 61,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَنَّىٰ يُؤْفَكُونَ",
+          "content": "فكيف يُصرفون عن توحيده ؟",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 29,
+          "ayahIndex": 61
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 21,
+          "tokens": "فَأَنَّىٰ يُؤْفَكُونَ",
+          "content": "فكيف يُصرفون عن توحيده ؟"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "عِبَادِهِۦ وَیَقۡدِرُ لَهُۥۤۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ عَلِیمࣱ ۝٦٢ وَلَىِٕن سَأَلۡتَهُم",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ لَهُۥٓ",
+          "content": "يُضيّقه على من يشاء لحكمة",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 29,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 18,
+          "tokens": "وَيَقْدِرُ لَهُۥٓ",
+          "content": "يُضيّقه على من يشاء لحكمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَّن نَّزَّلَ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَأَحۡیَا بِهِ ٱلۡأَرۡضَ مِنۢ بَعۡدِ مَوۡتِهَا",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَیَقُولُنَّ ٱللَّهُۚ قُلِ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا یَعۡقِلُونَ ۝٦٣",
+      "surahIndexFirst": 29,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

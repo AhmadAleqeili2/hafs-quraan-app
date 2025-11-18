@@ -1,0 +1,191 @@
+{
+  "pageIndex": 235,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَوۡ شَاۤءَ رَبُّكَ لَجَعَلَ ٱلنَّاسَ أُمَّةࣰ وَ ٰ⁠حِدَةࣰۖ وَلَا یَزَالُونَ مُخۡتَلِفِینَ ۝١١٨",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 118,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِلَّا مَن رَّحِمَ رَبُّكَۚ وَلِذَ ٰ⁠لِكَ خَلَقَهُمۡۗ وَتَمَّتۡ كَلِمَةُ رَبِّكَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَمَّتْ",
+          "content": "وجبت وثبتت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 119
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 54,
+          "length": 9,
+          "tokens": "وَتَمَّتْ",
+          "content": "وجبت وثبتت"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِینَ ۝١١٩ وَكُلࣰّا نَّقُصُّ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 119,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَتَمَّتْ",
+          "content": "وجبت وثبتت",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 119
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَلَیۡكَ مِنۡ أَنۢبَاۤءِ ٱلرُّسُلِ مَا نُثَبِّتُ بِهِۦ فُؤَادَكَۚ وَجَاۤءَكَ فِی هَـٰذِهِ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡحَقُّ وَمَوۡعِظَةࣱ وَذِكۡرَىٰ لِلۡمُؤۡمِنِینَ ۝١٢٠ وَقُل لِّلَّذِینَ لَا یُؤۡمِنُونَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 120,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنَّا عَـٰمِلُونَ ۝١٢١ وَٱنتَظِرُوۤا۟ إِنَّا مُنتَظِرُونَ ۝١٢٢",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 121,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم من أمركم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 121
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 13,
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "غاية تمكّنكم من أمركم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلِلَّهِ غَیۡبُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَإِلَیۡهِ یُرۡجَعُ ٱلۡأَمۡرُ كُلُّهُۥ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَٱعۡبُدۡهُ وَتَوَكَّلۡ عَلَیۡهِۚ وَمَا رَبُّكَ بِغَـٰفِلٍ عَمَّا تَعۡمَلُونَ ۝١٢٣",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 123,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10998,
+      "text": "سورة يوسف",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 10999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "الۤرۚ تِلۡكَ ءَایَـٰتُ ٱلۡكِتَـٰبِ ٱلۡمُبِینِ ۝١ إِنَّاۤ أَنزَلۡنَـٰهُ قُرۡءَ ٰ⁠",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "نًا عَرَبِیࣰّا لَّعَلَّكُمۡ ۝٢ نَحۡنُ نَقُصُّ عَلَیۡكَ أَحۡسَنَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡقَصَصِ بِمَاۤ أَوۡحَیۡنَاۤ إِلَیۡكَ هَـٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَقُصُّ عَلَيْكَ",
+          "content": "نُحدّثك أو نبيّن لك يا محمد",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَمِنَ ٱلۡغَـٰفِلِینَ ۝٣ إِذۡ قَالَ یُوسُفُ لِأَبِیهِ یَـٰۤأَبَتِ إِنِّی رَأَیۡتُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَقُصُّ عَلَيْكَ",
+          "content": "نُحدّثك أو نبيّن لك يا محمد",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 3
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "أَحَدَ عَشَرَ كَوۡكَبࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَیۡتُهُمۡ لِی سَـٰجِدِینَ ۝٤",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

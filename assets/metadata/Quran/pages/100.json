@@ -1,0 +1,279 @@
+{
+  "pageIndex": 100,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ كُونُوا۟ قَوَّ ٰ⁠مِینَ بِٱلۡقِسۡطِ شُهَدَاۤءَ لِلَّهِ وَلَوۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "كراهة العدول عن الحقّ",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تَلْوُۥٓا۟",
+          "content": "تُحرّفوا في الشّهادة",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تُعْرِضُوا۟",
+          "content": "تتركوا إقامتها رأسا",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَلَىٰۤ أَنفُسِكُمۡ أَوِ ٱلۡوَ ٰ⁠لِدَیۡنِ وَٱلۡأَقۡرَبِینَۚ إِن یَكُنۡ غَنِیًّا أَوۡ فَقِیرࣰا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "كراهة العدول عن الحقّ",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تَلْوُۥٓا۟",
+          "content": "تُحرّفوا في الشّهادة",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تُعْرِضُوا۟",
+          "content": "تتركوا إقامتها رأسا",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَٱللَّهُ أَوۡلَىٰ بِهِمَاۖ فَلَا تَتَّبِعُوا۟ ٱلۡهَوَىٰۤ أَن تَعۡدِلُوا۟ۚ وَإِن تَلۡوُۥۤا۟",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "كراهة العدول عن الحقّ",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تَلْوُۥٓا۟",
+          "content": "تُحرّفوا في الشّهادة",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تُعْرِضُوا۟",
+          "content": "تتركوا إقامتها رأسا",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 16,
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "كراهة العدول عن الحقّ"
+        },
+        {
+          "start": 81,
+          "length": 10,
+          "tokens": "تَلْوُۥٓا۟",
+          "content": "تُحرّفوا في الشّهادة"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَوۡ تُعۡرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِیرࣰا ۝١٣٥ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 135,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَن تَعْدِلُوا۟",
+          "content": "كراهة العدول عن الحقّ",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تَلْوُۥٓا۟",
+          "content": "تُحرّفوا في الشّهادة",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        },
+        {
+          "tokens": "تُعْرِضُوا۟",
+          "content": "تتركوا إقامتها رأسا",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 31,
+          "surahIndex": 4,
+          "ayahIndex": 135
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 11,
+          "tokens": "تُعْرِضُوا۟",
+          "content": "تتركوا إقامتها رأسا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلَّذِینَ ءَامَنُوۤا۟ ءَامِنُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَـٰبِ ٱلَّذِی نَزَّلَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَـٰبِ ٱلَّذِیۤ أَنزَلَ مِن قَبۡلُۚ وَمَن یَكۡفُرۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِٱللَّهِ وَمَلَـٰۤىِٕكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ فَقَدۡ ضَلَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ضَلَـٰلَۢا بَعِیدًا ۝١٣٦ إِنَّ ٱلَّذِینَ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ ثُمَّ ءَامَنُوا۟ ثُمَّ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 136,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "كَفَرُوا۟ ثُمَّ ٱزۡدَادُوا۟ كُفۡرࣰا لَّمۡ یَكُنِ ٱللَّهُ لِیَغۡفِرَ لَهُمۡ وَلَا لِیَهۡدِیَهُمۡ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "سَبِیلَۢا ۝١٣٧ بَشِّرِ ٱلۡمُنَـٰفِقِینَ بِأَنَّ لَهُمۡ عَذَابًا أَلِیمًا ۝١٣٨ ٱلَّذِینَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 137,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَتَّخِذُونَ ٱلۡكَـٰفِرِینَ أَوۡلِیَاۤءَ مِن دُونِ ٱلۡمُؤۡمِنِینَۚ أَیَبۡتَغُونَ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 139,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْعِزَّةَ",
+          "content": "المَنَعة والقوّة والنُصرة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 139
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عِندَهُمُ ٱلۡعِزَّةَ فَإِنَّ ٱلۡعِزَّةَ لِلَّهِ جَمِیعࣰا ۝١٣٩ وَقَدۡ نَزَّلَ عَلَیۡكُمۡ فِی",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 139,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْعِزَّةَ",
+          "content": "المَنَعة والقوّة والنُصرة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 4,
+          "ayahIndex": 139
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 10,
+          "tokens": "ٱلْعِزَّةَ",
+          "content": "المَنَعة والقوّة والنُصرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡكِتَـٰبِ أَنۡ إِذَا سَمِعۡتُمۡ ءَایَـٰتِ ٱللَّهِ یُكۡفَرُ بِهَا وَیُسۡتَهۡزَأُ بِهَا فَلَا",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "تَقۡعُدُوا۟ مَعَهُمۡ حَتَّىٰ یَخُوضُوا۟ فِی حَدِیثٍ غَیۡرِهِۦۤ إِنَّكُمۡ إِذࣰا مِّثۡلُهُمۡۗ",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "إِنَّ ٱللَّهَ جَامِعُ ٱلۡمُنَـٰفِقِینَ وَٱلۡكَـٰفِرِینَ فِی جَهَنَّمَ جَمِیعًا ۝١٤٠",
+      "surahIndexFirst": 4,
+      "ayahIndexFirst": 140,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

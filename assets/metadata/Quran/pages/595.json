@@ -1,0 +1,421 @@
+{
+  "pageIndex": 595,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَٱلَّذِینَ كَفَرُوا۟ بِـَٔایَـٰتِنَا هُمۡ أَصۡحَـٰبُ ٱلۡمَشۡـَٔمَةِ ۝١٩ عَلَیۡهِمۡ نَارࣱ مُّؤۡصَدَةُۢ ۝٢٠",
+      "surahIndexFirst": 90,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+          "content": "الشّؤم، أو ناحية الشمال",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 90,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 25,
+          "tokens": "أَصْحَٰبُ ٱلْمَشْـَٔمَةِ",
+          "content": "الشّؤم، أو ناحية الشمال"
+        }
+      ]
+    },
+    {
+      "sortKey": 3998,
+      "text": "سورة الشمس",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلشَّمْسِ",
+          "content": "(قسمٌ بها وبما بعدها)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَضُحَىٰهَا",
+          "content": "ضَوئها إذا أشرقَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلشَّمْسِ",
+          "content": "(قسمٌ بها وبما بعدها)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَضُحَىٰهَا",
+          "content": "ضَوئها إذا أشرقَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَٱلشَّمۡسِ وَضُحَىٰهَا ۝١ وَٱلۡقَمَرِ إِذَا تَلَىٰهَا ۝٢ وَٱلنَّهَارِ إِذَا جَلَّىٰهَا ۝٣",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلشَّمْسِ",
+          "content": "(قسمٌ بها وبما بعدها)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَضُحَىٰهَا",
+          "content": "ضَوئها إذا أشرقَتْ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 91,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَٱلشَّمْسِ",
+          "content": "(قسمٌ بها وبما بعدها)"
+        },
+        {
+          "start": 12,
+          "length": 11,
+          "tokens": "وَضُحَىٰهَا",
+          "content": "ضَوئها إذا أشرقَتْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَٱلَّیۡلِ إِذَا یَغۡشَىٰهَا ۝٤ وَٱلسَّمَاۤءِ وَمَا بَنَىٰهَا ۝٥ وَٱلۡأَرۡضِ",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَغْشَىٰهَا",
+          "content": "يُغطّيها حين تغيب فَتُظلِم الآفاق",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 91,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 11,
+          "tokens": "يَغْشَىٰهَا",
+          "content": "يُغطّيها حين تغيب فَتُظلِم الآفاق"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَا طَحَىٰهَا ۝٦ وَنَفۡسࣲ وَمَا سَوَّىٰهَا ۝٧ فَأَلۡهَمَهَا فُجُورَهَا",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا طَحَىٰهَا",
+          "content": "والذي بَسَطها ووَطّأها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 91,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "وَمَا طَحَىٰهَا",
+          "content": "والذي بَسَطها ووَطّأها"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَتَقۡوَىٰهَا ۝٨ قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا ۝٩ وَقَدۡ خَابَ مَن دَسَّىٰهَا ۝١٠",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فُجُورَهَا وَتَقْوَىٰهَا",
+          "content": "مَعْصِيَتها وطاعتها وخَيْرَها وشَرّها",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 91,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "فُجُورَهَا وَتَقْوَىٰهَا",
+          "content": "مَعْصِيَتها وطاعتها وخَيْرَها وشَرّها"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَاۤ ۝١١ إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا ۝١٢ فَقَالَ لَهُمۡ",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِطَغْوَىٰهَآ",
+          "content": "بسَبَبِ طغيانِها وعُدْوانِها",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 91,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 14,
+          "tokens": "بِطَغْوَىٰهَآ",
+          "content": "بسَبَبِ طغيانِها وعُدْوانِها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡیَـٰهَا ۝١٣ فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمۡدَمَ",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+          "content": "احْذروا عقْرَها ونَصيبَها من الماء",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 91,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 29,
+          "tokens": "نَاقَةَ ٱللَّهِ وَسُقْيَٰهَا",
+          "content": "احْذروا عقْرَها ونَصيبَها من الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَیۡهِمۡ رَبُّهُم بِذَنۢبِهِمۡ فَسَوَّىٰهَا ۝١٤ وَلَا یَخَافُ عُقۡبَـٰهَا ۝١٥",
+      "surahIndexFirst": 91,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَدَمْدَمَ عَلَيْهِمْ",
+          "content": "أهْلكهمْ وأطبَق العذاب عليهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 91,
+          "ayahIndex": 14
+        },
+        {
+          "tokens": "فَسَوَّىٰهَا",
+          "content": "فجَعَل الدمْدمة عليهم سواءً",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 91,
+          "ayahIndex": 14
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "فَدَمْدَمَ عَلَيْهِمْ",
+          "content": "أهْلكهمْ وأطبَق العذاب عليهم"
+        },
+        {
+          "start": 33,
+          "length": 12,
+          "tokens": "فَسَوَّىٰهَا",
+          "content": "فجَعَل الدمْدمة عليهم سواءً"
+        }
+      ]
+    },
+    {
+      "sortKey": 12998,
+      "text": "سورة الليل",
+      "surahIndexFirst": 92,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+          "content": "يُغطي الأشياء بظلمته (قسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 92,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 12999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 92,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+          "content": "يُغطي الأشياء بظلمته (قسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 92,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱلَّیۡلِ إِذَا یَغۡشَىٰ ۝١ وَٱلنَّهَارِ إِذَا تَجَلَّىٰ ۝٢ وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰۤ ۝٣",
+      "surahIndexFirst": 92,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+          "content": "يُغطي الأشياء بظلمته (قسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 92,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+          "content": "يُغطي الأشياء بظلمته (قسم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِنَّ سَعۡیَكُمۡ لَشَتَّىٰ ۝٤ فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ ۝٥ وَصَدَّقَ بِٱلۡحُسۡنَىٰ ۝٦",
+      "surahIndexFirst": 92,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+          "content": "إنّ عَمَلكمْ لمخْتلِف في الجزاء (جواب القسم)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 92,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 26,
+          "tokens": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+          "content": "إنّ عَمَلكمْ لمخْتلِف في الجزاء (جواب القسم)"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَسَنُیَسِّرُهُۥ لِلۡیُسۡرَىٰ ۝٧ وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ ۝٨ وَكَذَّبَ بِٱلۡحُسۡنَىٰ ۝٩",
+      "surahIndexFirst": 92,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَسَنُيَسِّرُهُۥ",
+          "content": "فسَنُوفّقه ونُهيّئُه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 92,
+          "ayahIndex": 7
+        },
+        {
+          "tokens": "لِلْيُسْرَىٰ",
+          "content": "للخَصلة المؤَدّية إلى اليُسْر والرّاحَة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 92,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "فَسَنُيَسِّرُهُۥ",
+          "content": "فسَنُوفّقه ونُهيّئُه"
+        },
+        {
+          "start": 17,
+          "length": 12,
+          "tokens": "لِلْيُسْرَىٰ",
+          "content": "للخَصلة المؤَدّية إلى اليُسْر والرّاحَة"
+        }
+      ]
+    }
+  ]
+}

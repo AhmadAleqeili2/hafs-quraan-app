@@ -1,0 +1,285 @@
+{
+  "pageIndex": 252,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "أَفَمَن یَعۡلَمُ أَنَّمَاۤ أُنزِلَ إِلَیۡكَ مِن رَّبِّكَ ٱلۡحَقُّ كَمَنۡ هُوَ أَعۡمَىٰۤۚ إِنَّمَا یَتَذَكَّرُ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أُو۟لُوا۟ ٱلۡأَلۡبَـٰبِ ۝١٩ ٱلَّذِینَ یُوفُونَ بِعَهۡدِ ٱللَّهِ وَلَا یَنقُضُونَ ٱلۡمِیثَـٰقَ ۝٢٠",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلَّذِینَ یَصِلُونَ مَاۤ أَمَرَ ٱللَّهُ بِهِۦۤ أَن یُوصَلَ وَیَخۡشَوۡنَ رَبَّهُمۡ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَیَخَافُونَ سُوۤءَ ٱلۡحِسَابِ ۝٢١ وَٱلَّذِینَ صَبَرُوا۟ ٱبۡتِغَاۤءَ وَجۡهِ رَبِّهِمۡ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَأَنفَقُوا۟ مِمَّا رَزَقۡنَـٰهُمۡ سِرࣰّا وَعَلَانِیَةࣰ وَیَدۡرَءُونَ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَدْرَءُونَ",
+          "content": "يدفعون ويُجازون",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 13,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "عُقْبَى ٱلدَّارِ",
+          "content": "عاقبتها المحمودة، وهي الجنّات",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 13,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 81,
+          "length": 13,
+          "tokens": "وَيَدْرَءُونَ",
+          "content": "يدفعون ويُجازون"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِٱلۡحَسَنَةِ ٱلسَّیِّئَةَ أُو۟لَـٰۤىِٕكَ لَهُمۡ عُقۡبَى ٱلدَّارِ ۝٢٢ جَنَّـٰتُ عَدۡنࣲ یَدۡخُلُونَهَا",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَدْرَءُونَ",
+          "content": "يدفعون ويُجازون",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 13,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "عُقْبَى ٱلدَّارِ",
+          "content": "عاقبتها المحمودة، وهي الجنّات",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 13,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 49,
+          "length": 16,
+          "tokens": "عُقْبَى ٱلدَّارِ",
+          "content": "عاقبتها المحمودة، وهي الجنّات"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَمَن صَلَحَ مِنۡ ءَابَاۤىِٕهِمۡ وَأَزۡوَ ٰ⁠جِهِمۡ وَذُرِّیَّـٰتِهِمۡۖ وَٱلۡمَلَـٰۤىِٕكَةُ یَدۡخُلُونَ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "عَلَیۡهِم مِّن كُلِّ بَابࣲ ۝٢٣ سَلَـٰمٌ عَلَیۡكُم بِمَا صَبَرۡتُمۡۚ فَنِعۡمَ عُقۡبَى ٱلدَّارِ ۝٢٤",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلَّذِینَ یَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِیثَـٰقِهِۦ وَیَقۡطَعُونَ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُوٓءُ ٱلدَّارِ",
+          "content": "عاقبتها سيّئة وهي النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 13,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَاۤ أَمَرَ ٱللَّهُ بِهِۦۤ أَن یُوصَلَ وَیُفۡسِدُونَ فِی ٱلۡأَرۡضِ أُو۟لَـٰۤىِٕكَ لَهُمُ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُوٓءُ ٱلدَّارِ",
+          "content": "عاقبتها سيّئة وهي النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 13,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱللَّعۡنَةُ وَلَهُمۡ سُوۤءُ ٱلدَّارِ ۝٢٥ ٱللَّهُ یَبۡسُطُ ٱلرِّزۡقَ لِمَن یَشَاۤءُ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُوٓءُ ٱلدَّارِ",
+          "content": "عاقبتها سيّئة وهي النّار",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 13,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 15,
+          "tokens": "سُوٓءُ ٱلدَّارِ",
+          "content": "عاقبتها سيّئة وهي النّار"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَیَقۡدِرُۚ وَفَرِحُوا۟ بِٱلۡحَیَوٰةِ ٱلدُّنۡیَا وَمَا ٱلۡحَیَوٰةُ ٱلدُّنۡیَا فِی ٱلۡـَٔاخِرَةِ إِلَّا",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّقه على من يشاء لحكمة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 13,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "مَتَٰعٌ",
+          "content": "شيء قليل ذاهب زائل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 13,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّقه على من يشاء لحكمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَتَـٰعࣱ ۝٢٦ وَیَقُولُ ٱلَّذِینَ كَفَرُوا۟ لَوۡلَاۤ أُنزِلَ عَلَیۡهِ ءَایَةࣱ مِّن رَّبِّهِۦۚ قُلۡ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَيَقْدِرُ",
+          "content": "يُضيّقه على من يشاء لحكمة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 13,
+          "ayahIndex": 26
+        },
+        {
+          "tokens": "مَتَٰعٌ",
+          "content": "شيء قليل ذاهب زائل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 13,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "مَتَٰعٌ",
+          "content": "شيء قليل ذاهب زائل"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "إِنَّ ٱللَّهَ یُضِلُّ مَن یَشَاۤءُ وَیَهۡدِیۤ إِلَیۡهِ مَنۡ أَنَابَ ۝٢٧ ٱلَّذِینَ ءَامَنُوا۟",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَنَابَ",
+          "content": "رجع بقلبه إلى الله",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 19,
+          "surahIndex": 13,
+          "ayahIndex": 27
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 60,
+          "length": 7,
+          "tokens": "أَنَابَ",
+          "content": "رجع بقلبه إلى الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَتَطۡمَىِٕنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَىِٕنُّ ٱلۡقُلُوبُ ۝٢٨",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

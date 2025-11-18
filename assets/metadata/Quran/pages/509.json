@@ -1,0 +1,373 @@
+{
+  "pageIndex": 509,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَقُولُ ٱلَّذِینَ ءَامَنُوا۟ لَوۡلَا نُزِّلَتۡ سُورَةࣱۖ فَإِذَاۤ أُنزِلَتۡ سُورَةࣱ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَغْشِىِّ عَلَيْهِ",
+          "content": "منْ أصابته الغشْيَة والسّكرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "فَأَوْلَىٰ لَهُمْ",
+          "content": "قاربهمْ ما يهلكهم واللام مزيدةٌ أو العقاب أحقّ وأوْلى لهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مُّحۡكَمَةࣱ وَذُكِرَ فِیهَا ٱلۡقِتَالُ رَأَیۡتَ ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضࣱ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَغْشِىِّ عَلَيْهِ",
+          "content": "منْ أصابته الغشْيَة والسّكرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "فَأَوْلَىٰ لَهُمْ",
+          "content": "قاربهمْ ما يهلكهم واللام مزيدةٌ أو العقاب أحقّ وأوْلى لهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَنظُرُونَ إِلَیۡكَ نَظَرَ ٱلۡمَغۡشِیِّ عَلَیۡهِ مِنَ ٱلۡمَوۡتِۖ فَأَوۡلَىٰ لَهُمۡ ۝٢٠",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَغْشِىِّ عَلَيْهِ",
+          "content": "منْ أصابته الغشْيَة والسّكرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        },
+        {
+          "tokens": "فَأَوْلَىٰ لَهُمْ",
+          "content": "قاربهمْ ما يهلكهم واللام مزيدةٌ أو العقاب أحقّ وأوْلى لهم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 47,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 21,
+          "tokens": "ٱلْمَغْشِىِّ عَلَيْهِ",
+          "content": "منْ أصابته الغشْيَة والسّكرة"
+        },
+        {
+          "start": 65,
+          "length": 17,
+          "tokens": "فَأَوْلَىٰ لَهُمْ",
+          "content": "قاربهمْ ما يهلكهم واللام مزيدةٌ أو العقاب أحقّ وأوْلى لهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "طَاعَةࣱ وَقَوۡلࣱ مَّعۡرُوفࣱۚ فَإِذَا عَزَمَ ٱلۡأَمۡرُ فَلَوۡ صَدَقُوا۟ ٱللَّهَ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَاعَةٌ",
+          "content": "خيرٌ لهم أو أمرنا طاعة ٌ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 47,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "عَزَمَ ٱلْأَمْرُ",
+          "content": "جدّ ولزمهم الجهاد",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 47,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "طَاعَةٌ",
+          "content": "خيرٌ لهم أو أمرنا طاعة ٌ"
+        },
+        {
+          "start": 37,
+          "length": 16,
+          "tokens": "عَزَمَ ٱلْأَمْرُ",
+          "content": "جدّ ولزمهم الجهاد"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "لَكَانَ خَیۡرࣰا لَّهُمۡ ۝٢١ فَهَلۡ عَسَیۡتُمۡ إِن تَوَلَّیۡتُمۡ أَن تُفۡسِدُوا۟",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طَاعَةٌ",
+          "content": "خيرٌ لهم أو أمرنا طاعة ٌ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 47,
+          "ayahIndex": 21
+        },
+        {
+          "tokens": "عَزَمَ ٱلْأَمْرُ",
+          "content": "جدّ ولزمهم الجهاد",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 47,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِی ٱلۡأَرۡضِ وَتُقَطِّعُوۤا۟ أَرۡحَامَكُمۡ ۝٢٢ أُو۟لَـٰۤىِٕكَ ٱلَّذِینَ لَعَنَهُمُ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَهَلْ عَسَيْتُمْ",
+          "content": "فهل يُتوقّع منكم ؟ (أي يُتوقّع)",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 47,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "تَوَلَّيْتُمْ",
+          "content": "الحُكم وكنتم ولاة أمر الأمّة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 47,
+          "ayahIndex": 22
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰۤ أَبۡصَـٰرَهُمۡ ۝٢٣ أَفَلَا یَتَدَبَّرُونَ ٱلۡقُرۡءَانَ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَاۤ ۝٢٤ إِنَّ ٱلَّذِینَ ٱرۡتَدُّوا۟ عَلَىٰۤ أَدۡبَـٰرِهِم",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَقْفَالُهَآ",
+          "content": "مَغاليقها التي لا تفتح",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 47,
+          "ayahIndex": 24
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 13,
+          "tokens": "أَقْفَالُهَآ",
+          "content": "مَغاليقها التي لا تفتح"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِّنۢ بَعۡدِ مَا تَبَیَّنَ لَهُمُ ٱلۡهُدَى ٱلشَّیۡطَـٰنُ سَوَّلَ لَهُمۡ وَأَمۡلَىٰ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَوَّلَ لَهُمْ",
+          "content": "زيّن وسهّل لهم خطاياهم ومنّاهم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 47,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَمْلَىٰ لَهُمْ",
+          "content": "مدّ لهمْ في الأماني الباطلة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 47,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 14,
+          "tokens": "سَوَّلَ لَهُمْ",
+          "content": "زيّن وسهّل لهم خطاياهم ومنّاهم"
+        },
+        {
+          "start": 72,
+          "length": 10,
+          "tokens": "وَأَمْلَىٰ لَهُمْ",
+          "content": "مدّ لهمْ في الأماني الباطلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "لَهُمۡ ۝٢٥ ذَ ٰ⁠لِكَ بِأَنَّهُمۡ قَالُوا۟ لِلَّذِینَ كَرِهُوا۟ مَا نَزَّلَ ٱللَّهُ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَوَّلَ لَهُمْ",
+          "content": "زيّن وسهّل لهم خطاياهم ومنّاهم",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 47,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "وَأَمْلَىٰ لَهُمْ",
+          "content": "مدّ لهمْ في الأماني الباطلة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 47,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "وَأَمْلَىٰ لَهُمْ",
+          "content": "مدّ لهمْ في الأماني الباطلة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "سَنُطِیعُكُمۡ فِی بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ یَعۡلَمُ إِسۡرَارَهُمۡ ۝٢٦",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَعْلَمُ إِسْرَارَهُمْ",
+          "content": "إخفاءهم كل قبيح",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 47,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 22,
+          "tokens": "يَعْلَمُ إِسْرَارَهُمْ",
+          "content": "إخفاءهم كل قبيح"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَكَیۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَـٰۤىِٕكَةُ یَضۡرِبُونَ وُجُوهَهُمۡ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَأَدۡبَـٰرَهُمۡ ۝٢٧ ذَ ٰ⁠لِكَ بِأَنَّهُمُ ٱتَّبَعُوا۟ مَاۤ أَسۡخَطَ ٱللَّهَ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَكَرِهُوا۟ رِضۡوَ ٰ⁠نَهُۥ فَأَحۡبَطَ أَعۡمَـٰلَهُمۡ ۝٢٨ أَمۡ حَسِبَ",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلَّذِینَ فِی قُلُوبِهِم مَّرَضٌ أَن لَّن یُخۡرِجَ ٱللَّهُ أَضۡغَـٰنَهُمۡ ۝٢٩",
+      "surahIndexFirst": 47,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَضْغَٰنَهُمْ",
+          "content": "أحقادهم الشديدة الكامنة",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 47,
+          "ayahIndex": 29
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 14,
+          "tokens": "أَضْغَٰنَهُمْ",
+          "content": "أحقادهم الشديدة الكامنة"
+        }
+      ]
+    }
+  ]
+}

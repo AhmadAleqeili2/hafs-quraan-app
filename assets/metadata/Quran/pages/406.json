@@ -1,0 +1,227 @@
+{
+  "pageIndex": 406,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَأَمَّا ٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔایَـٰتِنَا وَلِقَاۤىِٕ ٱلۡـَٔاخِرَةِ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْعَذَابِ مُحْضَرُونَ",
+          "content": "لا يغيبون عنه أبدا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 30,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَأُو۟لَـٰۤىِٕكَ فِی ٱلۡعَذَابِ مُحۡضَرُونَ ۝١٦ فَسُبۡحَـٰنَ ٱللَّهِ حِینَ تُمۡسُونَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْعَذَابِ مُحْضَرُونَ",
+          "content": "لا يغيبون عنه أبدا",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 30,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 26,
+          "tokens": "فِى ٱلْعَذَابِ مُحْضَرُونَ",
+          "content": "لا يغيبون عنه أبدا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَحِینَ تُصۡبِحُونَ ۝١٧ وَلَهُ ٱلۡحَمۡدُ فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَعَشِیࣰّا وَحِینَ تُظۡهِرُونَ ۝١٨ یُخۡرِجُ ٱلۡحَیَّ مِنَ ٱلۡمَیِّتِ وَیُخۡرِجُ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحِينَ تُظْهِرُونَ",
+          "content": "تدخلون في وقت الظهيرة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 30,
+          "ayahIndex": 18
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 19,
+          "tokens": "وَحِينَ تُظْهِرُونَ",
+          "content": "تدخلون في وقت الظهيرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡمَیِّتَ مِنَ ٱلۡحَیِّ وَیُحۡیِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَاۚ وَكَذَ ٰ⁠لِكَ تُخۡرَجُونَ ۝١٩",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمِنۡ ءَایَـٰتِهِۦۤ أَنۡ خَلَقَكُم مِّن تُرَابࣲ ثُمَّ إِذَاۤ أَنتُم بَشَرࣱ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَنتَشِرُونَ",
+          "content": "تتصرفون في شؤون معايشِكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 30,
+          "ayahIndex": 20
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "تَنتَشِرُونَ ۝٢٠ وَمِنۡ ءَایَـٰتِهِۦۤ أَنۡ خَلَقَ لَكُم مِّنۡ أَنفُسِكُمۡ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَنتَشِرُونَ",
+          "content": "تتصرفون في شؤون معايشِكم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 30,
+          "ayahIndex": 20
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "تَنتَشِرُونَ",
+          "content": "تتصرفون في شؤون معايشِكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَزۡوَ ٰ⁠جࣰا لِّتَسۡكُنُوۤا۟ إِلَیۡهَا وَجَعَلَ بَیۡنَكُم مَّوَدَّةࣰ وَرَحۡمَةًۚ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّتَسْكُنُوٓا۟ إِلَيْهَا",
+          "content": "لِتميلوا إليها وتألفوها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 25,
+          "tokens": "لِّتَسْكُنُوٓا۟ إِلَيْهَا",
+          "content": "لِتميلوا إليها وتألفوها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَتَفَكَّرُونَ ۝٢١ وَمِنۡ ءَایَـٰتِهِۦ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِّتَسْكُنُوٓا۟ إِلَيْهَا",
+          "content": "لِتميلوا إليها وتألفوها",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 30,
+          "ayahIndex": 21
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "خَلۡقُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَٱخۡتِلَـٰفُ أَلۡسِنَتِكُمۡ وَأَلۡوَ ٰ⁠نِكُمۡۚ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّلۡعَـٰلِمِینَ ۝٢٢ وَمِنۡ ءَایَـٰتِهِۦ مَنَامُكُم",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "بِٱلَّیۡلِ وَٱلنَّهَارِ وَٱبۡتِغَاۤؤُكُم مِّن فَضۡلِهِۦۤۚ إِنَّ فِی ذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَسۡمَعُونَ ۝٢٣ وَمِنۡ ءَایَـٰتِهِۦ یُرِیكُمُ ٱلۡبَرۡقَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "خَوۡفࣰا وَطَمَعࣰا وَیُنَزِّلُ مِنَ ٱلسَّمَاۤءِ مَاۤءࣰ فَیُحۡیِۦ بِهِ ٱلۡأَرۡضَ",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "بَعۡدَ مَوۡتِهَاۤۚ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یَعۡقِلُونَ ۝٢٤",
+      "surahIndexFirst": 30,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

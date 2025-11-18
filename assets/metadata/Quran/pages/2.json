@@ -1,0 +1,147 @@
+{
+  "pageIndex": 2,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة البقرة",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "الۤمۤ ۝١ ذَ ٰ⁠لِكَ ٱلۡكِتَـٰبُ لَا رَیۡبَۛ فِیهِۛ هُدࣰى",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لِّلۡمُتَّقِینَ ۝٢ ٱلَّذِینَ یُؤۡمِنُونَ بِٱلۡغَیۡبِ وَیُقِیمُونَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَٰلِكَ ٱلْكِتَٰبُ",
+          "content": "القرآن العظيم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لَا رَيْبَ فِيهِ",
+          "content": "لاشك في أنه حقّ من عند الله",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "هُدًى",
+          "content": "هادٍ من الضلالة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 2,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "لِّلْمُتَّقِينَ",
+          "content": "الذين تجنبوا المعاصي وأدّوا الفرائض فوقوا أنفسهم العذاب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 2,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 15,
+          "tokens": "لِّلْمُتَّقِينَ",
+          "content": "الذين تجنبوا المعاصي وأدّوا الفرائض فوقوا أنفسهم العذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَـٰهُمۡ یُنفِقُونَ ۝٣",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَٱلَّذِینَ یُؤۡمِنُونَ بِمَاۤ أُنزِلَ إِلَیۡكَ وَمَاۤ أُنزِلَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "مِن قَبۡلِكَ وَبِٱلۡـَٔاخِرَةِ هُمۡ یُوقِنُونَ ۝٤",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "أُو۟لَـٰۤىِٕكَ عَلَىٰ هُدࣰى مِّن رَّبِّهِمۡۖ وَأُو۟لَـٰۤىِٕكَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ هُدًى",
+          "content": "على رشاد ونور ويقين",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 12,
+          "tokens": "عَلَىٰ هُدًى",
+          "content": "على رشاد ونور ويقين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "هُمُ ٱلۡمُفۡلِحُونَ ۝٥",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَلَىٰ هُدًى",
+          "content": "على رشاد ونور ويقين",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 5
+        }
+      ]
+    }
+  ]
+}

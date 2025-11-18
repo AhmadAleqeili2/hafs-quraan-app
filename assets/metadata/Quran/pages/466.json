@@ -1,0 +1,371 @@
+{
+  "pageIndex": 466,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَنُفِخَ فِی ٱلصُّورِ فَصَعِقَ مَن فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَن فِی ٱلۡأَرۡضِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلصُّورِ",
+          "content": "القرن الذي يَنفخ فيه إسرافيل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "فَصَعِقَ",
+          "content": "ماتَ، وهي النّفخة الأولى",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 39,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 8,
+          "tokens": "ٱلصُّورِ",
+          "content": "القرن الذي يَنفخ فيه إسرافيل"
+        },
+        {
+          "start": 22,
+          "length": 8,
+          "tokens": "فَصَعِقَ",
+          "content": "ماتَ، وهي النّفخة الأولى"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِلَّا مَن شَاۤءَ ٱللَّهُۖ ثُمَّ نُفِخَ فِیهِ أُخۡرَىٰ فَإِذَا هُمۡ قِیَامࣱ یَنظُرُونَ ۝٦٨",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلصُّورِ",
+          "content": "القرن الذي يَنفخ فيه إسرافيل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 39,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "فَصَعِقَ",
+          "content": "ماتَ، وهي النّفخة الأولى",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 39,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَأَشۡرَقَتِ ٱلۡأَرۡضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلۡكِتَـٰبُ وَجِا۟یۤءَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "أعطيَتْ صحف الأعمال لأربابها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 20,
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "أعطيَتْ صحف الأعمال لأربابها"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِٱلنَّبِیِّـۧنَ وَٱلشُّهَدَاۤءِ وَقُضِیَ بَیۡنَهُم بِٱلۡحَقِّ وَهُمۡ لَا یُظۡلَمُونَ ۝٦٩",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَوُضِعَ ٱلْكِتَٰبُ",
+          "content": "أعطيَتْ صحف الأعمال لأربابها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 69
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَوُفِّیَتۡ كُلُّ نَفۡسࣲ مَّا عَمِلَتۡ وَهُوَ أَعۡلَمُ بِمَا یَفۡعَلُونَ ۝٧٠",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَسِیقَ ٱلَّذِینَ كَفَرُوۤا۟ إِلَىٰ جَهَنَّمَ زُمَرًاۖ حَتَّىٰۤ إِذَا جَاۤءُوهَا",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُمَرًا",
+          "content": "جَمَاعات متفرقة متتابعة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "حَقَّتْ",
+          "content": "وَجَبَتْ وثبَتتْ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 8,
+          "tokens": "زُمَرًا",
+          "content": "جَمَاعات متفرقة متتابعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فُتِحَتۡ أَبۡوَ ٰ⁠بُهَا وَقَالَ لَهُمۡ خَزَنَتُهَاۤ أَلَمۡ یَأۡتِكُمۡ رُسُلࣱ مِّنكُمۡ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُمَرًا",
+          "content": "جَمَاعات متفرقة متتابعة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "حَقَّتْ",
+          "content": "وَجَبَتْ وثبَتتْ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَتۡلُونَ عَلَیۡكُمۡ ءَایَـٰتِ رَبِّكُمۡ وَیُنذِرُونَكُمۡ لِقَاۤءَ یَوۡمِكُمۡ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُمَرًا",
+          "content": "جَمَاعات متفرقة متتابعة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "حَقَّتْ",
+          "content": "وَجَبَتْ وثبَتتْ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "هَـٰذَاۚ قَالُوا۟ بَلَىٰ وَلَـٰكِنۡ حَقَّتۡ كَلِمَةُ ٱلۡعَذَابِ عَلَى ٱلۡكَـٰفِرِینَ ۝٧١",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُمَرًا",
+          "content": "جَمَاعات متفرقة متتابعة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        },
+        {
+          "tokens": "حَقَّتْ",
+          "content": "وَجَبَتْ وثبَتتْ",
+          "tokenFromIndex": 30,
+          "tokenToIndex": 30,
+          "surahIndex": 39,
+          "ayahIndex": 71
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 7,
+          "tokens": "حَقَّتْ",
+          "content": "وَجَبَتْ وثبَتتْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "قِیلَ ٱدۡخُلُوۤا۟ أَبۡوَ ٰ⁠بَ جَهَنَّمَ خَـٰلِدِینَ فِیهَاۖ فَبِئۡسَ مَثۡوَى",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡمُتَكَبِّرِینَ ۝٧٢ وَسِیقَ ٱلَّذِینَ ٱتَّقَوۡا۟ رَبَّهُمۡ إِلَى ٱلۡجَنَّةِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 72,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "زُمَرًاۖ حَتَّىٰۤ إِذَا جَاۤءُوهَا وَفُتِحَتۡ أَبۡوَ ٰ⁠بُهَا وَقَالَ لَهُمۡ خَزَنَتُهَا",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طِبْتُمْ",
+          "content": "طَهرتم مِن دنس المعاصي",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 39,
+          "ayahIndex": 73
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "سَلَـٰمٌ عَلَیۡكُمۡ طِبۡتُمۡ فَٱدۡخُلُوهَا خَـٰلِدِینَ ۝٧٣ وَقَالُوا۟",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 73,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "طِبْتُمْ",
+          "content": "طَهرتم مِن دنس المعاصي",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 39,
+          "ayahIndex": 73
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 8,
+          "tokens": "طِبْتُمْ",
+          "content": "طَهرتم مِن دنس المعاصي"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی صَدَقَنَا وَعۡدَهُۥ وَأَوۡرَثَنَا ٱلۡأَرۡضَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَدَقَنَا وَعْدَهُۥ",
+          "content": "أنجزنا ما وعَدَنا من النّعيم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 74
+        },
+        {
+          "tokens": "نَتَبَوَّأُ",
+          "content": "ننزل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 39,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 26,
+          "length": 19,
+          "tokens": "صَدَقَنَا وَعْدَهُۥ",
+          "content": "أنجزنا ما وعَدَنا من النّعيم"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "نَتَبَوَّأُ مِنَ ٱلۡجَنَّةِ حَیۡثُ نَشَاۤءُۖ فَنِعۡمَ أَجۡرُ ٱلۡعَـٰمِلِینَ ۝٧٤",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 74,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "صَدَقَنَا وَعْدَهُۥ",
+          "content": "أنجزنا ما وعَدَنا من النّعيم",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 74
+        },
+        {
+          "tokens": "نَتَبَوَّأُ",
+          "content": "ننزل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 39,
+          "ayahIndex": 74
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "نَتَبَوَّأُ",
+          "content": "ننزل"
+        }
+      ]
+    }
+  ]
+}

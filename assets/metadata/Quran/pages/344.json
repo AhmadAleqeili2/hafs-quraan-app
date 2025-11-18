@@ -1,0 +1,281 @@
+{
+  "pageIndex": 344,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَإِذَا ٱسۡتَوَیۡتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلۡفُلۡكِ فَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "نَجَّىٰنَا مِنَ ٱلۡقَوۡمِ ٱلظَّـٰلِمِینَ ۝٢٨ وَقُل رَّبِّ أَنزِلۡنِی مُنزَلࣰا مُّبَارَكࣰا وَأَنتَ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "خَیۡرُ ٱلۡمُنزِلِینَ ۝٢٩ إِنَّ فِی ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ وَإِن كُنَّا لَمُبۡتَلِینَ ۝٣٠ ثُمَّ أَنشَأۡنَا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُنزَلًا",
+          "content": "إنزالا، أو مكان إنزال",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 23,
+          "ayahIndex": 29
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِینَ ۝٣١ فَأَرۡسَلۡنَا فِیهِمۡ رَسُولࣰا مِّنۡهُمۡ أَنِ ٱعۡبُدُوا۟",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قَرْنًا ءَاخَرِينَ",
+          "content": "هم عادٌ الأولى قوم هود",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 18,
+          "tokens": "قَرْنًا ءَاخَرِينَ",
+          "content": "هم عادٌ الأولى قوم هود"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱللَّهَ مَا لَكُم مِّنۡ إِلَـٰهٍ غَیۡرُهُۥۤۚ أَفَلَا تَتَّقُونَ ۝٣٢ وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ وَكَذَّبُوا۟ بِلِقَاۤءِ ٱلۡـَٔاخِرَةِ وَأَتۡرَفۡنَـٰهُمۡ فِی ٱلۡحَیَوٰةِ ٱلدُّنۡیَا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَتْرَفْنَٰهُمْ",
+          "content": "نعمناهم ووَسّعْنا عليهم فبَطِروا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 23,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 58,
+          "length": 18,
+          "tokens": "وَأَتْرَفْنَٰهُمْ",
+          "content": "نعمناهم ووَسّعْنا عليهم فبَطِروا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مَا هَـٰذَاۤ إِلَّا بَشَرࣱ مِّثۡلُكُمۡ یَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَیَشۡرَبُ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَتْرَفْنَٰهُمْ",
+          "content": "نعمناهم ووَسّعْنا عليهم فبَطِروا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 23,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مِمَّا تَشۡرَبُونَ ۝٣٣ وَلَىِٕنۡ أَطَعۡتُم بَشَرࣰا مِّثۡلَكُمۡ إِنَّكُمۡ إِذࣰا لَّخَـٰسِرُونَ ۝٣٤",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأَتْرَفْنَٰهُمْ",
+          "content": "نعمناهم ووَسّعْنا عليهم فبَطِروا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 23,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَیَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابࣰا وَعِظَـٰمًا أَنَّكُم مُّخۡرَجُونَ ۝٣٥",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "هَیۡهَاتَ هَیۡهَاتَ لِمَا تُوعَدُونَ ۝٣٦ إِنۡ هِیَ إِلَّا حَیَاتُنَا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَيْهَاتَ",
+          "content": "بعُد وقوع ذلك الموعود",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 23,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "هَيْهَاتَ",
+          "content": "بعُد وقوع ذلك الموعود"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلدُّنۡیَا نَمُوتُ وَنَحۡیَا وَمَا نَحۡنُ بِمَبۡعُوثِینَ ۝٣٧ إِنۡ هُوَ إِلَّا",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبࣰا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِینَ ۝٣٨ قَالَ رَبِّ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱنصُرۡنِی بِمَا كَذَّبُونِ ۝٣٩ قَالَ عَمَّا قَلِیلࣲ لَّیُصۡبِحُنَّ نَـٰدِمِینَ ۝٤٠",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَأَخَذَتۡهُمُ ٱلصَّیۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَـٰهُمۡ غُثَاۤءࣰۚ فَبُعۡدࣰا لِّلۡقَوۡمِ",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ",
+          "content": "صيحة جبريل أو العذاب المُصَْطلِم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فَجَعَلْنَٰهُمْ غُثَآءً",
+          "content": "هالكين كغثاء السيل ( حَمِيله )",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فَبُعْدًا",
+          "content": "هلاكا ، أو بُعدا من الرحمة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 26,
+          "tokens": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ",
+          "content": "صيحة جبريل أو العذاب المُصَْطلِم"
+        },
+        {
+          "start": 38,
+          "length": 26,
+          "tokens": "فَجَعَلْنَٰهُمْ غُثَآءً",
+          "content": "هالكين كغثاء السيل ( حَمِيله )"
+        },
+        {
+          "start": 65,
+          "length": 9,
+          "tokens": "فَبُعْدًا",
+          "content": "هلاكا ، أو بُعدا من الرحمة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلظَّـٰلِمِینَ ۝٤١ ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِینَ ۝٤٢",
+      "surahIndexFirst": 23,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَخَذَتْهُمُ ٱلصَّيْحَةُ",
+          "content": "صيحة جبريل أو العذاب المُصَْطلِم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فَجَعَلْنَٰهُمْ غُثَآءً",
+          "content": "هالكين كغثاء السيل ( حَمِيله )",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "فَبُعْدًا",
+          "content": "هلاكا ، أو بُعدا من الرحمة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 23,
+          "ayahIndex": 41
+        }
+      ]
+    }
+  ]
+}

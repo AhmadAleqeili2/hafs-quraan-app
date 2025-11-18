@@ -1,0 +1,441 @@
+{
+  "pageIndex": 155,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ ٱدۡخُلُوا۟ فِیۤ أُمَمࣲ قَدۡ خَلَتۡ مِن قَبۡلِكُم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "أُخْرَىٰهُمْ",
+          "content": "منزلةً وهم الأتباع والسّفلة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "لِأُولَىٰهُمْ",
+          "content": "منزلةً وهم القادة والرؤساء",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 26,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "عَذَابًا ضِعْفًا",
+          "content": "مضاعفاً مزيداً",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "فِی ٱلنَّارِۖ كُلَّمَا دَخَلَتۡ أُمَّةࣱ لَّعَنَتۡ أُخۡتَهَاۖ حَتَّىٰۤ إِذَا ٱدَّارَكُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "أُخْرَىٰهُمْ",
+          "content": "منزلةً وهم الأتباع والسّفلة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "لِأُولَىٰهُمْ",
+          "content": "منزلةً وهم القادة والرؤساء",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 26,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "عَذَابًا ضِعْفًا",
+          "content": "مضاعفاً مزيداً",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 76,
+          "length": 12,
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "فِیهَا جَمِیعࣰا قَالَتۡ أُخۡرَىٰهُمۡ لِأُولَىٰهُمۡ رَبَّنَا هَـٰۤؤُلَاۤءِ أَضَلُّونَا فَـَٔاتِهِمۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "أُخْرَىٰهُمْ",
+          "content": "منزلةً وهم الأتباع والسّفلة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "لِأُولَىٰهُمْ",
+          "content": "منزلةً وهم القادة والرؤساء",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 26,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "عَذَابًا ضِعْفًا",
+          "content": "مضاعفاً مزيداً",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها"
+        },
+        {
+          "start": 24,
+          "length": 12,
+          "tokens": "أُخْرَىٰهُمْ",
+          "content": "منزلةً وهم الأتباع والسّفلة"
+        },
+        {
+          "start": 37,
+          "length": 13,
+          "tokens": "لِأُولَىٰهُمْ",
+          "content": "منزلةً وهم القادة والرؤساء"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "عَذَابࣰا ضِعۡفࣰا مِّنَ ٱلنَّارِۖ قَالَ لِكُلࣲّ ضِعۡفࣱ وَلَـٰكِن لَّا تَعۡلَمُونَ ۝٣٨",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدَّارَكُوا۟ فِيهَا",
+          "content": "تلاحقوا في النّار واجتمعوا فيها",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "أُخْرَىٰهُمْ",
+          "content": "منزلةً وهم الأتباع والسّفلة",
+          "tokenFromIndex": 25,
+          "tokenToIndex": 25,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "لِأُولَىٰهُمْ",
+          "content": "منزلةً وهم القادة والرؤساء",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 26,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "عَذَابًا ضِعْفًا",
+          "content": "مضاعفاً مزيداً",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 32,
+          "surahIndex": 7,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 16,
+          "tokens": "عَذَابًا ضِعْفًا",
+          "content": "مضاعفاً مزيداً"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَقَالَتۡ أُولَىٰهُمۡ لِأُخۡرَىٰهُمۡ فَمَا كَانَ لَكُمۡ عَلَیۡنَا مِن فَضۡلࣲ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡسِبُونَ ۝٣٩ إِنَّ ٱلَّذِینَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "كَذَّبُوا۟ بِـَٔایَـٰتِنَا وَٱسۡتَكۡبَرُوا۟ عَنۡهَا لَا تُفَتَّحُ لَهُمۡ أَبۡوَ ٰ⁠بُ ٱلسَّمَاۤءِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَلِجَ ٱلْجَمَلُ",
+          "content": "يدخل الجمل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "سَمِّ ٱلْخِيَاطِ",
+          "content": "ثقب الإبرة",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَلَا یَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ یَلِجَ ٱلۡجَمَلُ فِی سَمِّ ٱلۡخِیَاطِۚ وَكَذَ ٰ⁠لِكَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَلِجَ ٱلْجَمَلُ",
+          "content": "يدخل الجمل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "سَمِّ ٱلْخِيَاطِ",
+          "content": "ثقب الإبرة",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 16,
+          "tokens": "يَلِجَ ٱلْجَمَلُ",
+          "content": "يدخل الجمل"
+        },
+        {
+          "start": 58,
+          "length": 17,
+          "tokens": "سَمِّ ٱلْخِيَاطِ",
+          "content": "ثقب الإبرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "نَجۡزِی ٱلۡمُجۡرِمِینَ ۝٤٠ لَهُم مِّن جَهَنَّمَ مِهَادࣱ وَمِن فَوۡقِهِمۡ غَوَاشࣲۚ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَلِجَ ٱلْجَمَلُ",
+          "content": "يدخل الجمل",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "سَمِّ ٱلْخِيَاطِ",
+          "content": "ثقب الإبرة",
+          "tokenFromIndex": 19,
+          "tokenToIndex": 20,
+          "surahIndex": 7,
+          "ayahIndex": 40
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَكَذَ ٰ⁠لِكَ نَجۡزِی ٱلظَّـٰلِمِینَ ۝٤١ وَٱلَّذِینَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِهَادٌ",
+          "content": "فراشٌ ،أي مستقر",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 41
+        },
+        {
+          "tokens": "غَوَاشٍ",
+          "content": "أغطية كاللُّحُف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 7,
+          "ayahIndex": 41
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "لَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۤ أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَنَّةِۖ هُمۡ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وُسْعَهَآ",
+          "content": "طاقتها وما تقدر عليه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 7,
+          "ayahIndex": 42
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 10,
+          "tokens": "وُسْعَهَآ",
+          "content": "طاقتها وما تقدر عليه"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فِیهَا خَـٰلِدُونَ ۝٤٢ وَنَزَعۡنَا مَا فِی صُدُورِهِم مِّنۡ غِلࣲّ تَجۡرِی",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وُسْعَهَآ",
+          "content": "طاقتها وما تقدر عليه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 7,
+          "ayahIndex": 42
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مِن تَحۡتِهِمُ ٱلۡأَنۡهَـٰرُۖ وَقَالُوا۟ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِی هَدَىٰنَا لِهَـٰذَا وَمَا كُنَّا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلٍّ",
+          "content": "حقد ٍ وضغنٍ وعداوة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 7,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "لِنَهۡتَدِیَ لَوۡلَاۤ أَنۡ هَدَىٰنَا ٱللَّهُۖ لَقَدۡ جَاۤءَتۡ رُسُلُ رَبِّنَا بِٱلۡحَقِّۖ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلٍّ",
+          "content": "حقد ٍ وضغنٍ وعداوة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 7,
+          "ayahIndex": 43
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَنُودُوۤا۟ أَن تِلۡكُمُ ٱلۡجَنَّةُ أُورِثۡتُمُوهَا بِمَا كُنتُمۡ تَعۡمَلُونَ ۝٤٣",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِلٍّ",
+          "content": "حقد ٍ وضغنٍ وعداوة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 7,
+          "ayahIndex": 43
+        }
+      ]
+    }
+  ]
+}

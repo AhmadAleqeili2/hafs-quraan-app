@@ -1,0 +1,261 @@
+{
+  "pageIndex": 63,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَكَیۡفَ تَكۡفُرُونَ وَأَنتُمۡ تُتۡلَىٰ عَلَیۡكُمۡ ءَایَـٰتُ ٱللَّهِ وَفِیكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَن يَعْتَصِم بِٱللَّهِ",
+          "content": "يلتجِئ إليه أو يستمسك بدينه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 101
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "رَسُولُهُۥۗ وَمَن یَعۡتَصِم بِٱللَّهِ فَقَدۡ هُدِیَ إِلَىٰ صِرَ ٰ⁠طࣲ مُّسۡتَقِیمࣲ ۝١٠١",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَن يَعْتَصِم بِٱللَّهِ",
+          "content": "يلتجِئ إليه أو يستمسك بدينه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 101
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 25,
+          "tokens": "وَمَن يَعْتَصِم بِٱللَّهِ",
+          "content": "يلتجِئ إليه أو يستمسك بدينه"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ حَقَّ تُقَاتِهِۦ وَلَا تَمُوتُنَّ إِلَّا وَأَنتُم",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَقَّ تُقَاتِهِۦ",
+          "content": "حقّ تقواه : أي اتقاءً حقًّا واجبا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 102
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 16,
+          "tokens": "حَقَّ تُقَاتِهِۦ",
+          "content": "حقّ تقواه : أي اتقاءً حقًّا واجبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مُّسۡلِمُونَ ۝١٠٢ وَٱعۡتَصِمُوا۟ بِحَبۡلِ ٱللَّهِ جَمِیعࣰا وَلَا تَفَرَّقُوا۟ۚ وَٱذۡكُرُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَقَّ تُقَاتِهِۦ",
+          "content": "حقّ تقواه : أي اتقاءً حقًّا واجبا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 102
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "نِعۡمَتَ ٱللَّهِ عَلَیۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَاۤءࣰ فَأَلَّفَ بَیۡنَ قُلُوبِكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ",
+          "content": "تمسّكوا بعهده أو دينه أو كتابه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "شَفَا حُفْرَةٍ",
+          "content": "طرف حفرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦۤ إِخۡوَ ٰ⁠نࣰا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةࣲ مِّنَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ",
+          "content": "تمسّكوا بعهده أو دينه أو كتابه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "شَفَا حُفْرَةٍ",
+          "content": "طرف حفرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 59,
+          "length": 14,
+          "tokens": "شَفَا حُفْرَةٍ",
+          "content": "طرف حفرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَ ٰ⁠لِكَ یُبَیِّنُ ٱللَّهُ لَكُمۡ ءَایَـٰتِهِۦ لَعَلَّكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ",
+          "content": "تمسّكوا بعهده أو دينه أو كتابه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "شَفَا حُفْرَةٍ",
+          "content": "طرف حفرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَهۡتَدُونَ ۝١٠٣ وَلۡتَكُن مِّنكُمۡ أُمَّةࣱ یَدۡعُونَ إِلَى ٱلۡخَیۡرِ وَیَأۡمُرُونَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 103,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ",
+          "content": "تمسّكوا بعهده أو دينه أو كتابه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 3,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        },
+        {
+          "tokens": "شَفَا حُفْرَةٍ",
+          "content": "طرف حفرة",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 103
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِٱلۡمَعۡرُوفِ وَیَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِۚ وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُفۡلِحُونَ ۝١٠٤",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 104,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَلَا تَكُونُوا۟ كَٱلَّذِینَ تَفَرَّقُوا۟ وَٱخۡتَلَفُوا۟ مِنۢ بَعۡدِ مَا جَاۤءَهُمُ ٱلۡبَیِّنَـٰتُۚ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَأُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابٌ عَظِیمࣱ ۝١٠٥ یَوۡمَ تَبۡیَضُّ وُجُوهࣱ وَتَسۡوَدُّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 105,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وُجُوهࣱۚ فَأَمَّا ٱلَّذِینَ ٱسۡوَدَّتۡ وُجُوهُهُمۡ أَكَفَرۡتُم بَعۡدَ إِیمَـٰنِكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فَذُوقُوا۟ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ ۝١٠٦ وَأَمَّا ٱلَّذِینَ ٱبۡیَضَّتۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 106,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وُجُوهُهُمۡ فَفِی رَحۡمَةِ ٱللَّهِۖ هُمۡ فِیهَا خَـٰلِدُونَ ۝١٠٧ تِلۡكَ ءَایَـٰتُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 107,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهِ نَتۡلُوهَا عَلَیۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ یُرِیدُ ظُلۡمࣰا لِّلۡعَـٰلَمِینَ ۝١٠٨",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 108,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

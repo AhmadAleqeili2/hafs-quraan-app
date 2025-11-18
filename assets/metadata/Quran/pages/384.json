@@ -1,0 +1,251 @@
+{
+  "pageIndex": 384,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِنَّهُۥ لَهُدࣰى وَرَحۡمَةࣱ لِّلۡمُؤۡمِنِینَ ۝٧٧ إِنَّ رَبَّكَ یَقۡضِی بَیۡنَهُم",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 77,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "بِحُكۡمِهِۦۚ وَهُوَ ٱلۡعَزِیزُ ٱلۡعَلِیمُ ۝٧٨ فَتَوَكَّلۡ عَلَى ٱللَّهِۖ إِنَّكَ عَلَى",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 78,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحَقِّ ٱلۡمُبِینِ ۝٧٩ إِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَاۤءَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 79,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "إِذَا وَلَّوۡا۟ مُدۡبِرِینَ ۝٨٠ وَمَاۤ أَنتَ بِهَـٰدِی ٱلۡعُمۡیِ عَن ضَلَـٰلَتِهِمۡۖ إِن",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 80,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "تُسۡمِعُ إِلَّا مَن یُؤۡمِنُ بِـَٔایَـٰتِنَا فَهُم مُّسۡلِمُونَ ۝٨١ وَإِذَا وَقَعَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 81,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "ٱلۡقَوۡلُ عَلَیۡهِمۡ أَخۡرَجۡنَا لَهُمۡ دَاۤبَّةࣰ مِّنَ ٱلۡأَرۡضِ تُكَلِّمُهُمۡ أَنَّ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَعَ ٱلْقَوْلُ",
+          "content": "دنت الساعة وأهوالها الموعودة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "دَآبَّةً",
+          "content": "هي من أشراط السّاعة الكبرى",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 82
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "وَقَعَ ٱلْقَوْلُ",
+          "content": "دنت الساعة وأهوالها الموعودة"
+        },
+        {
+          "start": 40,
+          "length": 9,
+          "tokens": "دَآبَّةً",
+          "content": "هي من أشراط السّاعة الكبرى"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلنَّاسَ كَانُوا۟ بِـَٔایَـٰتِنَا لَا یُوقِنُونَ ۝٨٢ وَیَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةࣲ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 82,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَقَعَ ٱلْقَوْلُ",
+          "content": "دنت الساعة وأهوالها الموعودة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 27,
+          "ayahIndex": 82
+        },
+        {
+          "tokens": "دَآبَّةً",
+          "content": "هي من أشراط السّاعة الكبرى",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 27,
+          "ayahIndex": 82
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَوۡجࣰا مِّمَّن یُكَذِّبُ بِـَٔایَـٰتِنَا فَهُمۡ یُوزَعُونَ ۝٨٣ حَتَّىٰۤ إِذَا جَاۤءُو قَالَ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 83,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَوْجًا",
+          "content": "جماعة وزمرة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 83
+        },
+        {
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يُوقف أوائلُهم لتلحقهم أواخرهم ثمّ يُساقون جميعا",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 27,
+          "ayahIndex": 83
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "فَوْجًا",
+          "content": "جماعة وزمرة"
+        },
+        {
+          "start": 42,
+          "length": 17,
+          "tokens": "فَهُمْ يُوزَعُونَ",
+          "content": "يُوقف أوائلُهم لتلحقهم أواخرهم ثمّ يُساقون جميعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَكَذَّبۡتُم بِـَٔایَـٰتِی وَلَمۡ تُحِیطُوا۟ بِهَا عِلۡمًا أَمَّاذَا كُنتُمۡ تَعۡمَلُونَ ۝٨٤",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَوَقَعَ ٱلۡقَوۡلُ عَلَیۡهِم بِمَا ظَلَمُوا۟ فَهُمۡ لَا یَنطِقُونَ ۝٨٥ أَلَمۡ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "یَرَوۡا۟ أَنَّا جَعَلۡنَا ٱلَّیۡلَ لِیَسۡكُنُوا۟ فِیهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِی",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ذَ ٰ⁠لِكَ لَـَٔایَـٰتࣲ لِّقَوۡمࣲ یُؤۡمِنُونَ ۝٨٦ وَیَوۡمَ یُنفَخُ فِی ٱلصُّورِ فَفَزِعَ مَن",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَن فِی ٱلۡأَرۡضِ إِلَّا مَن شَاۤءَ ٱللَّهُۚ وَكُلٌّ أَتَوۡهُ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَفَزِعَ",
+          "content": "خاف خوفا يستتبع الموت",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "دَٰخِرِينَ",
+          "content": "صاغرين أذلاّء بعد البعث",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 27,
+          "ayahIndex": 87
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "دَ ٰ⁠خِرِینَ ۝٨٧ وَتَرَى ٱلۡجِبَالَ تَحۡسَبُهَا جَامِدَةࣰ وَهِیَ تَمُرُّ مَرَّ ٱلسَّحَابِۚ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَفَزِعَ",
+          "content": "خاف خوفا يستتبع الموت",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 27,
+          "ayahIndex": 87
+        },
+        {
+          "tokens": "دَٰخِرِينَ",
+          "content": "صاغرين أذلاّء بعد البعث",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 18,
+          "surahIndex": 27,
+          "ayahIndex": 87
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "دَٰخِرِينَ",
+          "content": "صاغرين أذلاّء بعد البعث"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "صُنۡعَ ٱللَّهِ ٱلَّذِیۤ أَتۡقَنَ كُلَّ شَیۡءٍۚ إِنَّهُۥ خَبِیرُۢ بِمَا تَفۡعَلُونَ ۝٨٨",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

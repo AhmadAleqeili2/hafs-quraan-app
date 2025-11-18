@@ -1,0 +1,345 @@
+{
+  "pageIndex": 247,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَلَمَّاۤ أَن جَاۤءَ ٱلۡبَشِیرُ أَلۡقَىٰهُ عَلَىٰ وَجۡهِهِۦ فَٱرۡتَدَّ بَصِیرࣰاۖ قَالَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَلَمۡ أَقُل لَّكُمۡ إِنِّیۤ أَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ ۝٩٦ قَالُوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 96,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَـٰۤأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَاۤ إِنَّا كُنَّا خَـٰطِـِٔینَ ۝٩٧ قَالَ سَوۡفَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 97,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَسۡتَغۡفِرُ لَكُمۡ رَبِّیۤۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ ۝٩٨ فَلَمَّا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 98,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "دَخَلُوا۟ عَلَىٰ یُوسُفَ ءَاوَىٰۤ إِلَیۡهِ أَبَوَیۡهِ وَقَالَ ٱدۡخُلُوا۟ مِصۡرَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ",
+          "content": "ضمّهما إليه واعتنقهما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 99
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 25,
+          "length": 28,
+          "tokens": "ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ",
+          "content": "ضمّهما إليه واعتنقهما"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "إِن شَاۤءَ ٱللَّهُ ءَامِنِینَ ۝٩٩ وَرَفَعَ أَبَوَیۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 99,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاوَىٰٓ إِلَيْهِ أَبَوَيْهِ",
+          "content": "ضمّهما إليه واعتنقهما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 99
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "لَهُۥ سُجَّدࣰاۖ وَقَالَ یَـٰۤأَبَتِ هَـٰذَا تَأۡوِیلُ رُءۡیَـٰیَ مِن قَبۡلُ قَدۡ جَعَلَهَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُجَّدًا",
+          "content": "وكان ذلك جائزا في شريعتهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "ٱلْبَدْوِ",
+          "content": "البادية",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "نَّزَغَ ٱلشَّيْطَٰنُ",
+          "content": "أفسد وحرّش وأغرى",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 9,
+          "tokens": "سُجَّدًا",
+          "content": "وكان ذلك جائزا في شريعتهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "رَبِّی حَقࣰّاۖ وَقَدۡ أَحۡسَنَ بِیۤ إِذۡ أَخۡرَجَنِی مِنَ ٱلسِّجۡنِ وَجَاۤءَ بِكُم",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُجَّدًا",
+          "content": "وكان ذلك جائزا في شريعتهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "ٱلْبَدْوِ",
+          "content": "البادية",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "نَّزَغَ ٱلشَّيْطَٰنُ",
+          "content": "أفسد وحرّش وأغرى",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مِّنَ ٱلۡبَدۡوِ مِنۢ بَعۡدِ أَن نَّزَغَ ٱلشَّیۡطَـٰنُ بَیۡنِی وَبَیۡنَ إِخۡوَتِیۤۚ إِنَّ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُجَّدًا",
+          "content": "وكان ذلك جائزا في شريعتهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "ٱلْبَدْوِ",
+          "content": "البادية",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "نَّزَغَ ٱلشَّيْطَٰنُ",
+          "content": "أفسد وحرّش وأغرى",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 9,
+          "tokens": "ٱلْبَدْوِ",
+          "content": "البادية"
+        },
+        {
+          "start": 32,
+          "length": 21,
+          "tokens": "نَّزَغَ ٱلشَّيْطَٰنُ",
+          "content": "أفسد وحرّش وأغرى"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "رَبِّی لَطِیفࣱ لِّمَا یَشَاۤءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِیمُ ٱلۡحَكِیمُ ۝١٠٠ رَبِّ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 100,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سُجَّدًا",
+          "content": "وكان ذلك جائزا في شريعتهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "ٱلْبَدْوِ",
+          "content": "البادية",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 29,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        },
+        {
+          "tokens": "نَّزَغَ ٱلشَّيْطَٰنُ",
+          "content": "أفسد وحرّش وأغرى",
+          "tokenFromIndex": 33,
+          "tokenToIndex": 34,
+          "surahIndex": 12,
+          "ayahIndex": 100
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "قَدۡ ءَاتَیۡتَنِی مِنَ ٱلۡمُلۡكِ وَعَلَّمۡتَنِی مِن تَأۡوِیلِ ٱلۡأَحَادِیثِۚ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرَ",
+          "content": "يا مُبدع ومُخترع",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 101
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "فَاطِرَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ أَنتَ وَلِیِّۦ فِی ٱلدُّنۡیَا وَٱلۡـَٔاخِرَةِۖ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرَ",
+          "content": "يا مُبدع ومُخترع",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 101
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "فَاطِرَ",
+          "content": "يا مُبدع ومُخترع"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "تَوَفَّنِی مُسۡلِمࣰا وَأَلۡحِقۡنِی بِٱلصَّـٰلِحِینَ ۝١٠١ ذَ ٰ⁠لِكَ مِنۡ أَنۢبَاۤءِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 101,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاطِرَ",
+          "content": "يا مُبدع ومُخترع",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 12,
+          "ayahIndex": 101
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡغَیۡبِ نُوحِیهِ إِلَیۡكَۖ وَمَا كُنتَ لَدَیۡهِمۡ إِذۡ أَجۡمَعُوۤا۟ أَمۡرَهُمۡ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَجْمَعُوٓا۟ أَمْرَهُمْ",
+          "content": "عزموا على الكيد ليوسف",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 12,
+          "ayahIndex": 102
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 23,
+          "tokens": "أَجْمَعُوٓا۟ أَمْرَهُمْ",
+          "content": "عزموا على الكيد ليوسف"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَهُمۡ یَمۡكُرُونَ ۝١٠٢ وَمَاۤ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِینَ ۝١٠٣",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 102,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَجْمَعُوٓا۟ أَمْرَهُمْ",
+          "content": "عزموا على الكيد ليوسف",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 12,
+          "ayahIndex": 102
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "pageIndex": 523,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "كَذَ ٰ⁠لِكَ مَاۤ أَتَى ٱلَّذِینَ مِن قَبۡلِهِم مِّن رَّسُولٍ إِلَّا قَالُوا۟ سَاحِرٌ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "أَوۡ مَجۡنُونٌ ۝٥٢ أَتَوَاصَوۡا۟ بِهِۦۚ بَلۡ هُمۡ قَوۡمࣱ طَاغُونَ ۝٥٣ فَتَوَلَّ عَنۡهُمۡ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "فَمَاۤ أَنتَ بِمَلُومࣲ ۝٥٤ وَذَكِّرۡ فَإِنَّ ٱلذِّكۡرَىٰ تَنفَعُ ٱلۡمُؤۡمِنِینَ ۝٥٥ وَمَا",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "خَلَقۡتُ ٱلۡجِنَّ وَٱلۡإِنسَ إِلَّا لِیَعۡبُدُونِ ۝٥٦ مَاۤ أُرِیدُ مِنۡهُم مِّن رِّزۡقࣲ",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لِيَعْبُدُونِ",
+          "content": "ليعرفوني أو ليخْضعوا لي ويتذلّلوا",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 51,
+          "ayahIndex": 56
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 36,
+          "length": 13,
+          "tokens": "لِيَعْبُدُونِ",
+          "content": "ليعرفوني أو ليخْضعوا لي ويتذلّلوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَمَاۤ أُرِیدُ أَن یُطۡعِمُونِ ۝٥٧ إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِینُ ۝٥٨",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَإِنَّ لِلَّذِینَ ظَلَمُوا۟ ذَنُوبࣰا مِّثۡلَ ذَنُوبِ أَصۡحَـٰبِهِمۡ فَلَا",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَنُوبًا",
+          "content": "نَصيبًا مِنَ العَذاب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 51,
+          "ayahIndex": 59
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 8,
+          "tokens": "ذَنُوبًا",
+          "content": "نَصيبًا مِنَ العَذاب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَسۡتَعۡجِلُونِ ۝٥٩ فَوَیۡلࣱ لِّلَّذِینَ كَفَرُوا۟ مِن یَوۡمِهِمُ ٱلَّذِی یُوعَدُونَ ۝٦٠",
+      "surahIndexFirst": 51,
+      "ayahIndexFirst": 59,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ذَنُوبًا",
+          "content": "نَصيبًا مِنَ العَذاب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 51,
+          "ayahIndex": 59
+        }
+      ]
+    },
+    {
+      "sortKey": 9998,
+      "text": "سورة الطور",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلطُّورِ",
+          "content": "(قسَمٌ) بجبَل طور سيناء الذي كلّم الله عنده موسى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 52,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 9999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلطُّورِ",
+          "content": "(قسَمٌ) بجبَل طور سيناء الذي كلّم الله عنده موسى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 52,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱلطُّورِ ۝١ وَكِتَـٰبࣲ مَّسۡطُورࣲ ۝٢ فِی رَقࣲّ مَّنشُورࣲ ۝٣ وَٱلۡبَیۡتِ",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلطُّورِ",
+          "content": "(قسَمٌ) بجبَل طور سيناء الذي كلّم الله عنده موسى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 52,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "وَٱلطُّورِ",
+          "content": "(قسَمٌ) بجبَل طور سيناء الذي كلّم الله عنده موسى"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡمَعۡمُورِ ۝٤ وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ ۝٥ وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ ۝٦ إِنَّ",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+          "content": "هو الضّراح في السّماء أو الكعبة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 52,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+          "content": "هو الضّراح في السّماء أو الكعبة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَذَابَ رَبِّكَ لَوَ ٰ⁠قِعࣱ ۝٧ مَّا لَهُۥ مِن دَافِعࣲ ۝٨ یَوۡمَ تَمُورُ ٱلسَّمَاۤءُ",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِنَّ عَذَابَ",
+          "content": "(جَوَاب القسَم) بما سبق",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 52,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "إِنَّ عَذَابَ",
+          "content": "(جَوَاب القسَم) بما سبق"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "مَوۡرࣰا ۝٩ وَتَسِیرُ ٱلۡجِبَالُ سَیۡرࣰا ۝١٠ فَوَیۡلࣱ یَوۡمَىِٕذࣲ لِّلۡمُكَذِّبِینَ ۝١١",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَمُورُ ٱلسَّمَآءُ",
+          "content": "تَضْطرب وتَدور كالرّحَى",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 52,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلَّذِینَ هُمۡ فِی خَوۡضࣲ یَلۡعَبُونَ ۝١٢ یَوۡمَ یُدَعُّونَ إِلَىٰ نَارِ",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَوْضٍ",
+          "content": "انْدفاع في الأباطيل والأكاذيب",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 52,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 6,
+          "tokens": "خَوْضٍ",
+          "content": "انْدفاع في الأباطيل والأكاذيب"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "جَهَنَّمَ دَعًّا ۝١٣ هَـٰذِهِ ٱلنَّارُ ٱلَّتِی كُنتُم بِهَا تُكَذِّبُونَ ۝١٤",
+      "surahIndexFirst": 52,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُدَعُّونَ",
+          "content": "يُدفعون بِعُنْفٍ وشدّة",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 52,
+          "ayahIndex": 13
+        }
+      ]
+    }
+  ]
+}

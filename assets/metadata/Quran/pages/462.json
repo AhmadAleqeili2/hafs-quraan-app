@@ -1,0 +1,291 @@
+{
+  "pageIndex": 462,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "فَمَنۡ أَظۡلَمُ مِمَّن كَذَبَ عَلَى ٱللَّهِ وَكَذَّبَ بِٱلصِّدۡقِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مأوًى ومُقامٌ لهمْ",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 39,
+          "ayahIndex": 32
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "إِذۡ جَاۤءَهُۥۤۚ أَلَیۡسَ فِی جَهَنَّمَ مَثۡوࣰى لِّلۡكَـٰفِرِینَ ۝٣٢ وَٱلَّذِی",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مأوًى ومُقامٌ لهمْ",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 39,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 24,
+          "tokens": "مَثْوًى لِّلْكَٰفِرِينَ",
+          "content": "مأوًى ومُقامٌ لهمْ"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "جَاۤءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦۤ أُو۟لَـٰۤىِٕكَ هُمُ ٱلۡمُتَّقُونَ ۝٣٣",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لَهُم مَّا یَشَاۤءُونَ عِندَ رَبِّهِمۡۚ ذَ ٰ⁠لِكَ جَزَاۤءُ ٱلۡمُحۡسِنِینَ ۝٣٤",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "لِیُكَفِّرَ ٱللَّهُ عَنۡهُمۡ أَسۡوَأَ ٱلَّذِی عَمِلُوا۟ وَیَجۡزِیَهُمۡ أَجۡرَهُم",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "بِأَحۡسَنِ ٱلَّذِی كَانُوا۟ یَعۡمَلُونَ ۝٣٥ أَلَیۡسَ ٱللَّهُ بِكَافٍ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "عَبۡدَهُۥۖ وَیُخَوِّفُونَكَ بِٱلَّذِینَ مِن دُونِهِۦۚ وَمَن یُضۡلِلِ ٱللَّهُ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَمَا لَهُۥ مِنۡ هَادࣲ ۝٣٦ وَمَن یَهۡدِ ٱللَّهُ فَمَا لَهُۥ مِن مُّضِلٍّۗ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَلَیۡسَ ٱللَّهُ بِعَزِیزࣲ ذِی ٱنتِقَامࣲ ۝٣٧ وَلَىِٕن سَأَلۡتَهُم مَّنۡ خَلَقَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ لَیَقُولُنَّ ٱللَّهُۚ قُلۡ أَفَرَءَیۡتُم مَّا تَدۡعُونَ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ في جميع أموري",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 33,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 56,
+          "length": 13,
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أخبروني"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مِن دُونِ ٱللَّهِ إِنۡ أَرَادَنِیَ ٱللَّهُ بِضُرٍّ هَلۡ هُنَّ كَـٰشِفَـٰتُ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ في جميع أموري",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 33,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ضُرِّهِۦۤ أَوۡ أَرَادَنِی بِرَحۡمَةٍ هَلۡ هُنَّ مُمۡسِكَـٰتُ رَحۡمَتِهِۦۚ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ في جميع أموري",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 33,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "قُلۡ حَسۡبِیَ ٱللَّهُۖ عَلَیۡهِ یَتَوَكَّلُ ٱلۡمُتَوَكِّلُونَ ۝٣٨ قُلۡ یَـٰقَوۡمِ",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَفَرَءَيْتُم",
+          "content": "أخبروني",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        },
+        {
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ في جميع أموري",
+          "tokenFromIndex": 32,
+          "tokenToIndex": 33,
+          "surahIndex": 39,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 17,
+          "tokens": "حَسْبِىَ ٱللَّهُ",
+          "content": "كافيّ في جميع أموري"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱعۡمَلُوا۟ عَلَىٰ مَكَانَتِكُمۡ إِنِّی عَـٰمِلࣱۖ فَسَوۡفَ تَعۡلَمُونَ ۝٣٩",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "حالتكم المُتمَكّنين منها",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 39,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 18,
+          "length": 13,
+          "tokens": "مَكَانَتِكُمْ",
+          "content": "حالتكم المُتمَكّنين منها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَن یَأۡتِیهِ عَذَابࣱ یُخۡزِیهِ وَیَحِلُّ عَلَیۡهِ عَذَابࣱ مُّقِیمٌ ۝٤٠",
+      "surahIndexFirst": 39,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخْزِيهِ",
+          "content": "يُذلّه ويهينه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 39,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "وَيَحِلُّ عَلَيْهِ",
+          "content": "يَجبُ عليه",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 39,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 9,
+          "tokens": "يُخْزِيهِ",
+          "content": "يُذلّه ويهينه"
+        },
+        {
+          "start": 32,
+          "length": 18,
+          "tokens": "وَيَحِلُّ عَلَيْهِ",
+          "content": "يَجبُ عليه"
+        }
+      ]
+    }
+  ]
+}

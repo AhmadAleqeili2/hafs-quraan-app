@@ -1,0 +1,353 @@
+{
+  "pageIndex": 243,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ هَلۡ ءَامَنُكُمۡ عَلَیۡهِ إِلَّا كَمَاۤ أَمِنتُكُمۡ عَلَىٰۤ أَخِیهِ مِن",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَبۡلُ فَٱللَّهُ خَیۡرٌ حَـٰفِظࣰاۖ وَهُوَ أَرۡحَمُ ٱلرَّ ٰ⁠حِمِینَ ۝٦٤ وَلَمَّا فَتَحُوا۟",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مَتَـٰعَهُمۡ وَجَدُوا۟ بِضَـٰعَتَهُمۡ رُدَّتۡ إِلَیۡهِمۡۖ قَالُوا۟ یَـٰۤأَبَانَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَتَٰعَهُمْ",
+          "content": "طعامهم، أو رحالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "مَا نَبْغِى",
+          "content": "ما نطلب من الإحسان بعد ذلك؟",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "وَنَمِيرُ أَهْلَنَا",
+          "content": "نجلب لهم الطّعام من مصر",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "مَتَٰعَهُمْ",
+          "content": "طعامهم، أو رحالهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مَا نَبۡغِیۖ هَـٰذِهِۦ بِضَـٰعَتُنَا رُدَّتۡ إِلَیۡنَاۖ وَنَمِیرُ أَهۡلَنَا وَنَحۡفَظُ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَتَٰعَهُمْ",
+          "content": "طعامهم، أو رحالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "مَا نَبْغِى",
+          "content": "ما نطلب من الإحسان بعد ذلك؟",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "وَنَمِيرُ أَهْلَنَا",
+          "content": "نجلب لهم الطّعام من مصر",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "مَا نَبْغِى",
+          "content": "ما نطلب من الإحسان بعد ذلك؟"
+        },
+        {
+          "start": 56,
+          "length": 19,
+          "tokens": "وَنَمِيرُ أَهْلَنَا",
+          "content": "نجلب لهم الطّعام من مصر"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَخَانَا وَنَزۡدَادُ كَیۡلَ بَعِیرࣲۖ ذَ ٰ⁠لِكَ كَیۡلࣱ یَسِیرࣱ ۝٦٥ قَالَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَتَٰعَهُمْ",
+          "content": "طعامهم، أو رحالهم",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "مَا نَبْغِى",
+          "content": "ما نطلب من الإحسان بعد ذلك؟",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 11,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        },
+        {
+          "tokens": "وَنَمِيرُ أَهْلَنَا",
+          "content": "نجلب لهم الطّعام من مصر",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 12,
+          "ayahIndex": 65
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَنۡ أُرۡسِلَهُۥ مَعَكُمۡ حَتَّىٰ تُؤۡتُونِ مَوۡثِقࣰا مِّنَ ٱللَّهِ لَتَأۡتُنَّنِی",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَوْثِقًا",
+          "content": "عهدا مُؤكّدا باليمين يوثق به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "يُحَاطَ بِكُمْ",
+          "content": "تُغلبوا، أو تهلكوا جميعا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "وَكِيلٌ",
+          "content": "مُطلع رقيبٌ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 9,
+          "tokens": "مَوْثِقًا",
+          "content": "عهدا مُؤكّدا باليمين يوثق به"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "بِهِۦۤ إِلَّاۤ أَن یُحَاطَ بِكُمۡۖ فَلَمَّاۤ ءَاتَوۡهُ مَوۡثِقَهُمۡ قَالَ ٱللَّهُ عَلَىٰ مَا",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَوْثِقًا",
+          "content": "عهدا مُؤكّدا باليمين يوثق به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "يُحَاطَ بِكُمْ",
+          "content": "تُغلبوا، أو تهلكوا جميعا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "وَكِيلٌ",
+          "content": "مُطلع رقيبٌ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 19,
+          "length": 15,
+          "tokens": "يُحَاطَ بِكُمْ",
+          "content": "تُغلبوا، أو تهلكوا جميعا"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "نَقُولُ وَكِیلࣱ ۝٦٦ وَقَالَ یَـٰبَنِیَّ لَا تَدۡخُلُوا۟ مِنۢ بَابࣲ وَ ٰ⁠حِدࣲ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَوْثِقًا",
+          "content": "عهدا مُؤكّدا باليمين يوثق به",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "يُحَاطَ بِكُمْ",
+          "content": "تُغلبوا، أو تهلكوا جميعا",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        },
+        {
+          "tokens": "وَكِيلٌ",
+          "content": "مُطلع رقيبٌ",
+          "tokenFromIndex": 24,
+          "tokenToIndex": 24,
+          "surahIndex": 12,
+          "ayahIndex": 66
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 8,
+          "length": 7,
+          "tokens": "وَكِيلٌ",
+          "content": "مُطلع رقيبٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱدۡخُلُوا۟ مِنۡ أَبۡوَ ٰ⁠بࣲ مُّتَفَرِّقَةࣲۖ وَمَاۤ أُغۡنِی عَنكُم مِّنَ ٱللَّهِ مِن",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "شَیۡءٍۖ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ عَلَیۡهِ تَوَكَّلۡتُۖ وَعَلَیۡهِ فَلۡیَتَوَكَّلِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡمُتَوَكِّلُونَ ۝٦٧ وَلَمَّا دَخَلُوا۟ مِنۡ حَیۡثُ أَمَرَهُمۡ أَبُوهُم مَّا كَانَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "یُغۡنِی عَنۡهُم مِّنَ ٱللَّهِ مِن شَیۡءٍ إِلَّا حَاجَةࣰ فِی نَفۡسِ یَعۡقُوبَ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "قَضَىٰهَاۚ وَإِنَّهُۥ لَذُو عِلۡمࣲ لِّمَا عَلَّمۡنَـٰهُ وَلَـٰكِنَّ أَكۡثَرَ ٱلنَّاسِ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "لَا یَعۡلَمُونَ ۝٦٨ وَلَمَّا دَخَلُوا۟ عَلَىٰ یُوسُفَ ءَاوَىٰۤ إِلَیۡهِ أَخَاهُۖ",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "قَالَ إِنِّیۤ أَنَا۠ أَخُوكَ فَلَا تَبۡتَىِٕسۡ بِمَا كَانُوا۟ یَعۡمَلُونَ ۝٦٩",
+      "surahIndexFirst": 12,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَاوَىٰٓ إِلَيْهِ أَخَاهُ",
+          "content": "ضمّ إليه أخاه الشّقيق بنيامين",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 12,
+          "ayahIndex": 69
+        },
+        {
+          "tokens": "فَلَا تَبْتَئِسْ",
+          "content": "فلا تحزن",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 12,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 29,
+          "length": 17,
+          "tokens": "فَلَا تَبْتَئِسْ",
+          "content": "فلا تحزن"
+        }
+      ]
+    }
+  ]
+}

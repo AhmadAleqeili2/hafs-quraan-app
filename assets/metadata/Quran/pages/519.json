@@ -1,0 +1,331 @@
+{
+  "pageIndex": 519,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَـٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَیۡهِ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَبْلِ ٱلْوَرِيدِ",
+          "content": "عِرْق كبير في العنق",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 50,
+          "ayahIndex": 16
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنۡ حَبۡلِ ٱلۡوَرِیدِ ۝١٦ إِذۡ یَتَلَقَّى ٱلۡمُتَلَقِّیَانِ عَنِ ٱلۡیَمِینِ وَعَنِ ٱلشِّمَالِ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَبْلِ ٱلْوَرِيدِ",
+          "content": "عِرْق كبير في العنق",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 50,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 5,
+          "length": 17,
+          "tokens": "حَبْلِ ٱلْوَرِيدِ",
+          "content": "عِرْق كبير في العنق"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "قَعِیدࣱ ۝١٧ مَّا یَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَیۡهِ رَقِیبٌ عَتِیدࣱ ۝١٨ وَجَاۤءَتۡ سَكۡرَةُ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَتَلَقَّى ٱلْمُتَلَقِّيَانِ",
+          "content": "يحفظ ويكتب الملكان",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 50,
+          "ayahIndex": 17
+        },
+        {
+          "tokens": "قَعِيدٌ",
+          "content": "مَلَكٌ قاعد",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 50,
+          "ayahIndex": 17
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "قَعِيدٌ",
+          "content": "مَلَكٌ قاعد"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَ ٰ⁠لِكَ مَا كُنتَ مِنۡهُ تَحِیدُ ۝١٩ وَنُفِخَ فِی ٱلصُّورِۚ ذَ ٰ⁠لِكَ یَوۡمُ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 19,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَكْرَةُ ٱلْمَوْتِ",
+          "content": "شِدّته وغَمْرَته الذاهبة بالعقل",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 50,
+          "ayahIndex": 19
+        },
+        {
+          "tokens": "تَحِيدُ",
+          "content": "تميل عنه وتفرّ منه وتَهْرُب",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 50,
+          "ayahIndex": 19
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "سَكْرَةُ ٱلْمَوْتِ",
+          "content": "شِدّته وغَمْرَته الذاهبة بالعقل"
+        },
+        {
+          "start": 49,
+          "length": 7,
+          "tokens": "تَحِيدُ",
+          "content": "تميل عنه وتفرّ منه وتَهْرُب"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلۡوَعِیدِ ۝٢٠ وَجَاۤءَتۡ كُلُّ نَفۡسࣲ مَّعَهَا سَاۤىِٕقࣱ وَشَهِیدࣱ ۝٢١ لَّقَدۡ كُنتَ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 20,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِی غَفۡلَةࣲ مِّنۡ هَـٰذَا فَكَشَفۡنَا عَنكَ غِطَاۤءَكَ فَبَصَرُكَ ٱلۡیَوۡمَ حَدِیدࣱ ۝٢٢",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 22,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "غِطَآءَكَ",
+          "content": "حِحاب غفلتك عن الآخرة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 50,
+          "ayahIndex": 22
+        },
+        {
+          "tokens": "حَدِيدٌ",
+          "content": "نافِذ قويّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 50,
+          "ayahIndex": 22
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 45,
+          "length": 10,
+          "tokens": "غِطَآءَكَ",
+          "content": "حِحاب غفلتك عن الآخرة"
+        },
+        {
+          "start": 77,
+          "length": 7,
+          "tokens": "حَدِيدٌ",
+          "content": "نافِذ قويّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَقَالَ قَرِینُهُۥ هَـٰذَا مَا لَدَیَّ عَتِیدٌ ۝٢٣ أَلۡقِیَا فِی جَهَنَّمَ كُلَّ كَفَّارٍ عَنِیدࣲ ۝٢٤",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَتِيدٌ",
+          "content": "مُعدّ حاضر مُهَيّأ للعرْض",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 50,
+          "ayahIndex": 23
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 7,
+          "tokens": "عَتِيدٌ",
+          "content": "مُعدّ حاضر مُهَيّأ للعرْض"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "مَّنَّاعࣲ لِّلۡخَیۡرِ مُعۡتَدࣲ مُّرِیبٍ ۝٢٥ ٱلَّذِی جَعَلَ مَعَ ٱللَّهِ إِلَـٰهًا ءَاخَرَ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُعْتَدٍ",
+          "content": "ظالم متجاوز للحدّ",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 50,
+          "ayahIndex": 25
+        },
+        {
+          "tokens": "مُّرِيبٍ",
+          "content": "شاكّ في الله وفي دينه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 50,
+          "ayahIndex": 25
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 8,
+          "tokens": "مُعْتَدٍ",
+          "content": "ظالم متجاوز للحدّ"
+        },
+        {
+          "start": 31,
+          "length": 8,
+          "tokens": "مُّرِيبٍ",
+          "content": "شاكّ في الله وفي دينه"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "فَأَلۡقِیَاهُ فِی ٱلۡعَذَابِ ٱلشَّدِیدِ ۝٢٦ قَالَ قَرِینُهُۥ رَبَّنَا مَاۤ أَطۡغَیۡتُهُۥ وَلَـٰكِن",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "كَانَ فِی ضَلَـٰلِۭ بَعِیدࣲ ۝٢٧ قَالَ لَا تَخۡتَصِمُوا۟ لَدَیَّ وَقَدۡ قَدَّمۡتُ إِلَیۡكُم",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَآ أَطْغَيْتُهُۥ",
+          "content": "ما قهَرْتُه على الطغيان والغَواية",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 50,
+          "ayahIndex": 27
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بِٱلۡوَعِیدِ ۝٢٨ مَا یُبَدَّلُ ٱلۡقَوۡلُ لَدَیَّ وَمَاۤ أَنَا۠ بِظَلَّـٰمࣲ لِّلۡعَبِیدِ ۝٢٩ یَوۡمَ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِیدࣲ ۝٣٠ وَأُزۡلِفَتِ ٱلۡجَنَّةُ",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لِلۡمُتَّقِینَ غَیۡرَ بَعِیدٍ ۝٣١ هَـٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِیظࣲ ۝٣٢",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأُزْلِفَتِ ٱلْجَنَّةُ",
+          "content": "قُِرّبَتْ وأدْنِيَتْ",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 50,
+          "ayahIndex": 31
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مَّنۡ خَشِیَ ٱلرَّحۡمَـٰنَ بِٱلۡغَیۡبِ وَجَاۤءَ بِقَلۡبࣲ مُّنِیبٍ ۝٣٣ ٱدۡخُلُوهَا",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِقَلْبٍ مُّنِيبٍ",
+          "content": "مُخلص مُقبل على طاعة الله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 50,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 48,
+          "length": 17,
+          "tokens": "بِقَلْبٍ مُّنِيبٍ",
+          "content": "مُخلص مُقبل على طاعة الله"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "بِسَلَـٰمࣲۖ ذَ ٰ⁠لِكَ یَوۡمُ ٱلۡخُلُودِ ۝٣٤ لَهُم مَّا یَشَاۤءُونَ فِیهَا وَلَدَیۡنَا مَزِیدࣱ ۝٣٥",
+      "surahIndexFirst": 50,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

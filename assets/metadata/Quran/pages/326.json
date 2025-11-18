@@ -1,0 +1,233 @@
+{
+  "pageIndex": 326,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قُلۡ إِنَّمَاۤ أُنذِرُكُم بِٱلۡوَحۡیِۚ وَلَا یَسۡمَعُ ٱلصُّمُّ ٱلدُّعَاۤءَ إِذَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "مَا یُنذَرُونَ ۝٤٥ وَلَىِٕن مَّسَّتۡهُمۡ نَفۡحَةࣱ مِّنۡ عَذَابِ رَبِّكَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "لَیَقُولُنَّ یَـٰوَیۡلَنَاۤ إِنَّا كُنَّا ظَـٰلِمِینَ ۝٤٦ وَنَضَعُ ٱلۡمَوَ ٰ⁠زِینَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَفْحَةٌ",
+          "content": "دُفعة يسيرة، أو نصيب يسير",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 46
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "ٱلۡقِسۡطَ لِیَوۡمِ ٱلۡقِیَـٰمَةِ فَلَا تُظۡلَمُ نَفۡسࣱ شَیۡـࣰٔاۖ وَإِن كَانَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقِسْطَ",
+          "content": "العدل، أو ذوات العدل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "مِثْقَالَ حَبَّةٍ",
+          "content": "وزن أقلّ شيء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 21,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "ٱلْقِسْطَ",
+          "content": "العدل، أو ذوات العدل"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "مِثۡقَالَ حَبَّةࣲ مِّنۡ خَرۡدَلٍ أَتَیۡنَا بِهَاۗ وَكَفَىٰ بِنَا حَـٰسِبِینَ ۝٤٧",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقِسْطَ",
+          "content": "العدل، أو ذوات العدل",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 21,
+          "ayahIndex": 47
+        },
+        {
+          "tokens": "مِثْقَالَ حَبَّةٍ",
+          "content": "وزن أقلّ شيء",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 21,
+          "ayahIndex": 47
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "مِثْقَالَ حَبَّةٍ",
+          "content": "وزن أقلّ شيء"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَلَقَدۡ ءَاتَیۡنَا مُوسَىٰ وَهَـٰرُونَ ٱلۡفُرۡقَانَ وَضِیَاۤءࣰ وَذِكۡرࣰا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "لِّلۡمُتَّقِینَ ۝٤٨ ٱلَّذِینَ یَخۡشَوۡنَ رَبَّهُم بِٱلۡغَیۡبِ وَهُم مِّنَ ٱلسَّاعَةِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "مُشۡفِقُونَ ۝٤٩ وَهَـٰذَا ذِكۡرࣱ مُّبَارَكٌ أَنزَلۡنَـٰهُۚ أَفَأَنتُمۡ لَهُۥ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُشْفِقُونَ",
+          "content": "خائفون خذرون",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 21,
+          "ayahIndex": 49
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مُشْفِقُونَ",
+          "content": "خائفون خذرون"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "مُنكِرُونَ ۝٥٠ وَلَقَدۡ ءَاتَیۡنَاۤ إِبۡرَ ٰ⁠هِیمَ رُشۡدَهُۥ مِن قَبۡلُ وَكُنَّا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِهِۦ عَـٰلِمِینَ ۝٥١ إِذۡ قَالَ لِأَبِیهِ وَقَوۡمِهِۦ مَا هَـٰذِهِ ٱلتَّمَاثِیلُ ٱلَّتِیۤ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَنتُمۡ لَهَا عَـٰكِفُونَ ۝٥٢ قَالُوا۟ وَجَدۡنَاۤ ءَابَاۤءَنَا لَهَا عَـٰبِدِینَ ۝٥٣ قَالَ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلتَّمَاثِيلُ",
+          "content": "الأصنام المصنوعة بأيديكم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 21,
+          "ayahIndex": 52
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَقَدۡ كُنتُمۡ أَنتُمۡ وَءَابَاۤؤُكُمۡ فِی ضَلَـٰلࣲ مُّبِینࣲ ۝٥٤ قَالُوۤا۟ أَجِئۡتَنَا",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّـٰعِبِینَ ۝٥٥ قَالَ بَل رَّبُّكُمۡ رَبُّ ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡأَرۡضِ ٱلَّذِی فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَ ٰ⁠لِكُم مِّنَ ٱلشَّـٰهِدِینَ ۝٥٦",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَطَرَهُنَّ",
+          "content": "خلقهنّ وأبدعهنّ",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 21,
+          "ayahIndex": 56
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 11,
+          "tokens": "فَطَرَهُنَّ",
+          "content": "خلقهنّ وأبدعهنّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَتَٱللَّهِ لَأَكِیدَنَّ أَصۡنَـٰمَكُم بَعۡدَ أَن تُوَلُّوا۟ مُدۡبِرِینَ ۝٥٧",
+      "surahIndexFirst": 21,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

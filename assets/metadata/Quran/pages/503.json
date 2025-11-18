@@ -1,0 +1,221 @@
+{
+  "pageIndex": 503,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَإِذَا حُشِرَ ٱلنَّاسُ كَانُوا۟ لَهُمۡ أَعۡدَاۤءࣰ وَكَانُوا۟ بِعِبَادَتِهِمۡ كَـٰفِرِینَ ۝٦ وَإِذَا",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "تُتۡلَىٰ عَلَیۡهِمۡ ءَایَـٰتُنَا بَیِّنَـٰتࣲ قَالَ ٱلَّذِینَ كَفَرُوا۟ لِلۡحَقِّ لَمَّا جَاۤءَهُمۡ هَـٰذَا",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "سِحۡرࣱ مُّبِینٌ ۝٧ أَمۡ یَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَیۡتُهُۥ فَلَا تَمۡلِكُونَ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "لِی مِنَ ٱللَّهِ شَیۡـًٔاۖ هُوَ أَعۡلَمُ بِمَا تُفِیضُونَ فِیهِۚ كَفَىٰ بِهِۦ شَهِیدَۢا بَیۡنِی",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تندفعون فيه طعنا وتكذيبا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 46,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 17,
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تندفعون فيه طعنا وتكذيبا"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَبَیۡنَكُمۡۖ وَهُوَ ٱلۡغَفُورُ ٱلرَّحِیمُ ۝٨ قُلۡ مَا كُنتُ بِدۡعࣰا مِّنَ ٱلرُّسُلِ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تُفِيضُونَ فِيهِ",
+          "content": "تندفعون فيه طعنا وتكذيبا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 46,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَاۤ أَدۡرِی مَا یُفۡعَلُ بِی وَلَا بِكُمۡۖ إِنۡ أَتَّبِعُ إِلَّا مَا یُوحَىٰۤ إِلَیَّ وَمَاۤ أَنَا۠",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِدْعًا",
+          "content": "بديعا منفردًا فيما جئتُ به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 46,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "إِلَّا نَذِیرࣱ مُّبِینࣱ ۝٩ قُلۡ أَرَءَیۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِدْعًا",
+          "content": "بديعا منفردًا فيما جئتُ به",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 46,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَشَهِدَ شَاهِدࣱ مِّنۢ بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني ماذا حالكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 46,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "إِنَّ ٱللَّهَ لَا یَهۡدِی ٱلۡقَوۡمَ ٱلظَّـٰلِمِینَ ۝١٠ وَقَالَ ٱلَّذِینَ كَفَرُوا۟",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني ماذا حالكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 46,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "لِلَّذِینَ ءَامَنُوا۟ لَوۡ كَانَ خَیۡرࣰا مَّا سَبَقُونَاۤ إِلَیۡهِۚ وَإِذۡ لَمۡ یَهۡتَدُوا۟ بِهِۦ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِفْكٌ قَدِيمٌ",
+          "content": "كذبٌ متقادمٌ",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 46,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَسَیَقُولُونَ هَـٰذَاۤ إِفۡكࣱ قَدِیمࣱ ۝١١ وَمِن قَبۡلِهِۦ كِتَـٰبُ مُوسَىٰۤ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "إِفْكٌ قَدِيمٌ",
+          "content": "كذبٌ متقادمٌ",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 46,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 14,
+          "tokens": "إِفْكٌ قَدِيمٌ",
+          "content": "كذبٌ متقادمٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِمَامࣰا وَرَحۡمَةࣰۚ وَهَـٰذَا كِتَـٰبࣱ مُّصَدِّقࣱ لِّسَانًا عَرَبِیࣰّا لِّیُنذِرَ",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلَّذِینَ ظَلَمُوا۟ وَبُشۡرَىٰ لِلۡمُحۡسِنِینَ ۝١٢ إِنَّ ٱلَّذِینَ قَالُوا۟ رَبُّنَا",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱللَّهُ ثُمَّ ٱسۡتَقَـٰمُوا۟ فَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝١٣",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "أُو۟لَـٰۤىِٕكَ أَصۡحَـٰبُ ٱلۡجَنَّةِ خَـٰلِدِینَ فِیهَا جَزَاۤءَۢ بِمَا كَانُوا۟ یَعۡمَلُونَ ۝١٤",
+      "surahIndexFirst": 46,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

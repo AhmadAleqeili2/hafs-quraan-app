@@ -1,0 +1,439 @@
+{
+  "pageIndex": 549,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة الممتحنة",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَـٰۤأَیُّهَا ٱلَّذِینَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّی وَعَدُوَّكُمۡ أَوۡلِیَاۤءَ تُلۡقُونَ إِلَیۡهِم",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 75,
+          "length": 12,
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "بِٱلۡمَوَدَّةِ وَقَدۡ كَفَرُوا۟ بِمَا جَاۤءَكُم مِّنَ ٱلۡحَقِّ یُخۡرِجُونَ ٱلرَّسُولَ وَإِیَّاكُمۡ أَن",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 99,
+          "length": 3,
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "تُؤۡمِنُوا۟ بِٱللَّهِ رَبِّكُمۡ إِن كُنتُمۡ خَرَجۡتُمۡ جِهَـٰدࣰا فِی سَبِیلِی وَٱبۡتِغَاۤءَ مَرۡضَاتِیۚ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "تُسِرُّونَ إِلَیۡهِم بِٱلۡمَوَدَّةِ وَأَنَا۠ أَعۡلَمُ بِمَاۤ أَخۡفَیۡتُمۡ وَمَاۤ أَعۡلَنتُمۡۚ وَمَن",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "یَفۡعَلۡهُ مِنكُمۡ فَقَدۡ ضَلَّ سَوَاۤءَ ٱلسَّبِیلِ ۝١ إِن یَثۡقَفُوكُمۡ یَكُونُوا۟ لَكُمۡ أَعۡدَاۤءࣰ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَوْلِيَآءَ",
+          "content": "أعوانا توادونهم وتناصحونهم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "أَن تُؤْمِنُوا۟",
+          "content": "لإيمانكم أو كراهة إيمانكم",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 22,
+          "surahIndex": 60,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَیَبۡسُطُوۤا۟ إِلَیۡكُمۡ أَیۡدِیَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوۤءِ وَوَدُّوا۟ لَوۡ تَكۡفُرُونَ ۝٢",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 2,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَثْقَفُوكُمْ",
+          "content": "يَظفروا بكم، أو يصادفوكم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 60,
+          "ayahIndex": 2
+        },
+        {
+          "tokens": "وَيَبْسُطُوٓا۟ إِلَيْكُمْ",
+          "content": "يمدّوا إليكم",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 60,
+          "ayahIndex": 2
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "وَيَبْسُطُوٓا۟ إِلَيْكُمْ",
+          "content": "يمدّوا إليكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَاۤ أَوۡلَـٰدُكُمۡۚ یَوۡمَ ٱلۡقِیَـٰمَةِ یَفۡصِلُ بَیۡنَكُمۡۚ وَٱللَّهُ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِمَا تَعۡمَلُونَ بَصِیرࣱ ۝٣ قَدۡ كَانَتۡ لَكُمۡ أُسۡوَةٌ حَسَنَةࣱ فِیۤ إِبۡرَ ٰ⁠هِیمَ وَٱلَّذِینَ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 3,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَعَهُۥۤ إِذۡ قَالُوا۟ لِقَوۡمِهِمۡ إِنَّا بُرَءَ ٰۤ⁠ ؤُا۟ مِنكُمۡ وَمِمَّا تَعۡبُدُونَ مِن دُونِ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُسْوَةٌ حَسَنَةٌ",
+          "content": "قدوة حميدة في التَّبَرّي من الضالين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُرَءَٰٓؤُا۟ مِنكُمْ",
+          "content": "أبرياء منكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَإِلَيْكَ أَنَبْنَا",
+          "content": "إليك رَجَعْنا تائبين",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 43,
+          "length": 15,
+          "tokens": "بُرَءَٰٓؤُا۟ مِنكُمْ",
+          "content": "أبرياء منكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱللَّهِ كَفَرۡنَا بِكُمۡ وَبَدَا بَیۡنَنَا وَبَیۡنَكُمُ ٱلۡعَدَ ٰ⁠وَةُ وَٱلۡبَغۡضَاۤءُ أَبَدًا حَتَّىٰ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُسْوَةٌ حَسَنَةٌ",
+          "content": "قدوة حميدة في التَّبَرّي من الضالين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُرَءَٰٓؤُا۟ مِنكُمْ",
+          "content": "أبرياء منكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَإِلَيْكَ أَنَبْنَا",
+          "content": "إليك رَجَعْنا تائبين",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "تُؤۡمِنُوا۟ بِٱللَّهِ وَحۡدَهُۥۤ إِلَّا قَوۡلَ إِبۡرَ ٰ⁠هِیمَ لِأَبِیهِ لَأَسۡتَغۡفِرَنَّ لَكَ وَمَاۤ أَمۡلِكُ لَكَ",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُسْوَةٌ حَسَنَةٌ",
+          "content": "قدوة حميدة في التَّبَرّي من الضالين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُرَءَٰٓؤُا۟ مِنكُمْ",
+          "content": "أبرياء منكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَإِلَيْكَ أَنَبْنَا",
+          "content": "إليك رَجَعْنا تائبين",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "مِنَ ٱللَّهِ مِن شَیۡءࣲۖ رَّبَّنَا عَلَیۡكَ تَوَكَّلۡنَا وَإِلَیۡكَ أَنَبۡنَا وَإِلَیۡكَ ۝٤ رَبَّنَا",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أُسْوَةٌ حَسَنَةٌ",
+          "content": "قدوة حميدة في التَّبَرّي من الضالين",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "بُرَءَٰٓؤُا۟ مِنكُمْ",
+          "content": "أبرياء منكم",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        },
+        {
+          "tokens": "وَإِلَيْكَ أَنَبْنَا",
+          "content": "إليك رَجَعْنا تائبين",
+          "tokenFromIndex": 49,
+          "tokenToIndex": 50,
+          "surahIndex": 60,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 44,
+          "length": 23,
+          "tokens": "وَإِلَيْكَ أَنَبْنَا",
+          "content": "إليك رَجَعْنا تائبين"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "لَا تَجۡعَلۡنَا فِتۡنَةࣰ لِّلَّذِینَ كَفَرُوا۟ وَٱغۡفِرۡ لَنَا رَبَّنَاۤۖ إِنَّكَ أَنتَ ٱلۡعَزِیزُ ٱلۡحَكِیمُ ۝٥",
+      "surahIndexFirst": 60,
+      "ayahIndexFirst": 5,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَا تَجْعَلْنَا فِتْنَةً",
+          "content": "مفتونين بهم معذبين بأيديهم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 60,
+          "ayahIndex": 5
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "لَا تَجْعَلْنَا فِتْنَةً",
+          "content": "مفتونين بهم معذبين بأيديهم"
+        }
+      ]
+    }
+  ]
+}

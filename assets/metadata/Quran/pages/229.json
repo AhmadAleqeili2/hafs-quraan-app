@@ -1,0 +1,397 @@
+{
+  "pageIndex": 229,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قَالَ یَـٰقَوۡمِ أَرَءَیۡتُمۡ إِن كُنتُ عَلَىٰ بَیِّنَةࣲ مِّن رَّبِّی وَءَاتَىٰنِی",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "بَيِّنَةٍ",
+          "content": "يقين وبرهان وبصيرة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "تَخْسِيرٍ",
+          "content": "خسرانٍ إن عصيته",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 12,
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني"
+        },
+        {
+          "start": 47,
+          "length": 9,
+          "tokens": "بَيِّنَةٍ",
+          "content": "يقين وبرهان وبصيرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِنۡهُ رَحۡمَةࣰ فَمَن یَنصُرُنِی مِنَ ٱللَّهِ إِنۡ عَصَیۡتُهُۥۖ فَمَا تَزِیدُونَنِی",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "بَيِّنَةٍ",
+          "content": "يقين وبرهان وبصيرة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "تَخْسِيرٍ",
+          "content": "خسرانٍ إن عصيته",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "غَیۡرَ تَخۡسِیرࣲ ۝٦٣ وَیَـٰقَوۡمِ هَـٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَایَةࣰۖ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَرَءَيْتُمْ",
+          "content": "أخبروني",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "بَيِّنَةٍ",
+          "content": "يقين وبرهان وبصيرة",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        },
+        {
+          "tokens": "تَخْسِيرٍ",
+          "content": "خسرانٍ إن عصيته",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 22,
+          "surahIndex": 11,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 9,
+          "tokens": "تَخْسِيرٍ",
+          "content": "خسرانٍ إن عصيته"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَذَرُوهَا تَأۡكُلۡ فِیۤ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوۤءࣲ فَیَأۡخُذَكُمۡ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَايَةً",
+          "content": "مُعجزة دالّة على صدق نبوّتي",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَذَابࣱ قَرِیبࣱ ۝٦٤ فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا۟ فِی دَارِكُمۡ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ءَايَةً",
+          "content": "مُعجزة دالّة على صدق نبوّتي",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 11,
+          "ayahIndex": 64
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "ثَلَـٰثَةَ أَیَّامࣲۖ ذَ ٰ⁠لِكَ وَعۡدٌ غَیۡرُ مَكۡذُوبࣲ ۝٦٥ فَلَمَّا جَاۤءَ أَمۡرُنَا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "نَجَّیۡنَا صَـٰلِحࣰا وَٱلَّذِینَ ءَامَنُوا۟ مَعَهُۥ بِرَحۡمَةࣲ مِّنَّا وَمِنۡ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "خِزۡیِ یَوۡمِىِٕذٍۚ إِنَّ رَبَّكَ هُوَ ٱلۡقَوِیُّ ٱلۡعَزِیزُ ۝٦٦ وَأَخَذَ ٱلَّذِینَ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ظَلَمُوا۟ ٱلصَّیۡحَةُ فَأَصۡبَحُوا۟ فِی دِیَـٰرِهِمۡ جَـٰثِمِینَ ۝٦٧",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلصَّيْحَةُ",
+          "content": "صوت من السّماء مُهلك",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 67
+        },
+        {
+          "tokens": "جَٰثِمِينَ",
+          "content": "هامدين ميّتين لا يتحرّكون",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 11,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 10,
+          "length": 11,
+          "tokens": "ٱلصَّيْحَةُ",
+          "content": "صوت من السّماء مُهلك"
+        },
+        {
+          "start": 53,
+          "length": 11,
+          "tokens": "جَٰثِمِينَ",
+          "content": "هامدين ميّتين لا يتحرّكون"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "كَأَن لَّمۡ یَغۡنَوۡا۟ فِیهَاۤۗ أَلَاۤ إِنَّ ثَمُودَا۟ كَفَرُوا۟ رَبَّهُمۡۗ أَلَا",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّمْ يَغْنَوْا۟ فِيهَآ",
+          "content": "لم يُقيموا فيها طويلا في رغدٍ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "بُعْدًا لِّثَمُودَ",
+          "content": "هلاكا وسُحقا لهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 11,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 25,
+          "tokens": "لَّمْ يَغْنَوْا۟ فِيهَآ",
+          "content": "لم يُقيموا فيها طويلا في رغدٍ"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بُعۡدࣰا لِّثَمُودَ ۝٦٨ وَلَقَدۡ جَاۤءَتۡ رُسُلُنَاۤ إِبۡرَ ٰ⁠هِیمَ بِٱلۡبُشۡرَىٰ قَالُوا۟",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّمْ يَغْنَوْا۟ فِيهَآ",
+          "content": "لم يُقيموا فيها طويلا في رغدٍ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 4,
+          "surahIndex": 11,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "بُعْدًا لِّثَمُودَ",
+          "content": "هلاكا وسُحقا لهم",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 11,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "بُعْدًا لِّثَمُودَ",
+          "content": "هلاكا وسُحقا لهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "سَلَـٰمࣰاۖ قَالَ سَلَـٰمࣱۖ فَمَا لَبِثَ أَن جَاۤءَ بِعِجۡلٍ حَنِیذࣲ ۝٦٩ فَلَمَّا رَءَاۤ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِعِجْلٍ حَنِيذٍ",
+          "content": "مشويّ بالحجارة المحمّاة في حُفرة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 11,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 51,
+          "length": 16,
+          "tokens": "بِعِجْلٍ حَنِيذٍ",
+          "content": "مشويّ بالحجارة المحمّاة في حُفرة"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَیۡدِیَهُمۡ لَا تَصِلُ إِلَیۡهِ نَكِرَهُمۡ وَأَوۡجَسَ مِنۡهُمۡ خِیفَةࣰۚ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَكِرَهُمْ",
+          "content": "أنكرهم ونفر منهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "وَأَوْجَسَ مِنْهُمْ خِيفَةً",
+          "content": "أحسّ في قلبه منهم خوفا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 70
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 33,
+          "length": 10,
+          "tokens": "نَكِرَهُمْ",
+          "content": "أنكرهم ونفر منهم"
+        },
+        {
+          "start": 44,
+          "length": 28,
+          "tokens": "وَأَوْجَسَ مِنْهُمْ خِيفَةً",
+          "content": "أحسّ في قلبه منهم خوفا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "قَالُوا۟ لَا تَخَفۡ إِنَّاۤ أُرۡسِلۡنَاۤ إِلَىٰ قَوۡمِ لُوطࣲ ۝٧٠ وَٱمۡرَأَتُهُۥ قَاۤىِٕمَةࣱ",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 70,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "نَكِرَهُمْ",
+          "content": "أنكرهم ونفر منهم",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 11,
+          "ayahIndex": 70
+        },
+        {
+          "tokens": "وَأَوْجَسَ مِنْهُمْ خِيفَةً",
+          "content": "أحسّ في قلبه منهم خوفا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 10,
+          "surahIndex": 11,
+          "ayahIndex": 70
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَضَحِكَتۡ فَبَشَّرۡنَـٰهَا بِإِسۡحَـٰقَ وَمِن وَرَاۤءِ إِسۡحَـٰقَ یَعۡقُوبَ ۝٧١",
+      "surahIndexFirst": 11,
+      "ayahIndexFirst": 71,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

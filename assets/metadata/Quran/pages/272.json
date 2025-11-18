@@ -1,0 +1,317 @@
+{
+  "pageIndex": 272,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَمَاۤ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالࣰا نُّوحِیۤ إِلَیۡهِمۡۖ فَسۡـَٔلُوۤا۟ أَهۡلَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ ۝٤٣ بِٱلۡبَیِّنَـٰتِ وَٱلزُّبُرِۗ وَأَنزَلۡنَاۤ إِلَیۡكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 43,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلذِّكۡرَ لِتُبَیِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَیۡهِمۡ وَلَعَلَّهُمۡ یَتَفَكَّرُونَ ۝٤٤",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بِٱلْبَيِّنَٰتِ",
+          "content": "أرسلناهم بالمعجزات",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 16,
+          "ayahIndex": 44
+        },
+        {
+          "tokens": "وَٱلزُّبُرِ",
+          "content": "كتب الشّرائع والتكاليف",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 16,
+          "ayahIndex": 44
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أَفَأَمِنَ ٱلَّذِینَ مَكَرُوا۟ ٱلسَّیِّـَٔاتِ أَن یَخۡسِفَ ٱللَّهُ بِهِمُ ٱلۡأَرۡضَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْسِفَ",
+          "content": "يُغيّب",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 16,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 50,
+          "length": 8,
+          "tokens": "يَخْسِفَ",
+          "content": "يُغيّب"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَوۡ یَأۡتِیَهُمُ ٱلۡعَذَابُ مِنۡ حَیۡثُ لَا یَشۡعُرُونَ ۝٤٥ أَوۡ یَأۡخُذَهُمۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَخْسِفَ",
+          "content": "يُغيّب",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 6,
+          "surahIndex": 16,
+          "ayahIndex": 45
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِی تَقَلُّبِهِمۡ فَمَا هُم بِمُعۡجِزِینَ ۝٤٦ أَوۡ یَأۡخُذَهُمۡ عَلَىٰ تَخَوُّفࣲ فَإِنَّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 46,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَقَلُّبِهِمْ",
+          "content": "أسفارهم ومتاجرهم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 46
+        },
+        {
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "فائتين من عذاب الله بالهرب",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 46
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 4,
+          "length": 13,
+          "tokens": "تَقَلُّبِهِمْ",
+          "content": "أسفارهم ومتاجرهم"
+        },
+        {
+          "start": 28,
+          "length": 13,
+          "tokens": "بِمُعْجِزِينَ",
+          "content": "فائتين من عذاب الله بالهرب"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "رَبَّكُمۡ لَرَءُوفࣱ رَّحِیمٌ ۝٤٧ أَوَلَمۡ یَرَوۡا۟ إِلَىٰ مَا خَلَقَ ٱللَّهُ مِن شَیۡءࣲ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَخَوُّفٍ",
+          "content": "مخافة من العذاب، أو تَنَقُّص",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 47
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَتَفَیَّؤُا۟ ظِلَـٰلُهُۥ عَنِ ٱلۡیَمِینِ وَٱلشَّمَاۤىِٕلِ سُجَّدࣰا لِّلَّهِ وَهُمۡ دَ ٰ⁠خِرُونَ ۝٤٨",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِن شَىْءٍ",
+          "content": "من جسم قائم له ظلّ",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 16,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "يَتَفَيَّؤُا۟ ظِلَٰلُهُۥ",
+          "content": "تميل وتنتقل من جانب إلى آخر",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 16,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "سُجَّدًا لِّلَّهِ",
+          "content": "منقادة لِحُكمه وتسخيره تعالى",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 16,
+          "ayahIndex": 48
+        },
+        {
+          "tokens": "وَهُمْ دَٰخِرُونَ",
+          "content": "والظِلال صاغرون منقادون كأصحابها",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 17,
+          "surahIndex": 16,
+          "ayahIndex": 48
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "يَتَفَيَّؤُا۟ ظِلَٰلُهُۥ",
+          "content": "تميل وتنتقل من جانب إلى آخر"
+        },
+        {
+          "start": 59,
+          "length": 17,
+          "tokens": "سُجَّدًا لِّلَّهِ",
+          "content": "منقادة لِحُكمه وتسخيره تعالى"
+        },
+        {
+          "start": 77,
+          "length": 19,
+          "tokens": "وَهُمْ دَٰخِرُونَ",
+          "content": "والظِلال صاغرون منقادون كأصحابها"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَلِلَّهِ یَسۡجُدُ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ وَمَا فِی ٱلۡأَرۡضِ مِن دَاۤبَّةࣲ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱلۡمَلَـٰۤىِٕكَةُ وَهُمۡ لَا یَسۡتَكۡبِرُونَ ۝٤٩ یَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 49,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَیَفۡعَلُونَ مَا یُؤۡمَرُونَ ۝٥٠ وَقَالَ ٱللَّهُ لَا تَتَّخِذُوۤا۟ إِلَـٰهَیۡنِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱثۡنَیۡنِۖ إِنَّمَا هُوَ إِلَـٰهࣱ وَ ٰ⁠حِدࣱ فَإِیَّـٰیَ فَٱرۡهَبُونِ ۝٥١ وَلَهُۥ مَا فِی ٱلسَّمَـٰوَ ٰ⁠تِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 51,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَٱلۡأَرۡضِ وَلَهُ ٱلدِّینُ وَاصِبًاۚ أَفَغَیۡرَ ٱللَّهِ تَتَّقُونَ ۝٥٢ وَمَا بِكُم مِّن",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَهُ ٱلدِّينُ",
+          "content": "الطّاعة والإنقياد لله تعالى وحده",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 16,
+          "ayahIndex": 52
+        },
+        {
+          "tokens": "وَاصِبًا",
+          "content": "دائما واجبا لازما أو خالصا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 16,
+          "ayahIndex": 52
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 15,
+          "tokens": "وَلَهُ ٱلدِّينُ",
+          "content": "الطّاعة والإنقياد لله تعالى وحده"
+        },
+        {
+          "start": 28,
+          "length": 9,
+          "tokens": "وَاصِبًا",
+          "content": "دائما واجبا لازما أو خالصا"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "نِّعۡمَةࣲ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَیۡهِ تَجۡـَٔرُونَ ۝٥٣ ثُمَّ إِذَا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَجْـَٔرُونَ",
+          "content": "تضِجّون بالإستغاثة والتّضرّع",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 16,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 68,
+          "length": 12,
+          "tokens": "تَجْـَٔرُونَ",
+          "content": "تضِجّون بالإستغاثة والتّضرّع"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "كَشَفَ ٱلضُّرَّ عَنكُمۡ إِذَا فَرِیقࣱ مِّنكُم بِرَبِّهِمۡ یُشۡرِكُونَ ۝٥٤",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

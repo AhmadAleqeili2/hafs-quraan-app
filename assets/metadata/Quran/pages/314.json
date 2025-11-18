@@ -1,0 +1,409 @@
+{
+  "pageIndex": 314,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِذۡ أَوۡحَیۡنَاۤ إِلَىٰۤ أُمِّكَ مَا یُوحَىٰۤ ۝٣٨ أَنِ ٱقۡذِفِیهِ فِی ٱلتَّابُوتِ فَٱقۡذِفِیهِ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "فِی ٱلۡیَمِّ فَلۡیُلۡقِهِ ٱلۡیَمُّ بِٱلسَّاحِلِ یَأۡخُذۡهُ عَدُوࣱّ لِّی وَعَدُوࣱّ لَّهُۥۚ وَأَلۡقَیۡتُ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱقْذِفِيهِ فِى ٱلْيَمِّ",
+          "content": "فألقيه واطرحيه في نهر النّيل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 20,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+          "content": "لترَبّي بمُراقبتي أو بمرأى منّي",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 22,
+          "surahIndex": 20,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "فَٱقْذِفِيهِ فِى ٱلْيَمِّ",
+          "content": "فألقيه واطرحيه في نهر النّيل"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "عَلَیۡكَ مَحَبَّةࣰ مِّنِّی وَلِتُصۡنَعَ عَلَىٰ عَیۡنِیۤ ۝٣٩ إِذۡ تَمۡشِیۤ أُخۡتُكَ فَتَقُولُ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱقْذِفِيهِ فِى ٱلْيَمِّ",
+          "content": "فألقيه واطرحيه في نهر النّيل",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 20,
+          "ayahIndex": 39
+        },
+        {
+          "tokens": "وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+          "content": "لترَبّي بمُراقبتي أو بمرأى منّي",
+          "tokenFromIndex": 20,
+          "tokenToIndex": 22,
+          "surahIndex": 20,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 28,
+          "tokens": "وَلِتُصْنَعَ عَلَىٰ عَيْنِىٓ",
+          "content": "لترَبّي بمُراقبتي أو بمرأى منّي"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "هَلۡ أَدُلُّكُمۡ عَلَىٰ مَن یَكۡفُلُهُۥۖ فَرَجَعۡنَـٰكَ إِلَىٰۤ أُمِّكَ كَیۡ تَقَرَّ عَیۡنُهَا",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَن يَكْفُلُهُۥ",
+          "content": "من يضمّه إليه ويحفظه ويُربّيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسَرّ بلقائك",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "وَفَتَنَّٰكَ فُتُونًا",
+          "content": "خلّصناك من المِحن تخليصا",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "جِئْتَ عَلَىٰ قَدَرٍ",
+          "content": "على وَفق الوقت المقدّر لإرسالك",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 24,
+          "length": 16,
+          "tokens": "مَن يَكْفُلُهُۥ",
+          "content": "من يضمّه إليه ويحفظه ويُربّيه"
+        },
+        {
+          "start": 77,
+          "length": 17,
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسَرّ بلقائك"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَلَا تَحۡزَنَۚ وَقَتَلۡتَ نَفۡسࣰا فَنَجَّیۡنَـٰكَ مِنَ ٱلۡغَمِّ وَفَتَنَّـٰكَ فُتُونࣰاۚ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَن يَكْفُلُهُۥ",
+          "content": "من يضمّه إليه ويحفظه ويُربّيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسَرّ بلقائك",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "وَفَتَنَّٰكَ فُتُونًا",
+          "content": "خلّصناك من المِحن تخليصا",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "جِئْتَ عَلَىٰ قَدَرٍ",
+          "content": "على وَفق الوقت المقدّر لإرسالك",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 65,
+          "length": 23,
+          "tokens": "وَفَتَنَّٰكَ فُتُونًا",
+          "content": "خلّصناك من المِحن تخليصا"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فَلَبِثۡتَ سِنِینَ فِیۤ أَهۡلِ مَدۡیَنَ ثُمَّ جِئۡتَ عَلَىٰ قَدَرࣲ یَـٰمُوسَىٰ ۝٤٠",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَن يَكْفُلُهُۥ",
+          "content": "من يضمّه إليه ويحفظه ويُربّيه",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "تَقَرَّ عَيْنُهَا",
+          "content": "تُسَرّ بلقائك",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "وَفَتَنَّٰكَ فُتُونًا",
+          "content": "خلّصناك من المِحن تخليصا",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 24,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        },
+        {
+          "tokens": "جِئْتَ عَلَىٰ قَدَرٍ",
+          "content": "على وَفق الوقت المقدّر لإرسالك",
+          "tokenFromIndex": 31,
+          "tokenToIndex": 33,
+          "surahIndex": 20,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 20,
+          "tokens": "جِئْتَ عَلَىٰ قَدَرٍ",
+          "content": "على وَفق الوقت المقدّر لإرسالك"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱصۡطَنَعۡتُكَ لِنَفۡسِی ۝٤١ ٱذۡهَبۡ أَنتَ وَأَخُوكَ بِـَٔایَـٰتِی وَلَا",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 41,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱصْطَنَعْتُكَ لِنَفْسِى",
+          "content": "اصطفيتك لرسالتي وإقامة حُجّتي",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 20,
+          "ayahIndex": 41
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "وَٱصْطَنَعْتُكَ لِنَفْسِى",
+          "content": "اصطفيتك لرسالتي وإقامة حُجّتي"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "تَنِیَا فِی ذِكۡرِی ۝٤٢ ٱذۡهَبَاۤ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ ۝٤٣ فَقُولَا لَهُۥ قَوۡلࣰا",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 42,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَنِيَا فِى ذِكْرِى",
+          "content": "لا تفترا في تبليغ رسالتي",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 8,
+          "surahIndex": 20,
+          "ayahIndex": 42
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 19,
+          "tokens": "وَلَا تَنِيَا فِى ذِكْرِى",
+          "content": "لا تفترا في تبليغ رسالتي"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَّیِّنࣰا لَّعَلَّهُۥ یَتَذَكَّرُ أَوۡ یَخۡشَىٰ ۝٤٤ قَالَا رَبَّنَاۤ إِنَّنَا نَخَافُ أَن یَفۡرُطَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 44,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَلَیۡنَاۤ أَوۡ أَن یَطۡغَىٰ ۝٤٥ قَالَ لَا تَخَافَاۤۖ إِنَّنِی مَعَكُمَاۤ أَسۡمَعُ وَأَرَىٰ ۝٤٦",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 45,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَفْرُطَ عَلَيْنَآ",
+          "content": "يعجل علينا بالعقوبة",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 20,
+          "ayahIndex": 45
+        },
+        {
+          "tokens": "يَطْغَىٰ",
+          "content": "يزداد طُغيانا وعُتوّا وجراءة",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 20,
+          "ayahIndex": 45
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "يَفْرُطَ عَلَيْنَآ",
+          "content": "يعجل علينا بالعقوبة"
+        },
+        {
+          "start": 20,
+          "length": 8,
+          "tokens": "يَطْغَىٰ",
+          "content": "يزداد طُغيانا وعُتوّا وجراءة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَأۡتِیَاهُ فَقُولَاۤ إِنَّا رَسُولَا رَبِّكَ فَأَرۡسِلۡ مَعَنَا بَنِیۤ إِسۡرَ ٰ⁠ۤءِیلَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَلَا تُعَذِّبۡهُمۡۖ قَدۡ جِئۡنَـٰكَ بِـَٔایَةࣲ مِّن رَّبِّكَۖ وَٱلسَّلَـٰمُ عَلَىٰ مَنِ ٱتَّبَعَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلۡهُدَىٰۤ ۝٤٧ إِنَّا قَدۡ أُوحِیَ إِلَیۡنَاۤ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 47,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَتَوَلَّىٰ ۝٤٨ قَالَ فَمَن رَّبُّكُمَا یَـٰمُوسَىٰ ۝٤٩ قَالَ رَبُّنَا ٱلَّذِیۤ أَعۡطَىٰ",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 48,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "كُلَّ شَیۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ ۝٥٠ قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ ۝٥١",
+      "surahIndexFirst": 20,
+      "ayahIndexFirst": 50,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَلْقَهُۥ",
+          "content": "صورَته اللائقة بخاصّته ومنفعته",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 20,
+          "ayahIndex": 50
+        },
+        {
+          "tokens": "هَدَىٰ",
+          "content": "أرشدَه إلى ما يصلح له",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 20,
+          "ayahIndex": 50
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 9,
+          "tokens": "خَلْقَهُۥ",
+          "content": "صورَته اللائقة بخاصّته ومنفعته"
+        },
+        {
+          "start": 29,
+          "length": 6,
+          "tokens": "هَدَىٰ",
+          "content": "أرشدَه إلى ما يصلح له"
+        }
+      ]
+    }
+  ]
+}

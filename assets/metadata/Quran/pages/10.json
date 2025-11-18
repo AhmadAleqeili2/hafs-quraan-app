@@ -1,0 +1,333 @@
+{
+  "pageIndex": 10,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ ٱلَّذِینَ ءَامَنُوا۟ وَٱلَّذِینَ هَادُوا۟ وَٱلنَّصَـٰرَىٰ وَٱلصَّـٰبِـِٔینَ مَنۡ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَادُوا۟",
+          "content": "صاروا يهودا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 62
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 39,
+          "length": 8,
+          "tokens": "هَادُوا۟",
+          "content": "صاروا يهودا"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ءَامَنَ بِٱللَّهِ وَٱلۡیَوۡمِ ٱلۡـَٔاخِرِ وَعَمِلَ صَـٰلِحࣰا فَلَهُمۡ أَجۡرُهُمۡ عِندَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَادُوا۟",
+          "content": "صاروا يهودا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 62
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "رَبِّهِمۡ وَلَا خَوۡفٌ عَلَیۡهِمۡ وَلَا هُمۡ یَحۡزَنُونَ ۝٦٢ وَإِذۡ أَخَذۡنَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 62,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هَادُوا۟",
+          "content": "صاروا يهودا",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 2,
+          "ayahIndex": 62
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِیثَـٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُوا۟ مَاۤ ءَاتَیۡنَـٰكُم",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِيثَٰقَكُمْ",
+          "content": "العهد عليكم بالعمل بما في التوراة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 63
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "مِيثَٰقَكُمْ",
+          "content": "العهد عليكم بالعمل بما في التوراة"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "بِقُوَّةࣲ وَٱذۡكُرُوا۟ مَا فِیهِ لَعَلَّكُمۡ تَتَّقُونَ ۝٦٣ ثُمَّ تَوَلَّیۡتُم",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 63,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مِيثَٰقَكُمْ",
+          "content": "العهد عليكم بالعمل بما في التوراة",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 2,
+          "ayahIndex": 63
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِّنۢ بَعۡدِ ذَ ٰ⁠لِكَۖ فَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَیۡكُمۡ وَرَحۡمَتُهُۥ لَكُنتُم مِّنَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡخَـٰسِرِینَ ۝٦٤ وَلَقَدۡ عَلِمۡتُمُ ٱلَّذِینَ ٱعۡتَدَوۡا۟ مِنكُمۡ فِی ٱلسَّبۡتِ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 64,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَقُلۡنَا لَهُمۡ كُونُوا۟ قِرَدَةً خَـٰسِـِٔینَ ۝٦٥ فَجَعَلۡنَـٰهَا نَكَـٰلࣰا لِّمَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 65,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خَٰسِـِٔينَ",
+          "content": "مُبعدين مطرودين صاغرين",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 2,
+          "ayahIndex": 65
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 12,
+          "tokens": "خَٰسِـِٔينَ",
+          "content": "مُبعدين مطرودين صاغرين"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بَیۡنَ یَدَیۡهَا وَمَا خَلۡفَهَا وَمَوۡعِظَةࣰ لِّلۡمُتَّقِینَ ۝٦٦ وَإِذۡ قَالَ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 66,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَجَعَلْنَٰهَا نَكَٰلًا",
+          "content": "عقوبة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 2,
+          "ayahIndex": 66
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مُوسَىٰ لِقَوۡمِهِۦۤ إِنَّ ٱللَّهَ یَأۡمُرُكُمۡ أَن تَذۡبَحُوا۟ بَقَرَةࣰۖ قَالُوۤا۟",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هُزُوًا",
+          "content": "سخرية",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 67
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "أَتَتَّخِذُنَا هُزُوࣰاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ مِنَ ٱلۡجَـٰهِلِینَ ۝٦٧",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 67,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هُزُوًا",
+          "content": "سخرية",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 2,
+          "ayahIndex": 67
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 8,
+          "tokens": "هُزُوًا",
+          "content": "سخرية"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "قَالُوا۟ ٱدۡعُ لَنَا رَبَّكَ یُبَیِّن لَّنَا مَا هِیَۚ قَالَ إِنَّهُۥ یَقُولُ إِنَّهَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا فَارِضٌ وَلَا بِكْرٌ",
+          "content": "لا مسنّة ولا فتيّة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "عَوَانٌۢ بَيْنَ ذَٰلِكَ",
+          "content": "نَصَف (وسط ) بين السنّين",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بَقَرَةࣱ لَّا فَارِضࣱ وَلَا بِكۡرٌ عَوَانُۢ بَیۡنَ ذَ ٰ⁠لِكَۖ فَٱفۡعَلُوا۟ مَا",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا فَارِضٌ وَلَا بِكْرٌ",
+          "content": "لا مسنّة ولا فتيّة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "عَوَانٌۢ بَيْنَ ذَٰلِكَ",
+          "content": "نَصَف (وسط ) بين السنّين",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 9,
+          "length": 25,
+          "tokens": "لَّا فَارِضٌ وَلَا بِكْرٌ",
+          "content": "لا مسنّة ولا فتيّة"
+        },
+        {
+          "start": 35,
+          "length": 26,
+          "tokens": "عَوَانٌۢ بَيْنَ ذَٰلِكَ",
+          "content": "نَصَف (وسط ) بين السنّين"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "تُؤۡمَرُونَ ۝٦٨ قَالُوا۟ ٱدۡعُ لَنَا رَبَّكَ یُبَیِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 68,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَّا فَارِضٌ وَلَا بِكْرٌ",
+          "content": "لا مسنّة ولا فتيّة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 17,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        },
+        {
+          "tokens": "عَوَانٌۢ بَيْنَ ذَٰلِكَ",
+          "content": "نَصَف (وسط ) بين السنّين",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 20,
+          "surahIndex": 2,
+          "ayahIndex": 68
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَقُولُ إِنَّهَا بَقَرَةࣱ صَفۡرَاۤءُ فَاقِعࣱ لَّوۡنُهَا تَسُرُّ ٱلنَّـٰظِرِینَ ۝٦٩",
+      "surahIndexFirst": 2,
+      "ayahIndexFirst": 69,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَاقِعٌ لَّوْنُهَا",
+          "content": "شديد الصّفرة",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 2,
+          "ayahIndex": 69
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 37,
+          "length": 18,
+          "tokens": "فَاقِعٌ لَّوْنُهَا",
+          "content": "شديد الصّفرة"
+        }
+      ]
+    }
+  ]
+}

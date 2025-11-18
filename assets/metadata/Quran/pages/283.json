@@ -1,0 +1,379 @@
+{
+  "pageIndex": 283,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "عَسَىٰ رَبُّكُمۡ أَن یَرۡحَمَكُمۡۚ وَإِنۡ عُدتُّمۡ عُدۡنَاۚ وَجَعَلۡنَا جَهَنَّمَ لِلۡكَـٰفِرِینَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَصِيرًا",
+          "content": "سجنا أو مهادا وفراشا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 8
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "حَصِیرًا ۝٨ إِنَّ هَـٰذَا ٱلۡقُرۡءَانَ یَهۡدِی لِلَّتِی هِیَ أَقۡوَمُ وَیُبَشِّرُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "حَصِيرًا",
+          "content": "سجنا أو مهادا وفراشا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "حَصِيرًا",
+          "content": "سجنا أو مهادا وفراشا"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡمُؤۡمِنِینَ ٱلَّذِینَ یَعۡمَلُونَ ٱلصَّـٰلِحَـٰتِ أَنَّ لَهُمۡ أَجۡرࣰا كَبِیرࣰا ۝٩",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "هِىَ أَقْوَمُ",
+          "content": "أسدّ الطرق (ملة الإسلام – والتوحيد)",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 9
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَأَنَّ ٱلَّذِینَ لَا یُؤۡمِنُونَ بِٱلۡـَٔاخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِیمࣰا ۝١٠",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "وَیَدۡعُ ٱلۡإِنسَـٰنُ بِٱلشَّرِّ دُعَاۤءَهُۥ بِٱلۡخَیۡرِۖ وَكَانَ ٱلۡإِنسَـٰنُ عَجُولࣰا ۝١١",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَجَعَلۡنَا ٱلَّیۡلَ وَٱلنَّهَارَ ءَایَتَیۡنِۖ فَمَحَوۡنَاۤ ءَایَةَ ٱلَّیۡلِ وَجَعَلۡنَاۤ ءَایَةَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّيْلَ وَٱلنَّهَارَ",
+          "content": "نفسهما أو نيّرى الليل والنّهار",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ",
+          "content": "خلقنا القمر مطموس النّور مظلما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً",
+          "content": "الشمس مضيئة منيرة للأبصار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 21,
+          "tokens": "ٱلَّيْلَ وَٱلنَّهَارَ",
+          "content": "نفسهما أو نيّرى الليل والنّهار"
+        },
+        {
+          "start": 47,
+          "length": 29,
+          "tokens": "فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ",
+          "content": "خلقنا القمر مطموس النّور مظلما"
+        },
+        {
+          "start": 90,
+          "length": 7,
+          "tokens": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً",
+          "content": "الشمس مضيئة منيرة للأبصار"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلنَّهَارِ مُبۡصِرَةࣰ لِّتَبۡتَغُوا۟ فَضۡلࣰا مِّن رَّبِّكُمۡ وَلِتَعۡلَمُوا۟ عَدَدَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّيْلَ وَٱلنَّهَارَ",
+          "content": "نفسهما أو نيّرى الليل والنّهار",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ",
+          "content": "خلقنا القمر مطموس النّور مظلما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً",
+          "content": "الشمس مضيئة منيرة للأبصار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً",
+          "content": "الشمس مضيئة منيرة للأبصار"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلسِّنِینَ وَٱلۡحِسَابَۚ وَكُلَّ شَیۡءࣲ فَصَّلۡنَـٰهُ تَفۡصِیلࣰا ۝١٢ وَكُلَّ إِنسَـٰنٍ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلَّيْلَ وَٱلنَّهَارَ",
+          "content": "نفسهما أو نيّرى الليل والنّهار",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "فَمَحَوْنَآ ءَايَةَ ٱلَّيْلِ",
+          "content": "خلقنا القمر مطموس النّور مظلما",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        },
+        {
+          "tokens": "ءَايَةَ ٱلنَّهَارِ مُبْصِرَةً",
+          "content": "الشمس مضيئة منيرة للأبصار",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 17,
+          "ayahIndex": 12
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "أَلۡزَمۡنَـٰهُ طَـٰۤىِٕرَهُۥ فِی عُنُقِهِۦۖ وَنُخۡرِجُ لَهُۥ یَوۡمَ ٱلۡقِیَـٰمَةِ كِتَـٰبࣰا یَلۡقَىٰهُ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ",
+          "content": "عمله المقدّر عليه لا ينفكّ عنه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 28,
+          "tokens": "أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ",
+          "content": "عمله المقدّر عليه لا ينفكّ عنه"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَنشُورًا ۝١٣ ٱقۡرَأۡ كِتَـٰبَكَ كَفَىٰ بِنَفۡسِكَ ٱلۡیَوۡمَ عَلَیۡكَ حَسِیبࣰا ۝١٤",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَلْزَمْنَٰهُ طَٰٓئِرَهُۥ",
+          "content": "عمله المقدّر عليه لا ينفكّ عنه",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَّنِ ٱهۡتَدَىٰ فَإِنَّمَا یَهۡتَدِی لِنَفۡسِهِۦۖ وَمَن ضَلَّ فَإِنَّمَا یَضِلُّ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَزِرُ وَازِرَةٌ",
+          "content": "لا تحمل نفس آثمةٌ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "عَلَیۡهَاۚ وَلَا تَزِرُ وَازِرَةࣱ وِزۡرَ أُخۡرَىٰۗ وَمَا كُنَّا مُعَذِّبِینَ حَتَّىٰ نَبۡعَثَ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَزِرُ وَازِرَةٌ",
+          "content": "لا تحمل نفس آثمةٌ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 15
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 22,
+          "tokens": "وَلَا تَزِرُ وَازِرَةٌ",
+          "content": "لا تحمل نفس آثمةٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "رَسُولࣰا ۝١٥ وَإِذَاۤ أَرَدۡنَاۤ أَن نُّهۡلِكَ قَرۡیَةً أَمَرۡنَا مُتۡرَفِیهَا فَفَسَقُوا۟ فِیهَا",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَلَا تَزِرُ وَازِرَةٌ",
+          "content": "لا تحمل نفس آثمةٌ",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 15
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "فَحَقَّ عَلَیۡهَا ٱلۡقَوۡلُ فَدَمَّرۡنَـٰهَا تَدۡمِیرࣰا ۝١٦ وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 16,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَرْنَا مُتْرَفِيهَا",
+          "content": "أمرنا متنعّميها بطاعة الله",
+          "tokenFromIndex": 6,
+          "tokenToIndex": 7,
+          "surahIndex": 17,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "فَفَسَقُوا۟",
+          "content": "فتمرّدوا وعَصوْا",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 17,
+          "ayahIndex": 16
+        },
+        {
+          "tokens": "فَدَمَّرْنَٰهَا",
+          "content": "استأصلناها ومحونا آثارها",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 17,
+          "ayahIndex": 16
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 16,
+          "tokens": "فَدَمَّرْنَٰهَا",
+          "content": "استأصلناها ومحونا آثارها"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مِنۢ بَعۡدِ نُوحࣲۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِیرَۢا بَصِیرࣰا ۝١٧",
+      "surahIndexFirst": 17,
+      "ayahIndexFirst": 17,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْقُرُونِ",
+          "content": "الأمم المكذبة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 17,
+          "ayahIndex": 17
+        }
+      ]
+    }
+  ]
+}

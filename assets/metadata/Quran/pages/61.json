@@ -1,0 +1,201 @@
+{
+  "pageIndex": 61,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "قُلۡ ءَامَنَّا بِٱللَّهِ وَمَاۤ أُنزِلَ عَلَیۡنَا وَمَاۤ أُنزِلَ عَلَىٰۤ إِبۡرَ ٰ⁠هِیمَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَسْبَاطِ",
+          "content": "أولاد يعقوب أو أحفاده",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 84
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "وَإِسۡمَـٰعِیلَ وَإِسۡحَـٰقَ وَیَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَاۤ أُوتِیَ مُوسَىٰ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَسْبَاطِ",
+          "content": "أولاد يعقوب أو أحفاده",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 84
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 14,
+          "tokens": "وَٱلْأَسْبَاطِ",
+          "content": "أولاد يعقوب أو أحفاده"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَعِیسَىٰ وَٱلنَّبِیُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَیۡنَ أَحَدࣲ مِّنۡهُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَسْبَاطِ",
+          "content": "أولاد يعقوب أو أحفاده",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 84
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَنَحۡنُ لَهُۥ مُسۡلِمُونَ ۝٨٤ وَمَن یَبۡتَغِ غَیۡرَ ٱلۡإِسۡلَـٰمِ دِینࣰا فَلَن",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 84,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلْأَسْبَاطِ",
+          "content": "أولاد يعقوب أو أحفاده",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 14,
+          "surahIndex": 3,
+          "ayahIndex": 84
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یُقۡبَلَ مِنۡهُ وَهُوَ فِی ٱلۡـَٔاخِرَةِ مِنَ ٱلۡخَـٰسِرِینَ ۝٨٥ كَیۡفَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 85,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْإِسْلَٰمِ",
+          "content": "التوحيد أو شريعة نبينا صلى الله عليه وسلم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 3,
+          "ayahIndex": 85
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَهۡدِی ٱللَّهُ قَوۡمࣰا كَفَرُوا۟ بَعۡدَ إِیمَـٰنِهِمۡ وَشَهِدُوۤا۟ أَنَّ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلرَّسُولَ حَقࣱّ وَجَاۤءَهُمُ ٱلۡبَیِّنَـٰتُۚ وَٱللَّهُ لَا یَهۡدِی ٱلۡقَوۡمَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "ٱلظَّـٰلِمِینَ ۝٨٦ أُو۟لَـٰۤىِٕكَ جَزَاۤؤُهُمۡ أَنَّ عَلَیۡهِمۡ لَعۡنَةَ ٱللَّهِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 86,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "وَٱلۡمَلَـٰۤىِٕكَةِ وَٱلنَّاسِ أَجۡمَعِینَ ۝٨٧ خَـٰلِدِینَ فِیهَا لَا یُخَفَّفُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 87,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ یُنظَرُونَ ۝٨٨ إِلَّا ٱلَّذِینَ تَابُوا۟ مِنۢ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُنظَرُونَ",
+          "content": "يؤخّرون عن العذاب لحظة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 88
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 31,
+          "length": 10,
+          "tokens": "يُنظَرُونَ",
+          "content": "يؤخّرون عن العذاب لحظة"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "بَعۡدِ ذَ ٰ⁠لِكَ وَأَصۡلَحُوا۟ فَإِنَّ ٱللَّهَ غَفُورࣱ رَّحِیمٌ ۝٨٩ إِنَّ ٱلَّذِینَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "كَفَرُوا۟ بَعۡدَ إِیمَـٰنِهِمۡ ثُمَّ ٱزۡدَادُوا۟ كُفۡرࣰا لَّن تُقۡبَلَ تَوۡبَتُهُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَأُو۟لَـٰۤىِٕكَ هُمُ ٱلضَّاۤلُّونَ ۝٩٠ إِنَّ ٱلَّذِینَ كَفَرُوا۟ وَمَاتُوا۟ وَهُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 14000,
+      "text": "كُفَّارࣱ فَلَن یُقۡبَلَ مِنۡ أَحَدِهِم مِّلۡءُ ٱلۡأَرۡضِ ذَهَبࣰا وَلَوِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱفۡتَدَىٰ بِهِۦۤۗ أُو۟لَـٰۤىِٕكَ لَهُمۡ عَذَابٌ أَلِیمࣱ وَمَا لَهُم مِّن نَّـٰصِرِینَ ۝٩١",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "pageIndex": 250,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَیَسۡتَعۡجِلُونَكَ بِٱلسَّیِّئَةِ قَبۡلَ ٱلۡحَسَنَةِ وَقَدۡ خَلَتۡ مِن",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَثُلَٰتُ",
+          "content": "العقوبات الفاضحات لأمثالهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "مَغْفِرَةٍ لِّلنَّاسِ",
+          "content": "ستر وإمهال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "قَبۡلِهِمُ ٱلۡمَثُلَـٰتُۗ وَإِنَّ رَبَّكَ لَذُو مَغۡفِرَةࣲ لِّلنَّاسِ عَلَىٰ ظُلۡمِهِمۡۖ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَثُلَٰتُ",
+          "content": "العقوبات الفاضحات لأمثالهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "مَغْفِرَةٍ لِّلنَّاسِ",
+          "content": "ستر وإمهال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 14,
+          "tokens": "ٱلْمَثُلَٰتُ",
+          "content": "العقوبات الفاضحات لأمثالهم"
+        },
+        {
+          "start": 48,
+          "length": 21,
+          "tokens": "مَغْفِرَةٍ لِّلنَّاسِ",
+          "content": "ستر وإمهال"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَإِنَّ رَبَّكَ لَشَدِیدُ ٱلۡعِقَابِ ۝٦ وَیَقُولُ ٱلَّذِینَ كَفَرُوا۟ لَوۡلَاۤ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 6,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْمَثُلَٰتُ",
+          "content": "العقوبات الفاضحات لأمثالهم",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        },
+        {
+          "tokens": "مَغْفِرَةٍ لِّلنَّاسِ",
+          "content": "ستر وإمهال",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 13,
+          "ayahIndex": 6
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "أُنزِلَ عَلَیۡهِ ءَایَةࣱ مِّن رَّبِّهِۦۤۗ إِنَّمَاۤ أَنتَ مُنذِرࣱۖ وَلِكُلِّ قَوۡمٍ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "هَادٍ ۝٧ ٱللَّهُ یَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِیضُ ٱلۡأَرۡحَامُ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "وَمَا تَزۡدَادُۚ وَكُلُّ شَیۡءٍ عِندَهُۥ بِمِقۡدَارٍ ۝٨ عَـٰلِمُ ٱلۡغَیۡبِ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 8,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَمَا تَغِيضُ ٱلْأَرْحَامُ",
+          "content": "ما تنقصه، أو تُسقطه",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 9,
+          "surahIndex": 13,
+          "ayahIndex": 8
+        },
+        {
+          "tokens": "بِمِقْدَارٍ",
+          "content": "بقدْرٍ وحدّ لا يتعداه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 13,
+          "ayahIndex": 8
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 41,
+          "length": 11,
+          "tokens": "بِمِقْدَارٍ",
+          "content": "بقدْرٍ وحدّ لا يتعداه"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَٱلشَّهَـٰدَةِ ٱلۡكَبِیرُ ٱلۡمُتَعَالِ ۝٩ سَوَاۤءࣱ مِّنكُم مَّنۡ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 9,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلْكَبِيرُ",
+          "content": "العظيم الذي كلّ شيء دونه",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 13,
+          "ayahIndex": 9
+        },
+        {
+          "tokens": "ٱلْمُتَعَالِ",
+          "content": "المستعلي على كلّ شيء بقدرته",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 13,
+          "ayahIndex": 9
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 10,
+          "tokens": "ٱلْكَبِيرُ",
+          "content": "العظيم الذي كلّ شيء دونه"
+        },
+        {
+          "start": 27,
+          "length": 12,
+          "tokens": "ٱلْمُتَعَالِ",
+          "content": "المستعلي على كلّ شيء بقدرته"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَسَرَّ ٱلۡقَوۡلَ وَمَن جَهَرَ بِهِۦ وَمَنۡ هُوَ مُسۡتَخۡفِۭ بِٱلَّیۡلِ وَسَارِبُۢ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَسَارِبٌۢ",
+          "content": "ذاهبٌ في سرْبِه وطريقهِ ظاهرًا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 13,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 72,
+          "length": 10,
+          "tokens": "وَسَارِبٌۢ",
+          "content": "ذاهبٌ في سرْبِه وطريقهِ ظاهرًا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِٱلنَّهَارِ ۝١٠ لَهُۥ مُعَقِّبَـٰتࣱ مِّنۢ بَیۡنِ یَدَیۡهِ وَمِنۡ خَلۡفِهِۦ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَسَارِبٌۢ",
+          "content": "ذاهبٌ في سرْبِه وطريقهِ ظاهرًا",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 13,
+          "ayahIndex": 10
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "یَحۡفَظُونَهُۥ مِنۡ أَمۡرِ ٱللَّهِۗ إِنَّ ٱللَّهَ لَا یُغَیِّرُ مَا بِقَوۡمٍ حَتَّىٰ یُغَیِّرُوا۟",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُۥ مُعَقِّبَٰتٌ",
+          "content": "ملائكة تعتقب في حِفظه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِنْ أَمْرِ ٱللَّهِ",
+          "content": "بأمره تعالى بحفظه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِن وَالٍ",
+          "content": "من ناصر أو وال يلي أمورهم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 35,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 15,
+          "length": 20,
+          "tokens": "مِنْ أَمْرِ ٱللَّهِ",
+          "content": "بأمره تعالى بحفظه"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "مَا بِأَنفُسِهِمۡۗ وَإِذَاۤ أَرَادَ ٱللَّهُ بِقَوۡمࣲ سُوۤءࣰا فَلَا مَرَدَّ لَهُۥۚ وَمَا",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُۥ مُعَقِّبَٰتٌ",
+          "content": "ملائكة تعتقب في حِفظه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِنْ أَمْرِ ٱللَّهِ",
+          "content": "بأمره تعالى بحفظه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِن وَالٍ",
+          "content": "من ناصر أو وال يلي أمورهم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 35,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "لَهُم مِّن دُونِهِۦ مِن وَالٍ ۝١١ هُوَ ٱلَّذِی یُرِیكُمُ ٱلۡبَرۡقَ خَوۡفࣰا",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَهُۥ مُعَقِّبَٰتٌ",
+          "content": "ملائكة تعتقب في حِفظه",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِنْ أَمْرِ ٱللَّهِ",
+          "content": "بأمره تعالى بحفظه",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 11,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "مِن وَالٍ",
+          "content": "من ناصر أو وال يلي أمورهم",
+          "tokenFromIndex": 34,
+          "tokenToIndex": 35,
+          "surahIndex": 13,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 9,
+          "tokens": "مِن وَالٍ",
+          "content": "من ناصر أو وال يلي أمورهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَطَمَعࣰا وَیُنشِئُ ٱلسَّحَابَ ٱلثِّقَالَ ۝١٢ وَیُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّحَابَ ٱلثِّقَالَ",
+          "content": "الموقرة بالماء المثقلة به",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 9,
+          "surahIndex": 13,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 21,
+          "tokens": "ٱلسَّحَابَ ٱلثِّقَالَ",
+          "content": "الموقرة بالماء المثقلة به"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَٱلۡمَلَـٰۤىِٕكَةُ مِنۡ خِیفَتِهِۦ وَیُرۡسِلُ ٱلصَّوَ ٰ⁠عِقَ فَیُصِیبُ بِهَا",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَدِيدُ ٱلْمِحَالِ",
+          "content": "المكايدة أو القوّة أو العقوبة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 13,
+          "ayahIndex": 13
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "مَن یَشَاۤءُ وَهُمۡ یُجَـٰدِلُونَ فِی ٱللَّهِ وَهُوَ شَدِیدُ ٱلۡمِحَالِ ۝١٣",
+      "surahIndexFirst": 13,
+      "ayahIndexFirst": 13,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَدِيدُ ٱلْمِحَالِ",
+          "content": "المكايدة أو القوّة أو العقوبة",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 13,
+          "ayahIndex": 13
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 53,
+          "length": 18,
+          "tokens": "شَدِيدُ ٱلْمِحَالِ",
+          "content": "المكايدة أو القوّة أو العقوبة"
+        }
+      ]
+    }
+  ]
+}

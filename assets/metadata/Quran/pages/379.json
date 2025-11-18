@@ -1,0 +1,191 @@
+{
+  "pageIndex": 379,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنِّی وَجَدتُّ ٱمۡرَأَةࣰ تَمۡلِكُهُمۡ وَأُوتِیَتۡ مِن كُلِّ شَیۡءࣲ وَلَهَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "عَرۡشٌ عَظِیمࣱ ۝٢٣ وَجَدتُّهَا وَقَوۡمَهَا یَسۡجُدُونَ لِلشَّمۡسِ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 23,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "مِن دُونِ ٱللَّهِ وَزَیَّنَ لَهُمُ ٱلشَّیۡطَـٰنُ أَعۡمَـٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِیلِ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَهُمۡ لَا یَهۡتَدُونَ ۝٢٤ أَلَّا یَسۡجُدُوا۟ لِلَّهِ ٱلَّذِی یُخۡرِجُ ٱلۡخَبۡءَ فِی",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَیَعۡلَمُ مَا تُخۡفُونَ وَمَا تُعۡلِنُونَ ۝٢٥ ٱللَّهُ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 25,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يُخْرِجُ ٱلْخَبْءَ",
+          "content": "يُظهر المخبوء المستور أيّا كان",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 25
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "لَاۤ إِلَـٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِیمِ ۝٢٦ قَالَ سَنَنظُرُ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "أَصَدَقۡتَ أَمۡ كُنتَ مِنَ ٱلۡكَـٰذِبِینَ ۝٢٧ ٱذۡهَب بِّكِتَـٰبِی هَـٰذَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 27,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَأَلۡقِهۡ إِلَیۡهِمۡ ثُمَّ تَوَلَّ عَنۡهُمۡ فَٱنظُرۡ مَاذَا یَرۡجِعُونَ ۝٢٨ قَالَتۡ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 28,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَوَلَّ عَنْهُمْ",
+          "content": "تنحّ عنهم قليلا",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 8,
+          "surahIndex": 27,
+          "ayahIndex": 28
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 28,
+          "length": 16,
+          "tokens": "تَوَلَّ عَنْهُمْ",
+          "content": "تنحّ عنهم قليلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "ٱلۡمَلَؤُا۟ إِنِّیۤ أُلۡقِیَ إِلَیَّ كِتَـٰبࣱ كَرِیمٌ ۝٢٩ إِنَّهُۥ مِن سُلَیۡمَـٰنَ وَإِنَّهُۥ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 29,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 10000,
+      "text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَـٰنِ ٱلرَّحِیمِ ۝٣٠ أَلَّا تَعۡلُوا۟ عَلَیَّ وَأۡتُونِی مُسۡلِمِینَ ۝٣١",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "قَالَتۡ یَـٰۤأَیُّهَا ٱلۡمَلَؤُا۟ أَفۡتُونِی فِیۤ أَمۡرِی مَا كُنتُ قَاطِعَةً أَمۡرًا حَتَّىٰ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَشْهَدُونِ",
+          "content": "تحضرون، أو تشيروا عليّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 27,
+          "ayahIndex": 32
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَشۡهَدُونِ ۝٣٢ قَالُوا۟ نَحۡنُ أُو۟لُوا۟ قُوَّةࣲ وَأُو۟لُوا۟ بَأۡسࣲ شَدِیدࣲ وَٱلۡأَمۡرُ",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 32,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَشْهَدُونِ",
+          "content": "تحضرون، أو تشيروا عليّ",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 27,
+          "ayahIndex": 32
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "تَشْهَدُونِ",
+          "content": "تحضرون، أو تشيروا عليّ"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "إِلَیۡكِ فَٱنظُرِی مَاذَا تَأۡمُرِینَ ۝٣٣ قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُوا۟ قَرۡیَةً",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَأُو۟لُوا۟ بَأْسٍ",
+          "content": "أصحاب نجدة وبلاءٍ في الحرب",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 27,
+          "ayahIndex": 33
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "أَفۡسَدُوهَا وَجَعَلُوۤا۟ أَعِزَّةَ أَهۡلِهَاۤ أَذِلَّةࣰۚ وَكَذَ ٰ⁠لِكَ یَفۡعَلُونَ ۝٣٤",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَإِنِّی مُرۡسِلَةٌ إِلَیۡهِم بِهَدِیَّةࣲ فَنَاظِرَةُۢ بِمَ یَرۡجِعُ ٱلۡمُرۡسَلُونَ ۝٣٥",
+      "surahIndexFirst": 27,
+      "ayahIndexFirst": 35,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

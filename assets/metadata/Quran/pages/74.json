@@ -1,0 +1,321 @@
+{
+  "pageIndex": 74,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "لَّقَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ فَقِیرࣱ وَنَحۡنُ أَغۡنِیَاۤءُۘ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 181,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "سَنَكۡتُبُ مَا قَالُوا۟ وَقَتۡلَهُمُ ٱلۡأَنۢبِیَاۤءَ بِغَیۡرِ حَقࣲّ وَنَقُولُ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 181,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "ذُوقُوا۟ عَذَابَ ٱلۡحَرِیقِ ۝١٨١ ذَ ٰ⁠لِكَ بِمَا قَدَّمَتۡ أَیۡدِیكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 181,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَأَنَّ ٱللَّهَ لَیۡسَ بِظَلَّامࣲ لِّلۡعَبِیدِ ۝١٨٢ ٱلَّذِینَ قَالُوۤا۟ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 182,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "عَهِدَ إِلَیۡنَاۤ أَلَّا نُؤۡمِنَ لِرَسُولٍ حَتَّىٰ یَأۡتِیَنَا بِقُرۡبَانࣲ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 183,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَهِدَ إِلَيْنَآ",
+          "content": "أمرنا وأوصانا في التوراة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        },
+        {
+          "tokens": "بِقُرْبَانٍ",
+          "content": "ما يُتقرّب به من البرّ إليه تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "عَهِدَ إِلَيْنَآ",
+          "content": "أمرنا وأوصانا في التوراة"
+        },
+        {
+          "start": 64,
+          "length": 11,
+          "tokens": "بِقُرْبَانٍ",
+          "content": "ما يُتقرّب به من البرّ إليه تعالى"
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَاۤءَكُمۡ رُسُلࣱ مِّن قَبۡلِی بِٱلۡبَیِّنَـٰتِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 183,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَهِدَ إِلَيْنَآ",
+          "content": "أمرنا وأوصانا في التوراة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        },
+        {
+          "tokens": "بِقُرْبَانٍ",
+          "content": "ما يُتقرّب به من البرّ إليه تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَبِٱلَّذِی قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ صَـٰدِقِینَ ۝١٨٣",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 183,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَهِدَ إِلَيْنَآ",
+          "content": "أمرنا وأوصانا في التوراة",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 6,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        },
+        {
+          "tokens": "بِقُرْبَانٍ",
+          "content": "ما يُتقرّب به من البرّ إليه تعالى",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 12,
+          "surahIndex": 3,
+          "ayahIndex": 183
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلࣱ مِّن قَبۡلِكَ جَاۤءُو",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 184,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلزُّبُرِ",
+          "content": "كتب المواعظ والزواجر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 184
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِٱلۡبَیِّنَـٰتِ وَٱلزُّبُرِ وَٱلۡكِتَـٰبِ ٱلۡمُنِیرِ ۝١٨٤ كُلُّ نَفۡسࣲ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 184,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلزُّبُرِ",
+          "content": "كتب المواعظ والزواجر",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 184
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 11,
+          "tokens": "وَٱلزُّبُرِ",
+          "content": "كتب المواعظ والزواجر"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ذَاۤىِٕقَةُ ٱلۡمَوۡتِۗ وَإِنَّمَا تُوَفَّوۡنَ أُجُورَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 185,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُحْزِحَ عَنِ ٱلنَّارِ",
+          "content": "بُعِّد ونُحّيَ عنها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        },
+        {
+          "tokens": "ٱلْغُرُورِ",
+          "content": "الخِداع أو الباطل الفاني",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَمَن زُحۡزِحَ عَنِ ٱلنَّارِ وَأُدۡخِلَ ٱلۡجَنَّةَ فَقَدۡ فَازَۗ وَمَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 185,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُحْزِحَ عَنِ ٱلنَّارِ",
+          "content": "بُعِّد ونُحّيَ عنها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        },
+        {
+          "tokens": "ٱلْغُرُورِ",
+          "content": "الخِداع أو الباطل الفاني",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 22,
+          "tokens": "زُحْزِحَ عَنِ ٱلنَّارِ",
+          "content": "بُعِّد ونُحّيَ عنها"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ٱلۡحَیَوٰةُ ٱلدُّنۡیَاۤ إِلَّا مَتَـٰعُ ٱلۡغُرُورِ ۝١٨٥ لَتُبۡلَوُنَّ فِیۤ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 185,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "زُحْزِحَ عَنِ ٱلنَّارِ",
+          "content": "بُعِّد ونُحّيَ عنها",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 13,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        },
+        {
+          "tokens": "ٱلْغُرُورِ",
+          "content": "الخِداع أو الباطل الفاني",
+          "tokenFromIndex": 23,
+          "tokenToIndex": 23,
+          "surahIndex": 3,
+          "ayahIndex": 185
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 40,
+          "length": 10,
+          "tokens": "ٱلْغُرُورِ",
+          "content": "الخِداع أو الباطل الفاني"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "أَمۡوَ ٰ⁠لِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِینَ أُوتُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 186,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَتُبْلَوُنَّ",
+          "content": "لتُمتحنُنّ وتختبرنّ بالمحن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 186
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱلۡكِتَـٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِینَ أَشۡرَكُوۤا۟ أَذࣰى كَثِیرࣰاۚ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 186,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَتُبْلَوُنَّ",
+          "content": "لتُمتحنُنّ وتختبرنّ بالمحن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 186
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "وَإِن تَصۡبِرُوا۟ وَتَتَّقُوا۟ فَإِنَّ ذَ ٰ⁠لِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ ۝١٨٦",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 186,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَتُبْلَوُنَّ",
+          "content": "لتُمتحنُنّ وتختبرنّ بالمحن",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 3,
+          "ayahIndex": 186
+        }
+      ]
+    }
+  ]
+}

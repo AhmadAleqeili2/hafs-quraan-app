@@ -1,0 +1,751 @@
+{
+  "pageIndex": 70,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ثُمَّ أَنزَلَ عَلَیۡكُم مِّنۢ بَعۡدِ ٱلۡغَمِّ أَمَنَةࣰ نُّعَاسࣰا یَغۡشَىٰ طَاۤىِٕفَةࣰ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 46,
+          "length": 8,
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف"
+        },
+        {
+          "start": 55,
+          "length": 9,
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم"
+        },
+        {
+          "start": 65,
+          "length": 8,
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "مِّنكُمۡۖ وَطَاۤىِٕفَةࣱ قَدۡ أَهَمَّتۡهُمۡ أَنفُسُهُمۡ یَظُنُّونَ بِٱللَّهِ غَیۡرَ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "ٱلۡحَقِّ ظَنَّ ٱلۡجَـٰهِلِیَّةِۖ یَقُولُونَ هَل لَّنَا مِنَ ٱلۡأَمۡرِ مِن شَیۡءࣲۗ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "قُلۡ إِنَّ ٱلۡأَمۡرَ كُلَّهُۥ لِلَّهِۗ یُخۡفُونَ فِیۤ أَنفُسِهِم مَّا لَا یُبۡدُونَ لَكَۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "یَقُولُونَ لَوۡ كَانَ لَنَا مِنَ ٱلۡأَمۡرِ شَیۡءࣱ مَّا قُتِلۡنَا هَـٰهُنَاۗ قُل لَّوۡ كُنتُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "فِی بُیُوتِكُمۡ لَبَرَزَ ٱلَّذِینَ كُتِبَ عَلَیۡهِمُ ٱلۡقَتۡلُ إِلَىٰ مَضَاجِعِهِمۡۖ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 8,
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج"
+        },
+        {
+          "start": 70,
+          "length": 14,
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "وَلِیَبۡتَلِیَ ٱللَّهُ مَا فِی صُدُورِكُمۡ وَلِیُمَحِّصَ مَا فِی قُلُوبِكُمۡۚ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 14,
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير"
+        },
+        {
+          "start": 43,
+          "length": 13,
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَٱللَّهُ عَلِیمُۢ بِذَاتِ ٱلصُّدُورِ ۝١٥٤ إِنَّ ٱلَّذِینَ تَوَلَّوۡا۟ مِنكُمۡ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 154,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "أَمَنَةً",
+          "content": "أمنا وعدم حوف",
+          "tokenFromIndex": 7,
+          "tokenToIndex": 7,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "نُّعَاسًا",
+          "content": "سكونا وهدوءًا أو مُقاربة للنّوم",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "يَغْشَىٰ",
+          "content": "يُلابس كالغشاء",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "لَبَرَزَ",
+          "content": "لخرج",
+          "tokenFromIndex": 56,
+          "tokenToIndex": 56,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "مَضَاجِعِهِمْ",
+          "content": "مصارعهم المقدّرة لهم أزلا",
+          "tokenFromIndex": 62,
+          "tokenToIndex": 62,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيَبْتَلِىَ",
+          "content": "ليختبر وليمتحِن وهو العليم الخبير",
+          "tokenFromIndex": 63,
+          "tokenToIndex": 63,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        },
+        {
+          "tokens": "وَلِيُمَحِّصَ",
+          "content": "ليخلّص ويزيل أو ليكشف ويميز",
+          "tokenFromIndex": 68,
+          "tokenToIndex": 68,
+          "surahIndex": 3,
+          "ayahIndex": 154
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "یَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ إِنَّمَا ٱسۡتَزَلَّهُمُ ٱلشَّیۡطَـٰنُ بِبَعۡضِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 155,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ",
+          "content": "حملهم على الزّلة بوسوسته",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 155
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 38,
+          "length": 28,
+          "tokens": "ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ",
+          "content": "حملهم على الزّلة بوسوسته"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "مَا كَسَبُوا۟ۖ وَلَقَدۡ عَفَا ٱللَّهُ عَنۡهُمۡۗ إِنَّ ٱللَّهَ غَفُورٌ حَلِیمࣱ ۝١٥٥ یَـٰۤأَیُّهَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 155,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَزَلَّهُمُ ٱلشَّيْطَٰنُ",
+          "content": "حملهم على الزّلة بوسوسته",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 10,
+          "surahIndex": 3,
+          "ayahIndex": 155
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلَّذِینَ ءَامَنُوا۟ لَا تَكُونُوا۟ كَٱلَّذِینَ كَفَرُوا۟ وَقَالُوا۟ لِإِخۡوَ ٰ⁠نِهِمۡ إِذَا",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 156,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبُوا۟",
+          "content": "سافروا لتجارة أو غيرها فماتوا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        },
+        {
+          "tokens": "غُزًّى",
+          "content": "غُزاةً مجاهدين فاستشهدوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "ضَرَبُوا۟ فِی ٱلۡأَرۡضِ أَوۡ كَانُوا۟ غُزࣰّى لَّوۡ كَانُوا۟ عِندَنَا مَا مَاتُوا۟",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 156,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبُوا۟",
+          "content": "سافروا لتجارة أو غيرها فماتوا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        },
+        {
+          "tokens": "غُزًّى",
+          "content": "غُزاةً مجاهدين فاستشهدوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "ضَرَبُوا۟",
+          "content": "سافروا لتجارة أو غيرها فماتوا"
+        },
+        {
+          "start": 38,
+          "length": 6,
+          "tokens": "غُزًّى",
+          "content": "غُزاةً مجاهدين فاستشهدوا"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "وَمَا قُتِلُوا۟ لِیَجۡعَلَ ٱللَّهُ ذَ ٰ⁠لِكَ حَسۡرَةࣰ فِی قُلُوبِهِمۡۗ وَٱللَّهُ یُحۡیِۦ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 156,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبُوا۟",
+          "content": "سافروا لتجارة أو غيرها فماتوا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        },
+        {
+          "tokens": "غُزًّى",
+          "content": "غُزاةً مجاهدين فاستشهدوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَیُمِیتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِیرࣱ ۝١٥٦ وَلَىِٕن قُتِلۡتُمۡ فِی سَبِیلِ",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 156,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ضَرَبُوا۟",
+          "content": "سافروا لتجارة أو غيرها فماتوا",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        },
+        {
+          "tokens": "غُزًّى",
+          "content": "غُزاةً مجاهدين فاستشهدوا",
+          "tokenFromIndex": 16,
+          "tokenToIndex": 16,
+          "surahIndex": 3,
+          "ayahIndex": 156
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةࣱ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَیۡرࣱ مِّمَّا یَجۡمَعُونَ ۝١٥٧",
+      "surahIndexFirst": 3,
+      "ayahIndexFirst": 157,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

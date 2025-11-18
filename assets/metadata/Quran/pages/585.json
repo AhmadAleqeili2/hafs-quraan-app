@@ -1,0 +1,335 @@
+{
+  "pageIndex": 585,
+  "lines": [
+    {
+      "sortKey": 2998,
+      "text": "سورة عبس",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "عَبَسَ",
+          "content": "قطّبَ وَجْهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَتَوَلَّىٰٓ",
+          "content": "أعرَض بوجهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 2999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَبَسَ",
+          "content": "قطّبَ وَجْهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَتَوَلَّىٰٓ",
+          "content": "أعرَض بوجهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "عَبَسَ وَتَوَلَّىٰۤ ۝١ أَن جَاۤءَهُ ٱلۡأَعۡمَىٰ ۝٢ وَمَا یُدۡرِیكَ لَعَلَّهُۥ یَزَّكَّىٰۤ ۝٣ أَوۡ یَذَّكَّرُ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَبَسَ",
+          "content": "قطّبَ وَجْهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "وَتَوَلَّىٰٓ",
+          "content": "أعرَض بوجهه الشريف صلى الله عليه وسلم",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "عَبَسَ",
+          "content": "قطّبَ وَجْهه الشريف صلى الله عليه وسلم"
+        },
+        {
+          "start": 7,
+          "length": 12,
+          "tokens": "وَتَوَلَّىٰٓ",
+          "content": "أعرَض بوجهه الشريف صلى الله عليه وسلم"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَتَنفَعَهُ ٱلذِّكۡرَىٰۤ ۝٤ أَمَّا مَنِ ٱسۡتَغۡنَىٰ ۝٥ فَأَنتَ لَهُۥ تَصَدَّىٰ ۝٦ وَمَا عَلَیۡكَ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَذَّكَّرُ",
+          "content": "يتّعِظ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 4
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَلَّا یَزَّكَّىٰ ۝٧ وَأَمَّا مَن جَاۤءَكَ یَسۡعَىٰ ۝٨ وَهُوَ یَخۡشَىٰ ۝٩ فَأَنتَ عَنۡهُ تَلَهَّىٰ ۝١٠",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "كَلَّاۤ إِنَّهَا تَذۡكِرَةࣱ ۝١١ فَمَن شَاۤءَ ذَكَرَهُۥ ۝١٢ فِی صُحُفࣲ مُّكَرَّمَةࣲ ۝١٣ مَّرۡفُوعَةࣲ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 11,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَلَّآ",
+          "content": "حقّا أو إرْشادٌ، بليغٌ لترْك المُعاوَدَة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 80,
+          "ayahIndex": 11
+        },
+        {
+          "tokens": "إِنَّهَا تَذْكِرَةٌ",
+          "content": "إنّ آيات القرآن مَوْعِظة وتذكيرٌ",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 80,
+          "ayahIndex": 11
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 7,
+          "tokens": "كَلَّآ",
+          "content": "حقّا أو إرْشادٌ، بليغٌ لترْك المُعاوَدَة"
+        },
+        {
+          "start": 8,
+          "length": 19,
+          "tokens": "إِنَّهَا تَذْكِرَةٌ",
+          "content": "إنّ آيات القرآن مَوْعِظة وتذكيرٌ"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "مُّطَهَّرَةِۭ ۝١٤ بِأَیۡدِی سَفَرَةࣲ ۝١٥ كِرَامِۭ بَرَرَةࣲ ۝١٦ قُتِلَ ٱلۡإِنسَـٰنُ مَاۤ أَكۡفَرَهُۥ ۝١٧ مِنۡ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 14,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَّرْفُوعَةٍ",
+          "content": "رَفيعة القَدْر والمَنزلة عنده تعالى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 80,
+          "ayahIndex": 14
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "أَیِّ شَیۡءٍ خَلَقَهُۥ ۝١٨ مِن نُّطۡفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ ۝١٩ ثُمَّ ٱلسَّبِیلَ یَسَّرَهُۥ ۝٢٠",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 18,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 9000,
+      "text": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ ۝٢١ ثُمَّ إِذَا شَاۤءَ أَنشَرَهُۥ ۝٢٢ كَلَّا لَمَّا یَقۡضِ مَاۤ أَمَرَهُۥ ۝٢٣",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 21,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَأَقْبَرَهُۥ",
+          "content": "أمَرَ بدفنِه في قبْر تكْرمة ً له",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 80,
+          "ayahIndex": 21
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 17,
+          "length": 13,
+          "tokens": "فَأَقْبَرَهُۥ",
+          "content": "أمَرَ بدفنِه في قبْر تكْرمة ً له"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "فَلۡیَنظُرِ ٱلۡإِنسَـٰنُ إِلَىٰ طَعَامِهِۦۤ ۝٢٤ أَنَّا صَبَبۡنَا ٱلۡمَاۤءَ صَبࣰّا ۝٢٥ ثُمَّ شَقَقۡنَا",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 24,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "ٱلۡأَرۡضَ شَقࣰّا ۝٢٦ فَأَنۢبَتۡنَا فِیهَا حَبࣰّا ۝٢٧ وَعِنَبࣰا وَقَضۡبࣰا ۝٢٨ وَزَیۡتُونࣰا وَنَخۡلࣰا ۝٢٩",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 26,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "شَقَقْنَا ٱلْأَرْضَ",
+          "content": "بالنّبات أو بالحَرْث",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 80,
+          "ayahIndex": 26
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 9,
+          "tokens": "شَقَقْنَا ٱلْأَرْضَ",
+          "content": "بالنّبات أو بالحَرْث"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَحَدَاۤىِٕقَ غُلۡبࣰا ۝٣٠ وَفَـٰكِهَةࣰ وَأَبࣰّا ۝٣١ مَّتَـٰعࣰا لَّكُمۡ وَلِأَنۡعَـٰمِكُمۡ ۝٣٢ فَإِذَا جَاۤءَتِ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 30,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَحَدَآئِقَ غُلْبًا",
+          "content": "بَساتين عِظامًا مُتكاثفة الأشجار",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 80,
+          "ayahIndex": 30
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 21,
+          "tokens": "وَحَدَآئِقَ غُلْبًا",
+          "content": "بَساتين عِظامًا مُتكاثفة الأشجار"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلصَّاۤخَّةُ ۝٣٣ یَوۡمَ یَفِرُّ ٱلۡمَرۡءُ مِنۡ أَخِیهِ ۝٣٤ وَأُمِّهِۦ وَأَبِیهِ ۝٣٥ وَصَـٰحِبَتِهِۦ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 33,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "جَآءَتِ ٱلصَّآخَّةُ",
+          "content": "الصّيْحَة تُصِمّ الآذان لشِدتِها (النفخة الثانية)",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 3,
+          "surahIndex": 80,
+          "ayahIndex": 33
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "جَآءَتِ ٱلصَّآخَّةُ",
+          "content": "الصّيْحَة تُصِمّ الآذان لشِدتِها (النفخة الثانية)"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَبَنِیهِ ۝٣٦ لِكُلِّ ٱمۡرِئࣲ مِّنۡهُمۡ یَوۡمَىِٕذࣲ شَأۡنࣱ یُغۡنِیهِ ۝٣٧ وُجُوهࣱ یَوۡمَىِٕذࣲ",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "مُّسۡفِرَةࣱ ۝٣٨ ضَاحِكَةࣱ مُّسۡتَبۡشِرَةࣱ ۝٣٩ وَوُجُوهࣱ یَوۡمَىِٕذٍ عَلَیۡهَا غَبَرَةࣱ ۝٤٠",
+      "surahIndexFirst": 80,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مُّسْفِرَةٌ",
+          "content": "مُشْرقة مُضيئة (وجوه المؤمنين)",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 80,
+          "ayahIndex": 38
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "مُّسْفِرَةٌ",
+          "content": "مُشْرقة مُضيئة (وجوه المؤمنين)"
+        }
+      ]
+    }
+  ]
+}

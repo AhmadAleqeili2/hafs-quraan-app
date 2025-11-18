@@ -1,0 +1,463 @@
+{
+  "pageIndex": 277,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱلَّذِینَ كَفَرُوا۟ وَصَدُّوا۟ عَن سَبِیلِ ٱللَّهِ زِدۡنَـٰهُمۡ عَذَابࣰا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "فَوۡقَ ٱلۡعَذَابِ بِمَا كَانُوا۟ یُفۡسِدُونَ ۝٨٨ وَیَوۡمَ نَبۡعَثُ فِی",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 88,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "كُلِّ أُمَّةࣲ شَهِیدًا عَلَیۡهِم مِّنۡ أَنفُسِهِمۡۖ وَجِئۡنَا بِكَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 4000,
+      "text": "شَهِیدًا عَلَىٰ هَـٰۤؤُلَاۤءِۚ وَنَزَّلۡنَا عَلَیۡكَ ٱلۡكِتَـٰبَ تِبۡیَـٰنࣰا لِّكُلِّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 5000,
+      "text": "شَیۡءࣲ وَهُدࣰى وَرَحۡمَةࣰ وَبُشۡرَىٰ لِلۡمُسۡلِمِینَ ۝٨٩ إِنَّ ٱللَّهَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 89,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَـٰنِ وَإِیتَاۤىِٕ ذِی ٱلۡقُرۡبَىٰ وَیَنۡهَىٰ عَنِ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَأْمُرُ بِٱلْعَدْلِ",
+          "content": "بالإعتدال والتّوسّط في الأمور اعتقادا وعملا وخُلُقا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "وَٱلْإِحْسَٰنِ",
+          "content": "إتقان العمل، أو نفعِ الخلق",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "ٱلْفَحْشَآءِ",
+          "content": "الذنوب المفرطة في القُبح",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "وَٱلْبَغْىِ",
+          "content": "التّطاول والتّجبّر على النّاس",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "يَأْمُرُ بِٱلْعَدْلِ",
+          "content": "بالإعتدال والتّوسّط في الأمور اعتقادا وعملا وخُلُقا"
+        },
+        {
+          "start": 21,
+          "length": 15,
+          "tokens": "وَٱلْإِحْسَٰنِ",
+          "content": "إتقان العمل، أو نفعِ الخلق"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡفَحۡشَاۤءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡیِۚ یَعِظُكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ ۝٩٠",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 90,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "يَأْمُرُ بِٱلْعَدْلِ",
+          "content": "بالإعتدال والتّوسّط في الأمور اعتقادا وعملا وخُلُقا",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 4,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "وَٱلْإِحْسَٰنِ",
+          "content": "إتقان العمل، أو نفعِ الخلق",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "ٱلْفَحْشَآءِ",
+          "content": "الذنوب المفرطة في القُبح",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 11,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        },
+        {
+          "tokens": "وَٱلْبَغْىِ",
+          "content": "التّطاول والتّجبّر على النّاس",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 16,
+          "ayahIndex": 90
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 13,
+          "tokens": "ٱلْفَحْشَآءِ",
+          "content": "الذنوب المفرطة في القُبح"
+        },
+        {
+          "start": 27,
+          "length": 12,
+          "tokens": "وَٱلْبَغْىِ",
+          "content": "التّطاول والتّجبّر على النّاس"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "وَأَوۡفُوا۟ بِعَهۡدِ ٱللَّهِ إِذَا عَـٰهَدتُّمۡ وَلَا تَنقُضُوا۟ ٱلۡأَیۡمَـٰنَ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَفِيلًا",
+          "content": "شاهدا، رقيبا، ضامِنا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 16,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بَعۡدَ تَوۡكِیدِهَا وَقَدۡ جَعَلۡتُمُ ٱللَّهَ عَلَیۡكُمۡ كَفِیلًاۚ إِنَّ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَفِيلًا",
+          "content": "شاهدا، رقيبا، ضامِنا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 16,
+          "ayahIndex": 91
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 57,
+          "length": 9,
+          "tokens": "كَفِيلًا",
+          "content": "شاهدا، رقيبا، ضامِنا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱللَّهَ یَعۡلَمُ مَا تَفۡعَلُونَ ۝٩١ وَلَا تَكُونُوا۟ كَٱلَّتِی نَقَضَتۡ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 91,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَفِيلًا",
+          "content": "شاهدا، رقيبا، ضامِنا",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 15,
+          "surahIndex": 16,
+          "ayahIndex": 91
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَـٰثࣰا تَتَّخِذُونَ أَیۡمَـٰنَكُمۡ دَخَلَۢا",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُوَّةٍ",
+          "content": "إبرام وإحكام",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَنكَٰثًا",
+          "content": "أنقاضا محلول الفتل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "دَخَلًۢا بَيْنَكُمْ",
+          "content": "مفسدة وخيانة وخديعة بينكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَن تَكُونَ أُمَّةٌ",
+          "content": "بأن تكون جماعة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "هِىَ أَرْبَىٰ",
+          "content": "أكثر وأعزّ وأوفر مالا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "يَبْلُوكُمُ ٱللَّهُ بِهِۦ",
+          "content": "يختبركم به هل تفون بعهدكم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 22,
+          "length": 7,
+          "tokens": "قُوَّةٍ",
+          "content": "إبرام وإحكام"
+        },
+        {
+          "start": 30,
+          "length": 10,
+          "tokens": "أَنكَٰثًا",
+          "content": "أنقاضا محلول الفتل"
+        },
+        {
+          "start": 69,
+          "length": 8,
+          "tokens": "دَخَلًۢا بَيْنَكُمْ",
+          "content": "مفسدة وخيانة وخديعة بينكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "بَیۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِیَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا یَبۡلُوكُمُ ٱللَّهُ",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُوَّةٍ",
+          "content": "إبرام وإحكام",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَنكَٰثًا",
+          "content": "أنقاضا محلول الفتل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "دَخَلًۢا بَيْنَكُمْ",
+          "content": "مفسدة وخيانة وخديعة بينكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَن تَكُونَ أُمَّةٌ",
+          "content": "بأن تكون جماعة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "هِىَ أَرْبَىٰ",
+          "content": "أكثر وأعزّ وأوفر مالا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "يَبْلُوكُمُ ٱللَّهُ بِهِۦ",
+          "content": "يختبركم به هل تفون بعهدكم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 10,
+          "tokens": "دَخَلًۢا بَيْنَكُمْ",
+          "content": "مفسدة وخيانة وخديعة بينكم"
+        },
+        {
+          "start": 11,
+          "length": 19,
+          "tokens": "أَن تَكُونَ أُمَّةٌ",
+          "content": "بأن تكون جماعة"
+        },
+        {
+          "start": 31,
+          "length": 13,
+          "tokens": "هِىَ أَرْبَىٰ",
+          "content": "أكثر وأعزّ وأوفر مالا"
+        },
+        {
+          "start": 68,
+          "length": 19,
+          "tokens": "يَبْلُوكُمُ ٱللَّهُ بِهِۦ",
+          "content": "يختبركم به هل تفون بعهدكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "بِهِۦۚ وَلَیُبَیِّنَنَّ لَكُمۡ یَوۡمَ ٱلۡقِیَـٰمَةِ مَا كُنتُمۡ فِیهِ تَخۡتَلِفُونَ ۝٩٢",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 92,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "قُوَّةٍ",
+          "content": "إبرام وإحكام",
+          "tokenFromIndex": 8,
+          "tokenToIndex": 8,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَنكَٰثًا",
+          "content": "أنقاضا محلول الفتل",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "دَخَلًۢا بَيْنَكُمْ",
+          "content": "مفسدة وخيانة وخديعة بينكم",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 13,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "أَن تَكُونَ أُمَّةٌ",
+          "content": "بأن تكون جماعة",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 16,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "هِىَ أَرْبَىٰ",
+          "content": "أكثر وأعزّ وأوفر مالا",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 18,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        },
+        {
+          "tokens": "يَبْلُوكُمُ ٱللَّهُ بِهِۦ",
+          "content": "يختبركم به هل تفون بعهدكم",
+          "tokenFromIndex": 22,
+          "tokenToIndex": 24,
+          "surahIndex": 16,
+          "ayahIndex": 92
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 6,
+          "tokens": "يَبْلُوكُمُ ٱللَّهُ بِهِۦ",
+          "content": "يختبركم به هل تفون بعهدكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "وَلَوۡ شَاۤءَ ٱللَّهُ لَجَعَلَكُمۡ أُمَّةࣰ وَ ٰ⁠حِدَةࣰ وَلَـٰكِن یُضِلُّ مَن",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 15000,
+      "text": "یَشَاۤءُ وَیَهۡدِی مَن یَشَاۤءُۚ وَلَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَعۡمَلُونَ ۝٩٣",
+      "surahIndexFirst": 16,
+      "ayahIndexFirst": 93,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}

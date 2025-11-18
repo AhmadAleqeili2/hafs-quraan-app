@@ -1,0 +1,319 @@
+{
+  "pageIndex": 205,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "ٱلتَّـٰۤىِٕبُونَ ٱلۡعَـٰبِدُونَ ٱلۡحَـٰمِدُونَ ٱلسَّـٰۤىِٕحُونَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّٰٓئِحُونَ",
+          "content": "الغزاة المُجاهدون، أو الصّائمون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "لِحُدُودِ ٱللَّهِ",
+          "content": "لأوامره ونواهيه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 16,
+          "tokens": "ٱلسَّٰٓئِحُونَ",
+          "content": "الغزاة المُجاهدون، أو الصّائمون"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "ٱلرَّ ٰ⁠كِعُونَ ٱلسَّـٰجِدُونَ ٱلۡـَٔامِرُونَ بِٱلۡمَعۡرُوفِ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّٰٓئِحُونَ",
+          "content": "الغزاة المُجاهدون، أو الصّائمون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "لِحُدُودِ ٱللَّهِ",
+          "content": "لأوامره ونواهيه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "وَٱلنَّاهُونَ عَنِ ٱلۡمُنكَرِ وَٱلۡحَـٰفِظُونَ لِحُدُودِ ٱللَّهِۗ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّٰٓئِحُونَ",
+          "content": "الغزاة المُجاهدون، أو الصّائمون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "لِحُدُودِ ٱللَّهِ",
+          "content": "لأوامره ونواهيه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 47,
+          "length": 18,
+          "tokens": "لِحُدُودِ ٱللَّهِ",
+          "content": "لأوامره ونواهيه"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "وَبَشِّرِ ٱلۡمُؤۡمِنِینَ ۝١١٢ مَا كَانَ لِلنَّبِیِّ وَٱلَّذِینَ ءَامَنُوۤا۟",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 112,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلسَّٰٓئِحُونَ",
+          "content": "الغزاة المُجاهدون، أو الصّائمون",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        },
+        {
+          "tokens": "لِحُدُودِ ٱللَّهِ",
+          "content": "لأوامره ونواهيه",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 14,
+          "surahIndex": 9,
+          "ayahIndex": 112
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "أَن یَسۡتَغۡفِرُوا۟ لِلۡمُشۡرِكِینَ وَلَوۡ كَانُوۤا۟ أُو۟لِی قُرۡبَىٰ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 6000,
+      "text": "مِنۢ بَعۡدِ مَا تَبَیَّنَ لَهُمۡ أَنَّهُمۡ أَصۡحَـٰبُ ٱلۡجَحِیمِ ۝١١٣ وَمَا",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 113,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 7000,
+      "text": "كَانَ ٱسۡتِغۡفَارُ إِبۡرَ ٰ⁠هِیمَ لِأَبِیهِ إِلَّا عَن مَّوۡعِدَةࣲ وَعَدَهَاۤ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَأَوَّٰهٌ",
+          "content": "لكثير التّأوّه خوفا وشفقا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "إِیَّاهُ فَلَمَّا تَبَیَّنَ لَهُۥۤ أَنَّهُۥ عَدُوࣱّ لِّلَّهِ تَبَرَّأَ مِنۡهُۚ إِنَّ إِبۡرَ ٰ⁠هِیمَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَأَوَّٰهٌ",
+          "content": "لكثير التّأوّه خوفا وشفقا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 114
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "لَأَوَّ ٰ⁠هٌ حَلِیمࣱ ۝١١٤ وَمَا كَانَ ٱللَّهُ لِیُضِلَّ قَوۡمَۢا بَعۡدَ إِذۡ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 114,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "لَأَوَّٰهٌ",
+          "content": "لكثير التّأوّه خوفا وشفقا",
+          "tokenFromIndex": 21,
+          "tokenToIndex": 21,
+          "surahIndex": 9,
+          "ayahIndex": 114
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 12,
+          "tokens": "لَأَوَّٰهٌ",
+          "content": "لكثير التّأوّه خوفا وشفقا"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "هَدَىٰهُمۡ حَتَّىٰ یُبَیِّنَ لَهُم مَّا یَتَّقُونَۚ إِنَّ ٱللَّهَ بِكُلِّ شَیۡءٍ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 11000,
+      "text": "عَلِیمٌ ۝١١٥ إِنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِۖ یُحۡیِۦ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 115,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 12000,
+      "text": "وَیُمِیتُۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِیࣲّ وَلَا نَصِیرࣲ ۝١١٦",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 116,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 13000,
+      "text": "لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِیِّ وَٱلۡمُهَـٰجِرِینَ وَٱلۡأَنصَارِ ٱلَّذِینَ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَاعَةِ ٱلْعُسْرَةِ",
+          "content": "وقت الشّدة والضّيق في تبوك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        },
+        {
+          "tokens": "يَزِيغُ",
+          "content": "يميل إلى التّخلّف عن الجهاد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "ٱتَّبَعُوهُ فِی سَاعَةِ ٱلۡعُسۡرَةِ مِنۢ بَعۡدِ مَا كَادَ یَزِیغُ قُلُوبُ",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَاعَةِ ٱلْعُسْرَةِ",
+          "content": "وقت الشّدة والضّيق في تبوك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        },
+        {
+          "tokens": "يَزِيغُ",
+          "content": "يميل إلى التّخلّف عن الجهاد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 16,
+          "length": 19,
+          "tokens": "سَاعَةِ ٱلْعُسْرَةِ",
+          "content": "وقت الشّدة والضّيق في تبوك"
+        },
+        {
+          "start": 58,
+          "length": 7,
+          "tokens": "يَزِيغُ",
+          "content": "يميل إلى التّخلّف عن الجهاد"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "فَرِیقࣲ مِّنۡهُمۡ ثُمَّ تَابَ عَلَیۡهِمۡۚ إِنَّهُۥ بِهِمۡ رَءُوفࣱ رَّحِیمࣱ ۝١١٧",
+      "surahIndexFirst": 9,
+      "ayahIndexFirst": 117,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "سَاعَةِ ٱلْعُسْرَةِ",
+          "content": "وقت الشّدة والضّيق في تبوك",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        },
+        {
+          "tokens": "يَزِيغُ",
+          "content": "يميل إلى التّخلّف عن الجهاد",
+          "tokenFromIndex": 17,
+          "tokenToIndex": 17,
+          "surahIndex": 9,
+          "ayahIndex": 117
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,601 @@
+{
+  "pageIndex": 157,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "وَلَقَدۡ جِئۡنَـٰهُم بِكِتَـٰبࣲ فَصَّلۡنَـٰهُ عَلَىٰ عِلۡمٍ هُدࣰى وَرَحۡمَةࣰ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 2000,
+      "text": "لِّقَوۡمࣲ یُؤۡمِنُونَ ۝٥٢ هَلۡ یَنظُرُونَ إِلَّا تَأۡوِیلَهُۥۚ یَوۡمَ یَأۡتِی تَأۡوِیلُهُۥ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 52,
+      "isBasmala": false,
+      "isTitle": false
+    },
+    {
+      "sortKey": 3000,
+      "text": "یَقُولُ ٱلَّذِینَ نَسُوهُ مِن قَبۡلُ قَدۡ جَاۤءَتۡ رُسُلُ رَبِّنَا بِٱلۡحَقِّ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْوِيلَهُۥ",
+          "content": "عاقبة مواعيد الكتاب (القرآن) ومآلها من البعث والحساب والجزاء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يكذبون من الشركاء وشفاعتهم",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "فَهَل لَّنَا مِن شُفَعَاۤءَ فَیَشۡفَعُوا۟ لَنَاۤ أَوۡ نُرَدُّ فَنَعۡمَلَ غَیۡرَ ٱلَّذِی",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْوِيلَهُۥ",
+          "content": "عاقبة مواعيد الكتاب (القرآن) ومآلها من البعث والحساب والجزاء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يكذبون من الشركاء وشفاعتهم",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "كُنَّا نَعۡمَلُۚ قَدۡ خَسِرُوۤا۟ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُوا۟",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْوِيلَهُۥ",
+          "content": "عاقبة مواعيد الكتاب (القرآن) ومآلها من البعث والحساب والجزاء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يكذبون من الشركاء وشفاعتهم",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "یَفۡتَرُونَ ۝٥٣ إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِی خَلَقَ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 53,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَأْوِيلَهُۥ",
+          "content": "عاقبة مواعيد الكتاب (القرآن) ومآلها من البعث والحساب والجزاء",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        },
+        {
+          "tokens": "يَفْتَرُونَ",
+          "content": "يكذبون من الشركاء وشفاعتهم",
+          "tokenFromIndex": 38,
+          "tokenToIndex": 38,
+          "surahIndex": 7,
+          "ayahIndex": 53
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 11,
+          "tokens": "يَفْتَرُونَ",
+          "content": "يكذبون من الشركاء وشفاعتهم"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "فِی سِتَّةِ أَیَّامࣲ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ یُغۡشِی ٱلَّیۡلَ ٱلنَّهَارَ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواءً بالمعنى اللائق به سبحانه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُغطي النهار بالليل فيذهب ضوءه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يَطْلُبُهُۥ حَثِيثًا",
+          "content": "يطلب الليل النهار طلباً سريعاً",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "لَهُ ٱلْخَلْقُ",
+          "content": "إيجاد جميع الأشياء من العدم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "وَٱلْأَمْرُ",
+          "content": "التدبير والتصرف فيها كما يشاء",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "تَبَارَكَ ٱللَّهُ",
+          "content": "تنزّه أوتعظم أو كثر خيره",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 30,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 27,
+          "length": 26,
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواءً بالمعنى اللائق به سبحانه"
+        },
+        {
+          "start": 54,
+          "length": 27,
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُغطي النهار بالليل فيذهب ضوءه"
+        }
+      ]
+    },
+    {
+      "sortKey": 8000,
+      "text": "یَطۡلُبُهُۥ حَثِیثࣰا وَٱلشَّمۡسَ وَٱلۡقَمَرَ وَٱلنُّجُومَ مُسَخَّرَ ٰ⁠تِۭ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواءً بالمعنى اللائق به سبحانه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُغطي النهار بالليل فيذهب ضوءه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يَطْلُبُهُۥ حَثِيثًا",
+          "content": "يطلب الليل النهار طلباً سريعاً",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "لَهُ ٱلْخَلْقُ",
+          "content": "إيجاد جميع الأشياء من العدم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "وَٱلْأَمْرُ",
+          "content": "التدبير والتصرف فيها كما يشاء",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "تَبَارَكَ ٱللَّهُ",
+          "content": "تنزّه أوتعظم أو كثر خيره",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 30,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 20,
+          "tokens": "يَطْلُبُهُۥ حَثِيثًا",
+          "content": "يطلب الليل النهار طلباً سريعاً"
+        }
+      ]
+    },
+    {
+      "sortKey": 9000,
+      "text": "بِأَمۡرِهِۦۤۗ أَلَا لَهُ ٱلۡخَلۡقُ وَٱلۡأَمۡرُۗ تَبَارَكَ ٱللَّهُ رَبُّ ٱلۡعَـٰلَمِینَ ۝٥٤",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 54,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱسْتَوَىٰ عَلَى ٱلْعَرْشِ",
+          "content": "إستواءً بالمعنى اللائق به سبحانه",
+          "tokenFromIndex": 12,
+          "tokenToIndex": 14,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ",
+          "content": "يُغطي النهار بالليل فيذهب ضوءه",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 17,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "يَطْلُبُهُۥ حَثِيثًا",
+          "content": "يطلب الليل النهار طلباً سريعاً",
+          "tokenFromIndex": 18,
+          "tokenToIndex": 19,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "لَهُ ٱلْخَلْقُ",
+          "content": "إيجاد جميع الأشياء من العدم",
+          "tokenFromIndex": 26,
+          "tokenToIndex": 27,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "وَٱلْأَمْرُ",
+          "content": "التدبير والتصرف فيها كما يشاء",
+          "tokenFromIndex": 28,
+          "tokenToIndex": 28,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        },
+        {
+          "tokens": "تَبَارَكَ ٱللَّهُ",
+          "content": "تنزّه أوتعظم أو كثر خيره",
+          "tokenFromIndex": 29,
+          "tokenToIndex": 30,
+          "surahIndex": 7,
+          "ayahIndex": 54
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 20,
+          "length": 14,
+          "tokens": "لَهُ ٱلْخَلْقُ",
+          "content": "إيجاد جميع الأشياء من العدم"
+        },
+        {
+          "start": 35,
+          "length": 12,
+          "tokens": "وَٱلْأَمْرُ",
+          "content": "التدبير والتصرف فيها كما يشاء"
+        },
+        {
+          "start": 48,
+          "length": 17,
+          "tokens": "تَبَارَكَ ٱللَّهُ",
+          "content": "تنزّه أوتعظم أو كثر خيره"
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "ٱدۡعُوا۟ رَبَّكُمۡ تَضَرُّعࣰا وَخُفۡیَةًۚ إِنَّهُۥ لَا یُحِبُّ ٱلۡمُعۡتَدِینَ ۝٥٥",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 55,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱدْعُوا۟ رَبَّكُمْ",
+          "content": "اسألوه واطلبوا منه حوائجكم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 7,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "تَضَرُّعًا",
+          "content": "مُظهرين الضراعة والذلة والإستكانة والخشوع",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 7,
+          "ayahIndex": 55
+        },
+        {
+          "tokens": "وَخُفْيَةً",
+          "content": "سراً في قلوبكم",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 4,
+          "surahIndex": 7,
+          "ayahIndex": 55
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 18,
+          "tokens": "ٱدْعُوا۟ رَبَّكُمْ",
+          "content": "اسألوه واطلبوا منه حوائجكم"
+        },
+        {
+          "start": 19,
+          "length": 10,
+          "tokens": "تَضَرُّعًا",
+          "content": "مُظهرين الضراعة والذلة والإستكانة والخشوع"
+        },
+        {
+          "start": 30,
+          "length": 11,
+          "tokens": "وَخُفْيَةً",
+          "content": "سراً في قلوبكم"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "وَلَا تُفۡسِدُوا۟ فِی ٱلۡأَرۡضِ بَعۡدَ إِصۡلَـٰحِهَا وَٱدۡعُوهُ خَوۡفࣰا وَطَمَعًاۚ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَحْمَتَ ٱللَّهِ",
+          "content": "إحسانه وإنعامه أو ثوابه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 56
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "إِنَّ رَحۡمَتَ ٱللَّهِ قَرِیبࣱ مِّنَ ٱلۡمُحۡسِنِینَ ۝٥٦ وَهُوَ ٱلَّذِی یُرۡسِلُ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 56,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "رَحْمَتَ ٱللَّهِ",
+          "content": "إحسانه وإنعامه أو ثوابه",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 56
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 6,
+          "length": 16,
+          "tokens": "رَحْمَتَ ٱللَّهِ",
+          "content": "إحسانه وإنعامه أو ثوابه"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "ٱلرِّیَـٰحَ بُشۡرَۢا بَیۡنَ یَدَیۡ رَحۡمَتِهِۦۖ حَتَّىٰۤ إِذَاۤ أَقَلَّتۡ سَحَابࣰا ثِقَالࣰا",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُشْرًۢا",
+          "content": "مبشرات برحمته وهي الغيث",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "أَقَلَّتْ سَحَابًا",
+          "content": "حملته ورفعته",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "ثِقَالًا",
+          "content": "مثقلة بحمل الماء",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "لِبَلَدٍ مَّيِّتٍ",
+          "content": "مجدب لا ماء فيه ولا نبات",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 12,
+          "length": 8,
+          "tokens": "بُشْرًۢا",
+          "content": "مبشرات برحمته وهي الغيث"
+        },
+        {
+          "start": 64,
+          "length": 18,
+          "tokens": "أَقَلَّتْ سَحَابًا",
+          "content": "حملته ورفعته"
+        },
+        {
+          "start": 83,
+          "length": 8,
+          "tokens": "ثِقَالًا",
+          "content": "مثقلة بحمل الماء"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "سُقۡنَـٰهُ لِبَلَدࣲ مَّیِّتࣲ فَأَنزَلۡنَا بِهِ ٱلۡمَاۤءَ فَأَخۡرَجۡنَا بِهِۦ مِن كُلِّ",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُشْرًۢا",
+          "content": "مبشرات برحمته وهي الغيث",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "أَقَلَّتْ سَحَابًا",
+          "content": "حملته ورفعته",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "ثِقَالًا",
+          "content": "مثقلة بحمل الماء",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "لِبَلَدٍ مَّيِّتٍ",
+          "content": "مجدب لا ماء فيه ولا نبات",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 11,
+          "length": 17,
+          "tokens": "لِبَلَدٍ مَّيِّتٍ",
+          "content": "مجدب لا ماء فيه ولا نبات"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "ٱلثَّمَرَ ٰ⁠تِۚ كَذَ ٰ⁠لِكَ نُخۡرِجُ ٱلۡمَوۡتَىٰ لَعَلَّكُمۡ تَذَكَّرُونَ ۝٥٧",
+      "surahIndexFirst": 7,
+      "ayahIndexFirst": 57,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "بُشْرًۢا",
+          "content": "مبشرات برحمته وهي الغيث",
+          "tokenFromIndex": 5,
+          "tokenToIndex": 5,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "أَقَلَّتْ سَحَابًا",
+          "content": "حملته ورفعته",
+          "tokenFromIndex": 11,
+          "tokenToIndex": 12,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "ثِقَالًا",
+          "content": "مثقلة بحمل الماء",
+          "tokenFromIndex": 13,
+          "tokenToIndex": 13,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        },
+        {
+          "tokens": "لِبَلَدٍ مَّيِّتٍ",
+          "content": "مجدب لا ماء فيه ولا نبات",
+          "tokenFromIndex": 15,
+          "tokenToIndex": 16,
+          "surahIndex": 7,
+          "ayahIndex": 57
+        }
+      ]
+    }
+  ]
+}

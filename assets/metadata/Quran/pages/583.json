@@ -1,0 +1,383 @@
+{
+  "pageIndex": 583,
+  "lines": [
+    {
+      "sortKey": 1000,
+      "text": "إِنَّ لِلۡمُتَّقِینَ مَفَازًا ۝٣١ حَدَاۤىِٕقَ وَأَعۡنَـٰبࣰا ۝٣٢ وَكَوَاعِبَ أَتۡرَابࣰا ۝٣٣ وَكَأۡسࣰا",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 31,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَفَازًا",
+          "content": "فوْزًا وظفَرًا بكلّ محْبوب",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 78,
+          "ayahIndex": 31
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 21,
+          "length": 8,
+          "tokens": "مَفَازًا",
+          "content": "فوْزًا وظفَرًا بكلّ محْبوب"
+        }
+      ]
+    },
+    {
+      "sortKey": 2000,
+      "text": "دِهَاقࣰا ۝٣٤ لَّا یَسۡمَعُونَ فِیهَا لَغۡوࣰا وَلَا كِذَّ ٰ⁠بࣰا ۝٣٥ جَزَاۤءࣰ مِّن رَّبِّكَ عَطَاۤءً",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 34,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَكَأْسًا دِهَاقًا",
+          "content": "مُتْرَعَة مليئة من خَمْر الجَنّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 78,
+          "ayahIndex": 34
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "وَكَأْسًا دِهَاقًا",
+          "content": "مُتْرَعَة مليئة من خَمْر الجَنّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 3000,
+      "text": "حِسَابࣰا ۝٣٦ رَّبِّ ٱلسَّمَـٰوَ ٰ⁠تِ وَٱلۡأَرۡضِ وَمَا بَیۡنَهُمَا ٱلرَّحۡمَـٰنِۖ لَا یَمۡلِكُونَ",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 36,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "عَطَآءً حِسَابًا",
+          "content": "إحسانا كافِيا أو كثيرا",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 78,
+          "ayahIndex": 36
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 8,
+          "tokens": "عَطَآءً حِسَابًا",
+          "content": "إحسانا كافِيا أو كثيرا"
+        }
+      ]
+    },
+    {
+      "sortKey": 4000,
+      "text": "مِنۡهُ خِطَابࣰا ۝٣٧ یَوۡمَ یَقُومُ ٱلرُّوحُ وَٱلۡمَلَـٰۤىِٕكَةُ صَفࣰّاۖ لَّا یَتَكَلَّمُونَ",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 37,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "خِطَابًا",
+          "content": "إلا بإذنه",
+          "tokenFromIndex": 10,
+          "tokenToIndex": 10,
+          "surahIndex": 78,
+          "ayahIndex": 37
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 7,
+          "length": 8,
+          "tokens": "خِطَابًا",
+          "content": "إلا بإذنه"
+        }
+      ]
+    },
+    {
+      "sortKey": 5000,
+      "text": "إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَـٰنُ وَقَالَ صَوَابࣰا ۝٣٨ ذَ ٰ⁠لِكَ ٱلۡیَوۡمُ ٱلۡحَقُّۖ فَمَن",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 38,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "ٱلرُّوحُ",
+          "content": "جبريل عليه السلام",
+          "tokenFromIndex": 3,
+          "tokenToIndex": 3,
+          "surahIndex": 78,
+          "ayahIndex": 38
+        }
+      ]
+    },
+    {
+      "sortKey": 6000,
+      "text": "شَاۤءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا ۝٣٩ إِنَّاۤ أَنذَرۡنَـٰكُمۡ عَذَابࣰا قَرِیبࣰا یَوۡمَ یَنظُرُ",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 39,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "مَـَٔابًا",
+          "content": "مَرْجِعًا بالإيمان والطاعة",
+          "tokenFromIndex": 9,
+          "tokenToIndex": 9,
+          "surahIndex": 78,
+          "ayahIndex": 39
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 32,
+          "length": 9,
+          "tokens": "مَـَٔابًا",
+          "content": "مَرْجِعًا بالإيمان والطاعة"
+        }
+      ]
+    },
+    {
+      "sortKey": 7000,
+      "text": "ٱلۡمَرۡءُ مَا قَدَّمَتۡ یَدَاهُ وَیَقُولُ ٱلۡكَافِرُ یَـٰلَیۡتَنِی كُنتُ تُرَ ٰ⁠بَۢا ۝٤٠",
+      "surahIndexFirst": 78,
+      "ayahIndexFirst": 40,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كُنتُ تُرَٰبًۢا",
+          "content": "في هذا اليوم فلا أُعذ ّب",
+          "tokenFromIndex": 14,
+          "tokenToIndex": 15,
+          "surahIndex": 78,
+          "ayahIndex": 40
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 67,
+          "length": 17,
+          "tokens": "كُنتُ تُرَٰبًۢا",
+          "content": "في هذا اليوم فلا أُعذ ّب"
+        }
+      ]
+    },
+    {
+      "sortKey": 9998,
+      "text": "سورة النازعات",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": true,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّٰزِعَٰتِ",
+          "content": "(أقسم) الله بالملائكة تنزع أرواح الكفار من أقاصي أجسامهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "غَرْقًا",
+          "content": "نَزعا شديدا مُؤْلما بالغ الغاية",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 9999,
+      "text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 1,
+      "isBasmala": true,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّٰزِعَٰتِ",
+          "content": "(أقسم) الله بالملائكة تنزع أرواح الكفار من أقاصي أجسامهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "غَرْقًا",
+          "content": "نَزعا شديدا مُؤْلما بالغ الغاية",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        }
+      ]
+    },
+    {
+      "sortKey": 10000,
+      "text": "وَٱلنَّـٰزِعَـٰتِ غَرۡقࣰا ۝١ وَٱلنَّـٰشِطَـٰتِ نَشۡطࣰا ۝٢ وَٱلسَّـٰبِحَـٰتِ سَبۡحࣰا ۝٣",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 1,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "وَٱلنَّٰزِعَٰتِ",
+          "content": "(أقسم) الله بالملائكة تنزع أرواح الكفار من أقاصي أجسامهم",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 1,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        },
+        {
+          "tokens": "غَرْقًا",
+          "content": "نَزعا شديدا مُؤْلما بالغ الغاية",
+          "tokenFromIndex": 2,
+          "tokenToIndex": 2,
+          "surahIndex": 79,
+          "ayahIndex": 1
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 17,
+          "tokens": "وَٱلنَّٰزِعَٰتِ",
+          "content": "(أقسم) الله بالملائكة تنزع أرواح الكفار من أقاصي أجسامهم"
+        },
+        {
+          "start": 18,
+          "length": 7,
+          "tokens": "غَرْقًا",
+          "content": "نَزعا شديدا مُؤْلما بالغ الغاية"
+        }
+      ]
+    },
+    {
+      "sortKey": 11000,
+      "text": "فَٱلسَّـٰبِقَـٰتِ سَبۡقࣰا ۝٤ فَٱلۡمُدَبِّرَ ٰ⁠تِ أَمۡرࣰا ۝٥ یَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ ۝٦",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 4,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فَٱلسَّٰبِقَٰتِ سَبْقًا",
+          "content": "الملائكة تسبق بالأرواح إلى مستقرّها نارًا أو جَنّة",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 79,
+          "ayahIndex": 4
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 25,
+          "tokens": "فَٱلسَّٰبِقَٰتِ سَبْقًا",
+          "content": "الملائكة تسبق بالأرواح إلى مستقرّها نارًا أو جَنّة"
+        }
+      ]
+    },
+    {
+      "sortKey": 12000,
+      "text": "تَتۡبَعُهَا ٱلرَّادِفَةُ ۝٧ قُلُوبࣱ یَوۡمَىِٕذࣲ وَاجِفَةٌ ۝٨ أَبۡصَـٰرُهَا خَـٰشِعَةࣱ ۝٩",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 7,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+          "content": "نفخة البعث التي تردف الأولى",
+          "tokenFromIndex": 1,
+          "tokenToIndex": 2,
+          "surahIndex": 79,
+          "ayahIndex": 7
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 0,
+          "length": 24,
+          "tokens": "تَتْبَعُهَا ٱلرَّادِفَةُ",
+          "content": "نفخة البعث التي تردف الأولى"
+        }
+      ]
+    },
+    {
+      "sortKey": 13000,
+      "text": "یَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِی ٱلۡحَافِرَةِ ۝١٠ أَءِذَا كُنَّا عِظَـٰمࣰا نَّخِرَةࣰ ۝١١ قَالُوا۟",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 10,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "فِى ٱلْحَافِرَةِ",
+          "content": "إلى الحالة الأولى (الحياة)",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 79,
+          "ayahIndex": 10
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 35,
+          "length": 16,
+          "tokens": "فِى ٱلْحَافِرَةِ",
+          "content": "إلى الحالة الأولى (الحياة)"
+        }
+      ]
+    },
+    {
+      "sortKey": 14000,
+      "text": "تِلۡكَ إِذࣰا كَرَّةٌ خَاسِرَةࣱ ۝١٢ فَإِنَّمَا هِیَ زَجۡرَةࣱ وَ ٰ⁠حِدَةࣱ ۝١٣ فَإِذَا هُم بِٱلسَّاهِرَةِ ۝١٤",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 12,
+      "isBasmala": false,
+      "isTitle": false,
+      "semantic": [
+        {
+          "tokens": "كَرَّةٌ خَاسِرَةٌ",
+          "content": "رَجْعة غابِنة",
+          "tokenFromIndex": 4,
+          "tokenToIndex": 5,
+          "surahIndex": 79,
+          "ayahIndex": 12
+        }
+      ],
+      "semanticSpans": [
+        {
+          "start": 13,
+          "length": 17,
+          "tokens": "كَرَّةٌ خَاسِرَةٌ",
+          "content": "رَجْعة غابِنة"
+        }
+      ]
+    },
+    {
+      "sortKey": 15000,
+      "text": "هَلۡ أَتَىٰكَ حَدِیثُ مُوسَىٰۤ ۝١٥ إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى ۝١٦",
+      "surahIndexFirst": 79,
+      "ayahIndexFirst": 15,
+      "isBasmala": false,
+      "isTitle": false
+    }
+  ]
+}
